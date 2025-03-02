@@ -1,6 +1,6 @@
 # Pāli Sutta Readings
 
-Readings and discussions of the Pāli Theravāda suttas.
+Readings, study and discussions of the Pāli Theravāda suttas.
 
 ## Zoom Meetings
 
