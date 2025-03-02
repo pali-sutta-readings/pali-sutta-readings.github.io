@@ -20,6 +20,9 @@ org_to_md() {
     md_file="$MD_SESSIONS_DIR/$name.md"
 
     cat "$org_file" |\
+        # Prepend export options
+        sed "1i#+OPTIONS: tags:nil\n\n" |\
+        # Remove LaTeX commands
         grep -vE '^#\+latex:|^\\[a-zA-Z]' |\
         # LaTeX quote marks
         sed -e 's/``/"/g; s/'"''"'/"/g; s/`/'"'"'/g;' |\

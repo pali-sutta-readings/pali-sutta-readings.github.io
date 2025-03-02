@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Pāli Sutta Readings
 
 Readings, study and discussions of the Pāli Theravāda suttas.
@@ -25,11 +29,11 @@ The PDF is updated the day before the meeting to allow printing.
 <div style="display: flex; gap: 0.5em; text-align: center;">
 <div style="width: 50%;">
 <p><a href="https://drive.google.com/file/d/1oxgcw1j_hSYYvOCj2TNNwrYMhupj3ulP/view?usp=sharing">pali-readings.pdf</a></p>
-<p><a href="https://drive.google.com/file/d/1oxgcw1j_hSYYvOCj2TNNwrYMhupj3ulP/view?usp=sharing"><img src="/assets/docs/pdf-example.png" alt="Readings PDF Download"></a></p>
+<p><a href="https://drive.google.com/file/d/1oxgcw1j_hSYYvOCj2TNNwrYMhupj3ulP/view?usp=sharing"><img src="assets/docs/pdf-example.png" alt="Readings PDF Download"></a></p>
 </div>
 <div style="width: 50%;">
 <p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing">pali-readings-anki.zip</a></p>
-<p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing"><img src="/assets/docs/anki-example.png" alt="Anki Decks Download"></a></p>
+<p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing"><img src="assets/docs/anki-example.png" alt="Anki Decks Download"></a></p>
 </div>
 </div>
 
@@ -37,7 +41,7 @@ The PDF is updated the day before the meeting to allow printing.
 
 [readings-anki]: https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing
 
-The [pali-cheatsheet.pdf](/assets/docs/pali-cheatsheet.pdf) may also be useful.
+The [pali-cheatsheet.pdf](assets/docs/pali-cheatsheet.pdf) may also be useful.
 
 Bring colour pens for marking the cases, at least
 <span style="color: #e03131">red</span>,

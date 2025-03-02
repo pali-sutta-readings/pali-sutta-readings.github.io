@@ -1,6 +1,8 @@
 # Project output
 site/
 tmp/
+# Generated Markdown files
+docs/readings/sessions/*.md
 
 # Environments
 .env

@@ -1,0 +1,371 @@
+* 2025-02-13
+** MN 74 Commentary, a spontaneous gathering of 1250 arahants :anki:
+:PROPERTIES:
+:DECK_NAME: MN 74 Commentary
+:END:
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.1.2.0.0.3.0.a&para=23][DPR]], [[http://localhost:4848/suttas/s0202a.att/pli/cst4?quote=ve%25E1%25B8%25B7uvana%25E1%25B9%2581%2520gantv%25C4%2581%2520s%25C4%2581vakasannip%25C4%2581tamak%25C4%2581si&window_type=Sutta+Study][SSP]]) Dīghanakhasutta-vaṇṇanā
+
+#+latex: \vspace*{-\baselineskip}
+
+#+begin_quote
+Bhagavā pana imaṁ desanaṁ sūriye dharamāne'yeva niṭṭhāpetvā
+
+gijjhakūṭā oruyha veḷuvanaṁ gantvā sāvakasannipātam'akāsi,
+
+catur'aṅga'samannāgato sannipāto ahosi. Tatrimāni aṅgāni –
+
+(1) māgha'nakkhattena yutto puṇṇama-uposathadivaso,
+
+(2) kenaci anāmantitāni hutvā attano'yeva dhammatāya sannipatitāni aḍḍhatelasāni
+
+bhikkhusatāni, (3) tesu ekopi puthujjano vā sotāpanna-sakadāgāmi-anāgāmi-
+
+sukkhavipassaka-arahantesu vā aññataro natthi, sabbe chaḷabhiññāva,
+
+(4) eko'pi cettha satthakena kese chinditvā pabbajito nāma natthi, sabbe ehi'bhikkhuno'yevā'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| dharamāna (prp.) | lasting; continuing; living; prp. of /dharati/    | 35012/dpd | Bhagavā pana imaṁ desanaṁ sūriye {{dharamāne}}'yeva niṭṭhāpetvā |
+| niṭṭhāpeti       | (causes to) conclude, finish                      | 37110/dpd | Bhagavā pana imaṁ desanaṁ sūriye dharamāneyeva {{niṭṭhāpetvā}}  |
+| oruyha (ger.)    | descending; going down                            | 18866/dpd | gijjhakūṭā {{oruyha}} veḷuvanaṁ gantvā                          |
+| sannipāta (m.)   | assembly; congregation; gathering                 | 58547/dpd | catur'aṅga'samannāgato {{sannipāto}} ahosi                      |
+| kenaci (pron.)   | by anyone; with anyone                            | 22834/dpd |                                                                 |
+| anāmanta (ger.)  | without asking for permission; without consulting | 4004/dpd  |                                                                 |
+| sattha (nt.)     | weapon; knife; razor                              |           |                                                                 |
+| chindati         | cuts off; severs                                  | 27646/dpd |                                                                 |
+
+*** Notes :noexport:
+
+MN 74 Commentary: a spontaneous gathering of arahants, no mention of Ovādapātimokkha
+
+[[http://localhost:4848/suttas/s0202a.att/pli/cst4?quote=bhagav%25C4%2581%2520pana%2520ima%25E1%25B9%2581%2520desana%25E1%25B9%2581%2520s%25C5%25ABriye&window_type=Sutta+Search][bhagavā pana imaṁ desanaṁ sūriye]]
+
+https://discourse.suttacentral.net/t/magha-puja-origin-story/32716/15
+
+#+begin_quote
+Bhagavā pana imaṃ desanaṃ sūriye dharamāneyeva niṭṭhāpetvā gijjhakūṭā oruyha veḷuvanaṃ gantvā sāvakasannipātamakāsi, caturaṅgasamannāgato sannipāto ahosi.
+The Blessed One, having finished this teaching while the sun was still shining, went down from Vultures’ Peak to the Bamboo Grove and held a meeting of disciples – a meeting wherein there was a concatenation of four factors.
+
+Tatrimāni aṅgāni:
+Herein, these are the said factors:
+
+māghanakkhattena yutto puṇṇamauposathadivaso,
+It was the full-moon observance day in the month of Māgha.
+
+kenaci anāmantitāni hutvā attanoyeva dhammatāya sannipatitāni aḍḍhatelasāni bhikkhusatāni,
+1,250 bhikkhus assembled, without having been summoned by anyone and merely because their own dispositions prompted them to.
+
+tesu ekopi puthujjano vā sotāpanna-sakadāgāmi-anāgāmisukkhavipassaka-arahantesu vā aññataro natthi, sabbe chaḷabhiññāva,
+Not a single one of them was a worldling, a stream-attainer, a once-returner, a non-returner or a dry-insight arahant. All were arahants possessed of the six higher knowledges.
+
+ekopi cettha satthakena kese chinditvā pabbajito nāma natthi, sabbe ehibhikkhunoyevāti.
+Not a single one of them had gone forth after having his head shaved [by the sangha]. All had [been ordained by the Blessed One with the words] “Come, bhikkhu!”
+#+end_quote
+
+[[id:6b8b0245-117c-4ab1-821d-58e20f571403][Early Buddhist Meditation (Book)]] by Keren Arbel:
+
+#+begin_quote
+In the Pāli commentaries, those who attain Arahantship without attaining the
+jhānas are called ‘dry insight’ arahants (sukkha-vipassaka). This type of
+arahant is classified under the category of ‘liberated by wisdom’
+(paññā-vimutti).77 The commentaries explain that paññā-vimutti arahants includes
+‘those who attain Arahantship either as a dry insight meditator or after
+emerging from one or another of the four jhānas’.
+
+It is obvious that the idea of dry insight arahants reflects the traditional
+conjecture that the jhānas can be attained without the practice of satipaṭṭhāna
+and the development of paññā; in contrast, paññā, a specific liberating
+knowledge, can be developed without the attainment of the jhānas. However, we
+have seen in the course of this study that this conjecture is problematic in
+light of a close analysis of the Nikāyas. Moreover, as we shall see, while the
+Nikāyas clearly present the option that one can be liberated without attaining
+the arūpa samāpattis (and the attainment of cessation), there is no support for
+the idea that some paññā-vimutti arahants attain nibbāna without entering and
+abiding in the four jhānas. Even the term sukkha-vipassaka, which describes this
+idea, cannot be found in the suttas; rather, it seems to emerge for the first
+time in the early Pāli commentaries.
+#+end_quote
+
+** Dhp 183-185 Commentary, the uposathas of past Buddhas :anki:
+:PROPERTIES:
+:DECK_NAME: Dhp 183-185 Commentary
+:END:
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.5.3.0.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=m%25C4%2581t%25C4%2581pitaro%2520%25C4%2581yuparicchedo%2520bodhi%2520s%25C4%2581vakasannip%25C4%2581to&window_type=Sutta+Study][SSP]]) Dhammapada-aṭṭhakathā, Ānandattherapañhavatthu
+
+#+latex: \vspace*{-\baselineskip}
+#+latex: \enlargethispage*{2\baselineskip}
+
+#+begin_quote
+Sabbapāpassa akaraṇan'ti imaṁ dhammadesanaṁ satthā jetavane viharanto
+
+ānandattherassa pañhaṁ ārabbha kathesi. Thero kira divāṭṭhāne nisinno cintesi:
+
+"... uposatho pana akathito, kiṁ nu kho tesampi ayameva uposatho, añño"ti?
+#+end_quote
+
+#+latex: \vspace*{-0.5\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pañha (nt.)      | question; enquiry                                 | 40130/dpd | ānandattherassa {{pañhaṁ}} ārabbha kathesi |
+| ārabbha (ind.)   | concerning; referring (to)                        | 12386/dpd | ānandattherassa pañhaṁ {{ārabbha}} kathesi |
+| kathesi (aor.)   | spoke; told; related; aor of /katheti/            | 19903/dpd | ānandattherassa pañhaṁ ārabbha {{kathesi}} |
+| divāṭṭhāna (nt.) | meditation place for the day                      | 32699/dpd |                                             |
+| cintesi (aor.)   | thought (about); reflected (on); aor of /cinteti/ | 26754/dpd |                                             |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+So satthāraṁ upasaṅkamitvā tam'atthaṁ pucchi.
+
+"Yasmā pana tesaṁ buddhānaṁ kālabhedova ahosi, na kathābhedo.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| attha (m.)             | meaning; sense; significance                         | 2597/dpd  |   |
+| pucchati (+acc & +acc) | asks; enquires; questions (somebody about something) | 46484/dpd |   |
+| bheda (m.)             | schism; split; breakup                               | 50271/dpd |   |
+| kālabheda (m.)         | division of time; distinction of time [kāla + bheda] | 21438/dpd |   |
+| kathā (f.)             | talk; speech; conversation; discussion               | 19850/dpd |   |
+
+#+begin_quote
+Vipassī sammāsambuddho hi sattame sattame saṁvacchare uposathaṁ akāsi.
+
+Ekadivasaṁ dinnovādoyeva hissa sattannaṁ saṁvaccharānaṁ alaṁ hoti.
+
+[... Sikhī, Vessabhū, Kakusandho, Koṇāgamano, Kassapadasabalo ...]
+
+Tasmā satthā tesaṁ imaṁ kālabhedaṁ ārocetvā "ovādagāthā pana nesaṁ imāyevā"ti vatvā
+
+Sabbesaṁ ekameva uposathaṁ āvi karonto imā gāthā abhāsi –
+
+(183.) sabbapāpassa akaraṇaṁ, kusalassa upasampadā ..."
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| sabbesaṁ (pron.) | of all; for all [sabba + esānaṁ]                                   |           |   |
+| āvikaronta (prp.) | explaining; disclosing; revealing; lit. making open [āvi + karonta] | 13078/dpd |   |
+
+*** Notes :noexport:
+
+Dhp 183-185 Commentary: Ānanda asks how the uposatha had been held, the Ovādapātimokkha was recited
+
+Ānandattherapañhavatthu
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.13.0.0.m|dpr://k.1.0.1.5.3.0.a][DPR]]) SSP: [[http://localhost:4848/suttas/dhp179-196/pli/ms?quote=Sabbap%25C4%2581passa%2520akara%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Search][Sabbapāpassa akaraṇaṁ]]
+
+Ven. Ānanda asks whether the Buddhas in the past held the uposatha in a different way.
+The timing was different, but the teaching was the same.
+No story of gathering of arahants.
+
+#+begin_quote
+Among these Buddhas, there was only a difference in timing, not in the teaching.
+The Perfectly Enlightened Buddha Vipassī held the Uposatha every seventh year.
+For him, one day's instruction was sufficient for seven years. Sikhī and
+Vessabhū held the Uposatha every sixth year. Kakusandha and Koṇāgamana held it
+every year. The Buddha Kassapa held the Uposatha every sixth month. For him, one
+day's instruction was sufficient for six months.
+#+end_quote
+
+** DN 14, the Buddha Vipassī teaches the ovāda-pāṭimokkha :anki:
+:PROPERTIES:
+:DECK_NAME: DN 14 Mahāpadānasutta
+:END:
+
+([[https://suttacentral.net/dn14/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=d.1.0.0.0.0.15.m&para=3][DPR]], [[http://localhost:4848/suttas/dn14/pli/ms?quote=pa%25E1%25B9%25ADisall%25C4%2581n%25C4%2581%2520vu%25E1%25B9%25AD%25E1%25B9%25ADhito%2520bhikkh%25C5%25AB%2520%25C4%2581mantesi&window_type=Sutta+Study][SSP]]) DN 14 Mahāpadānasutta 16. Cārikāanujānana
+
+#+latex: \vspace*{-0.5\baselineskip}
+#+latex: \enlargethispage*{1.5\baselineskip}
+
+#+begin_quote
+Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho sāyanhasamayaṁ
+
+paṭisallānā vuṭṭhito bhikkhū āmantesi: 'idha mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa
+
+evaṁ cetaso parivitakko udapādi: "mahā kho etarahi bhikkhusaṅgho [...]"'
+
+‘Anujānāmi, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'ānukampāya
+
+atthāya hitāya sukhāya devamanussānaṁ; mā ekena dve agamittha;
+
+desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ
+#+end_quote
+
+#+latex: \vspace*{-1pt}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| anujānāti               | allows (to); permits (to); grants permission (to) | 4473/dpd  | {{Anujānāmi}}, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'ānukampāya     |
+| cārikaṁ carati (idiom) | walks about (among); is on walking tour (in)      | 26465/dpd |                                                                                                |
+| bahujana (m.)           | multitude; many people [bahu + jana]              | 48113/dpd | Anujānāmi, bhikkhave, caratha cārikaṁ {{bahujana}}'hitāya {{bahujana}}'sukhāya lok'ānukampāya |
+| anukampā (f. +loc)      | compassion (for); pity (for); concern (for)       | 4334/dpd  | Anujānāmi, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'{{ānukampāya}}     |
+| deseti  (+acc & +dat)   | preach (to); teaches (to); explains (to)          | 34001/dpd | {{desetha}}, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ                 |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha.
+
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti,
+
+bhavissanti dhammassa aññātāro.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| apparajakkha (adj.) | having little dirt in the eye [appa + rajas + akkha] | 7015/dpd  | Santi sattā {{apparajakkha}}jātikā, assavanatā dhammassa parihāyanti |
+| parihāyati          | dwindles; decreases; deteriorates; wastes away       | 44360/dpd | Santi sattā apparajakkhajātikā, assavanatā dhammassa {{parihāyanti}} |
+
+#+latex: \vspace*{-1.5\baselineskip}
+#+latex: \enlargethispage*{2\baselineskip}
+
+#+begin_quote
+Api ca, bhikkhave, channaṁ channaṁ vassānaṁ accayena bandhumatī rājadhānī
+upasaṅkamitabbā pātimokkhuddesāyā’ti. [...] Chasu vassesu nikkhantesu devatā
+saddamanussāvesuṁ: ‘nikkhantāni kho, mārisā, chabbassāni, samayo dāni [...]
+
+Tatra sudaṁ, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho
+
+bhikkhusaṅghe evaṁ pātimokkhaṁ uddisati:
+
+‘Khantī paramaṁ tapo titikkhā, / Nibbānaṁ paramaṁ vadanti buddhā;
+
+Na hi pabbajito parūpaghātī, / Na samaṇo hoti paraṁ viheṭhayanto.
+
+Sabbapāpassa akaraṇaṁ, / kusalassa upasampadā;
+
+Sacittapariyodapanaṁ, / etaṁ buddhānasāsanaṁ.
+
+Anūpavādo anūpaghāto, / Pātimokkhe ca saṁvaro;
+
+Mattaññutā ca bhattasmiṁ, / Panta'ñca sayan'āsanaṁ;
+
+Adhicitte ca āyogo, / Etaṁ buddhānasāsanan’ti.
+#+end_quote
+
+#+latex: \vspace*{-1pt}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| tapas (m.)           | spiritual practice; religious practice                   | 29925/dpd | Khantī paramaṁ {{tapo}} titikkhā                |
+| titikkhā (f.)        | endurance; patience; forgiveness                         | 30576/dpd | Khantī paramaṁ tapo {{titikkhā}}                |
+| parūpaghātī (adj.)   | who harms others; who injures others [para + upaghātī]   | 44395/dpd | Na hi pabbajito {{parūpaghātī}}                  |
+| viheṭhayanta (prp.)  | harming; vexing; annoying; troubling                     | 69748/dpd | Na samaṇo hoti paraṁ {{viheṭhayanto}}            |
+| upasampadā (f. +gen) | undertaking (of); taking up (of)                         | 16129/dpd | kusalassa {{upasampadā}}                         |
+| pariyodapana (nt.)   | purifying; refining; cleansing                           | 44039/dpd | Sacitta{{pariyodapanaṁ}}, etaṁ buddhānasāsanaṁ  |
+| anūpavāda (m.)       | not blaming; without insulting; not abusing              | 5489/dpd  | {{Anūpavādo}} anūpaghāto, Pātimokkhe ca saṁvaro |
+| anūpaghāta (m.)      | not harming; not hurting; non-violence                   | 5480/dpd  | Anūpavādo {{anūpaghāto}}, Pātimokkhe ca saṁvaro |
+| mattaññutā (f. +loc) | moderation (in); knowing the correct amount (of)         | 50950/dpd | {{Mattaññutā}} ca bhattasmiṁ                    |
+| bhatta (nt.)         | food; boiled rice                                        | 49284/dpd | Mattaññutā ca {{bhattasmiṁ}}                    |
+| panta (adj.)         | secluded; solitary; lit. towards the end [pa + anta]     | 42342/dpd | {{Panta}}'ñca sayan'āsanaṁ                      |
+| sayanāsana (nt.)     | living place; lit. sleeping and sitting [sayana + āsana] | 60953/dpd | Panta'ñca {{sayan'āsanaṁ}}                      |
+| āyoga (m. +loc)      | devotion (to); practice (of); pursuit (of)               | 12332/dpd | Adhicitte ca {{āyogo}}, etaṁ buddhānasāsanan'ti |
+
+*** Notes :noexport:
+**** sacittapariyodapanaṁ
+
+MN 117 ([[https://suttacentral.net/mn117/pli/ms][SC]], [[http://localhost:4848/suttas/mn117/pli/ms?quote=Samm%25C4%2581di%25E1%25B9%25AD%25E1%25B9%25ADhimpaha%25E1%25B9%2581%252C%2520bhikkhave%252C%2520dv%25C4%2581ya%25E1%25B9%2581%2520vad%25C4%2581mi&window_type=Sutta+Search][SSP]]), Nibbāna Sermon 32
+
+#+begin_quote
+*Sammā diṭṭhiṁ pahaṁ dvayaṁ vadāmi.*
+
+Even right view, I say, is twofold.
+
+*Atthi, bhikkhave, sammā diṭṭhi sāsavā puññabhāgiyā upadhivepakkā, atthi,
+bhikkhave, sammā diṭṭhi ariyā anāsavā lokuttarā maggaṅgā.*
+
+There is right view, monks, that is affected by influxes, on the side of merit
+and maturing into assets, and there is right view, monks, that is noble,
+influx-free, supramundane, a factor of the path.
+#+end_quote
+
+DN 14 mahāpadānasuttavaṇṇanā, sacittapariyodapanaṁ ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=d.1.0.0.0.21.0.a&para=11&query=attano cittajotanaṃ, taṃ pana arahattena][DPR]], [[http://localhost:4848/suttas/s0102a.att/pli/cst4?quote=sacittapariyodapananti%2520attano%2520cittajotana%25E1%25B9%2581&window_type=Sutta+Study][SSP]]):
+
+#+begin_quote
+'sacittapariyodapanan'ti attano cittajotanaṁ, taṁ pana arahattena hoti. iti sīlasaṁvarena sabbapāpaṁ pahāya
+samathavipassanāhi kusalaṁ sampādetvā arahattaphalena cittaṁ pariyodāpetabbanti
+etaṁ buddhānaṁ sāsanaṁ ovādo anusiṭṭhī ti.
+#+end_quote
+
+**** adhicitte ca āyogo
+
+AN 3.89 ([[https://suttacentral.net/an3.89/pli/ms][SC]], [[http://localhost:4848/suttas/an3.89/pli/ms?window_type=Sutta+Study][SSP]]): adhisīla, adhicitta and adhipaññā
+
+#+begin_quote
+Katamā ca, bhikkhave, adhicittasikkhā? Idha, bhikkhave, bhikkhu
+vivicceva kāmehi …pe… catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati,
+bhikkhave, adhicittasikkhā.
+#+end_quote
+
+Ud 4.6 ([[https://suttacentral.net/ud4.6/pli/ms][SC]], [[http://localhost:4848/suttas/ud4.6/pli/ms?window_type=Sutta+Study][SSP]]): Ven. Piṇḍolabhāradvāja is diligently meditating
+
+piṇḍolasuttavaṇṇanā ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.2.0.0.4.5.0.a&para=10&query=sabbacittānaṃ adhikattā uttamattā adhicittasaṅkhāte arahattaphalacitte][DPR]], [[http://localhost:4848/suttas/s0503a.att/pli/cst4?quote=adhicitte%2520ca%2520%25C4%2581yogoti%2520sabbacitt%25C4%2581na%25E1%25B9%2581%2520adhikatt%25C4%2581&window_type=Sutta+Study][SSP]]), adhicitte ca āyogo: arahattaphalacitta is the highest type of citta
+
+#+begin_quote
+'adhicitte ca āyogo'ti sabbacittānaṁ adhikattā uttamattā adhicittasaṅkhāte
+arahattaphalacitte sādhetabbe tassa nipphādanatthaṁ
+samathavipassanābhāvanāvasena āyogo.
+#+end_quote
+
+AN 6.29 ([[https://suttacentral.net/an6.29/pli/ms][SC]], [[http://localhost:4848/suttas/an6.29/en/sujato?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+‘nevāyaṁ udāyī moghapuriso adhicittaṁ anuyutto viharatī’ti
+#+end_quote
+
+
+MN 66 ([[https://suttacentral.net/mn66/pli/ms][SC]], [[http://localhost:4848/suttas/mn66/pli/ms?quote=nisinna%25E1%25B9%2581%2520adhicitte%2520yutta%25E1%25B9%2581&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+sītāya chāyāya nisinnaṁ adhicitte yuttaṁ
+#+end_quote
+
+**** DN 14: The Buddha Vipassī recites the Ovādapātimokkha, 6-year arranged meeting of arahants
+
+https://suttafriends.org/sutta/dn14/#pt16
+
+https://ancient-buddhist-texts.net/Texts-and-Translations/Episodes/Ovada-Patimokkha.pdf
+
+**** Ajaan Lee Dhammadharo: Dhamma for Everyone
+
+[[https://www.accesstoinsight.org/lib/thai/lee/everyone.html][Dhamma for Everyone: October 5, 1960]]
+
+**** Māgha Pūjā origin
+
+Māgha Pūjā (มาฆบูชา) became a widely-known festival day after King Mongkut in
+Thailand instituted it as a ceremony in 1851.
+
+https://www.learnreligions.com/magha-puja-449909
+
+[[https://en.wikipedia.org/wiki/M%C4%81gha_P%C5%ABj%C4%81][Māgha Pūjā - Wikipedia]]
+
+https://en.wikipedia.org/wiki/Mongkut
+
+[[https://discourse.suttacentral.net/t/magha-puja-origin-story/32716][Māgha Pūjā origin story - Q & A - Discuss & Discover]]
+
+**** Meaning of the term Pāṭimokkha
+
+https://www.britannica.com/topic/patimokkha
+
+Pāli: “that which is binding”,
+
+https://www.dhammawiki.com/index.php/Patimokkha
+
+The meaning of the word pàtimokkha is unclear but it may mean something like
+‘obligation’ or ‘binding promise.’
+
+https://www.palikanon.com/english/pali_names/pa/patimokkha.htm
+
+#+begin_quote
+The word pātimokkha is variously explained, the oldest explanation being that
+the observance of the rules is the face (mukham), the chief (pamukham) of good
+qualities. The Sanskritised form of the word being prātimoksa, this led to a
+change in its significance, the completion of the recital being evidence that
+all those who have taken part are pure in respect of the specified offences -
+pātimokkha thus meaning acquittal, deliverance or discharge. But in most
+contexts the word simply means code - i.e., code of verses for the members of
+the Order.
+#+end_quote
+
+[[https://discourse.suttacentral.net/t/literal-meaning-of-patimokkha/18512][Literal meaning of Pātimokkha - Q & A - Discuss & Discover]]

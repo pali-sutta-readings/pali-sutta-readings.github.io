@@ -73,7 +73,7 @@ Dīghāyu yasavā hoti, / yattha yatthūpapajjatī'ti.
 *** Notes :noexport:
 **** paṭibhāna
 
-uid:an10.53/en/sujato
+AN 10.53
 
 #+begin_quote
 Kathañca, bhikkhave, vuḍḍhi hoti kusalesu dhammesu, no ṭhiti no hāni?
@@ -87,7 +87,7 @@ It’s when a mendicant has a certain degree of faith, ethics, generosity, wisdo
 and eloquence. Those qualities neither stagnate nor decline in them.
 #+end_quote
 
-uid:sn8.3/en/sujato
+SN 8.3
 
 #+begin_quote
 Atha kho āyasmato vaṅgīsassa etadahosi:

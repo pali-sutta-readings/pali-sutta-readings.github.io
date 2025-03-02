@@ -1,0 +1,238 @@
+* 2025-02-05
+** Exercise
+
+#+latex: \renewcommand{\arraystretch}{1.4}
+
+#+ATTR_LATEX: :center nil
+| These two ends should not be pursued (/sevati/) by one who has gone forth. |
+| \fillin{11cm}{Dveme, antā pabbajitena na sevitabbā.}                       |
+| He makes an end of suffering.                                              |
+| \fillin{11cm}{So dukkhass'antaṁ karoti.}                                  |
+| The man eats edibles (/bhojanīya/) and chewables (/khādanīya/).            |
+| \fillin{11cm}{Puriso bhojanīyāni khādanīyāni ca khādati.}                  |
+| The rag (/santhata/) is being chewed (/khajjati/) by rats (/undūra/).      |
+| \fillin{11cm}{Santhataṁ undūrehi khajjanti.}                              |
+| In the past it was cold (/sīta/).                                          |
+| \fillin{11cm}{Atīte sītaṁ ahosi.}                                         |
+| In the future it will be hot (/uṇha/).                                     |
+| \fillin{11cm}{Anāgate uṇhaṁ bhavissati.}                                   |
+| The noble disciple considers (/paṭisañcikkhati/) this.                     |
+| \fillin{11cm}{Ariyasāvako iti paṭisañcikkhati.}                            |
+
+#+latex: \normalArrayStretch
+
+** MN 9 Sammādiṭṭhisutta, definition of name-and-form :anki:
+:PROPERTIES:
+:DECK_NAME: MN 9 Sammādiṭṭhisutta
+:END:
+
+([[https://suttacentral.net/mn9/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.0.0.0.0.8.0.m&para=30][DPR]], [[http://localhost:4848/suttas/mn9/pli/ms?quote=Katama%25E1%25B9%2581%2520pan%25C4%2581vuso%252C%2520n%25C4%2581mar%25C5%25ABpa%25E1%25B9%2581&window_type=Sutta+Study][SSP]])
+
+#+latex: \vspace*{-0.5\baselineskip}
+#+latex: \enlargethispage*{\baselineskip}
+
+#+begin_quote
+Āyasmā sāriputto etadavoca: “‘Sammādiṭṭhi sammādiṭṭhī’ti, āvuso, vuccati.
+
+Kittāvatā nu kho, āvuso, ariyasāvako sammādiṭṭhi hoti, ujugatāssa diṭṭhi,
+
+dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti?
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| avoca (aor. +acc & +acc)  | said (something to somebody); aor. of vacati            | 10795/dpd | Āyasmā sāriputto etad{{avoca}}: “‘Sammādiṭṭhi sammādiṭṭhī’ti, āvuso, vuccati. |
+| vuccati (pr.)             | is said to be; is called; pass. of vacati               | 69965/dpd | Āyasmā sāriputto etadavoca: “‘Sammādiṭṭhi sammādiṭṭhī’ti, āvuso, {{vuccati}}. |
+| kittāvatā                 | in what way? [ka + tāva + tā]                           | 21707/dpd | {{Kittāvatā}} nu kho, āvuso, ariyasāvako sammādiṭṭhi hoti                    |
+| ujugata (adj.)            | correct; lit. gone straight [uju + gata]                | 14399/dpd | {{ujugat}}āssa diṭṭhi, dhamme aveccappasādena samannāgato                    |
+| assa (pron. gen.)         | his; of him; its; of it [ima + ssa] masc.gen.sg. of ima | 9917/dpd  | ujugat{{āssa}} diṭṭhi, dhamme aveccappasādena samannāgato                    |
+| diṭṭhi (f.)               | view; belief                                            | 32479/dpd | ujugatāssa {{diṭṭhi}}, dhamme aveccappasādena samannāgato                    |
+| aveccappasāda (m.)        | perfect clarity [avecca + pasāda]                       | 10777/dpd | ujugatāssa diṭṭhi, dhamme {{aveccappasādena}} samannāgato                    |
+| avecca (ind.)             | perfectly; absolutely; lit. going into                  | 10771/dpd | ujugatāssa diṭṭhi, dhamme {{avecca}}ppasādena samannāgato                    |
+| samannāgata (pp. +instr.) | possessing; endowed (with); having;                     | 59404/dpd | ujugatāssa diṭṭhi, dhamme aveccappasādena {{samannāgato}}                    |
+|                           | lit. going together [saṁ + anu + ā + √gam + ta]        |           |                                                                              |
+| āgata (pp.)               | become; entered (into a state); pp. of āgacchati        | 11157/dpd | {{āgato}} imaṁ saddhamman”ti?                                               |
+
+#+latex: \sentenceDiaSolution{./images/mn9-ayasma-sariputto-etadavoca.png}
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Katamaṁ panāvuso, nāmarūpaṁ, katamo nāmarūpasamudayo,
+
+katamo nāmarūpanirodho, katamā nāmarūpanirodhagāminī paṭipadā?
+
+Vedanā, saññā, cetanā, phasso, manasikāro — idaṁ vuccatāvuso, nāmaṁ;
+
+cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpaṁ
+
+— idaṁ vuccatāvuso, rūpaṁ.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| vuccatāvuso            | is called, friend; sandhi. vuccati + āvuso                          | 69964/dpd | idaṁ {{vuccatāvuso}}, nāmaṁ                                      |
+| upādāyarūpa (nt. +gen) | derived materiality (of) [upādāya + rūpa]                           | 16355/dpd | cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ {{upādāyarūpaṁ}} |
+| upādāya (ind. +gen)    | derived (from); dependent (on); ger. of upādiyati; lit. taking near | 16351/dpd | cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ {{upādāya}}rūpaṁ |
+
+#+latex: \sentenceDiaSolution{./images/mn9-katamam-panavuso-namarupam.png}
+
+#+begin_quote
+Iti idañca nāmaṁ idañca rūpaṁ — idaṁ vuccatāvuso, nāmarūpaṁ.
+
+Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho,
+
+ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā,
+
+seyyathidaṁ — sammādiṭṭhi ... sammāsamādhi.
+
+Yato kho, āvuso, ariyasāvako evaṁ nāmarūpaṁ pajānāti,
+
+evaṁ nāmarūpasamudayaṁ pajānāti, evaṁ nāmarūpanirodhaṁ pajānāti,
+
+evaṁ nāmarūpanirodhagāminiṁ paṭipadaṁ pajānāti,
+
+so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ paṭivinodetvā,
+
+‘asmī’ti diṭṭhimānānusayaṁ samūhanitvā, avijjaṁ pahāya vijjaṁ uppādetvā,
+
+diṭṭheva dhamme dukkhassantakaro hoti —
+
+ettāvatāpi kho, āvuso, ariyasāvako sammādiṭṭhi hoti,
+
+ujugatāssa diṭṭhi, dhamme aveccappasādena samannāgato, āgato imaṁ saddhamman”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pahāya (ger.)        | leaving behind; giving up; abandoning; ger of pajahati | 45098/dpd | so sabbaso rāgānusayaṁ {{pahāya}}, paṭighānusayaṁ paṭivinodetvā |
+| paṭivinodeti         | drives out; dispels; removes; gets rid (of)            | 41040/dpd | so sabbaso rāgānusayaṁ pahāya, paṭighānusayaṁ {{paṭivinodetvā}} |
+| samūhanati           | eradicates; kills off;                                 | 60144/dpd | ‘asmī’ti diṭṭhimānānusayaṁ {{samūhanitvā}}                      |
+|                      | lit. kills up together [saṁ + ud + √han + a + ti]     |           |                                                                 |
+| uppādeti             | generates; causes to arise; caus of uppajjati          | 16677/dpd | avijjaṁ pahāya vijjaṁ {{uppādetvā}}                            |
+| antakara (adj. +gen) | makes an end (of); who puts an end (to) [anta + kara]  | 5650/dpd  | diṭṭheva dhamme dukkhass'{{antakaro}} hoti                      |
+
+#+latex: \sentenceDiaSolution{./images/mn9-iti-idanca-namam.png}
+#+latex: \sentenceDiaSolution{./images/mn9-yato-kho-avuso.png}
+#+latex: \sentenceDiaSolution{./images/mn9-so-sabbaso-raganusayam.png}
+
+\clearpage
+
+*** Links :noexport:
+
+[[https://www.tldraw.com/r/XXFsr0LAbq5hnpIPk68oZ?d=v-271.-85.1879.981.-MoEVvzvSGwo5y3S6Xo4B][tldraw: name-and-form (class)]]
+
+[[https://www.tldraw.com/r/NBh0Ae8CWE1As8DiFaGI9?d=v-190.-177.1879.981.page][tldraw solved]]
+
+list of ñānas, objectification, will experience the word
+
+hypnotic suggestion
+
+** SN 22.79 Khajjanīyasutta, rūpa, form :anki:
+:PROPERTIES:
+:DECK_NAME: SN 22.79 Khajjanīyasutta
+:END:
+
+([[https://suttacentral.net/sn22.79/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.2.0.0.0.7.6.m][DPR]], [[http://localhost:4848/suttas/sn22.79/pli/ms?quote=Ki%25C3%25B1ca%252C%2520bhikkhave%252C%2520r%25C5%25ABpa%25E1%25B9%2581%2520vadetha%253F&window_type=Sutta+Study][SSP]], Sermon 10)
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Kiñca, bhikkhave, rūpaṁ vadetha?
+
+Ruppatī'ti kho, bhikkhave, tasmā ‘rūpan’ti vuccati. Kena ruppati?
+
+Sītenapi ruppati, uṇhenapi ruppati, jighacchāyapi ruppati, pipāsāyapi ruppati,
+ḍaṁsa-makasa-vāt'ātapa-sarīsapa-samphassena-pi ruppati.
+
+Ruppatī'ti kho, bhikkhave, tasmā ‘rūpan’ti vuccati. [...]
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| ruppati           | is afflicted (by); is aggravated (by); is deformed (by) | 55132/dpd | {{Ruppatī}}'ti kho, bhikkhave, tasmā ‘rūpan’ti vuccati. |
+| jighacchā (f.)    | hunger; lit. wanting to eat                             | 28439/dpd | {{jighacchāya}}'pi ruppati, pipāsāya'pi ruppati         |
+| pipāsā (f. +loc.) | thirst (for)                                            | 46155/dpd | jighacchāya'pi ruppati, {{pipāsāya}}'pi ruppati         |
+
+#+begin_quote
+Tatra, bhikkhave, sutavā ariyasāvako iti paṭisañcikkhati:
+
+‘Ahaṁ kho etarahi rūpena khajjāmi. Atītampāhaṁ addhānaṁ evameva rūpena khajjiṁ,
+
+seyyathāpi etarahi paccuppannena rūpena khajjāmi.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| paṭisañcikkhati       | reflects; considers; discerns; syn. paccavekkhati                | 40815/dpd | Tatra, bhikkhave, sutavā ariyasāvako iti {{paṭisañcikkhati}} |
+| etarahi (ind.)        | now; at present; lit. this day [eta + ahi]                       | 17887/dpd | Ahaṁ kho {{etarahi}} rūpena khajjāmi.                       |
+| khajjati (pr. +instr) | is being eaten (by); is being nibbled (by); lit. is being chewed | 23289/dpd | Ahaṁ kho etarahi rūpena {{khajjāmi}}.                       |
+| addhāna (nt.)         | time; period; extent                                             | 3017/dpd  | Atītampāhaṁ {{addhānaṁ}} evameva rūpena khajjiṁ             |
+
+#+begin_quote
+Ahañceva kho pana anāgataṁ rūpaṁ abhinandeyyaṁ,
+
+anāgatampāhaṁ addhānaṁ evameva rūpena khajjeyyaṁ,
+
+seyyathāpi etarahi paccuppannena rūpena khajjāmī’ti.
+
+So iti paṭisaṅkhāya atītasmiṁ rūpasmiṁ anapekkho hoti; anāgataṁ rūpaṁ nābhinandati;
+
+paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| paṭisaṅkhāya (ger.)  | reflecting; carefully considering                          | 40810/dpd | So iti {{paṭisaṅkhāya}} atītasmiṁ rūpasmiṁ anapekkho hoti               |
+| anapekkha (adj.)     | indifferent (to); disinterested (in); lit. not looking out | 3717/dpd  | So iti paṭisaṅkhāya atītasmiṁ rūpasmiṁ {{anapekkho}} hoti               |
+| paṭipanna (pp. +dat) | practising (for); lit. gone along                          | 40558/dpd | paccuppannassa rūpassa nibbidāya virāgāya nirodhāya {{paṭipanno}} hoti. |
+|                      | [pati + √pad + na] pp of paṭipajjati                       |           |                                                                         |
+
+*** Notes :noexport:
+
+The Buddha’s Teaching - Its Essential Meaning by R.G. de S. Wettimuny
+https://its-essential-meaning.github.io/
+
+~dhātu~ as 'modes of behaviour' ([[/home/gambhiro/prods/books/released/its-essential-meaning-project/finals/its-essential-meaning-desktop-2023-04-02.pdf::2][PDF p.2]])
+
+#+begin_quote
+But the Four Primary Modes do not refer to four elements or ingredients which
+constitute this ‘matter’. They refer to four distinguishable general modes of
+behaviour, according to which ‘matter’ makes itself known. The most important
+group of behaviours to me is that which I refer to as ‘my body’ – ‘this material
+body made up of the Four Primary Modes’ (kāyo rūpī catummahābhūtiko, MN 74).
+#+end_quote
+
+~nāma-rūpa~: Chapter 3: Name-and-Form and Consciousness ([[/home/gambhiro/prods/books/released/its-essential-meaning-project/finals/its-essential-meaning-desktop-2023-04-02.pdf::13][PDF p.13]])
+
+~khajjati~: chewed on:
+resistance-impression, ~paṭighasamphassa~
+
+Sermon 11:
+
+#+begin_quote
+*Nāma* and *rūpa*, as well as *paṭigha-* and *rūpasaññā*, are highly significant
+terms. *Paṭigha-* and *rūpasaññā* are equivalent to *paṭighasamphassa* and
+*adhivacanasamphassa* respectively. Now as to this perception of form, it is
+basically conditioned by contact. That is why the *Kalahavivādasutta* states
+that contact is the cause of the two views of existence and non-existence.
+#+end_quote
+
+: (NP 14) Navaṁ pana bhikkhunā santhataṁ kārāpetvā chabbassāni dhāretabbaṁ. [...]
+
+We only make blankets for ourselves every five or six years, even though our
+children defecate and urinate on them and they are eaten by rats.”
+
+#+begin_quote
+Amhākaṁ pana sakiṁ katāni santhatāni pañcapi chapi vassāni honti,
+yesaṁ no dārakā uhadantipi ummihantipi undūrehipi khajjanti.
+#+end_quote
+
+SN 9.11, ~so vitakkehi khajjasi~, Being chewed up by thoughts:
+
+#+begin_quote
+“Ayoniso manasikārā,
+so vitakkehi khajjasi;
+Ayoniso paṭinissajja,
+yoniso anucintaya.
+
+“From inappropriate attention
+you’re being chewed by your thoughts.
+Relinquishing what’s inappropriate,
+contemplate appropriately.
+#+end_quote

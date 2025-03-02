@@ -1,0 +1,171 @@
+:PROPERTIES:
+:youtube_id: AmrQsyi99CI
+:youtube_title: Bojjhaṅga gilānasuttas
+:END:
+
+* 2025-01-15
+** Exercise :noexport:
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+#+ATTR_LATEX: :center nil
+| word          | pos            | meaning        |
+|---------------+----------------+----------------|
+| samayaṁ      | \fillin{3cm}{} | \fillin{5cm}{} |
+| samayena      | \fillin{3cm}{} | \fillin{5cm}{} |
+| rājagahe      | \fillin{3cm}{} | \fillin{5cm}{} |
+| dukkhā        | \fillin{3cm}{} | \fillin{5cm}{} |
+| nibbānāya     | \fillin{3cm}{} | \fillin{5cm}{} |
+| viharati      | \fillin{3cm}{} | \fillin{5cm}{} |
+| upasaṅkami    | \fillin{3cm}{} | \fillin{5cm}{} |
+| upasaṅkamitvā | \fillin{3cm}{} | \fillin{5cm}{} |
+| avoca         | \fillin{3cm}{} | \fillin{5cm}{} |
+| saṁvattanti  | \fillin{3cm}{} | \fillin{5cm}{} |
+| ahosi         | \fillin{3cm}{} | \fillin{5cm}{} |
+
+#+latex: \normalArrayStretch
+
+** SN 46.14 Paṭhamagilānasutta :anki:
+
+([[https://suttacentral.net/sn46.14/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.3.m][DPR]], [[http://localhost:4848/suttas/sn46.14/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+
+Tena kho pana samayena āyasmā mahākassapo pippaliguhāyaṁ viharati
+
+ābādhiko dukkhito bāḷhagilāno.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| veḷuvana (nt.)   | Bamboo Grove, a park outside Rājagaha [veḷu + vana]       | 70557/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati {{veḷuvane}} kalandakanivāpe.         |
+| kalandaka (m.)   | squirrel                                                  | 20574/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane {{kalanda}}kanivāpe.         |
+| nivāpa (m.)      | bait; fodder; feeding                                     | 38408/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandaka{{nivāpe}}.         |
+| pippaliguhā (f.) | lit. long pepper cave [pippali + guhā]                    | 46161/dpd | Tena kho pana samayena āyasmā mahākassapo {{pippaliguhāyaṁ}} viharati       |
+| ābādhika (adj.)  | sick; ill; lit. oppressed                                 | 11993/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati {{ābādhiko}} dukkhito bāḷhagilāno |
+| bāḷha (pp.)      | very strong; extreme; intense; lit. increased [√bah + ta] | 48406/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati ābādhiko dukkhito {{bāḷha}}gilāno |
+| gilāna (adj.)    | sick; ill; unwell; lit. being sick                        | 24950/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati ābādhiko dukkhito bāḷha{{gilāno}} |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito
+
+yenāyasmā mahākassapo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.
+
+Nisajja kho bhagavā āyasmantaṁ mahākassapaṁ etadavoca:
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| paṭisallāna (nt.)   | privacy; seclusion; solitude                   | 40862/dpd | Atha kho bhagavā sāyanhasamayaṁ {{paṭisallānā}} vuṭṭhito |
+| vuṭṭhita (pp. +abl) | risen (from); got up (from); pp. of vuṭṭhahati | 70020/dpd | Atha kho bhagavā sāyanhasamayaṁ paṭisallānā {{vuṭṭhito}} |
+|                     | [(v) + ud + √ṭhā + ita]                        |           |                                                         |
+| paññatta (pp.)      | prepared; arranged; lit. caused to know;       | 39966/dpd | upasaṅkamitvā {{paññatte}} āsane nisīdi                 |
+|                     | pp of paññāpeti, caus                          |           |                                                         |
+
+#+begin_quote
+“Kacci te, kassapa, khamanīyaṁ kacci yāpanīyaṁ?
+
+Kacci dukkhā vedanā paṭikkamanti, no abhikkamanti;
+
+paṭikkamosānaṁ paññāyati, no abhikkamo”ti?
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| kacci (ind.)           | I hope; I trust                   | 19264/dpd | {{Kacci}} te, kassapa, khamanīyaṁ kacci yāpanīyaṁ?   |
+| khamanīya (adj.)       | bearable; tolearable              | 23490/dpd | Kacci te, kassapa, {{khamanīyaṁ}} kacci yāpanīyaṁ?   |
+| yāpanīya (adj.)        | able to keep going; sustainable   | 53983/dpd | Kacci te, kassapa, khamanīyaṁ kacci {{yāpanīyaṁ}}?   |
+| paṭikkamati (pr. +abl) | returns (from); comes back (from) | 40244/dpd | Kacci dukkhā vedanā {{paṭikkamanti}}, no abhikkamanti |
+| abhikkamati (pr.)      | goes forward; proceeds            | 7563/dpd  | Kacci dukkhā vedanā paṭikkamanti, no {{abhikkamanti}} |
+
+#+begin_quote
+“Na me, bhante, khamanīyaṁ, na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti,
+
+no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti.
+
+“Sattime, kassapa, bojjhaṅgā mayā sammadakkhātā;
+
+bhāvitā bahulīkatā abhiññāya sambodhāya nibbānāya saṁvattanti. Katame satta?
+
+Satisambojjhaṅgo kho, kassapa, mayā sammadakkhāto bhāvito bahulīkato
+
+abhiññāya sambodhāya nibbānāya saṁvattati ... Ime kho, kassapa, satta bojjhaṅgā ...
+
+“Taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgā”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| sammadakkhāta (adj.) | well taught; well preached [sammā + (d) + akkhāta] | 60730/dpd | Sattime, kassapa, bojjhaṅgā mayā {{sammadakkhātā}}; bhāvitā bahulīkatā |
+| akkhāta (pp. +instr) | said (by); declared (by)                           | 399/dpd   | Sattime, kassapa, bojjhaṅgā mayā sammad{{akkhātā}}; bhāvitā bahulīkatā |
+| bahulīkata (pp.)     | practised often; repeated a lot; [bahula + kata]   | 48190/dpd | Sattime, kassapa, bojjhaṅgā mayā sammadakkhātā; bhāvitā {{bahulīkatā}} |
+| taggha (ind.)        | truly; definitely; lit. that indeed [tad + gha]    | 29228/dpd | {{Taggha}}, bhagavā, bojjhaṅgā                                         |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Idamavoca bhagavā. Attamano āyasmā mahākassapo bhagavato bhāsitaṁ abhinandi.
+
+Vuṭṭhahi cāyasmā mahākassapo tamhā ābādhā.
+
+Tathāpahīno cāyasmato mahākassapassa so ābādho ahosī'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| attamana (adj.)      | pleased; satisfied; lit. own mind [atta + mana] | 2524/dpd  | {{Attamano}} āyasmā mahākassapo bhagavato bhāsitaṁ abhinandi. |
+| vuṭṭhahi (aor. +abl) | arose (from); got up (from); recovered (from)   | 69980/dpd | {{Vuṭṭhahi}} cāyasmā mahākassapo tamhā ābādhā.                 |
+| tamhā (pron.)        | from that [ta + mhā] masc & nt abl sg of ta     | 30060/dpd | Vuṭṭhahi cāyasmā mahākassapo {{tamhā}} ābādhā.                 |
+| pahīna (pp.)         | abandoned; dispelled; pp. of pajahati           | 45133/dpd | Tathā{{pahīno}} cāyasmato mahākassapassa so ābādho ahosī'ti.   |
+
+*** Related                                                        :noexport:
+
+mahā-kassapa-thera/dppn
+
+One of the Buddha's most eminent disciples, chief among those who upheld minute
+observances of form (dhutavādānam) (A.i.23). He was born in the brahmin village
+of Mahātittha in Magadha, and was the son of the brahmin Kapila, his mother
+being Sumanādevī; he himself was called Pippali. At Ap.ii.583, vs. 56; but there
+his father is called Kosiyagotta.
+
+pippaliguhāya-1/comm
+
+: pippaliguhāyanti tassā kira guhāya dvārasamīpe eko pippalirukkho ahosi,
+: tena sā pippaliguhā'ti paññāyittha.
+
+'Pipphali Cave' - near the entrance of that cave there was, they say, a long
+pepper (pippali) tree. Because of that, it was known as 'Pipphali Cave'.
+
+** SN 46.15 Dutiyagilānasutta :anki:
+
+([[https://suttacentral.net/sn46.15/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.4.m][DPR]], [[http://localhost:4848/suttas/sn46.15/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+Tena kho pana samayena āyasmā mahāmoggallāno gijjhakūṭe pabbate viharati
+ābādhiko dukkhito bāḷhagilāno.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| gijjhakūṭa (m.) | Vulture's Peak [gijjha + kūṭa] | 24890/dpd | āyasmā mahāmoggallāno {{gijjhakūṭe}} pabbate viharati |
+| pabbata (m.)    | rock; mountain; hill           | 42495/dpd | āyasmā mahāmoggallāno gijjhakūṭe {{pabbate}} viharati |
+
+*Bojjhaṅga-paritta:*
+
+#+begin_quote
+Ekasmiṁ samaye nātho
+
+moggallānañ-ca kassapaṁ
+
+Gilāne dukkhite disvā
+
+bojjhaṅge satta desayi
+
+Te ca taṁ abhinanditvā
+
+rogā mucciṁsu taṅkhaṇe
+
+Etena sacca-vajjena
+
+sotthi te hotu sabbadā
+#+end_quote

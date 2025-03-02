@@ -9,6 +9,8 @@ plugins:
   - blog:
       blog_dir: "readings"
       post_dir: "readings/sessions"
+      post_readtime: false
+      post_date_format: "yyyy MMM d, EEE"
       post_url_date_format: yyyy-MM-dd
       # post_url_format: "{date}-{slug}"
       post_url_format: "{date}"
@@ -29,8 +31,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: teal
+      primary: teal
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

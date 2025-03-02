@@ -1,0 +1,254 @@
+* 2025-01-08
+** Declension Cases Overview :noexport:
+
+#+ATTR_LATEX: :center nil
+| 1. Nominative   | subject performing the action       | Who is giving?                |
+| 2. Accusative   | direct object                       | What is he/she giving?        |
+| 3. Instrumental | means, instrument                   | With/by/through what?         |
+| 4. Dative       | indirect object, recipient, purpose | To whom? For what?            |
+| 5. Ablative     | motion/separation from, comparison  | From where? Better than what? |
+| 6. Genitive     | possession, relationship            | Whose?                        |
+| 7. Locative     | location, time                      | Where? When?                  |
+| 8. Vocative     | direct address                      | Form, bhikkhus, is not-self.  |
+
+#+latex: \bigskip {\centering
+#+latex: Mnemonics:
+#+latex: \par}
+
+| 1. *Nominate* who will do it.      | 5. Pieces fall from the *ablative* heat-shield. |
+| 2. Give an objective *accusation*. | 6. The *genitive* glues possessions to people.  |
+| 3. Fix it with this *instrument*.  | 7. *Locate* him in space and time.              |
+| 4. *Donate* a date to him.         | 8. Shout a *vocal* address.                     |
+
+Origin of the word "Dative":
+
+| PIE root:      | /√do-/ to give                                                   |
+| Latin:         | /donum/ gift, /donatio/ a giving, /dativus/ pertaining to giving |
+| Pāli/Sanskrit: | /dadāti/ gives [√dā + dā + a → dadā]                             |
+
+Origin of the word "Ablative":
+
+| Latin   | PIE      | Pāli/Sanskrit    |                   |                                 |
+| /ab-/   | /√apo/   | /apa-/           | off, away from    | apocalypse, apology, apostle    |
+| /ferre/ | /√bher-/ | /√bhar/ / /√bhṛ/ | to carry, to bear | birth, bring, burden,           |
+|         |          |                  |                   | differ, offer, suffer, transfer |
+
+\clearpage
+
+** Cases Exercise: The Elephant :noexport:
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Jetavane hatthinī soṇḍāya vā dīghahatthena vā
+
+attano hatthipotakassa tiṇaṁ datvā,
+
+tato soṇḍato mahāsaddaṁ pahiṇi.
+
+Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
+#+end_quote
+
+# At Jetavana, the elephant gave grass to her own baby-elephant by the trunk (or by the long hand),
+# then sent a loud noise from the trunk.
+# The belly of this baby elephant grew large with grass.
+
+\bigskip
+
+| hatthinī (f.) | female elephant [hatthī + inī] | pahiṇi (aor.)  | sent; aor. of pahiṇāti    |
+| soṇḍā (f.)    | elephant's trunk               | kucchi (m.)    | stomach; belly            |
+| hattha (m.)   | hand                           | mahanta (adj.) | big; large                |
+| potaka (m.)   | young animal                   | ahosi (aor.)   | was; became; aor. of hoti |
+| tiṅa (nt.)    | grass; straw                   |                |                           |
+
+#+latex: \enlargethispage{\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| word             | meaning                            | case                |
+|------------------+------------------------------------+---------------------|
+| Jetavane         | \fillin{5cm}{at Jetavana}          | \fillin{3cm}{loc.}  |
+| hatthinī         | \fillin{5cm}{the female elephant}  | \fillin{3cm}{nom.}  |
+| soṇḍāya vā       | \fillin{5cm}{by the trunk}         | \fillin{3cm}{inst.} |
+| dīghahatthena vā | \fillin{5cm}{or by the long hand}  | \fillin{3cm}{inst.} |
+| attano           | \fillin{5cm}{her own}              | \fillin{3cm}{gen.}  |
+| hatthipotakassa  | \fillin{5cm}{to the baby-elephant} | \fillin{3cm}{dat.}  |
+| tiṇaṁ           | \fillin{5cm}{grass}                | \fillin{3cm}{acc.}  |
+| datvā            | \fillin{5cm}{having given}         | \fillin{3cm}{ger.}  |
+| tato            | \fillin{5cm}{then}                  | \fillin{3cm}{ind.}    |
+| soṇḍato         | \fillin{5cm}{from the trunk}        | \fillin{3cm}{abl.}    |
+| mahāsaddaṁ     | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
+| pahiṇi          | \fillin{5cm}{sent (→ pahiṇāti)}     | \fillin{3cm}{aor.}    |
+| imassa          | \fillin{5cm}{pron. of this (→ ima)} | \fillin{3cm}{gen.sg.} |
+| hatthipotakassa | \fillin{5cm}{of the baby elephant}  | \fillin{3cm}{gen.}    |
+| tiṇena          | \fillin{5cm}{with grass}            | \fillin{3cm}{inst.}   |
+| kucchi          | \fillin{5cm}{belly, stomach}        | \fillin{3cm}{nom.}    |
+| mahanto         | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
+| ahosi           | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
+
+#+latex: \normalArrayStretch
+
+\clearpage
+
+** AN 10.81 Vāhanasutta, The lotus simile to Vāhana :anki:
+:PROPERTIES:
+:DECK_NAME: AN 10.81 Vāhanasutta
+:END:
+
+\casesLegendHeaderBGHere
+
+([[https://suttacentral.net/an10.81/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=a.9.0.0.1.3.0.m][DPR]], [[http://localhost:4848/suttas/an10.81/pli/ms?window_type=Sutta+Study][SSP]], Sermon 18)
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre.
+
+Atha kho āyasmā vāhano yena bhagavā tenupasaṅkami;
+
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
+
+Ekamantaṁ nisinno kho āyasmā vāhano bhagavantaṁ etadavoca:
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pokkhara (nt.)                    | blue lotus flower                      | 47383/dpd | Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya {{pokkharaṇiyā}} tīre. |
+| tīra (nt.)                        | shore, riverbank                       | 30918/dpd | Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā {{tīre}}. |
+| yena ... ten'upasaṅkamati (idiom) | wherever ... he approaches (him/it)    | 31234/dpd | Atha kho āyasmā vāhano yena bhagavā {{tenupasaṅkami}}                    |
+| abhivādeti                        | bows down (to); pays high respect (to) | 8333/dpd  | upasaṅkamitvā bhagavantaṁ {{abhivādetvā}} ekamantaṁ nisīdi.             |
+| ekamantaṁ (ind.)                 | to one side; aside [ekaṁ + anta + aṁ] | 17613/dpd | upasaṅkamitvā bhagavantaṁ abhivādetvā {{ekamantaṁ}} nisīdi.             |
+| nisīdati                          | sits (on); sits down                   | 38204/dpd | upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ {{nisīdi}}.             |
+| avoca (aor.)                      | said (to); aor. of vacati              | 10795/dpd | āyasmā vāhano bhagavantaṁ etad{{avoca}}                                 |
+
+#+begin_quote
+“Katihi nu kho, bhante, dhammehi tathāgato nissaṭo visaṁyutto vippamutto
+
+vimariyādīkatena cetasā viharatī”ti?
+#+end_quote
+
+# Detached, disengaged and released from how many things does the Tathāgata
+# dwell with an unrestricted mind?
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| kati (interr.)         | how many?                                      | 19695/dpd | {{Katihi}} nu kho, bhante, dhammehi tathāgato nissaṭo                        |
+| nissaṭa (pp. +abl)     | escaped (from), freed (from); pp. of nissarati | 38271/dpd | tathāgato {{nissaṭo}} visaṁyutto vippamutto vimariyādīkatena cetasā viharati |
+| visaṁyutta (pp. +abl) | detached (from)                                | 69208/dpd | tathāgato nissaṭo {{visaṁyutto}} vippamutto vimariyādīkatena cetasā viharati |
+| vippamutta (pp. +abl)  | released (from)                                | 68475/dpd | tathāgato nissaṭo visaṁyutto {{vippamutto}} vimariyādīkatena cetasā viharati |
+| vimariyādīkata (adj.)  | unbounded [vi + mariyādā + kata]               | 68663/dpd | tathāgato nissaṭo visaṁyutto vippamutto {{vimariyādīkatena}} cetasā viharati |
+| mariyādā (f.)          | boundary, border, limit                        | 51492/dpd | tathāgato nissaṭo visaṁyutto vippamutto vi{{mariyādī}}katena cetasā viharati |
+
+#+begin_quote
+“Dasahi kho, vāhana, dhammehi tathāgato nissaṭo visaṁyutto vippamutto vimariyādīkatena
+
+cetasā viharati. Katamehi dasahi? Rūpena kho, vāhana, tathāgato nissaṭo visaṁyutto
+
+vippamutto vimariyādīkatena cetasā viharati, vedanāya ... saññāya ... saṅkhārehi ... viññāṇena
+
+... jātiyā ... jarāya ... maraṇena ... dukkhehi ... kilesehi kho, vāhana, tathāgato nissaṭo
+
+visaṁyutto vippamutto vimariyādīkatena cetasā viharati.
+#+end_quote
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Seyyathāpi, vāhana, uppalaṁ vā padumaṁ vā puṇḍarīkaṁ vā
+
+udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma ṭhitaṁ anupalittaṁ udakena;
+
+evamevaṁ kho, vāhana, imehi dasahi dhammehi tathāgato nissaṭo visaṁyutto
+
+vippamutto vimariyādīkatena cetasā viharatī”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| uppala, paduma, puṇḍarīka (nt.) | types of lotus                                           | 16618/dpd | Seyyathāpi, vāhana, {{uppalaṁ}} vā padumaṁ vā puṇḍarīkaṁ vā                               |
+| udaka (nt.)                     | water                                                    | 14832/dpd | {{udake}} jātaṁ {{udake}} saṁvaḍḍhaṁ {{udakā}} paccuggamma ṭhitaṁ anupalittaṁ {{udakena}} |
+| saṁvaḍḍha (pp.)                | grown up (in); fully grown (in) [saṁ + √vaḍḍh + ta]     | 61844/dpd | udake jātaṁ udake {{saṁvaḍḍhaṁ}} udakā paccuggamma ṭhitaṁ anupalittaṁ udakena             |
+| paccuggamma (ger. +abl)         | going out (from), emerging (from); ger of paccuggacchati | 39489/dpd | udake jātaṁ udake saṁvaḍḍhaṁ udakā {{paccuggamma}} ṭhitaṁ anupalittaṁ udakena             |
+| tiṭṭhati                        | stands                                                   | 30486/dpd | udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma {{ṭhitaṁ}} anupalittaṁ udakena             |
+| anupalitta (pp. +instr)         | not smeared (by), untainted (by); [na + upalitta]        | 4747/dpd  | udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma ṭhitaṁ {{anupalittaṁ}} udakena             |
+
+** MN 112, The bhikkhu with defilements ended
+
+(See also: Nibbāna Sermon 15)
+
+#+begin_quote
+Khīṇāsavassa, bhikkhave, bhikkhuno ... veyyākaraṇāya:
+
+"Diṭṭhe kho ahaṁ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto
+visaṁyutto vimariyādīkatena cetasā viharāmi."
+
+"Sute ... mute ... viññāte ..."
+#+end_quote
+
+# Friends, with regard to the seen, I dwell unattracted, unrepelled,
+# independent, uninvolved, released, unshackled, with a mind free from barriers.
+
+*** Related :noexport:
+
+nissaṭa (pp of nissarati)
+nissaraṇa (nt.):
+Synonym: mutta, vippamutta
+Comm: nissaraṇan'ti nissaṭabhāvaṁ.
+
+vippamutta (pp of vipamuccati)
+Synonym: nissaṭa, mutta
+Comm: vippamuttā'ti rāg'ādīhi vippamuttā.
+
+visaṁyutta [vi + saṁ + √yuj + ta]
+Synonym: anissita, asāratta
+Iti 112: sabbalokavisaṁyutta
+
+saṁyojana [saṁ + √yuj + *e + ana]
+bhavasaṁyojana
+
+anupalitta (pp of na upalimpati)
+Comm: anupalittassā'ti taṇhādiṭṭhikilesehi alittassa.
+Iti 76: alittam'upalimpati
+
+Ud 2.4, Sakkārasutta, Sermon 17
+
+Phusanti phassā upadhiṁ paṭicca,
+Nirupadhiṁ kena phuseyyum phassā.
+
+Touches touch one because of assets,
+How can touches touch him who is asset-less?
+
+> *Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī
+> viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī
+> vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati,
+> samudayavayadhammānupassī vā kāyasmiṁ viharati; 'atthi kāyo'ti vā pan'assa
+> sati paccupaṭṭhitā hoti, yāvadeva ñāṇamattāya paṭissatimattāya; anissito ca
+> viharati, na ca kiñci loke upādiyati*.[^fn145]
+>
+> In this way he abides contemplating the body as a body internally, or he
+
+DN 22 / MN 10
+
+> *Passati Bhagavā cakkhunā rūpaṁ, chandarāgo Bhagavato natthi, suvimuttacitto
+> Bhagavā.*[^fn611]
+>
+> The Exalted One sees forms with the eye, but there is no desire or attachment
+> in him, well freed in mind is the Exalted One.
+
+[^fn611]: S IV 164, *Koṭṭhikasutta*
+
+> *Evaṁ sammā vimuttacittassa kho, āvuso, bhikkhuno bhusā cepi cakkhuviññeyyā
+> rūpā cakkhussa āpāthaṁ āgacchanti, nevassa cittaṁ pariyādiyanti,
+> amissīkatamevassa cittaṁ hoti ṭhitaṁ āneñjappattaṁ, vayaṁ cassānupassati*.
+> *Bhusā cepi sotaviññeyyā saddā ... bhūsa cepi ghānaviññeyyā gandhā ... bhūsa
+> cepi jivhāviññeyyā rasā ... bhūsa cepi kāyaviññeyyā phoṭṭhabbā ... bhūsa cepi
+> manoviññeyyā dhammā manassa āpāthaṁ āgacchanti, nevassa cittaṁ pariyādiyanti,
+> amissīkatamevassa cittaṁ hoti ṭhitaṁ āneñjappattaṁ, vayaṁ
+> cassānupassati*.[^fn613]
+>
+> Friend, in the case of a monk who is fully released, even if many forms
+> cognizable by the eye come within the range of vision, they do not overwhelm
+> his mind, his mind remains unalloyed, steady and unmoved, he sees its passing
+> away. Even if many sounds cognizable by the ear come within the range of
+> hearing ... even if many smells cognizable by the nose ... even if many tastes
+> cognizable by the tongue ... even if many tangibles cognizable by the body ...
+> even if many mind-objects cognizable by the mind come within the range of the
+> mind, they do not overwhelm his mind, his mind remains unalloyed, steady and
+> unmoved, he sees its passing away.
+
+[^fn613]: A IV 404, *Silāyūpasutta*
