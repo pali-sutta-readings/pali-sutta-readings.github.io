@@ -1,14 +1,17 @@
 all:
 	@echo "Make what?"
 
-build:
-	poetry run mkdocs build -d ../pali-sutta-readings.github.io-main/
-
 convert:
-	cd scripts && ./org-to-md-convert-watcher.sh
+	./scripts/org_to_md_convert_watcher.sh ./sessions ./docs/readings/sessions
+
+convert-once:
+	./scripts/convert_once.sh ./sessions ./docs/readings/sessions
+
+build: convert-once
+	poetry run mkdocs build -d ../pali-sutta-readings.github.io-main/
 
 preview:
 	poetry run mkdocs serve
 
-publish:
+publish: build
 	./scripts/publish.sh
