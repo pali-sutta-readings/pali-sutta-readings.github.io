@@ -1,0 +1,15 @@
+#+draft: t
+
+* 2025-04-02
+** Amazing Sutta AN 9999
+
+#+begin_quote
+this is the text
+
+on two lines
+#+end_quote
+
+| sati   | mindfulness |
+| dhamma | a thing     |
+
+** SN xx Another amazing sutta

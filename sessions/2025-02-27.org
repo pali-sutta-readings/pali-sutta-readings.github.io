@@ -39,7 +39,7 @@ duppañño hoti jaḷo eḷamūgo.
 
 \clearpage
 
-Compare 380: Ācariyavatta, [[https://tipitakapali.org/chapter/vin02m3.mul7][https://tipitakapali.org/]]
+Compare 380: Ācariyavatta, [[https://suttacentral.net/pli-tv-kd1/pli/ms?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin#25.9.1][https://suttacentral.net/]]
 
 #+begin_quote
 Sace ācariyo gāmaṃ pavisitukāmo hoti, nivāsanaṃ dātabbaṃ, paṭinivāsanaṃ
