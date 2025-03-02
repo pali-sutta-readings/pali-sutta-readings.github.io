@@ -1,0 +1,344 @@
+* 2025-02-19
+
+#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/eIx4Co7FZPw" title="Āyudo balado dhīro, Dhp 174 The Weaver's Daughter (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+** Exercise
+
+#+latex: \renewcommand{\arraystretch}{1.4}
+
+#+ATTR_LATEX: :center nil
+| cultivates; develops; lit. causes to become         | bhāveti, causative of bhavati  |
+| Develop it! (imperative)                            | \fillin{5cm}{bhāvetha}         |
+| It should be developed. (future passive participle) | \fillin{5cm}{bhāvetabba}       |
+| he/she developed it (aorist)                        | \fillin{5cm}{bhāvesi}          |
+| developed (past participle)                         | \fillin{5cm}{bhāvitā}          |
+| un-/not developed (past participle)                 | \fillin{5cm}{abhāvitā}         |
+| it is right (to)                                    | vaṭṭati (+inf)                 |
+| it is right to develop it (infinive)                | \fillin{5cm}{bhāvetuṁ vaṭṭati} |
+
+#+latex: \normalArrayStretch
+#+latex: \vspace*{\baselineskip}
+
+** Āyudo balado dhīro...
+:PROPERTIES:
+:DECK_NAME: AN 5.37 Bhojanasutta
+:END:
+
+([[https://suttacentral.net/an5.37/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=a.4.0.0.0.3.6.m][DPR]], [[http://localhost:4848/suttas/an5.37/pli/ms?window_type=Sutta+Study][SSP]]) AN 5.37 Bhojanasutta
+
+#+begin_quote
+“Bhojanaṁ, bhikkhave, dadamāno dāyako paṭiggāhakānaṁ pañca ṭhānāni deti.
+
+Katamāni pañca? Āyuṁ deti, vaṇṇaṁ deti, sukhaṁ deti, balaṁ deti, paṭibhānaṁ deti.
+
+Āyuṁ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā;
+
+vaṇṇaṁ datvā ... sukhaṁ datvā ... balaṁ datvā ... paṭibhānaṁ datvā ...
+
+Bhojanaṁ, bhikkhave, dadamāno dāyako paṭiggāhakānaṁ imāni pañca ṭhānāni detī'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| bhojana (nt.)         | food; meal; lit. eating; from /bhuñjati/         | 50381/dpd | {{Bhojanaṁ}}, bhikkhave, dadamāno dāyako paṭiggāhakānaṁ pañca ṭhānāni deti. |
+| dāyaka (m.)           | giver; donor; sponsor                            | 32309/dpd | Bhojanaṁ, bhikkhave, dadamāno {{dāyako}} paṭiggāhakānaṁ pañca ṭhānāni deti. |
+| deti (+acc & +dat)    | gives (to); donates (to); offers (to)            | 33953/dpd |                                                                             |
+| dadāti  (+acc & +dat) | gives; offers; donates (sth to sb)               | 31832/dpd |                                                                             |
+| dadamāna (prp.)       | giving; offering; bestowing (prp. of /dadāti/)   | 31830/dpd | Bhojanaṁ, bhikkhave, {{dadamāno}} dāyako paṭiggāhakānaṁ pañca ṭhānāni deti. |
+| paṭiggāhaka (m.)      | receiver; recipient; lit. who takes              | 40340/dpd | Bhojanaṁ, bhikkhave, dadamāno dāyako {{paṭiggāhakānaṁ}} pañca ṭhānāni deti. |
+| ṭhāna (nt.)           | thing; fact; item; subject; lit. standing        | 29037/dpd | Bhojanaṁ, bhikkhave, dadamāno dāyako paṭiggāhakānaṁ pañca {{ṭhānāni}} deti. |
+| paṭibhāna (nt.)       | understanding; intelligence;  lit. speaking back | 40691/dpd | {{Paṭibhānaṁ}} datvā {{paṭibhānassa}} bhāgī hoti dibbassa vā mānusassa vā.  |
+| bhāgī (m.)            | shareholder; who shares (in); who partakes (in)  | 49652/dpd | Āyuṁ kho pana datvā āyussa {{bhāgī}} hoti dibbassa vā mānusassa vā.        |
+| dibba (adj.)          | divine; heavenly; celestial                      | 32606/dpd | Āyuṁ kho pana datvā āyussa bhāgī hoti {{dibbassa}} vā mānusassa vā.        |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Āyudo balado dhīro, / vaṇṇado paṭibhānado;
+
+Sukhassa dātā medhāvī, / sukhaṁ so adhigacchati.
+
+Āyuṁ datvā balaṁ vaṇṇaṁ, / sukhañca paṭibhānakaṁ;
+
+Dīghāyu yasavā hoti, / yattha yatthūpapajjatī'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| dhīra (m.)      | wise man; sage; intelligent person                | 35176/dpd | Āyudo balado {{dhīro}}, vaṇṇado paṭibhānado.        |
+| medhāvī (m.)    | intelligent man; wise man; who has good judgment  | 53286/dpd | Sukhassa dātā {{medhāvī}}, sukhaṁ so adhigacchati. |
+| adhigacchati    | gets to; attains; finds; acquires; obtains        | 3145/dpd  | Sukhassa dātā medhāvī, sukhaṁ so {{adhigacchati}}. |
+| yasavant (adj.) | famous; renowned                                  | 53827/dpd | Dīghāyu {{yasavā}} hoti, yattha yatthūpapajjatī'ti. |
+| upapajjati      | is reborn (in); re-arises (in); lit. goes towards | 15855/dpd | Dīghāyu yasavā hoti, yattha yatth{{ūpapajjatī}}'ti. |
+
+*** Notes :noexport:
+**** paṭibhāna
+
+uid:an10.53/en/sujato
+
+#+begin_quote
+Kathañca, bhikkhave, vuḍḍhi hoti kusalesu dhammesu, no ṭhiti no hāni?
+
+And how is there growth in skillful qualities, not stagnation or decline?
+
+Idha, bhikkhave, bhikkhu yattako hoti saddhāya sīlena sutena cāgena paññāya
+paṭibhānena, tassa te dhammā neva tiṭṭhanti no hāyanti.
+
+It’s when a mendicant has a certain degree of faith, ethics, generosity, wisdom,
+and eloquence. Those qualities neither stagnate nor decline in them.
+#+end_quote
+
+uid:sn8.3/en/sujato
+
+#+begin_quote
+Atha kho āyasmato vaṅgīsassa etadahosi:
+“alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ;
+yvāhaṁ attano paṭibhānena aññe pesale bhikkhū atimaññāmī”ti.
+
+Then he thought, “It’s my loss, my misfortune, that I look down on other
+good-hearted mendicants because of my own poetic virtuosity.”
+#+end_quote
+
+** Dhp 174 Commentary: The Weaver's Daughter (Part 1)
+
+([[https://suttacentral.net/dhp167-178/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.12.0.0.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][SSP]]) Dhp 174 Verse
+
+#+begin_quote
+Andhabhūto ayaṁ loko, / tanuk'ettha vipassati;
+
+Sakuṇo jālamuttova, / appo saggāya gacchati.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| andhabhūta (adj.) | blind; ignorant; lit. become blind [andha + bhūta] | 5910/dpd  | {{Andhabhūto}} ayaṁ loko, tanukettha vipassati;  |
+| tanuka (adj.)     | small; few; lit. thin                              | 29858/dpd | Andhabhūto ayaṁ loko, {{tanuk}}'ettha vipassati; |
+| sakuṇa (m.)       | bird                                               | 56363/dpd | {{Sakuṇo}} jālamuttova, appo saggāya gacchati.    |
+| jāla (nt.)        | net; snare; entanglement                           | 28372/dpd | Sakuṇo {{jāla}}muttova, appo saggāya gacchati.    |
+| mutta (pp. +abl)  | released (from); freed (from); liberated (from)    | 52919/dpd | Sakuṇo jāla{{mutto}}va, appo saggāya gacchati.    |
+| appa              | few; not many; not much                            | 6762/dpd  | Sakuṇo jālamuttova, {{appo}} saggāya gacchati.    |
+| sagga (m.)        | heaven; paradise                                   | 56555/dpd | Sakuṇo jālamuttova, appo {{saggāya}} gacchati.    |
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=andhabh%25C5%25ABtoti%2520ima%25E1%25B9%2581%2520dhammadesana%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
+
+#+begin_quote
+Andhabhūto'ti imaṁ dhammadesanaṁ satthā aggāḷave cetiye viharanto ekaṁ pesakāradhītaraṁ
+
+ārabbha kathesi. Ekadivasañhi āḷavivāsino satthari āḷaviṁ sampatte nimantetvā dānaṁ adaṁsu.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pesakāra (m.)  | weaver; embroiderer                            | 47325/dpd |   |
+| dhītar (f.)    | daughter                                       | 35159/dpd |   |
+| sampatta (pp.) | reached; arrived; is here                      | 60257/dpd |   |
+| nimanteti      | invites (to); calls (to)                       | 37749/dpd |   |
+| adaṁsu (aor.) | they gave; they offered; aor 3rd pl of /adāsi/ | 2868/dpd  |   |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Satthā bhattakiccāvasāne anumodanaṁ karonto 'Addhuvaṁ me jīvitaṁ,
+
+dhuvaṁ me maraṇaṁ, avassaṁ mayā maritabbameva, maraṇapariyosānaṁ me jīvitaṁ,
+
+jīvitameva aniyataṁ, maraṇaṁ niyatanti evaṁ maraṇassatiṁ bhāvetha.
+
+Yesañhi maraṇassati abhāvitā, te pacchime kāle āsīvisaṁ disvā bhīta'adaṇḍa'puriso viya
+
+santāsa'ppattā bherava'ravaṁ ravantā kālaṁ karonti.
+#+end_quote
+
+#+latex: \vspace*{-1pt}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| bhattakicca (nt.) | eating a meal; taking food; lit. food duty         | 49292/dpd |   |
+| avasāna (nt.)     | ending; finishing; concluding                      | 10385/dpd |   |
+| dhuva (adj.)      | certain; sure                                      | 35233/dpd |   |
+| avassaṁ (ind.)   | inevitably; certainly; without doubt; without fail | 10412/dpd |   |
+| pariyosāna (adj.) | ending with; concluding with; culminating in       | 44059/dpd |   |
+| āsīvisa (m.)      | poisonous snake; lit. poison fang [āsī + visa]     | 12910/dpd |   |
+| bhīta (pp.)       | afraid (of); terrified (of); pp. of /bhāyati/      | 50038/dpd |   |
+| bherava (adj.)    | frightful; terrifying                              | 50306/dpd |   |
+| rava (m.)         | animal noise; cry; howl; shriek                    | 54751/dpd |   |
+
+#+begin_quote
+Yesaṁ pana maraṇassati bhāvitā, te dūratova āsīvisaṁ disvā daṇḍakena gahetvā chaḍḍetvā
+
+ṭhitapuriso viya pacchime kāle na santasanti, tasmā maraṇassati bhāvetabbā'ti āha.
+
+Taṁ dhammadesanaṁ sutvā avasesajanā sakicca'ppasutā'va ahesuṁ.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| dūrato (ind.)    | from far away; from afar;  [√dū + ra + to]               | 33906/dpd |   |
+| gaṇhāti (+acc)   | grabs hold (of); seizes; takes                           | 24166/dpd |   |
+| chaḍḍeti (+acc)  | throws away; discards; drops; tosses aside               | 27328/dpd |   |
+| santasati (+gen) | is terrified (of); is frightened (of); is disturbed (by) | 58217/dpd |   |
+| avasesa (adj.)   | remaining; rest of                                       | 10399/dpd |   |
+| pasuta (pp.)     | engaged (in); engrossed (by); occupied (with)            | 44716/dpd |   |
+
+#+begin_quote
+Ekā pana soḷasavassuddesikā pesakāradhītā 'aho buddhānaṁ kathā nāma acchariyā,
+
+mayā pana maraṇassatiṁ bhāvetuṁ vaṭṭatī'ti rattindivaṁ maraṇassatimeva bhāvesi.
+
+Satthāpi tato nikkhamitvā jetavanaṁ agamāsi.
+
+Sāpi kumārikā tīṇi vassāni maraṇassatiṁ bhāvesiyeva.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| acchariya (adj.) | wonderful; marvellous                 | 1044/dpd  |   |
+| vaṭṭati (+inf)   | it is suitable (to); it is right (to) | 65799/dpd |   |
+
+*** Notes :noexport:
+**** passati / vipassati
+
+: paññācakkhuno abhāvena andhabhūto
+
+: na bahu jano aniccādivasena vipassati
+
+paññā → abhijānāti (MN 1) / yoniso manasikāra (MN 2)
+
+SEEING THROUGH - A Guide to Insight Meditation - by Bhikkhu K. Ñāṇananda
+https://seeingthroughthenet.net/wp-content/uploads/2016/04/Seeing-Through-Rev-0_3.pdf
+
+#+begin_quote
+What we See –
+so often blocks our vision –
+if we fail to ‘see through'
+#+end_quote
+
+“Seeing through” the magic show of consciousness with yoniso manasikāra
+
+#+begin_quote
+“Seeing through” carries with it the implication that there
+is a deception to be seen through. The Buddha has compared
+consciousness to a magic show. In order to overcome the spell of
+delusion created by the magic show, one has to get an insight into
+its tricks. Consciousness has to be comprehended by wisdom
+which is capable of penetrating through the facade.
+#+end_quote
+
+**** maccuno jālaṁ: the net of death
+
+: 'jālamuttovā'ti ... maraṇajālena otthaṭesu sattesu bahū apāyagāmino honti
+
+Beings covered with the net of death
+
+Death → Māra
+Māra's domain → senses
+Net / Snare → kāma / taṇhā / icchā / moha
+
+: maccuno jālaṁ
+
+[[http://localhost:4848/suttas/sn2.6/pli/ms?quote=Te%2520chetv%25C4%2581%2520maccuno%2520j%25C4%2581la%25E1%25B9%2581&window_type=Sutta+Study][SN 2.6]] Indriyūpasame ratā ... Te chetvā maccuno jālaṁ
+
+#+begin_quote
+“Dussamādahaṁ vāpi samādahanti,
+(kāmadāti bhagavā)
+Indriyūpasame ratā;
+Te chetvā maccuno jālaṁ,
+Ariyā gacchanti kāmadā”ti.
+
+“They become immersed in samādhi even though it’s hard,”
+said the Buddha to Kāmada,
+“those who love calming the faculties.
+Having cut through the net of Death,
+the noble ones, Kāmada, go on their way.”
+#+end_quote
+
+[[http://localhost:4848/suttas/snp2.12/pli/ms?quote=Acchid%25C4%2581%2520maccuno%2520j%25C4%2581la%25E1%25B9%2581&window_type=Sutta+Study][Snp 2.12]] / Thag 21.1 Acchecchi _taṇhaṁ_ idha _nāmarūpe_ ... Acchidā maccuno jālaṁ
+- SN 56.11: dukkhanirodhaṁ ariyasaccaṁ: yo tassāyeva taṇhāya
+  asesavirāganirodho cāgo paṭinissaggo mutti anālayo
+- MN 9: evaṁ nāmarūpanirodhagāminiṁ paṭipadaṁ pajānāti
+
+#+begin_quote
+“Acchecchi taṇhaṁ idha nāmarūpe,
+“He cut off craving for name and form right here,”
+...
+
+Acchidā maccuno jālaṁ,
+He cut the net of death the deceiver,
+
+Addasā bhagavā ādiṁ,
+Upādānassa kappiyo;
+Accagā vata kappāyano,
+Maccudheyyaṁ suduttaran”ti.
+
+Blessed One, Kappāyana saw
+the starting point of grasping.
+He has indeed gone far beyond
+Death’s domain so hard to pass.”
+#+end_quote
+
+[[http://localhost:4848/suttas/dhp235-255/pli/ms?quote=Natthi%2520mohasama%25E1%25B9%2581%2520j%25C4%2581la%25E1%25B9%2581&window_type=Sutta+Study][Dhp 251]] Natthi mohasamaṁ jālaṁ
+
+[[http://localhost:4848/suttas/sn4.7/pli/ms?quote=Yassa%2520j%25C4%2581lin%25C4%25AB%2520visattik%25C4%2581&window_type=Sutta+Study][SN 4.7]] / [[http://localhost:4848/suttas/dhp179-196/pli/ms?quote=Yassa%2520j%25C4%2581lin%25C4%25AB%2520visattik%25C4%2581&window_type=Sutta+Study][Dhp 179-180]] Yassa jālinī visattikā, taṇhā natthi kuhiñci netave
+
+#+begin_quote
+“Yassa jālinī visattikā,
+Taṇhā natthi kuhiñci netave;
+Sabbūpadhiparikkhayā buddho,
+Soppati kiṁ tavettha mārā”ti.
+
+In whom there’s no craving
+–the sticky ensnarer–
+to lead him anywherever at all;
+awakened, his pasture endless, pathless:
+by what path will you lead him astray?
+#+end_quote
+
+Trap / Snare: ~pāsa~ ~mārapāso~, sometimes ~saṅga~
+
+[[http://localhost:4848/suttas/sn1.79/pli/ms?quote=Icch%25C4%2581baddh%25C4%2581%2520puth%25C5%25AB%2520satt%25C4%2581&window_type=Sutta+Study][SN 1.79]] Icchābaddhā puthū sattā,/ pāsena sakuṇī yathā”ti.
+
+Many beings are tied up with desire, / like birds in a snare.”
+
+[[http://localhost:4848/suttas/mn26/pli/ms?quote=%25C4%2581d%25C4%25ABnavadass%25C4%2581vino%2520nissara%25E1%25B9%2587apa%25C3%25B1%25C3%25B1%25C4%2581&window_type=Sutta+Study][MN 26]] kāmaguṇe ...ādīnavadassāvino nissaraṇapaññā
+
+#+begin_quote
+Seyyathāpi, bhikkhave, āraññako mago abaddho pāsarāsiṁ adhisayeyya.
+
+Suppose a deer in the wilderness was lying on a pile of snares without being caught.
+#+end_quote
+
+Mānasasutta uid:sn4.15/pli/ms
+
+#+begin_quote
+“There’s a mental snare
+“Antalikkhacaro pāso,
+wandering the sky.
+yvāyaṁ carati mānaso;
+I’ll bind you with it—
+Tena taṁ bādhayissāmi,
+you won’t escape me, ascetic!”
+na me samaṇa mokkhasī”ti.
+
+“Sights, sounds, tastes, smells,
+“Rūpā saddā rasā gandhā,
+and touches so delightful:
+Phoṭṭhabbā ca manoramā;
+desire for these is gone from me.
+Ettha me vigato chando,
+You’re beaten, terminator!”
+Nihato tvamasi antakā”ti.
+#+end_quote
+
+Paṭhamamārapāsasutta uid:sn35.114/pli/ms
+
+#+begin_quote
+they’re called a mendicant trapped in Māra’s lair, fallen under Māra’s sway, and
+caught in Māra’s snare.
+
+ayaṁ vuccati, bhikkhave, bhikkhu āvāsagato mārassa, mārassa vasaṁ gato,
+paṭimukkassa mārapāso.
+#+end_quote
+
+Bāḷisikopamasutta uid:sn35.230/en/sujato
+
+#+begin_quote
+“Mendicants, suppose a fisherman was to cast a baited hook into a deep lake.
+“Seyyathāpi, bhikkhave, bāḷisiko āmisagatabaḷisaṁ gambhīre udakarahade pakkhipeyya.
+Seeing the bait, a fish would swallow it.
+Tamenaṁ aññataro āmisacakkhu maccho gileyya.
+#+end_quote

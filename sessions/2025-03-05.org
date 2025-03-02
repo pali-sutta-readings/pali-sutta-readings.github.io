@@ -1,0 +1,28 @@
+#+draft: t
+
+* 2025-03-05
+** Citta
+
+use cases and when can and can't substitue
+
+** MN 128 Upakkilesasutta
+
+uid:mn128/pli/ms
+
+#+begin_quote
+While meditating …
+
+So kho ahaṁ, anuruddhā …pe…
+
+tassa mayhaṁ, anuruddhā, etadahosi:
+
+‘Perceptions of diversity arose in me …
+
+‘nānattasaññā kho me udapādi, nānattasaññādhikaraṇañca pana me samādhi cavi.
+
+Samādhimhi cute obhāso antaradhāyati dassanañca rūpānaṁ.
+
+I’ll make sure that neither doubt nor loss of focus nor dullness and drowsiness nor terror nor excitement nor discomfort nor excessive energy nor overly lax energy nor longing nor perception of diversity will arise in me again.’
+
+Sohaṁ tathā karissāmi yathā me puna na vicikicchā uppajjissati, na amanasikāro, na thinamiddhaṁ, na chambhitattaṁ, na uppilaṁ, na duṭṭhullaṁ, na accāraddhavīriyaṁ, na atilīnavīriyaṁ, na abhijappā, na nānattasaññā’ti.
+#+end_quote

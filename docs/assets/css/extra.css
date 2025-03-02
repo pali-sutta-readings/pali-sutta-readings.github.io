@@ -1,0 +1,217 @@
+/* ====================
+ * === Crimson Text ===
+ * ==================== */
+
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/CrimsonText-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/CrimsonText-Italic.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/CrimsonText-Bold.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/CrimsonText-BoldItalic.ttf") format('truetype');
+}
+
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.crimson-text-bold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* ==================
+ * === Noto Serif ===
+ * ================== */
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/NotoSerif-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/NotoSerif-Italic.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/NotoSerif-Bold.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/NotoSerif-BoldItalic.ttf") format('truetype');
+}
+
+.noto-serif-regular {
+  font-family: "Noto Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.noto-serif-regular-italic {
+  font-family: "Noto Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.noto-serif-bold {
+  font-family: "Noto Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.noto-serif-bold-italic {
+  font-family: "Noto Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* =================
+ * === Web style ===
+ * ================= */
+
+@media screen {
+    .declensions {
+        display: none;
+    }
+}
+
+/* ===================
+ * === Print style ===
+ * =================== */
+
+/* Define A4 page size for printing */
+@page {
+  size: A4;
+  margin: 15mm;
+}
+
+/* Style for print media */
+@media print {
+  /* Ensure body takes full page height */
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: "Crimson Text", serif;
+    font-size: 11pt;
+    line-height: 15pt;
+    color: black;
+  }
+
+  iframe {
+      display: none;
+  }
+
+  .md-typeset h1 {
+      color: black;
+      font-family: "Noto Serif", serif;
+      font-weight: normal;
+      font-size: 20pt;
+  }
+
+  .md-typeset h2 {
+      color: black;
+      font-family: "Noto Serif", serif;
+      font-weight: bold;
+      font-size: 12pt;
+      line-height: 15pt;
+  }
+
+  [dir="ltr"] .md-typeset blockquote {
+      border: none;
+      color: black;
+      padding-left: 2em;
+      padding-right: 2em;
+  }
+
+  .md-main__inner {
+      margin-top: 0;
+  }
+
+  .declensions {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    width: 25mm;
+    height: 72mm;
+    margin: 0;
+    padding: 0;
+    background-image: url('/assets/images/cases-legend-white-large.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+
+  .md-typeset table:not([class]) {
+      border: none;
+  }
+
+  .md-typeset table:not([class]) td {
+      border: none;
+      padding: 0;
+  }
+
+  table thead {
+      display: none;
+  }
+
+  table td {
+      margin: 0;
+  }
+}

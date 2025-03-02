@@ -1,0 +1,43 @@
+site_name: Pāli Sutta Readings
+site_description: Readings and discussions of the Pāli Theravāda suttas
+site_url: https://pali-sutta-readings.github.io
+
+extra_css:
+  - assets/css/extra.css
+
+plugins:
+  - blog:
+      blog_dir: "readings"
+      post_dir: "readings/sessions"
+      post_url_date_format: yyyy-MM-dd
+      # post_url_format: "{date}-{slug}"
+      post_url_format: "{date}"
+      draft_on_serve: true
+      draft_if_future_date: false
+
+theme:
+  name: material
+
+  features:
+    - navigation.instant
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    - navigation.expand
+
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
