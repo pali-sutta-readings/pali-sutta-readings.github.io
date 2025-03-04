@@ -1,3 +1,24 @@
+/* ======================
+ * === Abhaya Libre X ===
+ * ====================== */
+
+@font-face {
+  font-family: 'Abhaya Libre X';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/AbhayaLibreX-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Abhaya Libre X';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/AbhayaLibreX-Bold.ttf") format('truetype');
+}
+
+
 /* ====================
  * === Crimson Text ===
  * ==================== */
@@ -125,7 +146,7 @@
  * ================= */
 
 @media screen {
-    .declensions {
+    .declensions, div.pagebreak {
         display: none;
     }
 }
@@ -153,15 +174,21 @@
     color: black;
   }
 
+  div.pagebreak {
+      page-break-after: always;
+  }
+
   iframe {
       display: none;
   }
 
   .md-typeset h1 {
       color: black;
-      font-family: "Noto Serif", serif;
-      font-weight: normal;
+      font-family: "Abhaya Libre X", serif;
+      font-weight: 700;
       font-size: 20pt;
+      margin-top: 0pt;
+      border-bottom: 0.4pt solid black;
   }
 
   .md-typeset h2 {
@@ -170,6 +197,18 @@
       font-weight: bold;
       font-size: 12pt;
       line-height: 15pt;
+  }
+
+  .md-typeset h3 {
+      color: black;
+      font-family: "Noto Serif", serif;
+      font-weight: bold;
+      font-size: 11pt;
+      line-height: 15pt;
+  }
+
+  .md-typeset__scrollwrap {
+      margin-bottom: 0em;
   }
 
   [dir="ltr"] .md-typeset blockquote {
