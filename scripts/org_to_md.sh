@@ -6,9 +6,19 @@ MD_SESSIONS_DIR="$2"
 name=$(basename "$org_file" .org)
 md_file="$MD_SESSIONS_DIR/$name.md"
 
+if grep -q ":environment longtable" "$org_file"; then
+    # Keep only the first two columns of tables, the other columns are used for hidden info.
+    strip_cols='s/^(\|[^\|]+\|[^\|]+\|).*/\1/'
+else
+    strip_cols=""
+fi
+
+exclude_tags="\n#+EXCLUDE_TAGS: noexport"
+# exclude_tags="\n#+EXCLUDE_TAGS: noexport noprint"
+
 cat "$org_file" |\
     # Prepend export options
-    sed "1i#+OPTIONS: tags:nil\n\n" |\
+    sed "1i#+OPTIONS: tags:nil$exclude_tags\n\n" |\
     # Remove LaTeX commands
     grep -vE '^#\+latex:|^\\[a-zA-Z]' |\
     # LaTeX quote marks
@@ -17,8 +27,7 @@ cat "$org_file" |\
     sed -e 's/^- \([^:]\+\) *:: *\(.*\)/- *\1,* \2/; s/ \+\(,\*\)/\1/;' |\
     # clean spaces and remove repeated blanks
     sed 's/^ *$//' |\
-    # Keep only the first two columns of tables, the other columns are used for hidden info.
-    sed -E 's/^(\|[^\|]+\|[^\|]+\|).*/\1/' |\
+    sed -E "$strip_cols" |\
     cat -s |\
     pandoc -f org+smart-auto_identifiers -t gfm+smart-fenced_divs-gfm_auto_identifiers --wrap=none -o "$md_file"
 
