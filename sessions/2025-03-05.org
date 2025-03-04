@@ -1,11 +1,388 @@
-#+draft: t
-
 * 2025-03-05
-** Citta
+** Mano, citta, viññāṇa, saññā
+*** Construction
 
-use cases and when can and can't substitue
+| maññati (pr.)   | [√man + ya + ti]     | ceteti (pr.)    | [√cit + *e + ti]       |
+| manas (m.)      | [√man + as]          | cetas (m.)      | [√cit + *as]           |
+| mano (m.)       | [√man + o]           | citta (nt.)     | [√cit + ta]            |
+| manasikāra      | [manasi + kāra]      | cetanā          | [√cit + *anā]          |
+|-----------------+----------------------+-----------------+------------------------|
+| vijānāti (pr.)  | [vi + √ñā + nā + ti] | sañjānāti (pr.) | [saṁ + √ñā + nā + ti] |
+| viññāṇa (nt.)   | [vi + √ñā + aṇa]     | saññā (f.)      | [saṁ + √ñā + ā]       |
+| pajānāti (pr.)  | [pa + √ñā + nā + ti] | saññī (adj.)    | [saṁ + √ñā + ī]       |
+| paññāyati (pr.) | [pa + √ñā + ya + ti] |                 |                        |
 
-** MN 128 Upakkilesasutta
+**** Notes :noprint:
+
+[[https://www.etymonline.com/word/discern][discern (v.)]] /dis-/ "off, away" + /cernere/ "distinguish, separate, sift"\\
+"perceive or recognize the difference or distinction between (two or more things);" also "distinguish (an object) with the eyes, see distinctly, behold;" also "perceive rationally, understand;", from Latin /discernere/ "to separate, set apart, divide, distribute; distinguish, perceive"
+
+[[https://www.etymonline.com/word/conscious][conscious (adj.)]] /com/ "with," or "thoroughly" + /scire/ "to know" (see [[https://www.etymonline.com/word/science][science]])\\
+"knowing, aware"
+
+[[https://www.etymonline.com/word/cognize][cognize (v.)]] "perceive, become conscious of," back-formation from *cognizance*.
+
+[[https://www.etymonline.com/word/cognizance][cognizance (n.)]] /com/ "together" + /gnoscere/ "to know"\\
+"device or mark by which something or someone is known"
+
+[[https://www.etymonline.com/word/perceive][perceive (v.)]] /per/ "thoroughly" + /capere/ "to grasp, take"\\
+"become aware of, gain knowledge of," especially "to come to know by direct experience," also, figuratively, "to grasp with the mind, learn, comprehend," literally "to take entirely"\\
+
+*The meaning of words:*
+
+#+begin_quote
+A fish trap exists because of the fish.\\
+Once you've gotten the fish you can forget the trap.
+
+The rabbit snare exists because of the rabbit.\\
+Once you've gotten the rabbit you can forget the snare.
+
+Words exist because of meaning.\\
+Once you've gotten the meaning you can forget the words.
+
+Where can I meet a man who has forgotten the words so I can have a word with him?
+
+(Zhuangzi: Basic Writings)
+#+end_quote
+
+*** Mano
+
+#+begin_quote
+(Dhp 1) Manopubbaṅgamā dhammā, / manoseṭṭhā manomayā;
+
+Manasā ce paduṭṭhena, / bhāsati vā karoti vā; ...
+
+(Dhp 2) Manopubbaṅgamā dhammā, / manoseṭṭhā manomayā;
+
+Manasā ce pasannena, / bhāsati vā karoti vā; ...
+
+(MN 2) So ‘idaṁ dukkhan’ti yoniso manasi karoti, ...
+
+Tassa evaṁ yoniso manasikaroto tīṇi saṁyojanāni pahīyanti — sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
+
+(MN 21) Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ,\\
+tatrāpi yo mano padūseyya, na me so tena sāsanakaro.
+
+Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ: ‘na ceva no cittaṁ vipariṇataṁ bhavissati, ...
+#+end_quote
+
+| pubbaṅgama (adj. +loc) | preceding (in); leading (in); as forerunner (of); lit. going before |
+| seṭṭha (m.)            | chief; leader; foremost; first                                      |
+| maya (adj.)            | made of; constructed by                                             |
+| paduṭṭa (pp.)          | bad; wicked; evil; corrupt; [pa + √dus + ta]                        |
+| mano padūseyya (idiom) | has ill-will; gets angry;  lit. causes to spoil the mind            |
+| pasanna (pp.)          | bright; clear; pure; lit. settled [pa + √sad + na]                  |
+| vipariṇata (pp.)       | changed; altered (by rāga-dosa-moha); lit. bent all around          |
+
+paduṭṭhena: (MN 4) ... byāpannacittā paduṭṭhamanasaṅkappā ...
+
+a-yoniso manasikāra → papañcasaññāsaṅkhā samudācaranti → taṇhā-māna-diṭṭhi-papañca
+
+(MNa) *papañcasaññāsaṅkhā*'ti ettha *saṅkhā*'ti koṭṭhāso. *papañcasaññā*'ti
+taṇhā-māna-diṭṭhi-papañca-sampayuttā saññā, saññānāmena vā papañcāy'eva vuttā.
+tasmā papañcakoṭṭhāsā'ti ayam'ettha attho. *samudācarantī*'ti pavattanti.
+
+#+html: <div class="pagebreak"></div>
+
+**** Notes :noprint:
+
+Nibbāna Sermon 10:
+
+#+begin_quote
+Consciousness follows in the wake of attention. Whatever my attention picks up,
+of that I am conscious. Though I have in front of me so many apparently visible
+objects, until my attention is focussed, eye-consciousness does not come about.
+The basic function of this type of consciousness, then, is to distinguish
+between the eye and the object seen. It is only after the eye has become
+conscious, that other factors necessary for sense perception fall into place.
+
+The two things born of that basic discrimination, together with the
+discriminating consciousness itself, that is eye-consciousness, make up the
+concept of contact.
+#+end_quote
+
+*** Mano-viññāṇaṁ, mano-samphasso
+
+#+begin_quote
+MN 18 ([[https://suttacentral/mn18/pli/ms][SC]], [[http://localhost:4848/suttas/mn18/pli/ms?quote=Cakkhu%25C3%25B1c%25C4%2581vuso%252C%2520pa%25E1%25B9%25ADicca%2520r%25C5%25ABpe%2520ca%2520uppajjati%2520cakkhuvi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso ...
+
+Manañcāvuso, paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā vedanā,\\
+yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vitakketi, yaṁ vitakketi taṁ papañceti, yaṁ papañceti\\
+tatonidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu\\
+manoviññeyyesu dhammesu.
+#+end_quote
+
+#+begin_quote
+SN 35.95 ([[https://suttacentral.net/sn35.95/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.95/pli/ms?quote=e%2520te%2520k%25C4%2581yavi%25C3%25B1%25C3%25B1eyy%25C4%2581%2520pho%25E1%25B9%25AD%25E1%25B9%25ADhabb%25C4%2581&window_type=Sutta+Study][SSP]]) “Ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi,
+
+na ca te hoti phuseyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? “No hetaṁ, bhante”.
+
+“Ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti?
+
+Atthi te tattha chando vā rāgo vā pemaṁ vā”ti? “No hetaṁ, bhante”.
+#+end_quote
+
+#+begin_quote
+(DN 22) Sā kho panesā, bhikkhave, taṇhā kattha pahīyamānā pahīyati, kattha nirujjhamānā nirujjhati?
+
+Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+Kiñca loke piyarūpaṁ sātarūpaṁ? Cakkhu loke ... mano loke piyarūpaṁ sātarūpaṁ,
+
+etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+... manoviññāṇaṁ loke piyarūpaṁ sātarūpaṁ ... manosamphasso loke piyarūpaṁ sātarūpaṁ ...
+
+manosamphassajā vedanā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati,
+
+ettha nirujjhamānā nirujjhati.
+#+end_quote
+
+*** Citta
+
+#+begin_quote
+(Dhp 14) Yathā agāraṁ suchannaṁ, / vuṭṭhī na samativijjhati;
+
+Evaṁ subhāvitaṁ cittaṁ, / rāgo na samativijjhati.
+#+end_quote
+
+#+begin_quote
+SN 35.134 (SC, [[http://localhost:4848/suttas/sn35.134/pli/ms?quote=santi%252C%2520bhikkhave%252C%2520manovi%25C3%25B1%25C3%25B1eyy%25C4%2581&window_type=Sutta+Study][SSP]]) Santi, bhikkhave, manoviññeyyā dhammā manoramāpi amanoramāpi.
+
+Tyāssa phussa phussa cittaṁ na pariyādāya tiṭṭhanti. Cetaso apariyādānā āraddhaṁ hoti
+
+vīriyaṁ asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.
+#+end_quote
+
+| pariyādāya (ger. +acc)            | obsessing; overpowering; occupying; controlling; lit. taking all around [pari + √ādā + ya] |
+| pariyādāya tiṭṭhati (idiom +acc.) | remains obsessing; continues to overwhelm                                                  |
+| āraddha (pp.)                     | aroused; applied; undertaken; pp of ārabhati                                               |
+
+#+begin_quote
+Pj 3 ([[http://localhost:4848/suttas/pli-tv-bu-vb-pj3/pli/ms?quote=iti%2520cittamano%2520cittasa%25E1%25B9%2585kappo%2520anekapariy%25C4%2581yena&window_type=Sutta+Study][SSP]]) ... iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya,\\
+maraṇāya vā samādapeyya ...
+
+(Comm) Iti cittamano'ti: yaṁ cittaṁ taṁ mano, yaṁ mano taṁ cittaṁ.\\
+Cittasaṅkappo'ti: maraṇasaññī maraṇacetano maraṇādhippāyo.
+#+end_quote
+
+#+begin_quote
+DN 22 ([[https://suttacentral.net/dn22/pli/ms][SC]], [[http://localhost:4848/suttas/dn22/pli/ms?window_type=Sutta+Study][SSP]]) Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti.\\
+Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. ...
+#+end_quote
+
+| rāga, dosa, moha      | saṅkhitta, vikkhitta |
+| mahaggata, amahaggata | sauttara, anuttara   |
+| samāhita, asamāhita   | vimutta, avimutta    |
+
+(DNa) saṅkhittan'ti thinamiddh'ānupatitaṁ. etañ'hi saṅkuṭitacittaṁ nāma.
+
+(DNa) vikkhittan'ti uddhaccasahagataṁ, etañ'hi pasaṭacittaṁ nāma.
+
+(MNa) anuttaran'ti uttamaṁ pabhassaraṁ nirupakkilesaṁ.
+
+#+begin_quote
+DN 22 ([[https://suttacentral.net/dn22/pli/ms][SC]], [[http://localhost:4848/suttas/dn22/pli/ms?quote=Katamo%2520ca%252C%2520bhikkhave%252C%2520samm%25C4%2581v%25C4%2581y%25C4%2581mo&window_type=Sutta+Study][SSP]]) Katamo ca, bhikkhave, sammāvāyāmo? Idha, bhikkhave, bhikkhu anuppannānaṁ
+
+pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati
+
+vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;
+#+end_quote
+
+| ārabhati   | begins; arouses oneself (to); makes an effort (to)                           |
+| paggaṇhāti | applies effort; strives on; endeavours; lit. holds up [pa + √gah + ṇhā + ti] |
+| padahati   | exerts oneself; endeavours (with); lit. puts forward                         |
+
+*** Viññāṇa
+
+#+begin_quote
+SN 22.79 ([[https://suttacentral.net/sn22.79/pli/ms][SC]], [[http://localhost:4848/suttas/sn22.79/pli/ms?quote=Ki%25C3%25B1ca%252C%2520bhikkhave%252C%2520sa%25C3%25B1%25C3%25B1a%25E1%25B9%2581%2520vadetha&window_type=Sutta+Study][SSP]]) Kiñca, bhikkhave, saññaṁ vadetha? Sañjānātī'ti kho, bhikkhave...
+
+Kiñca, bhikkhave, viññāṇaṁ vadetha? Vijānātī'ti kho, bhikkhave...
+#+end_quote
+
+#+begin_quote
+AN 3.76 ([[https://suttacentral.net/an3.76/pli/ms][SC]], [[http://localhost:4848/suttas/an3.76/pli/ms?quote=kamma%25E1%25B9%2581%2520khetta%25E1%25B9%2581%252C%2520vi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581%2520b%25C4%25ABja%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho.
+
+Avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ punabbhavābhinibbatti hoti.
+
+(AN 3.77) cetanā patiṭṭhitā
+#+end_quote
+
+#+begin_quote
+MN 9, ([[https://suttacentral.net/mn9/pli/ms][SC]], [[http://localhost:4848/suttas/mn9/pli/ms?quote=Vi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587asamuday%25C4%2581%2520n%25C4%2581mar%25C5%25ABpasamudayo%252C%2520vi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587anirodh%25C4%2581%2520n%25C4%2581mar%25C5%25ABpanirodho&window_type=Sutta+Study][SSP]]) ... Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho, ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā ...
+#+end_quote
+
+#+begin_quote
+DN 11 ([[https://suttacentral.net/dn11/pli/ms][SC]], [[http://localhost:4848/suttas/dn11/pli/ms?quote=Vi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581%2520anidassana%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Viññāṇaṁ anidassanaṁ, / anantaṁ sabbatopabhaṁ
+#+end_quote
+
+*** Saññā
+
+#+begin_quote
+SN 1.20 ([[https://suttacentral.net/sn1.20/pli/ms][SC]], [[http://localhost:4848/suttas/sn1.20/pli/ms?quote=Akkheyyasa%25C3%25B1%25C3%25B1ino%2520satt%25C4%2581&window_type=Sutta+Study][SSP]]), Nibbāna Sermon 1
+
+Akkheyyasaññino sattā, / akkheyyasmiṁ patiṭṭhitā;
+
+Akkheyyaṁ apariññāya, / yogamāyanti maccuno.
+#+end_quote
+
+#+begin_quote
+SN 46.54 ([[https://suttacentral.net/sn46.54/pli/ms][SC]], [[http://localhost:4848/suttas/sn46.54/pli/ms?quote=appa%25E1%25B9%25ADik%25C5%25ABle%2520pa%25E1%25B9%25ADik%25C5%25ABlasa%25C3%25B1%25C3%25B1%25C4%25AB%2520vihareyyan&window_type=Sutta+Study][SSP]]) Mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharatha ...\\
+So sace ākaṅkhati ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati.
+#+end_quote
+
+#+begin_quote
+Snp 4.11 ([[https://suttacentral.net/snp4.11/pli/ms][SC]], [[http://localhost:4848/suttas/snp4.11/pli/ms?quote=Na%2520sa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB%2520na%2520visa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB&window_type=Sutta+Study][SSP]]) Na saññasaññī na visaññasaññī, / Nopi asaññī na vibhūtasaññī;
+
+Evaṁ sametassa vibhoti rūpaṁ, / Saññānidānā hi papañcasaṅkhā.
+#+end_quote
+
+** Notes :noexport:
+*** Notes
+
+dvya -> phassa -> Dhp -> Satip -> Metta
+
+phassa: upadhi paṭicca rūpe
+
+samphassa -> vedana -> sañcetana
+can you go back? undo the conditioned perception
+
+viññāṇaṁ anidassanaṁ
+- a consciousness which doesn't show anything
+
+-----
+
+manas - yoniso - rāga (citta)
+cetasa (dosa)
+viññāṇa -> saññā -> vedanā
+yaṁ vedeti...
+
+-----
+
+con-sciencia, YT guy
+
+Wordless Questioning triangle and cube diagrams
+- go back to seeing just the shapes, not the cube
+
+Experiental Blindness
+bw snake photo
+
+paññāyati
+
+purisaṁ papañca_saññā_saṅkhā samudācaranti
+
+cittaṁ pariyādāya tiṭṭhati
+
+-----
+
+If you start with other terms, that concept prepares contact, and you interpret the Pāli words to serve that purpose, and experience them differently
+
+What are they studying with these terms? We are studying dukkha
+
+NOT biological terms -- nerves, organs, retina processing, etc
+NOT psychological term -- study of conditioned behaviour
+
+Not found in psychology: cessation of viññāṇa, vedanā, na saññasaññī
+
+plants have cognition, are alive, but are not /satta/
+
+-----
+
+tathatā in each case
+or its relative development
+
+manopubbangama -- why not vinnana / citta
+cittam padahati
+vedeti sañjānāti vitakketi
+vinnanam vijanati
+sannam sanjanati
+qualia grades
+mind / psyche / consciousness / cognition
+vinnana sth conditioned by nama-rupa: experience blindness
+mano-samphasso vinnanam dhamma
+citta raga-dosa sankhitta
+dhamma cittam ārabhati
+adhicitte ca āyogo
+
+: evaṁ cetaso parivitakko udapādi ...
+
+: vedeti sañjānāti papañceti
+
+: adhicitte ca āyogo
+
+- higher: not living in perception as real, MN 1
+- no inflows āsava, which are grasped signs
+- but here is cognition, viññāṇa
+
+cognition, distinction of a thing: dependent on two things, consciousness arises
+
+unconscious: na saññī
+
+*** Nature Of Citta, Mano And Viññāṅa
+
+Nature Of Citta, Mano And Viññāṅa – Ven.Dr. Thich Nhat Tu (Deputy Rector, Vietnam Buddhist University)
+https://www.undv.org/vesak2012/iabudoc/10ThichNhatTuFINAL.pdf
+
+*** qualia
+
+What's it like to be a bat?
+
+https://plato.stanford.edu/entries/qualia/
+(3): Qualia as intrinsic non-representational properties, whether regarded as physical or non-physical
+- not the content, "a dalmatian"
+- brain can function w/o producing experience of it
+(4): Qualia as intrinsic, nonphysical, ineffable properties
+
+a living being is sentient (feels, sees, hears, etc), but not cognizant of a certain thing
+not "a mind", "the consciousness" in my head
+
+*** MN 1 maññati
+
+seeing earth in the earth
+doesn't see earth in earth
+
+#+begin_quote
+Idha, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī
+
+ariyadhammassa akovido ariyadhamme avinīto,
+
+sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto.
+
+pathaviṁ pathavito sañjānāti;
+
+pathaviṁ pathavito saññatvā pathaviṁ maññati,
+
+pathaviyā maññati, pathavito maññati, pathaviṁ meti maññati,
+
+pathaviṁ abhinandati.
+
+Taṁ kissa hetu? ‘Apariññātaṁ tassā’ti vadāmi.
+
+Āpaṁ ... Tejaṁ ... Vāyaṁ ...
+
+Bhūte ... Deve ... etc.
+
+Diṭṭhaṁ ... Sutaṁ ... Mutaṁ ... Viññātaṁ ...
+
+Nibbānaṁ ...
+
+Yopi so, bhikkhave, bhikkhu sekkho appattamānaso
+
+anuttaraṁ yogakkhemaṁ patthayamāno viharati; sopi:
+
+pathaviṁ pathavito abhijānāti;
+
+pathaviṁ pathavito abhiññāya pathaviṁ mā maññi,
+
+pathaviyā mā maññi, pathavito mā maññi, pathaviṁ meti mā maññi,
+
+pathaviṁ mābhinandi.
+
+Taṁ kissa hetu? ‘Pariññeyyaṁ tassā’ti vadāmi.
+#+end_quote
+
+*** MN 128 Upakkilesasutta
 
 uid:mn128/pli/ms
 
@@ -25,4 +402,65 @@ Samādhimhi cute obhāso antaradhāyati dassanañca rūpānaṁ.
 I’ll make sure that neither doubt nor loss of focus nor dullness and drowsiness nor terror nor excitement nor discomfort nor excessive energy nor overly lax energy nor longing nor perception of diversity will arise in me again.’
 
 Sohaṁ tathā karissāmi yathā me puna na vicikicchā uppajjissati, na amanasikāro, na thinamiddhaṁ, na chambhitattaṁ, na uppilaṁ, na duṭṭhullaṁ, na accāraddhavīriyaṁ, na atilīnavīriyaṁ, na abhijappā, na nānattasaññā’ti.
+#+end_quote
+
+*** MN 148: phassapaccayā uppajjati vedayitaṁ
+
+#+begin_quote
+Manañca, bhikkhave, paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā. So sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa rāgānusayo anuseti. Dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. Tassa paṭighānusayo anuseti. Adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Tassa avijjānusayo anuseti.
+#+end_quote
+*** Viññāṇa in Nibbāna Sermons
+
+viññāṇa: discriminates, cognizes, diff b/w two things
+vi-ñāṇa: separating knowing, distinguishing
+
+vi-jānāti: tells apart the sweet, etc.
+distinguishing one taste from another
+not the recognition / perception of a taste
+connected with naming, 'this is *sweet*'
+
+Sermon 14:
+
+#+begin_quote
+The basic function of consciousness is discrimination. It distinguishes between
+the bitter and the sweet, for instance, to say: 'this is bitter', 'this is
+sweet'. Or else it distinguishes between the pleasant, the unpleasant and the
+neutral with regard to feelings: 'this is pleasant', 'this is unpleasant', 'this
+is neither-unpleasant-nor-pleasant'.
+#+end_quote
+
+Sermon 33:
+
+#+begin_quote
+In fact, what is called eye-consciousness is the very discrimination between eye
+and form. At whatever moment the eye is distinguished as the internal sphere and
+form is distinguished as the external sphere, it is then that eye-consciousness
+arises. That itself is the gap in the middle, the intervening space. Here, then,
+we have the two ends and the middle.
+
+To facilitate understanding this situation, let us hark back to the simile of
+the carpenter we brought up in an earlier sermon.
+
+We mentioned that a carpenter, fixing up a door by joining two planks, might
+speak of the contact between the two planks when his attention is turned to the
+intervening space, to see how well one plank touches the other. The concept of
+touching between the two planks came up because the carpenter's attention picked
+up the two planks as separate and not as one board.
+
+A similar phenomenon is implicit in the statement *cakkhuñca paṭicca rūpe ca
+uppajjati cakkhuviññāṇaṁ*, "dependent on eye and forms arises
+eye-consciousness". In this perceptual situation, the eye is distinguished from
+forms. That discrimination itself is consciousness. That is the gap or the
+interstice, the middle. So here we have the two ends and the middle.
+#+end_quote
+
+#+begin_quote
+SN 35.93 ([[https://suttacentral.net/sn35.93/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.93/pli/ms?window_type=Sutta+Study][SSP]]) Dvayaṁ, bhikkhave, paṭicca viññāṇaṁ sambhoti. Kathañca, bhikkhave, dvayaṁ
+paṭicca viññāṇaṁ sambhoti?
+
+Manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ. Mano anicco ... Dhammā aniccā
+... Manoviññāṇaṁ aniccaṁ vipariṇāmi aññathābhāvi.
+
+Yā kho, bhikkhave, imesaṁ tiṇṇaṁ dhammānaṁ saṅgati sannipāto samavāyo, ayaṁ
+vuccati manosamphasso. Manosamphassopi anicco vipariṇāmī aññathābhāvī.
 #+end_quote
