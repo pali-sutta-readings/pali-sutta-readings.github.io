@@ -1,15 +1,80 @@
 #+draft: t
 
 * 2025-04-02
-** Amazing Sutta AN 9999
+** Sīvaka-sutta SN 36.21
+
+([[https://suttacentral.net/sn36.21/pli/ms][SC]])
 
 #+begin_quote
-this is the text
+santi, bho gotama, eke samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: 
 
-on two lines
+yaṁ kiñcāyaṁ purisapuggalo paṭisaṁvedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā
+
+sabbaṁ taṁ pubbekatahetū ti. Idha bhavaṁ gotamo kimāhā ti?
+
+Pittasamuṭṭhānānipi kho, sīvaka, idhekaccāni vedayitāni uppajjanti.
+
+Sāmampi kho etaṁ, sīvaka, veditabbaṁ ... Lokassapi kho etaṁ, sīvaka, saccasammataṁ
+
+yathā pittasamuṭṭhānānipi idhekaccāni vedayitāni uppajjanti. 
+
+Tatra, sīvaka, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino ...
+
+Yañca sāmaṁ ñātaṁ tañca atidhāvanti, yañca loke saccasammataṁ tañca atidhāvanti.
+
+Tasmā tesaṁ samaṇabrāhmaṇānaṁ micchāti vadāmi.
+
+Semhasamuṭṭhānānipi … vātasamuṭṭhānānipi … sannipātikānipi … utupariṇāmajānipi …
+
+visamaparihārajānipi … opakkamikānipi … kammavipākajānipi idhekaccāni vedayitāni uppajjanti.
 #+end_quote
 
-| sati   | mindfulness |
-| dhamma | a thing     |
+| *santi*           | Verb, 3rd person plural, present, "They are" or "there are" -- from the root as (to be) |
+| *bho*             | Vocative particle, A polite address, often translated "Sir"  |
+| *eke*             | Adjective, nominative plural, "Some" or "certain" -- refers to an unspecified group.|
+| *samaṇabrāhmaṇā*  | Compound noun, nominative plural, "Ascetics and Brahmins" |
+| *evaṁvādino*      | Compound adjective, nominative plural, "Thus-speaking" -- evaṁ (thus) + vādino (speakers) |
+| *evaṁdiṭṭhino*    | Compound adjective, nominative plural, "Thus-seeing" -- evaṁ (thus) + diṭṭhino (view-holders)  |
+| *purisapuggalo*   | Compound noun, nominative singular, "Person" or "individual" -- purisa (man) + puggalo (individual) |
+| *paṭisaṁvedeti*   | Verb, 3rd person singular, present, "Experiences" -- paṭi (towards) + saṁ (together) + vedeti (feels)|
+| *pubbekatahetu*   | Compound noun, nominative singular, "Due to past actions" -- pubbe (past) + kata (done) + hetu (cause)  |
+| *bhavaṁ*          | Noun, nominative singular, "The venerable sir" -- respectful address, short for bhavant (honorific)          |
+| *kimāhā*          | Verb phrase (interrogative) "What does he say?" -- kiṁ (what) + āhā (says, 3rd person singular)      |
+| *pittasamuṭṭhānānipi*  | Compound noun, genitive plural, "Arising from bile" -- /pitta/ (bile) + /samuṭṭhānāni/ (arising) + /pi/ |
+| *idhekaccāni*          | Compound adjective, nominative plural, "Some here" -- /idha/ (here) + /ekaccāni/ (some, neuter plural).  |
+| *vedayitāni*           | Noun, nominative plural, "Feelings" or "experiences" -- from /vedeti/ (to feel), neuter plural.  |
+| *uppajjanti*           | Verb, 3rd person plural, present, "Arise" -- from /uppajjati/           |
+| *sāmampi*              | Adverb, "By oneself" + "even" -- /sāmaṁ/ (oneself) + /pi/ (even), emphasizing personal knowledge. |
+| *veditabbaṁ*           | Gerundive, nominative singular, "To be known" or "should be understood" -- from /vedeti/ (to know/feel).                  |
+| *lokassapi*            | Noun, genitive singular, "Of the world" -- /lokassa/ (world, genitive) + /pi/ (even).                     |
+| *saccasammataṁ*        | Compound adjective, accusative singular, "Agreed upon as true" -- /sacca/ (truth) + /sammata/ (acknowledged).       |
+| *yañca*                | Relative pronoun, accusative singular, "And that which" -- /yaṁ/ (which) + /ca/ (and)    |
+| *sāmaṁ*                | Adverb, "By oneself" -- emphasizing personal experience or knowledge.                             |
+| *ñātaṁ*                | Past participle, accusative singular, "Known" -- from /jānāti/ (to know)         |
+| *tañca*                | Demonstrative pronoun, accusative singular, "And that" -- /taṁ/ (that) + /ca/ (and)         |
+| *atidhāvanti*          | Verb, 3rd person plural, present, "They overstep" -- from /ati/ (beyond) + /dhāvati/ (to run)  |
+| *loke*                 | Noun, locative singular, "In the world" -- /loka/ (world), indicating general consensus         |
+| *tesaṁ*                | Demonstrative pronoun, genitive plural, "Of those" -- refers to the ascetics and Brahmins           |
+| *micchā*               | Adverb, "Falsely" or "wrongly" -- from /miccha/ (wrong), describing their view.               |
+| *vadāmi*               | Verb, 1st person singular, present, "I say" -- from /vadati/ (to speak), the Buddha's assertion.        |
+| *semhasamuṭṭhānānipi*  | Compound noun, genitive plural, "Arising from phlegm" -- /semha/ (phlegm) + /samuṭṭhānāni/ (arising) + /pi/     |
+| *vātasamuṭṭhānānipi*   | Compound noun, genitive plural, "Arising from wind" -- /vāta/ (wind) + /samuṭṭhānāni/ (arising) + /pi/         |
+| *sannipātikānipi*      | Compound adjective, genitive plural, "Arising from a conjunction"-- /sannipāta/ (combination) + /ika/ + /pi/       |
+| *utupariṇāmajānipi*    | Compound adjective, genitive plural, "Born of seasonal change" -- /utu/ (season) + /pariṇāma/ (change) + /ja/ + /pi/ |
+| *visamaparihārajānipi* | Compound adjective, genitive plural, "Born of improper care" -- /visama/ (uneven) + /parihāra/ (care) + /ja/ + /pi/  |
+| *opakkamikānipi*       | Adjective, genitive plural, "Due to sudden attacks" -- /opakkamika/ (from /upakkama/, sudden effort) + /pi/ |
+| *kammavipākajānipi*    | Compound adjective, genitive plural, "Born of karmic results" -- /kamma/ (action) + /vipāka/ (result) + /ja/ + /pi/  |
+
+
+Structure: The passage uses repetitive phrasing to emphasize multiple causes of feelings (vedayitāni), 
+contrasting with the view that all experiences stem solely from past karma (as the sole cause).
+
+Medical Context: Terms like pitta (bile), semha (phlegm), and vāta (wind) reflect an ancient Indian 
+humors theory akin to Ayurveda, showing a naturalistic explanation for some feelings.
+
+Philosophical Point: The Buddha critiques the deterministic view of certain ascetics and Brahmins 
+who overstep (atidhāvanti) both personal experience and common knowledge.
 
 ** SN xx Another amazing sutta
+
+
