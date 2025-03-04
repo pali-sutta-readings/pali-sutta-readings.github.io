@@ -6,6 +6,7 @@ extra_css:
   - assets/css/extra.css
 
 plugins:
+  - search
   - blog:
       blog_dir: "readings"
       post_dir: "readings/sessions"

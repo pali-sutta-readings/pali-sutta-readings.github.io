@@ -84,23 +84,6 @@ tasmā papañcakoṭṭhāsā'ti ayam'ettha attho. *samudācarantī*'ti pavattan
 
 #+html: <div class="pagebreak"></div>
 
-**** Notes :noprint:
-
-Nibbāna Sermon 10:
-
-#+begin_quote
-Consciousness follows in the wake of attention. Whatever my attention picks up,
-of that I am conscious. Though I have in front of me so many apparently visible
-objects, until my attention is focussed, eye-consciousness does not come about.
-The basic function of this type of consciousness, then, is to distinguish
-between the eye and the object seen. It is only after the eye has become
-conscious, that other factors necessary for sense perception fall into place.
-
-The two things born of that basic discrimination, together with the
-discriminating consciousness itself, that is eye-consciousness, make up the
-concept of contact.
-#+end_quote
-
 *** Mano-viññāṇaṁ, mano-samphasso
 
 #+begin_quote
@@ -147,7 +130,7 @@ Evaṁ subhāvitaṁ cittaṁ, / rāgo na samativijjhati.
 #+end_quote
 
 #+begin_quote
-SN 35.134 (SC, [[http://localhost:4848/suttas/sn35.134/pli/ms?quote=santi%252C%2520bhikkhave%252C%2520manovi%25C3%25B1%25C3%25B1eyy%25C4%2581&window_type=Sutta+Study][SSP]]) Santi, bhikkhave, manoviññeyyā dhammā manoramāpi amanoramāpi.
+SN 35.134 ([[https://suttacentral.net/sn35.134/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.134/pli/ms?quote=santi%252C%2520bhikkhave%252C%2520manovi%25C3%25B1%25C3%25B1eyy%25C4%2581&window_type=Sutta+Study][SSP]]) Santi, bhikkhave, manoviññeyyā dhammā manoramāpi amanoramāpi.
 
 Tyāssa phussa phussa cittaṁ na pariyādāya tiṭṭhanti. Cetaso apariyādānā āraddhaṁ hoti
 
@@ -222,10 +205,11 @@ DN 11 ([[https://suttacentral.net/dn11/pli/ms][SC]], [[http://localhost:4848/sut
 #+begin_quote
 SN 1.20 ([[https://suttacentral.net/sn1.20/pli/ms][SC]], [[http://localhost:4848/suttas/sn1.20/pli/ms?quote=Akkheyyasa%25C3%25B1%25C3%25B1ino%2520satt%25C4%2581&window_type=Sutta+Study][SSP]]), Nibbāna Sermon 1
 
-Akkheyyasaññino sattā, / akkheyyasmiṁ patiṭṭhitā;
-
-Akkheyyaṁ apariññāya, / yogamāyanti maccuno.
+Akkheyyasaññino sattā, / akkheyyasmiṁ patiṭṭhitā; / Akkheyyaṁ apariññāya, / yogamāyanti maccuno.
 #+end_quote
+
+| akkhāti (pr. +acc & +dat) | says (to); tells (to); explains (to)                        |
+| akkheyya (ptp.)           | could be said; expressible; lit. to be said; ptp of akkhāti |
 
 #+begin_quote
 SN 46.54 ([[https://suttacentral.net/sn46.54/pli/ms][SC]], [[http://localhost:4848/suttas/sn46.54/pli/ms?quote=appa%25E1%25B9%25ADik%25C5%25ABle%2520pa%25E1%25B9%25ADik%25C5%25ABlasa%25C3%25B1%25C3%25B1%25C4%25AB%2520vihareyyan&window_type=Sutta+Study][SSP]]) Mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharatha ...\\
@@ -237,6 +221,81 @@ Snp 4.11 ([[https://suttacentral.net/snp4.11/pli/ms][SC]], [[http://localhost:48
 
 Evaṁ sametassa vibhoti rūpaṁ, / Saññānidānā hi papañcasaṅkhā.
 #+end_quote
+
+*** Notes :noprint:
+**** Quotes from the Nibbāna Sermons by Bhikkhu K. Ñāṇananda
+
+*Sermon 10*
+
+#+begin_quote
+Consciousness follows in the wake of attention. Whatever my attention picks up,
+of that I am conscious. Though I have in front of me so many apparently visible
+objects, until my attention is focussed, eye-consciousness does not come about.
+The basic function of this type of consciousness, then, is to distinguish
+between the eye and the object seen. It is only after the eye has become
+conscious, that other factors necessary for sense perception fall into place.
+
+The two things born of that basic discrimination, together with the
+discriminating consciousness itself, that is eye-consciousness, make up the
+concept of contact.
+#+end_quote
+
+*Sermon 14*
+
+#+begin_quote
+The basic function of consciousness is discrimination. It distinguishes between
+the bitter and the sweet, for instance, to say: 'this is bitter', 'this is
+sweet'. Or else it distinguishes between the pleasant, the unpleasant and the
+neutral with regard to feelings: 'this is pleasant', 'this is unpleasant', 'this
+is neither-unpleasant-nor-pleasant'.
+#+end_quote
+
+*Sermon 24*
+
+#+begin_quote
+SN 35.93 ([[https://suttacentral.net/sn35.93/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.93/pli/ms?window_type=Sutta+Study][SSP]]) Dvayaṁ, bhikkhave, paṭicca viññāṇaṁ sambhoti. Kathañca, bhikkhave, dvayaṁ
+paṭicca viññāṇaṁ sambhoti?
+
+Manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ. Mano anicco ... Dhammā aniccā
+... Manoviññāṇaṁ aniccaṁ vipariṇāmi aññathābhāvi.
+
+Yā kho, bhikkhave, imesaṁ tiṇṇaṁ dhammānaṁ saṅgati sannipāto samavāyo, ayaṁ
+vuccati manosamphasso. Manosamphassopi anicco vipariṇāmī aññathābhāvī.
+#+end_quote
+
+(above with /mano/)
+
+"Dependent on a dyad (a pair, two things), monks, consciousness comes to be. How is it, monks, that
+consciousness comes to be dependent on a dyad? Depending on eye and forms
+arises eye-consciousness. Eye is impermanent, changing, becoming otherwise.
+Forms are impermanent, changing, becoming otherwise. Thus this dyad is
+unstable, evanescent, impermanent, changing, becoming otherwise."
+
+*Sermon 33*
+
+#+begin_quote
+In fact, what is called eye-consciousness is the very discrimination between eye
+and form. At whatever moment the eye is distinguished as the internal sphere and
+form is distinguished as the external sphere, it is then that eye-consciousness
+arises. That itself is the gap in the middle, the intervening space. Here, then,
+we have the two ends and the middle.
+
+To facilitate understanding this situation, let us hark back to the simile of
+the carpenter we brought up in an earlier sermon.
+
+We mentioned that a carpenter, fixing up a door by joining two planks, might
+speak of the contact between the two planks when his attention is turned to the
+intervening space, to see how well one plank touches the other. The concept of
+touching between the two planks came up because the carpenter's attention picked
+up the two planks as separate and not as one board.
+
+A similar phenomenon is implicit in the statement *cakkhuñca paṭicca rūpe ca
+uppajjati cakkhuviññāṇaṁ*, "dependent on eye and forms arises
+eye-consciousness". In this perceptual situation, the eye is distinguished from
+forms. That discrimination itself is consciousness. That is the gap or the
+interstice, the middle. So here we have the two ends and the middle.
+#+end_quote
+
 
 ** Notes :noexport:
 *** Notes
@@ -418,49 +477,3 @@ vi-jānāti: tells apart the sweet, etc.
 distinguishing one taste from another
 not the recognition / perception of a taste
 connected with naming, 'this is *sweet*'
-
-Sermon 14:
-
-#+begin_quote
-The basic function of consciousness is discrimination. It distinguishes between
-the bitter and the sweet, for instance, to say: 'this is bitter', 'this is
-sweet'. Or else it distinguishes between the pleasant, the unpleasant and the
-neutral with regard to feelings: 'this is pleasant', 'this is unpleasant', 'this
-is neither-unpleasant-nor-pleasant'.
-#+end_quote
-
-Sermon 33:
-
-#+begin_quote
-In fact, what is called eye-consciousness is the very discrimination between eye
-and form. At whatever moment the eye is distinguished as the internal sphere and
-form is distinguished as the external sphere, it is then that eye-consciousness
-arises. That itself is the gap in the middle, the intervening space. Here, then,
-we have the two ends and the middle.
-
-To facilitate understanding this situation, let us hark back to the simile of
-the carpenter we brought up in an earlier sermon.
-
-We mentioned that a carpenter, fixing up a door by joining two planks, might
-speak of the contact between the two planks when his attention is turned to the
-intervening space, to see how well one plank touches the other. The concept of
-touching between the two planks came up because the carpenter's attention picked
-up the two planks as separate and not as one board.
-
-A similar phenomenon is implicit in the statement *cakkhuñca paṭicca rūpe ca
-uppajjati cakkhuviññāṇaṁ*, "dependent on eye and forms arises
-eye-consciousness". In this perceptual situation, the eye is distinguished from
-forms. That discrimination itself is consciousness. That is the gap or the
-interstice, the middle. So here we have the two ends and the middle.
-#+end_quote
-
-#+begin_quote
-SN 35.93 ([[https://suttacentral.net/sn35.93/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.93/pli/ms?window_type=Sutta+Study][SSP]]) Dvayaṁ, bhikkhave, paṭicca viññāṇaṁ sambhoti. Kathañca, bhikkhave, dvayaṁ
-paṭicca viññāṇaṁ sambhoti?
-
-Manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ. Mano anicco ... Dhammā aniccā
-... Manoviññāṇaṁ aniccaṁ vipariṇāmi aññathābhāvi.
-
-Yā kho, bhikkhave, imesaṁ tiṇṇaṁ dhammānaṁ saṅgati sannipāto samavāyo, ayaṁ
-vuccati manosamphasso. Manosamphassopi anicco vipariṇāmī aññathābhāvī.
-#+end_quote
