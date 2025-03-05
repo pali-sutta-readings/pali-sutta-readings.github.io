@@ -13,6 +13,8 @@ New File in VS Code: Sessions
 Ctrl + Shift +P : html (Clipboard HTML to org)
 Note: When making new file stop and restart watcher (Ctrl+c) (make convert) 
 To make a draft (ie. not published), insert on top #+ draft: t 
-To publish on Github website: on Terminal: make publish 
-localhost:8000 → local preview
+To publish on Github website: on Terminal: make publish
+
+make preview
+opens localhost:8000 → local preview
 
