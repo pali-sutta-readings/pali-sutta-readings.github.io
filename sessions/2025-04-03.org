@@ -81,7 +81,7 @@ This will only show on the web
 
 *** Notes :noexport:
 
-notes here
+new notes here
 
 * Notes :noexport:
 ** subheader
