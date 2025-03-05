@@ -88,7 +88,10 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
 
         print(f"Converted to: {md_file}")
 
-        print_md_file = md_file.parent.parent.parent.joinpath("readings-print").joinpath(md_file.name)
+        print_md_dir = md_file.parent.parent.parent.joinpath("readings-print")
+        print_md_dir.mkdir(parents=True, exist_ok=True)
+
+        print_md_file = print_md_dir.joinpath(md_file.name)
 
         exclude_tags.append("noprint")
         options = "#+OPTIONS: tags:nil\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
