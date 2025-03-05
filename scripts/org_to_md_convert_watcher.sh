@@ -16,5 +16,5 @@ MD_SESSIONS_DIR="$2"
 
 # Start watcher.
 inotifywait -m --event modify --format '%w' "$ORG_SESSIONS_DIR"/[0-9][0-9][0-9][0-9]-*.org | while read -r file ; do
-    ./scripts/org_to_md.sh "$file" "$MD_SESSIONS_DIR"
+    ./scripts/org_to_md.py "$file" "$MD_SESSIONS_DIR"
 done

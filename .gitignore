@@ -3,6 +3,7 @@ site/
 tmp/
 # Generated Markdown files
 docs/readings/sessions/*.md
+docs/readings-print/
 
 # Environments
 .env

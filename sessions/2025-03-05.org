@@ -297,8 +297,42 @@ interstice, the middle. So here we have the two ends and the middle.
 #+end_quote
 
 
-** Notes :noexport:
-*** Notes
+* Notes :noexport:
+** Images for stages of perception
+
+- white image
+- smiley face (testing your vision!)
+- white image, fading to white flower
+- Wordless Questioning: triangle and cube diagrams
+  + go back to seeing just the shapes, not the cube
+- bw snake photo
+- colour snake photo
+- bw snake photo
+- Experiental Blindness
+
+[[id:7ba01147-d785-4bf4-9a90-d4a6529036c5][Experiential Blindness]]
+
+https://fortelabs.com/blog/how-emotions-are-made/
+
+From "How Emotions are Made" by Lisa Feldman Barrett
+
+#+begin_quote
+"experiential blindness” – the inability to perceive what you don’t already have a concept for. Remember that we
+are not experiencing the world directly; we are experiencing our mental simulation of it. And without a concept
+for something, we can’t incorporate it into our simulation.
+#+end_quote
+
+How mental experience as name-and-form is created and un-created.
+
+[[id:89c1ca87-7378-45ea-9a91-7e91205c4380][What enables us to identify experiences?]]
+
+the conceptual apparatus and words of category labels
+
+[[id:86cfd0ff-8ad2-4dc4-9438-f56b7286ff70][How do categories of distinctions affect our experience?]]
+
+we can only see what our framework of conceptions allows us to see
+
+** Notes
 
 dvya -> phassa -> Dhp -> Satip -> Metta
 
@@ -319,19 +353,13 @@ yaṁ vedeti...
 
 -----
 
-con-sciencia, YT guy
+viññāṇa: discriminates, cognizes, diff b/w two things
+vi-ñāṇa: separating knowing, distinguishing
 
-Wordless Questioning triangle and cube diagrams
-- go back to seeing just the shapes, not the cube
-
-Experiental Blindness
-bw snake photo
-
-paññāyati
-
-purisaṁ papañca_saññā_saṅkhā samudācaranti
-
-cittaṁ pariyādāya tiṭṭhati
+vi-jānāti: tells apart the sweet, etc.
+distinguishing one taste from another
+not the recognition / perception of a taste
+connected with naming, 'this is *sweet*'
 
 -----
 
@@ -378,12 +406,12 @@ cognition, distinction of a thing: dependent on two things, consciousness arises
 
 unconscious: na saññī
 
-*** Nature Of Citta, Mano And Viññāṅa
+** Nature Of Citta, Mano And Viññāṅa
 
 Nature Of Citta, Mano And Viññāṅa – Ven.Dr. Thich Nhat Tu (Deputy Rector, Vietnam Buddhist University)
 https://www.undv.org/vesak2012/iabudoc/10ThichNhatTuFINAL.pdf
 
-*** qualia
+** qualia
 
 What's it like to be a bat?
 
@@ -396,7 +424,7 @@ https://plato.stanford.edu/entries/qualia/
 a living being is sentient (feels, sees, hears, etc), but not cognizant of a certain thing
 not "a mind", "the consciousness" in my head
 
-*** MN 1 maññati
+** MN 1 maññati
 
 seeing earth in the earth
 doesn't see earth in earth
@@ -441,7 +469,7 @@ pathaviṁ mābhinandi.
 Taṁ kissa hetu? ‘Pariññeyyaṁ tassā’ti vadāmi.
 #+end_quote
 
-*** MN 128 Upakkilesasutta
+** MN 128 Upakkilesasutta
 
 uid:mn128/pli/ms
 
@@ -463,17 +491,9 @@ I’ll make sure that neither doubt nor loss of focus nor dullness and drowsines
 Sohaṁ tathā karissāmi yathā me puna na vicikicchā uppajjissati, na amanasikāro, na thinamiddhaṁ, na chambhitattaṁ, na uppilaṁ, na duṭṭhullaṁ, na accāraddhavīriyaṁ, na atilīnavīriyaṁ, na abhijappā, na nānattasaññā’ti.
 #+end_quote
 
-*** MN 148: phassapaccayā uppajjati vedayitaṁ
+** MN 148: phassapaccayā uppajjati vedayitaṁ
 
 #+begin_quote
 Manañca, bhikkhave, paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, phassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā. So sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa rāgānusayo anuseti. Dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. Tassa paṭighānusayo anuseti. Adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Tassa avijjānusayo anuseti.
 #+end_quote
-*** Viññāṇa in Nibbāna Sermons
 
-viññāṇa: discriminates, cognizes, diff b/w two things
-vi-ñāṇa: separating knowing, distinguishing
-
-vi-jānāti: tells apart the sweet, etc.
-distinguishing one taste from another
-not the recognition / perception of a taste
-connected with naming, 'this is *sweet*'

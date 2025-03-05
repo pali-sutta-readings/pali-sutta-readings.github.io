@@ -5,6 +5,9 @@ site_url: https://pali-sutta-readings.github.io
 extra_css:
   - assets/css/extra.css
 
+not_in_nav: |
+  /readings-print/
+
 plugins:
   - search
   - blog:
