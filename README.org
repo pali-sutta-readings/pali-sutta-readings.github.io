@@ -62,9 +62,11 @@ To mark a page as draft (i.e. not published on Github), insert on top:
 
 An org heading with the =:noexport:= tag is always excluded, never rendered to HTML.
 
-: * Notes :noexport:
-:
-: Clipped texts and other research notes.
+#+begin_src org
+,* Notes :noexport:
+
+Clipped texts and other research notes.
+#+end_src
 
 An org heading with the =:noprint:= tag is rendered to HTML on the sessions's web page, but is excluded on the =.../readings-print/...= url.
 
@@ -73,18 +75,20 @@ An org heading with the =:noprint:= tag is rendered to HTML on the sessions's we
 
 This is useful for creating the PDF for printing.
 
-: * 2025-03-05
-: ** AN 1.11
-:
-: Sutta text, vocabulary, for printing.
-:
-: **** Notes :noprint:
-:
-: Useful notes to include on the web page but not for printing.
-:
-: ** AN 2.22
-:
-: Another text for printing.
+#+begin_src org
+,* 2025-03-05
+,** AN 1.11
+
+Sutta text, vocabulary, for printing.
+
+,**** Notes :noprint:
+
+Useful notes to include on the web page but not for printing.
+
+,** AN 2.22
+
+Another text for printing.
+#+end_src
 
 A page break can be inserted in the print view:
 
