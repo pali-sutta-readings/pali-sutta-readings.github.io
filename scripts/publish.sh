@@ -24,6 +24,7 @@ if [[ $(git branch --show-current) != "main" ]]; then
 fi
 
 git pull origin main
+touch .nojekyll
 git add -A .
 git status
 

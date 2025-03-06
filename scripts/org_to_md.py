@@ -2,8 +2,16 @@
 
 import sys
 import subprocess
+from typing import Optional
 from pathlib import Path
 import re
+
+EXPORT_OPTIONS = "#+OPTIONS: tags:nil H:5"
+RE_YOUTUBE_ID = re.compile(r'^\#\+youtube_id:\s*([^\s]+)\s*$', flags=re.MULTILINE)
+
+def extract_youtube_id(text: str) -> Optional[str]:
+    m = RE_YOUTUBE_ID.search(text)
+    return m.group(1) if m else None
 
 def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_search = False, extra_html = ""):
     # Check draft status
@@ -14,6 +22,8 @@ def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_sear
     # Remove LaTeX commands
     org_content = re.sub(r'^#\+latex:\s+.*$', '', org_content, flags=re.MULTILINE)
     org_content = re.sub(r'^\\[a-zA-Z].*$', '', org_content, flags=re.MULTILINE)
+
+    youtube_id = extract_youtube_id(org_content)
 
     pandoc_cmd = [
         'pandoc',
@@ -54,9 +64,18 @@ date: {date}
 """
 
     with open(md_file, 'r+', encoding='utf-8') as f:
-        content = f.read()
+        md_content = f.read()
+
+        # Add the YouTube embed html after the first lvl1 heading.
+        if youtube_id:
+            m = re.search(r'^#\s+(.+)$\n', md_content, flags=re.MULTILINE)
+            if m:
+                youtube_embed_html = f"""\n<iframe width="750" height="420" src="https://www.youtube.com/embed/{youtube_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>\n"""
+                start_pos = m.end()
+                md_content = md_content[:start_pos] + youtube_embed_html + md_content[start_pos:]
+
         f.seek(0)
-        f.write(yaml_header + content)
+        f.write(yaml_header + md_content)
         f.truncate()
 
 def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
@@ -81,7 +100,7 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
         exclude_tags = ["noexport"]
 
         # Prepend export options
-        options = "#+OPTIONS: tags:nil\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
+        options = EXPORT_OPTIONS + "\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
 
         web_org_content = options + org_content
         pandoc_convert(web_org_content, date, md_file)
@@ -94,9 +113,11 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
         print_md_file = print_md_dir.joinpath(md_file.name)
 
         exclude_tags.append("noprint")
-        options = "#+OPTIONS: tags:nil\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
+        options = EXPORT_OPTIONS + "\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
 
         print_org_content = options + org_content
+        # Remove the youtube_id for the print page.
+        print_org_content = RE_YOUTUBE_ID.sub('', print_org_content)
         pandoc_convert(print_org_content, date, print_md_file, exclude_from_search=True)
 
         print(f"Converted to: {print_md_file}")
