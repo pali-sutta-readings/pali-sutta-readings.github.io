@@ -84,7 +84,7 @@ Clipped texts and other research notes.
 
 An org heading with the `:noprint:` tag is rendered to HTML on the sessions's web page, but is excluded on the `.../readings-print/...` url.
 
-<https://pali-sutta-readings.github.io/readings/2025-03-05/>\\
+<https://pali-sutta-readings.github.io/readings/2025-03-05/>  
 <https://pali-sutta-readings.github.io/readings-print/2025-03-05/>
 
 This is useful for creating the PDF for printing.
