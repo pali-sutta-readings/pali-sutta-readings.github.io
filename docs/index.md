@@ -8,7 +8,9 @@ Readings, study and discussions of the Pāli Theravāda suttas.
 
 ## Zoom Meetings
 
-Meetings on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
+See the calendar below for which days have a meeting planned.
+
+Generally, meetings are on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
 
 Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `suttanta`
 

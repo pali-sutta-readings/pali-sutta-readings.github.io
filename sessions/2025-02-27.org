@@ -1,7 +1,6 @@
+#+youtube_id: 5qL3eeQKEf4
+
 * 2025-02-27
-
-#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/5qL3eeQKEf4" title="AN 5.112 Pacchāsamaṇasutta (attendants), AN 5.106 Ānandasutta (living at ease)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ** AN 5.112 Pacchāsamaṇasutta
 
 ([[https://suttacentral.net/an5.112/pli/ms][SC]], [[http://localhost:4848/suttas/an5.112/pli/ms?window_type=Sutta+Study][SSP]])

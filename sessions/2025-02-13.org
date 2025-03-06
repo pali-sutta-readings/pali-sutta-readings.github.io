@@ -1,7 +1,6 @@
+#+youtube_id: 3xWluwkTtHA
+
 * 2025-02-13
-
-#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/3xWluwkTtHA" title="Ovāda-pāṭimokkha (MN 74 Comm, Dhp 183-185 Comm, DN 14)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ** MN 74 Commentary, a spontaneous gathering of 1250 arahants :anki:
 :PROPERTIES:
 :DECK_NAME: MN 74 Commentary

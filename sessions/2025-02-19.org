@@ -1,7 +1,6 @@
+#+youtube_id: eIx4Co7FZPw
+
 * 2025-02-19
-
-#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/eIx4Co7FZPw" title="Āyudo balado dhīro, Dhp 174 The Weaver's Daughter (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ** Exercise
 
 #+latex: \renewcommand{\arraystretch}{1.4}

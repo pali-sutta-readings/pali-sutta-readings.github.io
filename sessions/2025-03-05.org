@@ -1,7 +1,6 @@
+#+youtube_id: 6e0ux3clFtg
+
 * 2025-03-05
-
-#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/6e0ux3clFtg" title="Mano, citta, viññāṇa, saññā" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ** Mano, citta, viññāṇa, saññā
 *** Construction
 
@@ -29,7 +28,7 @@
 "device or mark by which something or someone is known"
 
 [[https://www.etymonline.com/word/perceive][perceive (v.)]] /per/ "thoroughly" + /capere/ "to grasp, take"\\
-"become aware of, gain knowledge of," especially "to come to know by direct experience," also, figuratively, "to grasp with the mind, learn, comprehend," literally "to take entirely"\\
+"become aware of, gain knowledge of," especially "to come to know by direct experience," also, figuratively, "to grasp with the mind, learn, comprehend," literally "to take entirely"
 
 *The meaning of words:*
 
