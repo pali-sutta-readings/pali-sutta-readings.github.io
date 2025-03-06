@@ -145,6 +145,11 @@
  * === Web style ===
  * ================= */
 
+span.vin {
+  display: inline-block;
+  width: 2em;
+}
+
 @media screen {
     .declensions, div.pagebreak {
         display: none;
