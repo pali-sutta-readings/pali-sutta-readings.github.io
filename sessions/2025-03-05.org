@@ -1,4 +1,7 @@
 * 2025-03-05
+
+#+html: <iframe width="750" height="420" src="https://www.youtube.com/embed/6e0ux3clFtg" title="Mano, citta, viññāṇa, saññā" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ** Mano, citta, viññāṇa, saññā
 *** Construction
 
@@ -223,6 +226,51 @@ Evaṁ sametassa vibhoti rūpaṁ, / Saññānidānā hi papañcasaṅkhā.
 #+end_quote
 
 *** Notes :noprint:
+**** Na saññasaññī ...
+
+Translation by Bhikkhu K. Ñāṇananda in Nibbāna Sermon 27:
+
+*Snp 4.11 ([[https://suttacentral.net/snp4.11/pli/ms][SC]], [[http://localhost:4848/suttas/snp4.11/pli/ms?quote=Na%2520sa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB%2520na%2520visa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB&window_type=Sutta+Study][SSP]]) Kalahavivādasutta*
+
+#+begin_quote
+/Na saññasaññī na visaññasaññī,/ \\
+/Nopi asaññī na vibhūtasaññī;/ \\
+/Evaṁ sametassa vibhoti rūpaṁ,/ \\
+/Saññānidānā hi papañcasaṅkhā./
+
+He is not conscious of normal perception, \\
+@@html:<span class="vin"></span>@@ nor is he unconscious, \\
+He is not devoid of perception, \\
+@@html:<span class="vin"></span>@@ nor has he rescinded perception, \\
+It is to one thus constituted \\
+@@html:<span class="vin"></span>@@ that form ceases to exist, \\
+For reckonings through prolificity \\
+@@html:<span class="vin"></span>@@ have perception as their source.
+#+end_quote
+
+Here the last line states a crucial fact. Reckonings, designations and the like,
+born of prolificity, are traceable to perception in the last analysis. That is
+to say, all that is due to perception.
+
+Another reason why form has received special attention here, is the fact that it
+is a precondition for contact. When there is form, there is the notion of
+resistance. That is already implicit in the question that comes in a verse at
+the beginning of the /Kalahavivādasutta/:
+
+#+begin_quote
+/Kismiṁ vibhūte na phusanti phassā,/
+
+when what is not there, do touches not touch?
+#+end_quote
+
+The answer to that query is:
+
+#+begin_quote
+/Rūpe vibhūte na phusanti phassā,/
+
+when form is not there, touches do not touch.
+#+end_quote
+
 **** Quotes from the Nibbāna Sermons by Bhikkhu K. Ñāṇananda
 
 *Sermon 10*
@@ -295,7 +343,20 @@ eye-consciousness". In this perceptual situation, the eye is distinguished from
 forms. That discrimination itself is consciousness. That is the gap or the
 interstice, the middle. So here we have the two ends and the middle.
 #+end_quote
+**** Experiental Blindness
 
+[[https://fortelabs.com/blog/how-emotions-are-made/][How Emotions Are Made: The Theory of Constructed Emotion - Forte Labs]]
+
+#+begin_quote
+"experiential blindness” – the inability to perceive what you don’t already have
+a concept for. Remember that we are not experiencing the world directly; we are
+experiencing our mental simulation of it. And without a concept for something,
+we can’t incorporate it into our simulation.
+#+end_quote
+
+[[https://www.youtube.com/watch?v=NbdRIVCBqNI][Lisa Feldman Barrett: Counterintuitive Ideas About How the Brain Works | Lex Fridman Podcast #129 - YouTube]]
+
+[[https://www.youtube.com/watch?v=NbdRIVCBqNI&t=3911s][1:05:11]] Emotions are human-constructed concepts
 
 * Notes :noexport:
 ** Images for stages of perception
@@ -317,9 +378,10 @@ https://fortelabs.com/blog/how-emotions-are-made/
 From "How Emotions are Made" by Lisa Feldman Barrett
 
 #+begin_quote
-"experiential blindness” – the inability to perceive what you don’t already have a concept for. Remember that we
-are not experiencing the world directly; we are experiencing our mental simulation of it. And without a concept
-for something, we can’t incorporate it into our simulation.
+"experiential blindness” – the inability to perceive what you don’t already have
+a concept for. Remember that we are not experiencing the world directly; we are
+experiencing our mental simulation of it. And without a concept for something,
+we can’t incorporate it into our simulation.
 #+end_quote
 
 How mental experience as name-and-form is created and un-created.
