@@ -87,7 +87,7 @@ tasmā papañcakoṭṭhāsā'ti ayam'ettha attho. *samudācarantī*'ti pavattan
 
 #+html: <div class="pagebreak"></div>
 
-*** Mano-viññāṇaṁ, mano-samphasso
+*** Mano-viññāṇa, mano-samphassa
 
 #+begin_quote
 MN 18 ([[https://suttacentral/mn18/pli/ms][SC]], [[http://localhost:4848/suttas/mn18/pli/ms?quote=Cakkhu%25C3%25B1c%25C4%2581vuso%252C%2520pa%25E1%25B9%25ADicca%2520r%25C5%25ABpe%2520ca%2520uppajjati%2520cakkhuvi%25C3%25B1%25C3%25B1%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso ...
