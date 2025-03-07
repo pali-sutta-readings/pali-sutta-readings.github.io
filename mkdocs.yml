@@ -22,7 +22,8 @@ plugins:
       post_url_format: "{date}"
       draft_on_serve: true
       draft_if_future_date: false
-      authors_profiles: true
+      authors: true
+      # authors_profiles: true
 
   - rss:
       date_from_meta:
