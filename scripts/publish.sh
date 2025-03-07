@@ -9,10 +9,10 @@ if [[ $(git branch --show-current) != "source" ]]; then
 fi
 
 git pull origin source
-git status
 
 if [[ $(git status -s) != "" ]]; then
     git add -A .
+    git status
     git commit -m "upd"
     git push origin source
 fi
@@ -27,10 +27,10 @@ fi
 
 git pull origin main
 touch .nojekyll
-git status
 
 if [[ $(git status -s) != "" ]]; then
     git add -A .
+    git status
     git commit -m "upd"
     git push origin main
 fi
