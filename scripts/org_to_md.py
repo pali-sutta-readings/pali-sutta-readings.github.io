@@ -78,7 +78,7 @@ date: {date}
         f.write(yaml_header + md_content)
         f.truncate()
 
-def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
+def convert_org_to_md(org_file: Path, md_sessions_dir: Path, md_print_dir: Path):
     if not org_file.exists():
         raise FileNotFoundError(f"Input file {org_file} not found")
 
@@ -107,10 +107,9 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
 
         print(f"Converted to: {md_file}")
 
-        print_md_dir = md_file.parent.parent.parent.joinpath("readings-print")
-        print_md_dir.mkdir(parents=True, exist_ok=True)
+        md_print_dir.mkdir(parents=True, exist_ok=True)
 
-        print_md_file = print_md_dir.joinpath(md_file.name)
+        print_md_file = md_print_dir.joinpath(md_file.name)
 
         exclude_tags.append("noprint")
         options = EXPORT_OPTIONS + "\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
@@ -127,8 +126,8 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path):
         sys.exit(1)
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python script.py <input_org_file> <output_directory>")
+    if len(sys.argv) != 4:
+        print("Usage: org_to_md.py <input_org_file> <web_md_dir> <print_md_dir>")
         sys.exit(1)
 
-    convert_org_to_md(Path(sys.argv[1]), Path(sys.argv[2]))
+    convert_org_to_md(Path(sys.argv[1]), Path(sys.argv[2]), Path(sys.argv[3]))

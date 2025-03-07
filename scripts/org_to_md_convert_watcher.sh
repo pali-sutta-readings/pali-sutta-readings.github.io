@@ -10,11 +10,13 @@
 
 ORG_SESSIONS_DIR="$1"
 MD_SESSIONS_DIR="$2"
+MD_PRINT_DIR="$3"
 
 # Create an initial version before changes.
-./scripts/convert_once.sh "$ORG_SESSIONS_DIR" "$MD_SESSIONS_DIR"
+# This also cleans (the now stale) *.md.
+./scripts/convert_once.sh "$ORG_SESSIONS_DIR" "$MD_SESSIONS_DIR" "$MD_PRINT_DIR"
 
 # Start watcher.
 inotifywait -m --event modify --format '%w' "$ORG_SESSIONS_DIR"/[0-9][0-9][0-9][0-9]-*.org | while read -r file ; do
-    ./scripts/org_to_md.py "$file" "$MD_SESSIONS_DIR"
+    ./scripts/org_to_md.py "$file" "$MD_SESSIONS_DIR" "$MD_PRINT_DIR"
 done
