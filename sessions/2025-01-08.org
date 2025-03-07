@@ -1,3 +1,5 @@
+#+authors: gambhiro
+
 * 2025-01-08
 ** Declension Cases Overview :noexport:
 
