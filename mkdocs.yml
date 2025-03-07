@@ -22,6 +22,9 @@ plugins:
       post_url_format: "{date}"
       draft_on_serve: true
       draft_if_future_date: false
+      categories_allowed:
+        - Gavesako Bhikkhu
+        - Gambhīro Bhikkhu
 
   - rss:
       date_from_meta:

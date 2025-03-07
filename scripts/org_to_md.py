@@ -2,15 +2,22 @@
 
 import sys
 import subprocess
-from typing import Optional
+from typing import Optional, List
 from pathlib import Path
 import re
 
 EXPORT_OPTIONS = "#+OPTIONS: tags:nil H:5"
+RE_CATEGORIES = re.compile(r'^\#\+categories:\s*(.*)\s*$', flags=re.MULTILINE)
 RE_YOUTUBE_ID = re.compile(r'^\#\+youtube_id:\s*([^\s]+)\s*$', flags=re.MULTILINE)
 
-def extract_youtube_id(text: str) -> Optional[str]:
-    m = RE_YOUTUBE_ID.search(text)
+def extract_categories(org_text: str) -> List[str]:
+    m = RE_CATEGORIES.search(org_text)
+    if m is None:
+        return []
+    return [i.strip() for i in m.group(1).split(",")]
+
+def extract_youtube_id(org_text: str) -> Optional[str]:
+    m = RE_YOUTUBE_ID.search(org_text)
     return m.group(1) if m else None
 
 def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_search = False, extra_html = ""):
@@ -52,7 +59,9 @@ def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_sear
 
     exclude_line =  "\nsearch:\n  exclude: true" if exclude_from_search else ""
 
-    yaml_header = f"""---{draft_line}{exclude_line}
+    categories_line = f"\ncategories: [{", ".join(extract_categories(org_content))}]"
+
+    yaml_header = f"""---{draft_line}{exclude_line}{categories_line}
 date: {date}
 ---
 
