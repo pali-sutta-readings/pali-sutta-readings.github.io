@@ -69,25 +69,6 @@ FIXME
 
 FIXME
 
-## Additional Resources
-
-- Anki SRS
-  - <https://apps.ankiweb.net/>
-  - read about [SRS for learning](https://gwern.net/spaced-repetition)
-- NORBU AI – Buddhist AI Assistant
-  - <https://norbu-ai.org/>
-- Digital Pāḷi Dictionary by Ven. Bodhirasa
-  - <https://dpdict.net/>
-- Simsapa Dhamma Reader by Ven. Gambhīro
-  - <https://simsapa.github.io/>
-  - desktop application, works offline
-- Tipitaka Pāli Reader by Ven. Subhūti
-  - <https://americanmonk.org/tipitaka-pali-reader/>
-  - mobile and desktop
-- Digital Pāli Reader
-  - <https://www.digitalpalireader.online>
-  - browser application
-
 ## Notifications with RSS or Email
 
 The RSS Feed url: <https://pali-sutta-readings.github.io/feed.xml>
