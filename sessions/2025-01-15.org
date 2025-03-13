@@ -1,4 +1,4 @@
-#+authors: gambhiro
+#+author: gambhiro
 #+youtube_id: AmrQsyi99CI
 
 * 2025-01-15

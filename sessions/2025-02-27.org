@@ -1,4 +1,4 @@
-#+authors: gavesako
+#+author: gavesako
 #+youtube_id: 5qL3eeQKEf4
 
 * 2025-02-27

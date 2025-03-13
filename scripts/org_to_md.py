@@ -7,7 +7,7 @@ from pathlib import Path
 import re
 
 EXPORT_OPTIONS = "#+OPTIONS: tags:nil H:5"
-RE_AUTHORS = re.compile(r'^\#\+authors:\s*(.*)\s*$', flags=re.MULTILINE)
+RE_AUTHORS = re.compile(r'^\#\+authors*:\s*(.*)\s*$', flags=re.MULTILINE)
 RE_YOUTUBE_ID = re.compile(r'^\#\+youtube_id:\s*([^\s]+)\s*$', flags=re.MULTILINE)
 
 def extract_authors(org_text: str) -> List[str]:
