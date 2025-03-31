@@ -75,6 +75,103 @@ humors theory akin to Ayurveda, showing a naturalistic explanation for some feel
 Philosophical Point: The Buddha critiques the deterministic view of certain ascetics and Brahmins 
 who overstep (atidhāvanti) both personal experience and common knowledge.
 
+#+html: <div class="pagebreak"></div>
+
+ 
+** Dutiyaanāgatabhaya-sutta AN 5.78
+([[https://suttacentral.net/an5.78/pli/ms][SC]])
+
+#+begin_quote
+Idha, bhikkhave, bhikkhu iti paṭisañcikkhati: 
+
+‘ahaṁ kho etarahi daharo yuvā susukāḷakeso bhadrena yobbanena samannāgato
+
+paṭhamena vayasā. Hoti kho pana so samayo yaṁ imaṁ kāyaṁ jarā phusati.
+
+Jiṇṇena kho pana jarāya abhibhūtena na sukaraṁ buddhānaṁ sāsanaṁ manasi kātuṁ,
+
+na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṁ. 
+
+Purā maṁ so dhammo āgacchati aniṭṭho akanto amanāpo;
+
+handāhaṁ paṭikacceva vīriyaṁ ārabhāmi 
+
+appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya,
+
+yenāhaṁ dhammena samannāgato jiṇṇakopi phāsuṁ viharissāmī’ti. 
+
+Idaṁ, bhikkhave, paṭhamaṁ anāgatabhayaṁ sampassamānena 
+
+alameva bhikkhunā appamattena ātāpinā pahitattena viharituṁ 
+
+appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+#+end_quote
+
+|Idha	|Indeclinable (adv.) – "Here"|
+|bhikkhave	|Vocative plural of bhikkhu – "O monks"|
+|bhikkhu	|Nominative singular – "a monk" |
+|iti	|Indeclinable (quotation marker) – "thus" |
+|paṭisañcikkhati	|3rd person singular, present tense – "reflects, considers"|
+|ahaṁ	|Pronoun, nominative singular – "I"|
+|kho	|Indeclinable (emphasizer) – "indeed, truly"|
+|etarahi	|Indeclinable (adv.) – "now, at present"|
+|daharo	|Nominative singular adjective – "young"|
+|yuvā	|Nominative singular adjective – "youthful"|
+|susukāḷakeso	|Nominative singular – "having jet-black hair" (su = good, sukāḷa = black, kesa = hair)|
+|bhadrena	|Instrumental singular of bhadra – "with good (nobility, grace)"|
+|yobbanena	|Instrumental singular of yobbana – "with youth"|
+|samannāgato	|Nominative singular, past participle – "endowed with, possessing"|
+|paṭhamena	|Instrumental singular of paṭhama – "with the first (stage of life)"|
+|vayasā	|Instrumental singular of vaya – "with age, youthfulness"|
+|samayo	|Nominative singular – "time, occasion"|
+|jarā	|Nominative singular – "old age"|
+|phusati	|3rd person singular, present tense – "touches, affects"|
+|Jiṇṇena	|Instrumental singular of jiṇṇa – "by old age, agedness"|
+|jarāya	|Instrumental singular of jarā – "by old age"|
+|abhibhūtena	|Instrumental singular, past participle of abhibhūti – "overcome by"|
+|sukaraṁ	|Accusative singular of sukara – "easy"|
+|buddhānaṁ	|Genitive plural of Buddha – "of the Buddhas"|
+|sāsanaṁ	|Accusative singular – "teaching, instruction"|
+|manasi	|Locative singular of manas – "in mind, mentally"|
+|kātuṁ	|Infinitive of karoti – "to do, to focus on"|
+|sukarāni	|Accusative plural of sukara – "easy"|
+|araññavanapatthāni	|Accusative plural – "forest wilderness dwellings" (arañña = forest, vanapattha = wild places)|
+|pantāni	|Accusative plural – "secluded"|
+|senāsanāni	|Accusative plural – "dwellings, abodes"|
+|paṭisevituṁ	|Infinitive – "to resort to, to practice"|
+|Purā	|Indeclinable – "before"|
+|āgacchati	|3rd person singular, present tense – "comes"|
+|aniṭṭho	|Nominative singular adjective – "unwanted"|
+|akanto	|Nominative singular adjective – "displeasing"|
+|amanāpo	|Nominative singular adjective – "unpleasant"|
+|handāhaṁ	|Indeclinable + pronoun – "Well then, I" (handa = well then, ahaṁ = I)|
+|paṭikacceva	|Indeclinable – "immediately, from the start"|
+|vīriyaṁ	|Accusative singular – "energy, effort"|
+|ārabhāmi	|1st person singular, present tense – "I start, I exert"|
+|appattassa	|Genitive singular – "of the unachieved" (appatta = not attained)|
+|pattiyā	|Dative singular – "for attainment"|
+|anadhigatassa	|Genitive singular – "of the unacquired"|
+|adhigamāya	|Dative singular – "for acquisition"|
+|asacchikatassa	|Genitive singular – "of the unrealized"|
+|sacchikiriyāya	|Dative singular – "for realization"|
+|yenāhaṁ	|Relative pronoun + pronoun – "by which I"|
+|samannāgato	|Nominative singular – "endowed with, possessing" |
+|jiṇṇakopi	|Nominative singular – "even if aged" (jiṇṇaka = aged, pi = even)|
+|phāsuṁ	|Adverb – "comfortably"|
+|viharissāmi	|1st person singular, future tense – "I shall dwell"|
+|anāgatabhayaṁ	|Nominative singular – "fear of the future" (anāgata = future, bhaya = fear)|
+|sampassamānena	|Instrumental singular, present participle – "seeing, considering"|
+|alameva	|Indeclinable – "it is suitable, proper"|
+|bhikkhunā	|Instrumental singular – "by a monk"|
+|appamattena	|Instrumental singular – "by one who is heedful"|
+|ātāpinā	|Instrumental singular – "by one who is ardent"|
+|pahitattena	|Instrumental singular – "by one who is resolute"|
+|viharituṁ	|Infinitive – "to dwell"|
+
+
+
+
+
 *** Supporting material :noprint:
 
 This will only show on the web
@@ -86,6 +183,4 @@ new notes here
 * Notes :noexport:
 ** subheader
 
-#+html: <div class="pagebreak"></div>
 
-this will not be rendered
