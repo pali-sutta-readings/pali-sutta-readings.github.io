@@ -9,11 +9,13 @@ if [[ $(git branch --show-current) != "source" ]]; then
 fi
 
 git pull origin source
-git add -A .
-git status
 
-git commit -m "upd"
-git push origin source
+if [[ $(git status -s) != "" ]]; then
+    git add -A .
+    git status
+    git commit -m "upd"
+    git push origin source
+fi
 
 # Main branch
 
@@ -24,8 +26,11 @@ if [[ $(git branch --show-current) != "main" ]]; then
 fi
 
 git pull origin main
-git add -A .
-git status
+touch .nojekyll
 
-git commit -m "upd"
-git push origin main
+if [[ $(git status -s) != "" ]]; then
+    git add -A .
+    git status
+    git commit -m "upd"
+    git push origin main
+fi

@@ -1,6 +1,7 @@
 site_name: Pāli Sutta Readings
 site_description: Readings and discussions of the Pāli Theravāda suttas
 site_url: https://pali-sutta-readings.github.io
+site_author: Profound Labs
 
 extra_css:
   - assets/css/extra.css
@@ -10,6 +11,7 @@ not_in_nav: |
 
 plugins:
   - search
+
   - blog:
       blog_dir: "readings"
       post_dir: "readings/sessions"
@@ -20,16 +22,37 @@ plugins:
       post_url_format: "{date}"
       draft_on_serve: true
       draft_if_future_date: false
+      authors: true
+      # authors_profiles: true
+
+  - rss:
+      date_from_meta:
+        as_creation: "date"
+        as_update: "date"
+        datetime_format: "%Y-%m-%d %H:%M:%S"
+        default_time: "13:00"
+        default_timezone: Europe/Lisbon
+      enabled: true
+      length: 20
+      match_path: "readings/sessions/*"
+      url_parameters:
+        utm_source: "PaliSuttaReadings"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+      use_git: false
+      json_feed_enabled: false
+      feeds_filenames:
+        rss_created: feed.xml
 
 theme:
   name: material
+  custom_dir: overrides
 
   features:
     - navigation.instant
-    # - navigation.tabs
-    # - navigation.tabs.sticky
-    # - navigation.sections
     - navigation.expand
+    - navigation.footer
+    - header.autohide
 
   palette:
     # Palette toggle for dark mode

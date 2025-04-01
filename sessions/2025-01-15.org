@@ -1,7 +1,5 @@
-:PROPERTIES:
-:youtube_id: AmrQsyi99CI
-:youtube_title: Bojjhaṅga gilānasuttas
-:END:
+#+author: gambhiro
+#+youtube_id: AmrQsyi99CI
 
 * 2025-01-15
 ** Exercise :noexport:

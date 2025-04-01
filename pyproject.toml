@@ -4,7 +4,8 @@ version = "0.1.0"
 description = ""
 authors = ["Gambhiro <gambhiro@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{include = "pali_sutta_readings"}]
+packages = []
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"

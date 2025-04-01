@@ -8,7 +8,9 @@ Readings, study and discussions of the Pāli Theravāda suttas.
 
 ## Zoom Meetings
 
-Meetings on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
+See the calendar below for which days have a meeting planned.
+
+Generally, meetings are on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
 
 Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `suttanta`
 
@@ -67,21 +69,21 @@ FIXME
 
 FIXME
 
-## Additional Resources
+## Notifications with RSS or Email
 
-- Anki SRS
-  - <https://apps.ankiweb.net/>
-  - read about [SRS for learning](https://gwern.net/spaced-repetition)
-- NORBU AI – Buddhist AI Assistant
-  - <https://norbu-ai.org/>
-- Digital Pāḷi Dictionary by Ven. Bodhirasa
-  - <https://dpdict.net/>
-- Simsapa Dhamma Reader by Ven. Gambhīro
-  - <https://simsapa.github.io/>
-  - desktop application, works offline
-- Tipitaka Pāli Reader by Ven. Subhūti
-  - <https://americanmonk.org/tipitaka-pali-reader/>
-  - mobile and desktop
-- Digital Pāli Reader
-  - <https://www.digitalpalireader.online>
-  - browser application
+The RSS Feed url: <https://pali-sutta-readings.github.io/feed.xml>
+
+Getting updates about new reading sessions:
+
+With an **RSS reader**: [Feedbro](https://nodetics.com/feedbro/), [Feeder](https://feeder.co/), [Inoreader](https://www.inoreader.com/), etc.
+
+With an **RSS to email** service, such as:
+
+- [Blogtrottr](https://blogtrottr.com/)
+  - It sent the update email within an hour of publishing. The free version is supported by ads.
+- [Feedrabbit](https://feedrabbit.com/)
+  - The free version fetches updates every 3 hours, but no ads.
+
+Protect your email address with a forwarding alias and tracker-remover service:
+
+<https://duckduckgo.com/email/>
