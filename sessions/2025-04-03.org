@@ -1,4 +1,3 @@
-#+draft: t
 
 * 2025-04-03
 ** Sīvaka-sutta SN 36.21
@@ -75,9 +74,6 @@ humors theory akin to Ayurveda, showing a naturalistic explanation for some feel
 Philosophical Point: The Buddha critiques the deterministic view of certain ascetics and Brahmins 
 who overstep (atidhāvanti) both personal experience and common knowledge.
 
-#+html: <div class="pagebreak"></div>
-
- 
 ** Dutiyaanāgatabhaya-sutta AN 5.78
 ([[https://suttacentral.net/an5.78/pli/ms][SC]])
 
@@ -168,19 +164,5 @@ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
 |pahitattena	|Instrumental singular – "by one who is resolute"|
 |viharituṁ	|Infinitive – "to dwell"|
 
-
-
-
-
-*** Supporting material :noprint:
-
-This will only show on the web
-
-*** Notes :noexport:
-
-new notes here
-
-* Notes :noexport:
-** subheader
 
 
