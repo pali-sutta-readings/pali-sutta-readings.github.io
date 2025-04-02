@@ -6,19 +6,17 @@ title: Home
 
 Readings, study and discussions of the Pāli Theravāda suttas.
 
-## Zoom Meetings
+## Online Meetings
 
 See the calendar below for which days have a meeting planned.
 
 Generally, meetings are on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
 
-Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `suttanta`
+Meeting link: <https://meet.jit.si/PaliSuttaReadings>
 
 Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
 Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readings (youtube.com)][youtube-readings]
-
-[zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
 
 [tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
 
