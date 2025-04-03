@@ -1,7 +1,8 @@
 #+author: gavesako
+#+youtube_id: QmKCfOrPvOU
 
 * 2025-04-03
-** Sīvaka-sutta SN 36.21
+** SN 36.21 Sīvakasutta
 
 ([[https://suttacentral.net/sn36.21/pli/ms][SC]])
 
@@ -75,7 +76,64 @@ humors theory akin to Ayurveda, showing a naturalistic explanation for some feel
 Philosophical Point: The Buddha critiques the deterministic view of certain ascetics and Brahmins 
 who overstep (atidhāvanti) both personal experience and common knowledge.
 
-** Dutiyaanāgatabhaya-sutta AN 5.78
+*** Related :noprint:
+**** AN 3.76 Kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho
+
+([[https://suttacentral.net/an3.76/pli/ms][SC]])
+
+#+begin_quote
+“Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ punabbhavābhinibbatti hoti.
+#+end_quote
+
+**** paṭisaṅkhā, paṭisañcikkhati
+
+[[https://dpdict.net/?q=pa%E1%B9%ADisa%E1%B9%85kh%C4%81][paṭisaṅkhā]] [pati + saṁ + √khā + ya]
+
+ger. (+adv) reflecting; carefully considering; with due consideration
+
+ger of paṭisaṅkhāti, intrans (+adv)
+
+Root √khā･1 a (tell, announce)
+
+[[https://dpdict.net/?q=pa%E1%B9%ADisa%C3%B1cikkhati][paṭisañcikkhati]] [pati + saṁ + √cikkh + a + ti]
+
+reflects; considers; discerns
+
+Root √cikkh･1 a (show, tell)
+
+**** SN 35.146 Kammanirodhasutta
+
+([[https://suttacentral.net/sn35.146/pli/ms][SC]], [[https://www.dhammatalks.org/suttas/SN/SN35_145.html][Aj Thanissaro]])
+
+“Now what, monks, is old kamma? The eye is to be seen as old kamma, fabricated & willed, capable of being felt.
+
+#+begin_quote
+Katamañca, bhikkhave, purāṇakammaṁ? Cakkhu, bhikkhave, purāṇakammaṁ
+abhisaṅkhataṁ abhisañcetayitaṁ vedaniyaṁ daṭṭhabbaṁ …pe…
+#+end_quote
+
+“And what is new kamma? Whatever kamma one does now with the body, with speech, or with the intellect: This is called new kamma.
+
+#+begin_quote
+Katamañca, bhikkhave, navakammaṁ? Yaṁ kho, bhikkhave, etarahi kammaṁ karoti
+kāyena vācāya manasā, idaṁ vuccati, bhikkhave, navakammaṁ.
+#+end_quote
+
+**** MN 101 Devadahasutta
+
+([[https://suttacentral.net/mn101/pli/ms][SC]], [[https://www.dhammatalks.org/suttas/MN/MN101.html][Aj Thanissaro]])
+
+opakkamikā dukkhā
+
+"Friend Nigaṇṭhas, what do you think? When there is fierce striving, fierce exertion, do you feel fierce, sharp, racking pains from harsh treatment?"
+
+#+begin_quote
+‘taṁ kiṁ maññatha, āvuso nigaṇṭhā. Yasmiṁ vo samaye tibbo upakkamo hoti tibbaṁ
+padhānaṁ, tibbā tasmiṁ samaye opakkamikā dukkhā tibbā kaṭukā vedanā vediyetha;
+#+end_quote
+
+** AN 5.78 Dutiyaanāgatabhayasutta
+
 ([[https://suttacentral.net/an5.78/pli/ms][SC]])
 
 #+begin_quote
