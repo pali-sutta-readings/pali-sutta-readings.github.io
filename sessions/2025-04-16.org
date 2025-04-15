@@ -1,0 +1,113 @@
+#+author: gambhiro
+
+* 2025-04-16
+** Kp 7: Adāsi me akāsi me...
+
+([[https://suttacentral.net/kp7/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.0.0.0.6.0.0.m][DPR]], [[http://localhost:4848/suttas/kp7/pli/ms?quote=Ad%25C4%2581si%2520me%2520ak%25C4%2581si%2520me&window_type=Sutta+Study][SSP]], [[https://bhikkhu-manual.github.io/chants/anumodana.html#ad%C4%81si-me-%C4%81di-g%C4%81th%C4%81][Bhikkhu Manual]], Also: [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.6.0.0.0.0.4.m|dpr://k.6.1.0.0.4.0.a.][Pv 5 with Comm (DPR)]], [[https://suttacentral.net/pv5/pli/ms][SC]])
+
+#+begin_quote
+Tirokuṭṭesu tiṭṭhanti, / sandhisiṅghāṭakesu ca;
+
+Dvārabāhāsu tiṭṭhanti, / āgantvāna sakaṁ gharaṁ.
+
+Pahūte annapānamhi, / khajjabhojje upaṭṭhite;
+
+Na tesaṁ koci sarati, / sattānaṁ kammapaccayā.
+
+Evaṁ dadanti ñātīnaṁ, / ye honti anukampakā;
+
+Suciṁ paṇītaṁ kālena, / kappiyaṁ pānabhojanaṁ.
+#+end_quote
+
+| tirokuṭṭa (m.)         | beyond the wall; behind the wall [tiro + kuṭṭa] |
+| sandhisiṅghāṭaka (nt.) | intersection; crossroads [sandhi + siṅghāṭaka]  |
+| dvārabāhā (f.)         | door post                                       |
+| sakaṁ gharaṁ          | one's own home                                  |
+| pahūta (pp.)           | much; abundant [pa + √hū + ta]                  |
+| annapāna (nt.)         | food and drink [anna + pāna]                    |
+| upaṭṭhita (pp.)        | present; in attendance; lit. stood near         |
+| sarati                 | remembers; recollects                           |
+| ñāti (m.)              | family; relative; lit. known                    |
+| anukampaka (adj. +dat) | compassionate (towards); kind (to)              |
+
+#+begin_quote
+Idaṁ vo ñātīnaṁ hotu, / sukhitā hontu ñātayo;
+
+Te ca tattha samāgantvā, / ñātipetā samāgatā.
+
+Pahūte annapānamhi, / sakkaccaṁ anumodare;
+
+Ciraṁ jīvantu no ñātī, / yesaṁ hetu labhāmase.
+
+Amhākañca katā pūjā, / dāyakā ca anipphalā;
+#+end_quote
+
+| samāgacchati (pr. +instr) | meets together (with); encounters  [saṁ + ā + √gam + a + ti] |
+| peti (pr.)                | goes; proceeds; advances; lit. goes on [pa + √i + a + ti]     |
+| peta (pp. or m.)          | departed; deceased; dead; lit. gone on                        |
+| ñātipeta (m.)             | deceased relation                                             |
+| anipphala (adj.)          | not without fruit; not without success [na + nir + √phal + a] |
+
+#+begin_quote
+Na hi tattha kasī atthi, / gorakkhettha na vijjati.
+
+Vaṇijjā tādisī natthi, / hiraññena kayākayaṁ;
+
+Ito dinnena yāpenti, / petā kālagatā tahiṁ.
+
+Unname udakaṁ vuṭṭhaṁ, / yathā ninnaṁ pavattati;
+
+Evamevaṁ ito dinnaṁ, / petānaṁ upakappati.
+
+Yathā vārivahā pūrā, / paripūrenti sāgaraṁ;
+
+Evamevaṁ ito dinnaṁ, / petānaṁ upakappati.
+#+end_quote
+
+| kasī (f.)             | ploughing; farming                                                    |
+| gorakkha (m.)         | cow herding; lit. cow protecting [go + rakkha]                        |
+| vaṇijjā (f.)          | trade (in); trafficking (in)                                          |
+| hirañña (nt.)         | gold                                                                  |
+| kayokaya (m.)         | buying and selling; dvanda (kaya ca okaya ca)                         |
+| yāpeti (pr. +instr)   | sustains oneself (with); lit. causes to go [√yā + *āpe + ti]          |
+| unnama (m.)           | high place; lit. bent up [ud + √nam + a]                              |
+| ninna (adj. +acc)     | sloping (towards); slanting (towards); lit. bent down [ni + √nam + a] |
+| upakappati (pr. +dat) | is beneficial (for); is good (for)                                    |
+
+#+begin_quote
+Adāsi me akāsi me, / ñāti mittā sakhā ca me;
+
+Petānaṁ dakkhiṇaṁ dajjā, / pubbe katamanussaraṁ.
+
+Na hi ruṇṇaṁ vā soko vā, / yā caññā paridevanā;
+
+Na taṁ petānamatthāya, / evaṁ tiṭṭhanti ñātayo.
+#+end_quote
+
+| sakha (m.)              | friend; companion                                |
+| katamanussaranta (prp.) | remembering what was done [kataṁ + anussaranta] |
+| ruṇṇa (nt.)             | wailing; crying (pp. of rudati)                  |
+| attha (m.)              | benefit; profit; good; welfare                   |
+
+#+begin_quote
+Ayañca kho dakkhiṇā dinnā, / saṅghamhi suppatiṭṭhitā;
+
+Dīgharattaṁ hitāyassa, / ṭhānaso upakappati.
+
+So ñātidhammo ca ayaṁ nidassito, / Petāna pūjā ca katā uḷārā;
+
+Balañca bhikkhūnamanuppadinnaṁ, / Tumhehi puññaṁ pasutaṁ anappakanti.
+#+end_quote
+
+| suppatiṭṭhita (adj.)   | well established; firmly grounded; [su + pati + √ṭhā + ita]    |
+| dīgharattaṁ (ind.)    | for a long time [dīgha + ratta + aṁ]                          |
+| hitāya (nt. +gen)      | beneficial (for); advantageous (for)                           |
+| assa (pron.)           | his; of him; its; of it; nt gen sg of ima                      |
+| ṭhānaso (ind.)         | on the spot; immediately                                       |
+| ñātidhamma (m.)        | duty towards relatives; family obligation                      |
+| nidassita (pp.)        | pointed out; taught; lit. caused to see [ni + √dis + *e + ita] |
+| uḷāra (adj.)           | excellent; lofty; high; noble                                  |
+| anuppadinna (pp. +dat) | given; presented (to) [anu + pa + √dā + na]                    |
+| pasuta (pp.)           | collected; accumulated                                         |
+| anappaka (adj.)        | great; not insignificant [na + appa + ka]                      |
+
