@@ -1,0 +1,157 @@
+#+author: gambhiro
+
+* 2025-04-23
+** Dhp 174 Commentary: The Weaver's Daughter (Part 2)
+
+([[https://suttacentral.net/dhp167-178/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.12.0.0.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][SSP]]) Dhp 174 Verse
+
+#+begin_quote
+Andhabhūto ayaṁ loko, / tanuk'ettha vipassati;
+
+Sakuṇo jālamuttova, / appo saggāya gacchati.
+#+end_quote
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=s%25C4%2581pi%2520kum%25C4%2581rik%25C4%2581%2520t%25C4%25AB%25E1%25B9%2587i%2520vass%25C4%2581ni&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
+
+Continuing from [[https://pali-sutta-readings.github.io/readings/2025-02-19/#dhp-174-commentary-the-weavers-daughter-part-1][2024-02-19]]
+
+#+begin_quote
+... Sāpi kumārikā tīṇi vassāni maraṇassatiṁ bhāvesiyeva.
+
+Athekadivasaṁ satthā paccūsasamaye lokaṁ olokento, taṁ kumārikaṁ attano ñāṇajālassa antopaviṭṭhaṁ disvā, \\
+'kiṁ nu kho bhavissatī'ti upadhārento
+
+'imāya kumārikāya mama dhammadesanāya sutadivasato paṭṭhāya tīṇi vassāni maraṇassati bhāvitā, \\
+idānāhaṁ tattha gantvā imaṁ kumārikaṁ cattāro pañhe pucchitvā tāya vissajjentiyā \\
+catūsu ṭhānesu sādhukāraṁ datvā imaṁ gāthaṁ bhāsissāmi.
+
+Sā gāthāvasāne sotāpattiphale patiṭṭhahissati, taṁ nissāya mahājanassāpi sātthikā dhammadesanā bhavissatī'ti ñatvā, \\
+pañcasatabhikkhuparivāro jetavanā nikkhamitvā anupubbena aggāḷavavihāraṁ agamāsi.
+#+end_quote
+
+| divasa (nt./m.)            | day                                                                |
+| paccūsa (m.)               | before dawn; early morning                                         |
+| olokenta (prp. +acc)       | looking (at); observing; lit. looking down [ava + √lok + *e + nta] |
+| paviṭṭha (pp. +acc)        | entered; gone (into); pp. of pavisati                              |
+| upadhāreti (pr. +acc)      | considers, concludes; lit. carries near [upa + √dhar + *e + ti]    |
+| paṭṭhāya (ger. +abl)       | starting (from); from the time (of)                                |
+| pañha (nt.)                | question; enquiry                                                  |
+| pucchati (pr. +acc & +acc) | questions (somebody about something)                               |
+| vissajjeti (pr. +acc)      | responds; answers a question (causative)                           |
+| ṭhāna (nt.)                | reason; grounds; basis; cause; lit. standing [√ṭhā + ana]          |
+| avasāna (nt.)              | ending; finishing; concluding                                      |
+| mahājana (m.)              | people; lit. great people [mahā + jana]                            |
+| parivāra (m.)              | retinue; entourage; following                                      |
+
+#+begin_quote
+Āḷavivāsino 'satthā āgato'ti sutvā taṁ vihāraṁ gantvā nimantayiṁsu.
+
+Tadā sāpi kumārikā satthu āgamanaṁ sutvā
+
+'Āgato kira mayhaṁ pitā, sāmi, ācariyo puṇṇacandamukho mahāgotamabuddho'ti tuṭṭhamānasā
+#+end_quote
+
+| sāmī (m.)            | lord, ruler; (respectful address) sir; mister; master            |
+| puṇṇacanda (m.)      | full moon [puṇṇa + canda]                                        |
+| tuṭṭha (pp. +abl)    | pleased (about); satisfied (with) [√tus + ta]                    |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+'Ito me tiṇṇaṁ saṁvaccharānaṁ matthake suvaṇṇavaṇṇo satthā diṭṭhapubbo,
+
+idānissa suvaṇṇavaṇṇaṁ sarīraṁ daṭṭhuṁ madhurojañca varadhammaṁ sotuṁ labhissāmī'ti cintesi.
+#+end_quote
+
+| saṁvacchara (nt.)   | year                                                             |
+| matthake (ind. +gen) | a time-period (of) (from now); lit. at the top [mattha + ka + e] |
+| suvaṇṇavaṇṇa (adj.)  | with golden-coloured complexion [suvaṇṇa + vaṇṇa]                |
+| daṭṭhuṁ (inf. +acc)  | to see [√dis + a + tuṁ]                                         |
+| madhura (adj.)       | sweet; lovely                                                    |
+| ojas (m.)            | essence; juice; sap                                              |
+| cinteti (pr.)        | thinks (about); reflects (on)                                    |
+
+#+begin_quote
+Pitā panassā sālaṁ gacchanto āha - 'Amma, parasantako me sāṭako āropito, tassa vidatthimattaṁ aniṭṭhitaṁ,
+
+taṁ ajja niṭṭhāpessāmi, sīghaṁ me tasaraṁ vaṭṭetvā āhareyyāsī'ti.
+
+Sā cintesi - 'Ahaṁ satthu dhammaṁ sotukāmā, pitā ca maṁ evaṁ āha.
+
+Kiṁ nu kho satthu dhammaṁ suṇāmi, udāhu pitu tasaraṁ vaṭṭetvā harāmī'ti?
+
+Athassā etadahosi 'Pitā maṁ tasare anāhariyamāne potheyyapi pahareyyapi,
+
+tasmā tasaraṁ vaṭṭetvā tassa datvā pacchā dhammaṁ sossāmī'ti pīṭhake nisīditvā tasaraṁ vaṭṭesi.
+#+end_quote
+
+| amma (f.)        | mother;  dear; girl; my love                                |
+| parasantako      | belonging to another; para (other) + santako (belonging to) |
+| sāṭaka (m.)      | cloak; outer garment                                        |
+| āropita (pp.)    | got ready; set up                                           |
+| vidatthimattaṁ  | span-measure; vidatthi (span) + mattaṁ (measure)           |
+| aniṭṭhita (pp.)  | unfinished; not completed                                   |
+| niṭṭhāpeti (pr.) | causes to accomplish, causes to finish                      |
+| sīghaṁ (ind)    | quickly; swiftly; rapidly                                   |
+| tasara (nt.)     | shuttle; spindle                                            |
+| potheti (pr.)    | beats; hits                                                 |
+| paharati (pr.)   | strikes; beats; gives a blow (to)                           |
+| pīṭhaka (nt.)    | small chair; little stool                                   |
+
+#+begin_quote
+Āḷavivāsinopi satthāraṁ parivisitvā pattaṁ gahetvā anumodanatthāya aṭṭhaṁsu.
+
+Satthā 'Yamahaṁ kuladhītaraṁ nissāya tiṁsayojanamaggaṁ āgato, sā ajjāpi okāsaṁ na labhati.
+#+end_quote
+
+| parivisati (pr. +instr) | serves (with food); waits on (with food) |
+| aṭṭhaṁsu (aor.)         | they stood  [a + √ṭhā + aṁsu]            |
+| okāsa (m.)              | opportunity; chance                      |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Tāya okāse laddhe anumodanaṁ karissāmī'ti tuṇhībhūto ahosi.
+
+Evaṁ tuṇhībhūtampi satthāraṁ sadevake loke koci kiñci vattuṁ na visahati.
+#+end_quote
+
+| tuṇhībhūta (pp.)        | silent; quiet; mute; lit. became silent [tuṇhī + bhūta] |
+| vattuṁ (inf. +acc)     | to speak; to talk; inf. of vadati                       |
+| visahati (pr. +inf)     | is able (to)                                            |
+
+#+begin_quote
+Sāpi kho kumārikā tasaraṁ vaṭṭetvā pacchiyaṁ ṭhapetvā pitu santikaṁ gacchamānā parisapariyante ṭhatvā
+
+satthāraṁ olokayamānāva aṭṭhāsi. Satthāpi gīvaṁ ukkhipitvā taṁ olokesi.
+
+Sā olokitākāreneva aññāsi – 'Satthā evarūpāya parisāya majjhe nisīditvāva maṁ olokento
+
+mamāgamanaṁ paccāsīsati, attano santikaṁ āgamanameva paccāsīsatī'ti.
+
+Sā tasarapacchiṁ ṭhapetvā satthu santikaṁ agamāsi.
+#+end_quote
+
+| pacchi (f.)             | wicker basket; hand-basket                              |
+| ṭhapetvā (abs.)         | having placed; having put [√ṭhā + *āpe + tvā]           |
+| parisā (f.)             | assembly; meeting;                                      |
+| pariyanta (adj. +instr) | surrounded (by); encircled (by) [pari + anta]           |
+| gīvā (f.)               | neck                                                    |
+| ukkhipitvā (abs.)       | having raised up; having lifted up                      |
+| ākāra (m.)              | way; manner; mode; lit. way of making [ā + √kar + *a]   |
+| paccāsīsati (pr.)       | wishes (for); hopes (for); expects                      |
+
+#+begin_quote
+Kasmā pana naṁ satthā olokesīti? Evaṁ kirassa ahosi:
+
+'Esā ettova gacchamānā puthujjanakālakiriyaṁ katvā aniyatagatikā bhavissati,
+
+mama santikaṁ āgantvā gacchamānā sotāpattiphalaṁ patvā niyatagatikā hutvā
+
+tusitavimāne nibbattissatī'ti. Tassā kira taṁ divasaṁ maraṇato mutti nāma natthi.
+#+end_quote
+
+| aniyata (pp.)    | uncertain; undecided; variable; not fixed                       |
+| gatika (adj.)    | leading to; going to; with a destination [√gam + ti + ka]       |
+| vimāna (nt.)     | mansion; palace                                                 |
+| nibbattati (pr.) | re-arises; re-appears; regrows; is reborn [nī + √vatt + a + ti] |
