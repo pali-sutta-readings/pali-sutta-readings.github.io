@@ -13,7 +13,7 @@ Sakuṇo jālamuttova, / appo saggāya gacchati.
 
 ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=s%25C4%2581pi%2520kum%25C4%2581rik%25C4%2581%2520t%25C4%25AB%25E1%25B9%2587i%2520vass%25C4%2581ni&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
 
-Continuing from [[https://pali-sutta-readings.github.io/readings/2025-02-19/#dhp-174-commentary-the-weavers-daughter-part-1][2024-02-19]]
+Continuing from [[https://pali-sutta-readings.github.io/readings/2025-02-19/][2024-02-19]]
 
 #+begin_quote
 ... Sāpi kumārikā tīṇi vassāni maraṇassatiṁ bhāvesiyeva.
