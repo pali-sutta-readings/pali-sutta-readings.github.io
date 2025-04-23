@@ -1,4 +1,5 @@
 #+author: gambhiro
+#+youtube_id: b1pNLrPsCu4
 
 * 2025-04-23
 ** Dhp 174 Commentary: The Weaver's Daughter (Part 2)
@@ -155,3 +156,34 @@ tusitavimāne nibbattissatī'ti. Tassā kira taṁ divasaṁ maraṇato mutti n�
 | gatika (adj.)    | leading to; going to; with a destination [√gam + ti + ka]       |
 | vimāna (nt.)     | mansion; palace                                                 |
 | nibbattati (pr.) | re-arises; re-appears; regrows; is reborn [nī + √vatt + a + ti] |
+
+*** Esā ettova gacchamānā puthujjanakālakiriyaṁ katvā... :noprint:
+
+puthu'jjana -- puthu kilesa
+
+| puthu | many, ordinary     |
+| jana  | person, individual |
+
+#+begin_quote
+(MNa) so hi puthūnaṁ nānappakārānaṁ kilesādīnaṁ jananādīhi kāraṇehi puthujjano.
+
+Indeed, he is a worldling because he is generating numerous defilements.
+#+end_quote
+
+| so hi           | indeed he/that one             |
+| puthūnaṁ       | many (gen. pl.)                |
+| nānappakārānaṁ | various kinds (gen. pl.)       |
+| kilesādīnaṁ    | defilements, etc. (gen. pl.)   |
+| jananādīhi      | generating, etc. (ins. pl.)    |
+| kāraṇehi        | reasons/causes (ins. pl.)      |
+| puthujjano      | worldling                      |
+
+#+begin_quote
+yath'āha, puthu kilese janentī'ti puthujjanā,
+
+As is is said, 'they generate numerous defilements', hence they are worldlings,
+
+puthu avihata-sakkāya-diṭṭhikā'ti puthujjanā
+
+'they have many un-removed identity-views', hence they are worldlings.
+#+end_quote
