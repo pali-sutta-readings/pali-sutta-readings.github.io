@@ -7,11 +7,11 @@ convert:
 convert-once:
 	./scripts/convert_once.sh ./sessions ./docs/readings/sessions ./docs/readings-print
 
-build: convert-once
+generate-html:
 	poetry run mkdocs build -d ../pali-sutta-readings.github.io-main/
 
 preview:
 	poetry run mkdocs serve
 
-publish: build
+publish: convert-once
 	./scripts/publish.sh
