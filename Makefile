@@ -10,7 +10,7 @@ convert-once:
 generate-html:
 	poetry run mkdocs build -d ../pali-sutta-readings.github.io-main/
 
-preview:
+preview: convert-once
 	poetry run mkdocs serve
 
 publish: convert-once
