@@ -15,7 +15,9 @@ passanti vanabhūtāni, taṃ bālo maññatī raho.
 #+end_quote
 
 
-Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto tatth'; eva Bārāṇasiyaṃ disāpāmokkhassa santike pañcannaṃ māṇavakasatānaṃ jeṭṭho hutvā sippaṃ uggaṇhi.
+Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto tatth'; 
+
+eva Bārāṇasiyaṃ disāpāmokkhassa santike pañcannaṃ māṇavakasatānaṃ jeṭṭho hutvā sippaṃ uggaṇhi.
 
 
 | Atīte |     In the past (locative of time)     |
@@ -24,67 +26,40 @@ Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakul
 | rajjāṃ kārente | ruling the kingdom (present participle of *karoti*)                              |
 | vayappatto |    come of age (past participle)                                         |
 
-| divasa (nt./m.)            | day                                                                |
-| paccūsa (m.)               | before dawn; early morning                                         |
-| olokenta (prp. +acc)       | looking (at); observing; lit. looking down [ava + √lok + *e + nta] |
-| paviṭṭha (pp. +acc)        | entered; gone (into); pp. of pavisati                              |
-| upadhāreti (pr. +acc)      | considers, concludes; lit. carries near [upa + √dhar + *e + ti]    |
-| paṭṭhāya (ger. +abl)       | starting (from); from the time (of)                                |
-| pañha (nt.)                | question; enquiry                                                  |
-| pucchati (pr. +acc & +acc) | questions (somebody about something)                               |
-| vissajjeti (pr. +acc)      | responds; answers a question (causative)                           |
-| ṭhāna (nt.)                | reason; grounds; basis; cause; lit. standing [√ṭhā + ana]          |
-| avasāna (nt.)              | ending; finishing; concluding                                      |
-| mahājana (m.)              | people; lit. great people [mahā + jana]                            |
-| parivāra (m.)              | retinue; entourage; following                                      |
+| māṇavako  | young boy   |                                                          
+| jeṭṭho | eldest                                                                                   |
+| hutvā | having become (absolutive of *hoti*)                                                      |                                                                         
+| sippaṃ | craft                                                                                     |
+| uggaṇhi | he learned (past tense)                                                                  |
+
+
 
 #+begin_quote
-Āḷavivāsino 'satthā āgato'ti sutvā taṁ vihāraṁ gantvā nimantayiṁsu.
+Ācariyassa vayappattadhītā atthi.
 
-Tadā sāpi kumārikā satthu āgamanaṁ sutvā
+So cintesi: "imesaṃ māṇavakānaṃ sīlaṃ vīmaṃsitvā sīlasampannass'; etaṃ dassāmīti".
 
-'Āgato kira mayhaṁ pitā, sāmi, ācariyo puṇṇacandamukho mahāgotamabuddho'ti tuṭṭhamānasā
 #+end_quote
 
-| sāmī (m.)            | lord, ruler; (respectful address) sir; mister; master            |
-| puṇṇacanda (m.)      | full moon [puṇṇa + canda]                                        |
-| tuṭṭha (pp. +abl)    | pleased (about); satisfied (with) [√tus + ta]                    |
+
+| vīmaṃsitvā |   investigate, test |
+| sīlasampannassa | to the virtuous one (genitive/dative)                                          |
+| etaṃ dassāmi | I will give this                                                          |
 
 #+html: <div class="pagebreak"></div>
 
 
+#+begin_quote
+so ekadivasaṃ māṇavake āmantetvā "tātā, mayhaṃ dhītā vayappattā 
 
-* Pāli Text Analysis: Sīlavīmaṃsanajātaka (Jātaka 305)
+vivāhaṃ assā kāressāmi vatthālaṃkāraṃ laddhuṃ vaṭṭati 
 
-| Pāli Text                                                                 | English Translation & Grammatical Notes                                                                 |
-|---------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------|
-| Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente                              | In the past, when Brahmadatta was ruling in Bārāṇasī                                                  |
-|                                                                           | - *Atīte* — In the past (locative of time)                                                             |
-|                                                                           | - *Bārāṇasiyaṃ* — in Bārāṇasī (locative)                                                               |
-|                                                                           | - *Brahmadatte* — Brahmadatta (locative, "during the reign of")                                       |
-|                                                                           | - *rajjāṃ kārente* — ruling the kingdom (present participle of *karoti*)                              |
-| Bodhisatto brāhmaṇakule nibbattitvā vayappatto                           | The Bodhisatta, born in a Brahmin family and come of age                                              |
-|                                                                           | - *brāhmaṇakule* — in a Brahmin family (locative)                                                     |
-|                                                                           | - *nibbattitvā* — having been born (absolutive)                                                       |
-|                                                                           | - *vayappatto* — come of age (past participle)                                                        |
-| tatth’ eva Bārāṇasiyaṃ disāpāmokkhassa santike                           | Right there in Bārāṇasī, near the renowned teacher                                                    |
-|                                                                           | - *tatth’ eva* — right there                                                                           |
-|                                                                           | - *disāpāmokkhassa* — of the foremost in the directions (genitive)                                    |
-|                                                                           | - *santike* — near (locative)                                                                         |
-| pañcannaṃ māṇavakasatānaṃ jeṭṭho hutvā sippaṃ uggaṇhi                     | Being the eldest of 500 students, he learned a craft                                                  |
-|                                                                           | - *pañcannaṃ...satānaṃ* — of 500 students (genitive plural)                                           |
-|                                                                           | - *jeṭṭho* — eldest                                                                                   |
-|                                                                           | - *hutvā* — having become (absolutive of *hoti*)                                                      |
-|                                                                           | - *sippaṃ* — craft                                                                                     |
-|                                                                           | - *uggaṇhi* — he learned (past tense)                                                                  |
-| Ācariyassa vayappattadhītā atthi                                          | The teacher had a daughter of age                                                                     |
-|                                                                           | - *Ācariyassa* — of the teacher (genitive)                                                            |
-|                                                                           | - *vayappattadhītā* — daughter of age                                                                 |
-|                                                                           | - *atthi* — there is                                                                                  |
-| So cintesi: "imesaṃ māṇavakānaṃ sīlaṃ vīmaṃsitvā                         | He thought: “Having tested their virtue...                                                            |
-| sīlasampannass' etaṃ dassāmīti"                                          | ...I will give her to the virtuous one”                                                               |
-|                                                                           | - *sīlasampannassa* — to the virtuous one (genitive/dative)                                          |
-|                                                                           | - *etaṃ dassāmi* — I will give this                                                                   |
+tumhe attano ñātakānaṃ apassantānaṃ thenetvā 
+
+#+end_quote
+
+| theneti | to steal [√then] |
+                                                                   |
 | so ekadivasaṃ māṇavake āmantetvā                                          | One day, he summoned the students                                                                     |
 |                                                                           | - *ekadivasaṃ* — one day (accusative)                                                                 |
 |                                                                           | - *āmantetvā* — having summoned (absolutive)                                                          |
