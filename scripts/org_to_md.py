@@ -59,7 +59,8 @@ def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_sear
 
     exclude_line =  "\nsearch:\n  exclude: true" if exclude_from_search else ""
 
-    authors_line = f"\nauthors: [{", ".join(extract_authors(org_content))}]"
+    s = ", ".join(extract_authors(org_content))
+    authors_line = f"\nauthors: [{s}]"
 
     yaml_header = f"""---{draft_line}{exclude_line}{authors_line}
 date: {date}
