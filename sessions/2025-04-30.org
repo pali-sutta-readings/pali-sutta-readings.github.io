@@ -1,11 +1,10 @@
 #+author: varabho
-#+draft: t
 #+youtube_id: 
 
 * 2025-04-30
-** Jataka 305: Sīlavimaṁsa Jātaka 
+** Jataka 305: Sīlavimaṁsana Jātaka 
 
-([[https://suttacentral.net/ja305][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.13.0.0.3.0.4.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][SSP]]) Jataka 305
+([[https://suttacentral.net/ja305][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.13.0.0.3.0.4.m][DPR]],[[http://localhost:4848/suttas/s0513a3.att/pli/cst4?quote=natthi%2520loke%2520raho%2520n%25C4%2581m%25C4%2581ti%2520ida%25E1%25B9%2581%2520satth%25C4%2581%2520jetavane%2520viharanto&window_type=Sutta+Study][SSP]]) Jataka 305
 
 
 
@@ -15,10 +14,13 @@ passanti vanabhūtāni, taṃ bālo maññatī raho.
 #+end_quote
 
 
+** Jataka 305: Sīlavimaṁsana Jātaka   (Jātakatthavaṇṇanā) 
+
+#+begin_quote
 Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto tatth'; 
 
 eva Bārāṇasiyaṃ disāpāmokkhassa santike pañcannaṃ māṇavakasatānaṃ jeṭṭho hutvā sippaṃ uggaṇhi.
-
+#+end_quote
 
 | Atīte |     In the past (locative of time)     |
 | Bārāṇasiyaṃ  |— in Bārāṇasī (locative) |        
@@ -46,7 +48,7 @@ So cintesi: "imesaṃ māṇavakānaṃ sīlaṃ vīmaṃsitvā sīlasampannass'
 | sīlasampannassa | to the virtuous one (genitive/dative)                                          |
 | etaṃ dassāmi | I will give this                                                          |
 
-#+html: <div class="pagebreak"></div>
+
 
 
 #+begin_quote
@@ -58,165 +60,62 @@ tumhe attano ñātakānaṃ apassantānaṃ thenetvā
 
 #+end_quote
 
+| vivāha | giving of a daughter in marriage |
+| vatthālaṃkāraṃ |  cloths + ornaments   (alaṁ + karoti= make yourself ready) |
 | theneti | to steal [√then] |
-                                                                   |
-| so ekadivasaṃ māṇavake āmantetvā                                          | One day, he summoned the students                                                                     |
-|                                                                           | - *ekadivasaṃ* — one day (accusative)                                                                 |
-|                                                                           | - *āmantetvā* — having summoned (absolutive)                                                          |
-| "tātā, mayhaṃ dhītā vayappattā                                            | “My sons, my daughter is of age                                                                       |
-| vivāhaṃ assā kāressāmi                                                   | I will arrange her marriage                                                                           |
-| vatthālaṃkāraṃ laddhuṃ vaṭṭati                                           | It is proper to obtain ornaments                                                                      |
-| tumhe attano ñātakānaṃ apassantānaṃ thenetvā                            | You, having stolen from your unsuspecting relatives...                                                |
-| vatthālaṃkāre āharatha                                                   | ...bring the ornaments                                                                                |
-| kenaci adiṭṭham eva gaṇhāmi                                              | I only accept what no one has seen                                                                    |
-| dassetvā ābhataṃ na gaṇhāmīti"                                           | If it’s shown, I won’t take it”                                                                       |
-| Te "sādhū" ti sampaṭicchitvā                                             | They agreed saying "Alright"                                                                          |
-| tato paṭṭhāya ñātakānaṃ apassantānaṃ thenetvā                           | From then, they stole from unaware relatives                                                          |
-| vatthapilandhanādīni āharanti                                            | They brought clothing, ornaments, etc.                                                                |
-| ācariyo ābhataṃ ābhataṃ visuṃ visuṃ yeva ṭhapesi                         | The teacher stored each item separately                                                               |
-| Bodhisatto na kiñci āhari                                               | The Bodhisatta did not bring anything                                                                 |
-| Atha naṃ ācariyo āha:                                                    | Then the teacher said to him                                                                          |
-| "tvaṃ pana tāta na kiñci āharasīti"                                     | “Dear boy, did you not bring anything?”                                                               |
-| "Āma ācariyā" ti                                                         | “Yes, teacher,” he replied                                                                            |
-| "Kasmā tātā" ti                                                          | “Why, dear boy?”                                                                                      |
-| "Tumhe kassaci passantassa ābhataṃ na gaṇhatha,                         | “You do not take what is taken in someone’s sight                                                     |
-| ahaṃ pana pāpakaraṇe raho na passāmīti"                                 | But I see no hidden place to do evil                                                                  |
-| dīpento ime dve gāthā āha:                                              | Explaining, he spoke these two verses                                                                 |
-| N’atthi loke raho nāma pāpakammaṃ pakubbato                            | There’s no hidden place for one doing evil                                                            |
-| passanti vanabhūtāni, taṃ bālo maññatī raho                             | Forest spirits see; the fool thinks it’s hidden                                                       |
-| Ahaṃ raho na passāmi, suññaṃ vāpi na vijjati                           | I do not see a secret place; even empty space is not truly empty                                      |
-| yattha aññaṃ na passāmi asuññaṃ hoti tam mayā ti                        | Where I see no one, it still is not empty to me                                                       |
-
-
 
 
 #+begin_quote
-'Ito me tiṇṇaṁ saṁvaccharānaṁ matthake suvaṇṇavaṇṇo satthā diṭṭhapubbo,
 
-idānissa suvaṇṇavaṇṇaṁ sarīraṁ daṭṭhuṁ madhurojañca varadhammaṁ sotuṁ labhissāmī'ti cintesi.
+vatthālaṃkāre āharatha  
+
+kenaci adiṭṭham eva gaṇhāmi dassetvā ābhataṃ na gaṇhāmīti"
+
+Te "sādhū" ti sampaṭicchitvā  tato paṭṭhāya ñātakānaṃ apassantānaṃ thenetvā 
+
 #+end_quote
-
-| saṁvacchara (nt.)   | year                                                             |
-| matthake (ind. +gen) | a time-period (of) (from now); lit. at the top [mattha + ka + e] |
-| suvaṇṇavaṇṇa (adj.)  | with golden-coloured complexion [suvaṇṇa + vaṇṇa]                |
-| daṭṭhuṁ (inf. +acc)  | to see [√dis + a + tuṁ]                                         |
-| madhura (adj.)       | sweet; lovely                                                    |
-| ojas (m.)            | essence; juice; sap                                              |
-| cinteti (pr.)        | thinks (about); reflects (on)                                    |
+                  
+        | ābhataṃ  |   brought   pp of ābharati |
+        | sampaṭicchati | to agree, accept |
+        | paṭṭhāya  | since then...  |
+                  
 
 #+begin_quote
-Pitā panassā sālaṁ gacchanto āha - 'Amma, parasantako me sāṭako āropito, tassa vidatthimattaṁ aniṭṭhitaṁ,
 
-taṁ ajja niṭṭhāpessāmi, sīghaṁ me tasaraṁ vaṭṭetvā āhareyyāsī'ti.
+vatthapilandhanādīni āharanti. ācariyo ābhataṃ ābhataṃ visuṃ visuṃ yeva ṭhapesi. Bodhisatto na kiñci āhari   
 
-Sā cintesi - 'Ahaṁ satthu dhammaṁ sotukāmā, pitā ca maṁ evaṁ āha.
+Atha naṃ ācariyo āha: 
 
-Kiṁ nu kho satthu dhammaṁ suṇāmi, udāhu pitu tasaraṁ vaṭṭetvā harāmī'ti?
+"tvaṃ pana tāta na kiñci āharasīti"   
 
-Athassā etadahosi 'Pitā maṁ tasare anāhariyamāne potheyyapi pahareyyapi,
+"Āma ācariyā" ti 
 
-tasmā tasaraṁ vaṭṭetvā tassa datvā pacchā dhammaṁ sossāmī'ti pīṭhake nisīditvā tasaraṁ vaṭṭesi.
+"Kasmā tātā" ti  
+
+"Tumhe kassaci passantassa ābhataṃ na gaṇhatha, 
+
+ahaṃ pana pāpakaraṇe raho na passāmīti"
+
+#+end_quote
+                
+| ādi | nt. etc.; and so on; and so forth; lit. beginning with |
+| visuṃ | ind. separately; singly; individually |               
+| ṭhapesi | ṭhapeti 5: pr. (+acc) places; puts; stands; lit. causes to stand [√ṭhā + *āpe + ti]  |       
+                
+#+begin_quote  
+dīpento ime dve gāthā āha:  
+
+N’atthi loke raho nāma pāpakammaṃ pakubbato                            
+passanti vanabhūtāni, taṃ bālo maññatī raho                          
+
+Ahaṃ raho na passāmi, suññaṃ vāpi na vijjati   
+yattha aññaṃ na passāmi asuññaṃ hoti tam mayā ti     
+
+              
 #+end_quote
 
-| amma (f.)        | mother;  dear; girl; my love                                |
-| parasantako      | belonging to another; para (other) + santako (belonging to) |
-| sāṭaka (m.)      | cloak; outer garment                                        |
-| āropita (pp.)    | got ready; set up                                           |
-| vidatthimattaṁ  | span-measure; vidatthi (span) + mattaṁ (measure)           |
-| aniṭṭhita (pp.)  | unfinished; not completed                                   |
-| niṭṭhāpeti (pr.) | causes to accomplish, causes to finish                      |
-| sīghaṁ (ind)    | quickly; swiftly; rapidly                                   |
-| tasara (nt.)     | shuttle; spindle                                            |
-| potheti (pr.)    | beats; hits                                                 |
-| paharati (pr.)   | strikes; beats; gives a blow (to)                           |
-| pīṭhaka (nt.)    | small chair; little stool                                   |
 
-#+begin_quote
-Āḷavivāsinopi satthāraṁ parivisitvā pattaṁ gahetvā anumodanatthāya aṭṭhaṁsu.
+| dīpento | dīpeti 1: pr. (+acc) explains; illustrates; illuminates; lit. shines [√dīp + *e + ti] ✔|
 
-Satthā 'Yamahaṁ kuladhītaraṁ nissāya tiṁsayojanamaggaṁ āgato, sā ajjāpi okāsaṁ na labhati.
-#+end_quote
 
-| parivisati (pr. +instr) | serves (with food); waits on (with food) |
-| aṭṭhaṁsu (aor.)         | they stood  [a + √ṭhā + aṁsu]            |
-| okāsa (m.)              | opportunity; chance                      |
 
-#+html: <div class="pagebreak"></div>
-
-#+begin_quote
-Tāya okāse laddhe anumodanaṁ karissāmī'ti tuṇhībhūto ahosi.
-
-Evaṁ tuṇhībhūtampi satthāraṁ sadevake loke koci kiñci vattuṁ na visahati.
-#+end_quote
-
-| tuṇhībhūta (pp.)        | silent; quiet; mute; lit. became silent [tuṇhī + bhūta] |
-| vattuṁ (inf. +acc)     | to speak; to talk; inf. of vadati                       |
-| visahati (pr. +inf)     | is able (to)                                            |
-
-#+begin_quote
-Sāpi kho kumārikā tasaraṁ vaṭṭetvā pacchiyaṁ ṭhapetvā pitu santikaṁ gacchamānā parisapariyante ṭhatvā
-
-satthāraṁ olokayamānāva aṭṭhāsi. Satthāpi gīvaṁ ukkhipitvā taṁ olokesi.
-
-Sā olokitākāreneva aññāsi – 'Satthā evarūpāya parisāya majjhe nisīditvāva maṁ olokento
-
-mamāgamanaṁ paccāsīsati, attano santikaṁ āgamanameva paccāsīsatī'ti.
-
-Sā tasarapacchiṁ ṭhapetvā satthu santikaṁ agamāsi.
-#+end_quote
-
-| pacchi (f.)             | wicker basket; hand-basket                              |
-| ṭhapetvā (abs.)         | having placed; having put [√ṭhā + *āpe + tvā]           |
-| parisā (f.)             | assembly; meeting;                                      |
-| pariyanta (adj. +instr) | surrounded (by); encircled (by) [pari + anta]           |
-| gīvā (f.)               | neck                                                    |
-| ukkhipitvā (abs.)       | having raised up; having lifted up                      |
-| ākāra (m.)              | way; manner; mode; lit. way of making [ā + √kar + *a]   |
-| paccāsīsati (pr.)       | wishes (for); hopes (for); expects                      |
-
-#+begin_quote
-Kasmā pana naṁ satthā olokesīti? Evaṁ kirassa ahosi:
-
-'Esā ettova gacchamānā puthujjanakālakiriyaṁ katvā aniyatagatikā bhavissati,
-
-mama santikaṁ āgantvā gacchamānā sotāpattiphalaṁ patvā niyatagatikā hutvā
-
-tusitavimāne nibbattissatī'ti. Tassā kira taṁ divasaṁ maraṇato mutti nāma natthi.
-#+end_quote
-
-| aniyata (pp.)    | uncertain; undecided; variable; not fixed                       |
-| gatika (adj.)    | leading to; going to; with a destination [√gam + ti + ka]       |
-| vimāna (nt.)     | mansion; palace                                                 |
-| nibbattati (pr.) | re-arises; re-appears; regrows; is reborn [nī + √vatt + a + ti] |
-
-*** Esā ettova gacchamānā puthujjanakālakiriyaṁ katvā... :noprint:
-
-/puthu'jjana -- puthu kilesa/ \\
-manu-folk -- many defilements
-
-| puthu | many, ordinary     |
-| jana  | person, individual |
-
-#+begin_quote
-(MNa) so hi puthūnaṁ nānappakārānaṁ kilesādīnaṁ jananādīhi kāraṇehi puthujjano.
-
-Indeed, he is a worldling because he is generating numerous defilements.
-#+end_quote
-
-| so hi           | indeed he/that one             |
-| puthūnaṁ       | many (gen. pl.)                |
-| nānappakārānaṁ | various kinds (gen. pl.)       |
-| kilesādīnaṁ    | defilements, etc. (gen. pl.)   |
-| jananādīhi      | generating, etc. (ins. pl.)    |
-| kāraṇehi        | reasons/causes (ins. pl.)      |
-| puthujjano      | worldling                      |
-
-#+begin_quote
-yath'āha, puthu kilese janentī'ti puthujjanā,
-
-As is is said, 'they generate numerous defilements', hence they are worldlings,
-
-puthu avihata-sakkāya-diṭṭhikā'ti puthujjanā
-
-'they have many un-removed identity-views', hence they are worldlings.
-#+end_quote
