@@ -121,6 +121,44 @@ yattha aññaṃ na passāmi asuññaṃ hoti tam mayā ti
 
 ** Commentaries about "Arahant"
 
-Visuddhimagga, I, p. 198: Tattha ārakattā arīnaṃ… Bhagavā arahan ti veditabbo. “Because he is far away (āraka) [from the passions], because he has destroyed the enemies (ari) [i.e., the passions], because he has broken the spokes (ara) [of the wheel of existence], because he is worthy (araha) of receiving the necessities, because he stays apart from evil actions, for all these reasons the Blessed One is called Arahant.” See also Majjhima, I, p. 280; Aṅguttara, IV, p. 145.
+Visuddhimagga I 198 ([[https://archive.org/details/Visuddhimagga/page/198/mode/2up?view=theater][PDF]]): Tattha ārakattā arīnaṁ... ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=x.0.7.0.0.0.0.m&query=tattha%20%C4%81rakatt%C4%81%20ar%C4%ABna%E1%B9%83&para=4][DPR]], [[http://localhost:4848/suttas/e0101n.mul/pli/cst4?quote=tattha%2520%25C4%2581rakatt%25C4%2581%2520ar%25C4%25ABna%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Bhagavā arahan ti veditabbo.
 
+#+begin_quote
+(125.) tattha ārakattā arīnaṁ arānañca hatattā paccayādīnaṁ arahattā pāpakaraṇe rahābhāvāti imehi tāva kāraṇehi so bhagavā _arahanti_ anussarati. ārakā hi so sabbakilesehi suvidūravidūre ṭhito maggena savāsanānaṁ kilesānaṁ viddhaṁsitattāti _ārakattā arahaṁ_.
+#+end_quote
 
+- “Because he is far away (āraka) [from the passions],
+- because he has destroyed the enemies (ari) [i.e., the passions],
+- because he has broken the spokes (ara) [of the wheel of existence],
+- because he is worthy (araha) of receiving the necessities,
+- because he stays apart from evil actions
+
+for all these reasons the Blessed One is called Arahant.”
+
+See also Majjhima, I, p. 280; Aṅguttara, IV, p. 145.
+
+M I 280 ([[https://archive.org/details/dhatukatha-pts/PTS-Majjhima-Nikaya-Vol-I-Trenckner-1888/page/280/mode/2up?view=theater][PDF]]) is the end of MN 39 Mahāassapurasutta ([[https://suttacentral.net/mn39/pli/ms][SC]])
+
+#+begin_quote
+Kathañca, bhikkhave, bhikkhu arahaṁ hoti? Ārakāssa honti pāpakā akusalā dhammā, saṅkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṁ, jātijarāmaraṇiyā. Evaṁ kho, bhikkhave, bhikkhu arahaṁ hotī”ti.
+#+end_quote
+
+A IV 145 ([[https://archive.org/details/dhatukatha-pts/PTS-Anguttara-Nikaya-part-IV-Hardy-1899/page/145/mode/2up?view=theater][PDF]]) is AN 7.92 Arahāsutta ([[https://suttacentral.net/an7.92/pli/ms][SC]])
+
+#+begin_quote
+“Ārakattā arahā hoti. Katamesaṁ sattannaṁ? Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. Imesaṁ kho, bhikkhave, sattannaṁ dhammānaṁ ārakattā arahā hotī”ti.
+#+end_quote
+
+[[https://dpdict.net/?q=arahattamagga][arahattamagga]] (8920/dpd)
+
+#+begin_quote
+(PMa) kilesehi ārakattā, kilesārīnaṁ hatattā, saṁsāracakkassa arānaṁ hatattā, pāpakaraṇe rahābhāvā, paccay'ādīnaṁ arahattā arahaṁ, arahato bhāvo arahattaṁ. kiṁ taṁ? arahattaphalaṁ. arahattassa maggo arahattamaggo.
+#+end_quote
+
+[[https://dpdict.net/?q=arahant][arahant]] (8928/dpd)
+
+#+begin_quote
+(MNa) tehi ārakattā arahaṁ hoti, dūrībhūtattā'ti attho.
+
+(SNa) ārakā kilesehī'ti arahanto.
+#+end_quote
