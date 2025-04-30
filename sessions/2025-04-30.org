@@ -101,10 +101,32 @@ yattha aññaṁ na passāmi asuññaṁ hoti tam mayā ti
 
 ** Commentaries about "Arahant"
 
+Why is the Buddha called Arahat? ([[https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225019.html][wisdomlib.org]])
+
+#+begin_quote
+(1) Ara means enemy (ari) and hat means to kill (han). The expression therefore means “killer of enemies”.
+
+Vism. I 198 ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=x.0.7.0.0.0.0.m&query=te%20c%C4%81nena%20kiles%C4%81rayo%20maggena%20hat%C4%81ti&para=7][DPR]], [[http://localhost:4848/suttas/e0101n.mul/pli/cst4?quote=te%2520c%25C4%2581nena%2520kiles%25C4%2581rayo%2520maggena&window_type=Sutta+Study][SSP]]): te cānena kilesārayo maggena hatāti arīnaṁ hatattāpi arahaṁ.
+
+(2) Furthermore, A marks negation and rahat means ‘to be born’. The expression means, therefore, “unborn”.
+
+(3) Finally, Arhat means worthy (arhat) of receiving worship (pūja). The fetters (saṃyojana) have been cut in the Buddha, he has attained omniscience (sarvajñāta); therefore he merits receiving the worship of beings in heaven and on earth. This is [71c] why the Buddha is called Arhat.
+
+Vism. I 201 ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=x.0.7.0.0.0.0.m&query=aggadakkhi%E1%B9%87eyyatt%C4%81%20ca%20c%C4%ABvar%C4%81dipaccaye&para=20][DPR]], [[http://localhost:4848/suttas/e0101n.mul/pli/cst4?quote=aggadakkhi%25E1%25B9%2587eyyatt%25C4%2581%2520ca%2520c%25C4%25ABvar%25C4%2581dipaccaye&window_type=Sutta+Study][SSP]]): Aggadakkhiṇeyyattā ca cīvarādipaccaye arahati pūjāvisesañca. teneva ca uppanne tathāgate yekeci mahesakkhā devamanussā, na te aññattha pūjaṁ karonti.
+#+end_quote
+
 Visuddhimagga I 198 ([[https://archive.org/details/Visuddhimagga/page/198/mode/2up?view=theater][PDF]]): Tattha ārakattā arīnaṁ... ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=x.0.7.0.0.0.0.m&query=tattha%20%C4%81rakatt%C4%81%20ar%C4%ABna%E1%B9%83&para=4][DPR]], [[http://localhost:4848/suttas/e0101n.mul/pli/cst4?quote=tattha%2520%25C4%2581rakatt%25C4%2581%2520ar%25C4%25ABna%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Bhagavā arahan ti veditabbo.
 
 #+begin_quote
-(125.) tattha ārakattā arīnaṁ arānañca hatattā paccayādīnaṁ arahattā pāpakaraṇe rahābhāvāti imehi tāva kāraṇehi so bhagavā _arahanti_ anussarati. ārakā hi so sabbakilesehi suvidūravidūre ṭhito maggena savāsanānaṁ kilesānaṁ viddhaṁsitattāti _ārakattā arahaṁ_.
+(125.) tattha ārakattā arīnaṁ arānañca hatattā paccayādīnaṁ arahattā pāpakaraṇe rahābhāvāti imehi tāva kāraṇehi so bhagavā _araha_nti anussarati. ārakā hi so sabbakilesehi suvidūravidūre ṭhito maggena savāsanānaṁ kilesānaṁ viddhaṁsitattāti _ārakattā arahaṁ_.
+
+so tato ārakā nāma, yassa yenāsamaṅgitā. \\
+asamaṅgī ca dosehi, nātho tenā_rahaṁ_ matoti..
+
+(126.) te cānena kilesārayo maggena hatāti _arīnaṁ hatattāpi arahaṁ._
+
+yasmā rāgādisaṅkhātā, sabbepi arayo hatā. \\
+paññāsatthena nāthena, tasmāpi _arahaṁ_ matoti.
 #+end_quote
 
 - “Because he is far away (āraka) [from the passions],
