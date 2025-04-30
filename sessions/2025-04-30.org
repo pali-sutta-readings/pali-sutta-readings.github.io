@@ -4,120 +4,100 @@
 * 2025-04-30
 ** Jataka 305: Sīlavimaṁsana Jātaka 
 
-([[https://suttacentral.net/ja305][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.13.0.0.3.0.4.m][DPR]],[[http://localhost:4848/suttas/s0513a3.att/pli/cst4?quote=natthi%2520loke%2520raho%2520n%25C4%2581m%25C4%2581ti%2520ida%25E1%25B9%2581%2520satth%25C4%2581%2520jetavane%2520viharanto&window_type=Sutta+Study][SSP]]) Jataka 305
-
-
+([[https://suttacentral.net/ja305][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.13.0.0.3.0.4.m][DPR]], [[http://localhost:4848/suttas/s0513a3.att/pli/cst4?quote=natthi%2520loke%2520raho%2520n%25C4%2581m%25C4%2581ti%2520ida%25E1%25B9%2581%2520satth%25C4%2581%2520jetavane%2520viharanto&window_type=Sutta+Study][SSP]]) Jataka 305
 
 #+begin_quote
-Na atthi loke raho nāma pāpakammaṃ pakubbato,\\
-passanti vanabhūtāni, taṃ bālo maññatī raho.
+Na atthi loke raho nāma pāpakammaṁ pakubbato,\\
+passanti vanabhūtāni, taṁ bālo maññatī raho.
 #+end_quote
 
-
-** Jataka 305: Sīlavimaṁsana Jātaka   (Jātakatthavaṇṇanā) 
+** Jataka 305: Sīlavimaṁsana Jātaka (Jātakatthavaṇṇanā)
 
 #+begin_quote
-Atīte Bārāṇasiyaṃ Brahmadatte rajjaṃ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto tatth'; 
+Atīte Bārāṇasiyaṁ Brahmadatte rajjaṁ kārente Bodhisatto brāhmaṇakule nibbattitvā vayappatto tatth'eva
 
-eva Bārāṇasiyaṃ disāpāmokkhassa santike pañcannaṃ māṇavakasatānaṃ jeṭṭho hutvā sippaṃ uggaṇhi.
+Bārāṇasiyaṁ disāpāmokkhassa santike pañcannaṁ māṇavakasatānaṁ jeṭṭho hutvā sippaṁ uggaṇhi.
 #+end_quote
 
-| Atīte |     In the past (locative of time)     |
-| Bārāṇasiyaṃ  |— in Bārāṇasī (locative) |        
-| Brahmadatte | Brahmadatta (locative, "during the reign of")                                       |
-| rajjāṃ kārente | ruling the kingdom (present participle of *karoti*)                              |
-| vayappatto |    come of age (past participle)                                         |
-
-| māṇavako  | young boy   |                                                          
-| jeṭṭho | eldest                                                                                   |
-| hutvā | having become (absolutive of *hoti*)                                                      |                                                                         
-| sippaṃ | craft                                                                                     |
-| uggaṇhi | he learned (past tense)                                                                  |
-
-
+| Atīte           | In the past (locative of time)                      |
+| Bārāṇasiyaṁ    | in Bārāṇasī (locative)                              |
+| Brahmadatte     | Brahmadatta (locative, "during the reign of")       |
+| rajjāṁ kārente | ruling the kingdom (present participle of *karoti*) |
+| vayappatto      | come of age (past participle)                       |
+| māṇavako        | young boy                                           |
+| jeṭṭho          | eldest                                              |
+| hutvā           | having become (absolutive of *hoti*)                |
+| sippaṁ         | craft                                               |
+| uggaṇhi         | he learned (past tense)                             |
 
 #+begin_quote
 Ācariyassa vayappattadhītā atthi.
 
-So cintesi: "imesaṃ māṇavakānaṃ sīlaṃ vīmaṃsitvā sīlasampannass'; etaṃ dassāmīti".
-
+So cintesi: "imesaṁ māṇavakānaṁ sīlaṁ vīmaṁsitvā sīlasampannass'; etaṁ dassāmīti".
 #+end_quote
 
-
-| vīmaṃsitvā |   investigate, test |
-| sīlasampannassa | to the virtuous one (genitive/dative)                                          |
-| etaṃ dassāmi | I will give this                                                          |
-
-
-
+| vīmaṁsitvā     | investigate, test                     |
+| sīlasampannassa | to the virtuous one (genitive/dative) |
+| etaṁ dassāmi   | I will give this                      |
 
 #+begin_quote
-so ekadivasaṃ māṇavake āmantetvā "tātā, mayhaṃ dhītā vayappattā 
+so ekadivasaṁ māṇavake āmantetvā "tātā, mayhaṁ dhītā vayappattā
 
-vivāhaṃ assā kāressāmi vatthālaṃkāraṃ laddhuṃ vaṭṭati 
+vivāhaṁ assā kāressāmi vatthālaṁkāraṁ laddhuṁ vaṭṭati
 
-tumhe attano ñātakānaṃ apassantānaṃ thenetvā 
-
+tumhe attano ñātakānaṁ apassantānaṁ thenetvā
 #+end_quote
 
-| vivāha | giving of a daughter in marriage |
-| vatthālaṃkāraṃ |  cloths + ornaments   (alaṁ + karoti= make yourself ready) |
-| theneti | to steal [√then] |
-
+| vivāha          | giving of a daughter in marriage                           |
+| vatthālaṁkāraṁ | cloths + ornaments   (alaṁ + karoti = make yourself ready) |
+| theneti         | to steal [√then]                                           |
 
 #+begin_quote
+vatthālaṁkāre āharatha
 
-vatthālaṃkāre āharatha  
+kenaci adiṭṭham eva gaṇhāmi dassetvā ābhataṁ na gaṇhāmīti"
 
-kenaci adiṭṭham eva gaṇhāmi dassetvā ābhataṃ na gaṇhāmīti"
-
-Te "sādhū" ti sampaṭicchitvā  tato paṭṭhāya ñātakānaṃ apassantānaṃ thenetvā 
-
+Te "sādhū" ti sampaṭicchitvā  tato paṭṭhāya ñātakānaṁ apassantānaṁ thenetvā
 #+end_quote
                   
-        | ābhataṃ  |   brought   pp of ābharati |
-        | sampaṭicchati | to agree, accept |
-        | paṭṭhāya  | since then...  |
-                  
+| ābhataṁ      | brought   pp of ābharati |
+| sampaṭicchati | to agree, accept         |
+| paṭṭhāya      | since then...            |
 
 #+begin_quote
 
-vatthapilandhanādīni āharanti. ācariyo ābhataṃ ābhataṃ visuṃ visuṃ yeva ṭhapesi. Bodhisatto na kiñci āhari   
+vatthapilandhanādīni āharanti. ācariyo ābhataṁ ābhataṁ visuṁ visuṁ yeva ṭhapesi. Bodhisatto na kiñci āhari
 
-Atha naṃ ācariyo āha: 
+Atha naṁ ācariyo āha:
 
-"tvaṃ pana tāta na kiñci āharasīti"   
+"tvaṁ pana tāta na kiñci āharasīti"
 
 "Āma ācariyā" ti 
 
 "Kasmā tātā" ti  
 
-"Tumhe kassaci passantassa ābhataṃ na gaṇhatha, 
+"Tumhe kassaci passantassa ābhataṁ na gaṇhatha,
 
-ahaṃ pana pāpakaraṇe raho na passāmīti"
-
+ahaṁ pana pāpakaraṇe raho na passāmīti"
 #+end_quote
                 
 | ādi | nt. etc.; and so on; and so forth; lit. beginning with |
-| visuṃ | ind. separately; singly; individually |               
+| visuṁ | ind. separately; singly; individually |
 | ṭhapesi | ṭhapeti 5: pr. (+acc) places; puts; stands; lit. causes to stand [√ṭhā + *āpe + ti]  |       
                 
 #+begin_quote  
 dīpento ime dve gāthā āha:  
 
-N’atthi loke raho nāma pāpakammaṃ pakubbato                            
-passanti vanabhūtāni, taṃ bālo maññatī raho                          
+N’atthi loke raho nāma pāpakammaṁ pakubbato
 
-Ahaṃ raho na passāmi, suññaṃ vāpi na vijjati   
-yattha aññaṃ na passāmi asuññaṃ hoti tam mayā ti     
+passanti vanabhūtāni, taṁ bālo maññatī raho
 
-              
+Ahaṁ raho na passāmi, suññaṁ vāpi na vijjati
+
+yattha aññaṁ na passāmi asuññaṁ hoti tam mayā ti
 #+end_quote
 
-
-| dīpento | dīpeti 1: pr. (+acc) explains; illustrates; illuminates; lit. shines [√dīp + *e + ti] ✔|
-
-
+| dīpento | dīpeti 1: pr. (+acc) explains; illustrates; illuminates; lit. shines [√dīp + *e + ti] |
 
 ** Commentaries about "Arahant"
 
