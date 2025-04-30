@@ -1,8 +1,8 @@
 #+author: varabho
-#+youtube_id: 
+#+youtube_id:
 
 * 2025-04-30
-** Jataka 305: Sīlavimaṁsana Jātaka 
+** Jataka 305: Sīlavimaṁsana Jātaka
 
 ([[https://suttacentral.net/ja305][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.13.0.0.3.0.4.m][DPR]], [[http://localhost:4848/suttas/s0513a3.att/pli/cst4?quote=natthi%2520loke%2520raho%2520n%25C4%2581m%25C4%2581ti%2520ida%25E1%25B9%2581%2520satth%25C4%2581%2520jetavane%2520viharanto&window_type=Sutta+Study][SSP]]) Jataka 305
 
@@ -59,34 +59,34 @@ kenaci adiṭṭham eva gaṇhāmi dassetvā ābhataṁ na gaṇhāmīti"
 
 Te "sādhū" ti sampaṭicchitvā  tato paṭṭhāya ñātakānaṁ apassantānaṁ thenetvā
 #+end_quote
-                  
+
 | ābhataṁ      | brought   pp of ābharati |
 | sampaṭicchati | to agree, accept         |
 | paṭṭhāya      | since then...            |
 
 #+begin_quote
 
-vatthapilandhanādīni āharanti. ācariyo ābhataṁ ābhataṁ visuṁ visuṁ yeva ṭhapesi. Bodhisatto na kiñci āhari
+vatthapilandhanādīni āharanti. ācariyo ābhataṁ ābhataṁ visuṁ visuṁ yeva ṭhapesi.
 
-Atha naṁ ācariyo āha:
+Bodhisatto na kiñci āhari Atha naṁ ācariyo āha:
 
 "tvaṁ pana tāta na kiñci āharasīti"
 
-"Āma ācariyā" ti 
+"Āma ācariyā" ti
 
-"Kasmā tātā" ti  
+"Kasmā tātā" ti
 
 "Tumhe kassaci passantassa ābhataṁ na gaṇhatha,
 
 ahaṁ pana pāpakaraṇe raho na passāmīti"
 #+end_quote
-                
-| ādi | nt. etc.; and so on; and so forth; lit. beginning with |
-| visuṁ | ind. separately; singly; individually |
-| ṭhapesi | ṭhapeti 5: pr. (+acc) places; puts; stands; lit. causes to stand [√ṭhā + *āpe + ti]  |       
-                
-#+begin_quote  
-dīpento ime dve gāthā āha:  
+
+| ādi     | nt. etc.; and so on; and so forth; lit. beginning with                              |
+| visuṁ  | ind. separately; singly; individually                                               |
+| ṭhapesi | ṭhapeti 5: pr. (+acc) places; puts; stands; lit. causes to stand [√ṭhā + *āpe + ti] |
+
+#+begin_quote
+dīpento ime dve gāthā āha:
 
 N’atthi loke raho nāma pāpakammaṁ pakubbato
 
