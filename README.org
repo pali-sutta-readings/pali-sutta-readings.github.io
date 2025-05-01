@@ -2,6 +2,55 @@
 
 Source branch of [[https://pali-sutta-readings.github.io][pali-sutta-readings.github.io]]
 
+** Setup for editing
+
+Clone the repository twice, one folder for the ~source~ branch where you edit,
+one folder for the ~main~ branch where the HTML is generated.
+
+#+begin_src
+git clone -b source git@github.com:pali-sutta-readings/pali-sutta-readings.github.io.git pali-sutta-readings.github.io-source
+
+git clone -b main git@github.com:pali-sutta-readings/pali-sutta-readings.github.io.git pali-sutta-readings.github.io-main
+#+end_src
+
+Set your git merge strategy preference:
+
+: git config --global pull.rebase false
+
+Command line tools:
+
+: pipx install poetry
+: sudo apt install pandoc inotify-tools xclip
+
+If needed, update your ~pandoc~ version from the github releases: https://github.com/jgm/pandoc/releases
+
+For Ubuntu Linux, download the ...-amd64.deb, then install with:
+
+: sudo dpkg -i ...-amd64.deb
+
+In the ~-source~ folder, install the Python packages.
+
+#+begin_src
+cd pali-sutta-readings.github.io-source
+poetry install
+#+end_src
+
+In one terminal, start a converter process:
+
+: make convert
+
+In another terminal, start a preview process:
+
+: make preview
+
+Open [[https://localhost:8000]] to see your changes.
+
+Stop either process with ~Ctrl + C~.
+
+If you create new org-mode notes, the converter has to be stopped and started again, so that it also watches the new org file.
+
+You can start notes for a reading session by creating a new file in the ~sessions/~ folder, e.g. ~sessions/2025-05-01.org~. See the *Editing tips* section below.
+
 ** Editing with VS Code
 
 Download and install VS Code: [[https://code.visualstudio.com/download]]
@@ -56,7 +105,8 @@ Open [[https://localhost:8000]]
 This commits and pushes (uploads) changes in both the =source= and =main= branch.
 
 ** Editing tips
-To mark a page as draft (i.e. not published on Github), insert on top:
+
+To mark a page as draft (i.e. not published on Github), insert on top:
 
 : #+draft: t
 
@@ -76,6 +126,10 @@ An org heading with the =:noprint:= tag is rendered to HTML on the sessions's we
 This is useful for creating the PDF for printing.
 
 #+begin_src org
+,#+author: gavesako
+,#+youtube_id:
+,#+draft: t
+
 ,* 2025-03-05
 ,** AN 1.11
 
@@ -94,9 +148,3 @@ A page break can be inserted in the print view:
 
 : #+html: <div class="pagebreak"></div>
 
-** Command line tools
-
-#+begin_src shell
-pipx install poetry
-sudo apt install pandoc inotify-tools xclip
-#+end_src

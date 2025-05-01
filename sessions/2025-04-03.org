@@ -131,6 +131,20 @@ opakkamikā dukkhā
 ‘taṁ kiṁ maññatha, āvuso nigaṇṭhā. Yasmiṁ vo samaye tibbo upakkamo hoti tibbaṁ
 padhānaṁ, tibbā tasmiṁ samaye opakkamikā dukkhā tibbā kaṭukā vedanā vediyetha;
 #+end_quote
+**** Notes
+
+[[https://www.wisdomlib.org/buddhism/article/what-kamma-is][What Kamma is]] by Sayadaw U Thittila | 1996
+
+#+begin_quote
+"According to the seed that's sown, \\
+So is the fruit ye reap therefrom. \\
+Doer of good will gather good, \\
+Doer of evil, evil reaps, \\
+Sown is the seed, and thou shalt taste \\
+The fruit thereof"
+
+Samyutta Nikaya
+#+end_quote
 
 ** AN 5.78 Dutiyaanāgatabhayasutta
 

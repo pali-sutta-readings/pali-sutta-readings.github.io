@@ -15,10 +15,30 @@ if [[ $(git branch --show-current) != "$SOURCE_BRANCH" ]]; then
     exit 1
 fi
 
-# Avoid merge commits.
-git stash
-git pull --rebase origin "$SOURCE_BRANCH"
-git stash pop
+# Avoid merge commits, stash changes if there are any.
+stashed=false
+if ! git diff --quiet HEAD; then
+  if ! git stash push -q; then
+    echo "Failed to stash changes"
+    exit 1
+  fi
+  stashed=true
+fi
+
+if ! git pull --rebase origin "$SOURCE_BRANCH"; then
+  echo "Pull failed, restoring stashed changes"
+  if $stashed; then
+    git stash pop || echo "Warning: Could not restore stashed changes"
+  fi
+  exit 1
+fi
+
+# Restore stashed changes
+if $stashed; then
+  if ! git stash pop; then
+    echo "Warning: Failed to restore stashed changes"
+  fi
+fi
 
 # Detect source changes and commit all updates.
 if ! git diff --quiet HEAD; then
