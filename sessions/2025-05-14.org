@@ -1,0 +1,204 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-05-14
+** SN 2.8: Tāyanasutta (Chinda sotaṁ parakkamma...)
+
+([[https://suttacentral.net/sn2.8/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.0.0.0.1.0.7.m|dpr://s.0.0.0.2.0.6.a.][DPR]], [[http://localhost:4848/suttas/sn2.8/pli/ms?window_type=Sutta+Study][SSP]] and [[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=a%25E1%25B9%25AD%25E1%25B9%25ADhame%2520pur%25C4%2581%25E1%25B9%2587atitthakaroti%2520pubbe%2520titthakaro&window_type=Sutta+Study][Comm]], [[https://bhikkhu-manual.github.io/chants/patimokkha-chants.html#t%C4%81yana-g%C4%81th%C4%81][Bhikkhu Manual]])
+
+#+begin_quote
+Sāvatthinidānaṁ. Atha kho tāyano devaputto purāṇatitthakaro abhikkantāya rattiyā
+
+abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami;
+
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi.
+
+Ekamantaṁ ṭhito kho tāyano devaputto bhagavato santike imā gāthāyo abhāsi:
+#+end_quote
+
+| titthakara (m.)              | founder of a religious order; lit. ford maker [tittha + kara]       |
+| abhikkanta (pp.)             | superb; surpassing; excellent; lit. gone forward [abhi + √kam + ta] |
+| abhikkantāya rattiyā (idiom) | as the evening passed; as the night progressed                      |
+| kevalakappaṁ (ind.)         | entirely, wholly; decidedly [kevala + kappa]                        |
+| obhāseti                     | makes radiant, causes to illuminate                                 |
+| aṭṭhāsi (aor.)               | stood; stayed; remained [a + √ṭhā + si]                             |
+| abhāsi (aor.)                | spoke; said [a + √bhā + si]                                         |
+
+*Comm:* Ayaṁ pana diṭṭhiṁ uppādetvā kathaṁ sagge nibbattoti? Kammavāditāya. Esa kira uposathabhattādīni adāsi...
+
+#+begin_quote
+“Chinda sotaṁ parakkamma, / kāme panuda brāhmaṇa;
+
+Nappahāya munī kāme, / nekattam-upapajjati.
+#+end_quote
+
+| chindati          | cuts off; severs                                |
+| parakkamma (ger.) | making continuous effort                        |
+| panudati          | dispels; drives out                             |
+| nappahāya         | not leaving behind; not giving up [na + pahāya] |
+| ekatta (nt.)      | unity, oneness, jhāna                           |
+| upapajjati        | appears; arises                                 |
+| aniyamita (pp)    | undefined; unspecified; i.e. "in general"       |
+
+*Comm:* Tattha chindā'ti aniyamitāaṇatti. Sotan'ti taṇhāsotaṁ. Parakkammā'ti parakkamitvā vīriyaṁ katvā. \\
+Kāme'ti kilesakāmepi vatthukāmepi. Panudā'ti nīhara. Ekattan'ti jhānaṁ. \\
+Idaṁ vuttaṁ hoti — kāme ajahitvā muni jhānaṁ na upapajjati, na paṭilabhatī'ti attho.
+
+*Taṇhāsotaṁ:* stream of craving, taṇhā is *bhavanetti*, the leader / conduit / channel of existence
+
+#+begin_quote
+SN 56.11: taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī
+#+end_quote
+
+Bhava (existence) continues to flow by influxes of kāmāsavā, bhavāsavā, diṭṭhāsavā, avijjāsavā.
+
+Compare: Dhp 383 ([[https://suttacentral.net/dhp383-423/pli/ms][SC]], [[http://localhost:4848/suttas/dhp383-423/pli/ms?window_type=Sutta+Study][SSP]]), see also [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-02.html?highlight=Chinda%20sota%E1%B9%81%20parakkamma#sermon-2][Nibbāna Sermon 2]]
+
+#+begin_quote
+Chinda sotaṁ parakkamma, / kāme panuda brāhmaṇa; / Saṅkhārānaṁ khayaṁ ñatvā, / akataññūsi brāhmaṇa.
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Kayirā ce kayirāthenaṁ, / daḷhamenaṁ parakkame;
+
+Sithilo hi paribbājo, / bhiyyo ākirate rajaṁ.
+#+end_quote
+
+| kayirā              | should do; opt of karoti                   |
+| parakkama (m.)      | continued effort; striving                 |
+| daḷhamenaṁ (sandhi) | firmly this, strongly this [daḷhaṁ + enaṁ] |
+| sithila (adj.)      | loose; lax; slack                          |
+| bhiyyo (ind. +abl)  | more (than); greater than (than)           |
+| ākirati             | stirs up; heaps up; kicks up               |
+| rajas (m.)          | dust, dirt; mental impurity                |
+
+*Comm:* Kayirā ce kayirāthenan'ti yadi vīriyaṁ kareyya, kareyyātha, taṁ vīriyaṁ na osakkeyya. \\
+daḷhamenaṁ parakkame'ti daḷhaṁ enaṁ kareyya. sithilo hi paribbājo'ti sithilagahitā pabbajjā. \\
+bhiyyo ākirate rajan'ti atirekaṁ upari kilesarajaṁ ākirati.
+
+#+begin_quote
+Akataṁ dukkaṭaṁ seyyo, / pacchā tapati dukkaṭaṁ;
+
+Katañca sukataṁ seyyo, / yaṁ katvā nānutappati.
+#+end_quote
+
+| seyyo (ind. +abl) | better (than) |
+| tapati            | burns, harms  |
+| nānutappati       | does not regret; [na + anutappati] |
+
+#+begin_quote
+Kuso yathā duggahito, / hatthamevānukantati;
+
+Sāmaññaṁ dupparāmaṭṭhaṁ, / nirayāyūpakaḍḍhati.
+#+end_quote
+
+| duggahita (adj.)   | grasped in the wrong way; [dur + √gah + ita]               |
+| anukantati         | cuts; slashes; slices                                      |
+| dupparāmaṭṭha      | wrongly held; incorrectly grasped [dur + parā + √mas + ta] |
+| nirayāyūpakaḍḍhati | drags one down to hell; [nirayāya + upakaḍḍhati]           |
+
+#+begin_quote
+Yaṁ kiñci sithilaṁ kammaṁ, / saṅkiliṭṭhañca yaṁ vataṁ;
+
+Saṅkassaraṁ brahmacariyaṁ, / na taṁ hoti mahapphalan”ti.
+#+end_quote
+
+| saṅkiliṭṭha (pp.) | tarnished; defiled; tainted                                               |
+| vata (nt.)        | obsevance, religious duty [√vat×1 a (be, proceed)]                        |
+| saṅkassara (adj.) | suspect; dodgy; doubtful; (comm) remembered with suspicion [saṅkā + sara] |
+
+*Comm:* Yaṁ kiñcī'ti na kevalaṁ dukkaṭaṁ katvā katasāmaññameva, \\
+aññampi yaṁ kiñci sithilaṁ kataṁ evarūpameva hoti. Saṁkiliṭṭhan'ti dukkarakārikavataṁ. \\
+Imasmiṁ hi sāsane paccayahetu samādinnadhutaṅgavataṁ saṁkiliṭṭhameva.
+
+Saṅkassaran'ti saṅkāya saritaṁ, “idampi iminā kataṁ bhavissati, idampi iminā”ti
+evaṁ āsaṅkitaparisaṅkitaṁ.
+
+Ādibrahmacariyikā'ti maggabrahmacariyassa ādibhūtā pubbapadhānabhūtā.
+
+#+begin_quote
+Idamavoca tāyano devaputto; idaṁ vatvā bhagavantaṁ abhivādetvā
+
+padakkhiṇaṁ katvā tatthevantaradhāyīti.
+
+Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi:
+#+end_quote
+
+| padakkhiṇa (adj.)    | auspicious; favourable; lit. to the right [pa + √dakkh + iṇa]  |
+| accayena (ind. +gen) | after the passing (of); instr sg of accaya                     |
+
+#+begin_quote
+“Imaṁ, bhikkhave, rattiṁ tāyano nāma devaputto purāṇatitthakaro abhikkantāya rattiyā
+
+abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami;
+
+upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi.
+
+Ekamantaṁ ṭhito kho, bhikkhave, tāyano devaputto mama santike imā gāthāyo abhāsi:
+
+‘Chinda sotaṁ parakkamma ... na taṁ hoti mahapphalan’ti.
+
+Idamavoca, bhikkhave, tāyano devaputto, idaṁ vatvā maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
+
+Uggaṇhātha, bhikkhave, tāyanagāthā; pariyāpuṇātha, bhikkhave, tāyanagāthā;
+
+dhāretha, bhikkhave, tāyanagāthā. Atthasaṁhitā, bhikkhave, tāyanagāthā ādibrahmacariyikā”ti.
+#+end_quote
+
+| uggaṇhāti                | grasps; learns                                                                       |
+| pariyāpuṇāti             | studies well; learns thoroughly; lit. attains all around [pari + ā + √ap + uṇā + ti] |
+| dhāreti                  | bears in mind; keeps in mind; lit. carries  [√dhar + *e + ti]                        |
+| atthasaṁhita            | meaningful; beneficial;  lit. connected with benefit / the goal [attha + saṁhita]   |
+| ādi (adj.)               | fundamental (to); essential (to); lit. beginning with                                |
+| ādibrahmacariyika (adj.) | fundamental to the holy life [ādi + brahma + cariya + ika]                           |
+
+#+html: <div class="pagebreak"></div>
+
+*** Related :noprint:
+
+Dhammapada XXII: Nirayavagga ([[https://suttacentral.net/dhp306-319/pli/ms][SC]], [[http://localhost:4848/suttas/dhp306-319/pli/ms?window_type=Sutta+Study][SSP]])
+
+- Dhp 311-314 Dubbacabhikkhuvatthu (Kuso yathā duggahito...)
+- Dhp 315 Issāpakataitthivatthu (Akataṁ dukkaṭaṁ seyyo...)
+
+*** Notes :noprint:
+**** Comm: aṭṭhame purāṇatitthakaroti
+
+#+begin_quote
+aṭṭhame purāṇatitthakaroti pubbe titthakaro. ettha ca titthaṁ nāma dvāsaṭṭhi diṭṭhiyo, titthakaro nāma tāsaṁ uppādako satthā. seyyathidaṁ nando, vaccho, kiso, saṁkicco. purāṇādayo pana titthiyā nāma. ayaṁ pana diṭṭhiṁ uppādetvā kathaṁ sagge nibbattoti? kammavāditāya. esa kira uposathabhattādīni adāsi, anāthānaṁ vattaṁ paṭṭhapesi, patissaye akāsi, pokkharaṇiyo khaṇāpesi, aññampi bahuṁ kalyāṇaṁ akāsi. so tassa nissandena sagge nibbatto, sāsanassa pana niyyānikabhāvaṁ jānāti. so tathāgatassa santikaṁ gantvā sāsanānucchavikā vīriyappaṭisaṁyuttā gāthā vakkhāmīti āgantvā chinda sotantiādimāha.
+#+end_quote
+
+*NORBU AI:*
+
+"In the eighth [verse], 'purāṇatitthakara' means a former founder of a sect. Here, 'tittha' refers to the sixty-two [wrong] views, and 'titthakara' means a teacher who originates these views. For example, [teachers like] Nanda, Vaccha, Kisa, and Sankicca. The followers of these views are called 'titthiyas' (sectarians).
+
+Now, how was he reborn in heaven after establishing [such] a view? Through his belief in kamma (action). It is said that he gave offerings during Uposatha days, established support for the destitute, built shelters, had ponds dug, and did many other meritorious deeds. Due to the results of these actions, he was reborn in heaven, and he came to know the liberating nature of the Buddha's teaching. Having gone to the Tathagata, thinking 'I will speak verses appropriate to the teaching concerning effort,' he came and spoke [the verse] beginning with 'chinda sotaṁ' (cut the stream)."
+
+**** Comm: tattha chindāti
+
+#+begin_quote
+tattha chindāti aniyamitāaṇatti. sotanti taṇhāsotaṁ. parakkammāti parakkamitvā vīriyaṁ katvā. kāmeti kilesakāmepi vatthukāmepi. panudāti nīhara. ekattanti jhānaṁ. idaṁ vuttaṁ hoti — kāme ajahitvā muni jhānaṁ na upapajjati, na paṭilabhatīti attho.
+
+kayirā ce kayirāthenanti yadi vīriyaṁ kareyya, kareyyātha, taṁ vīriyaṁ na osakkeyya.
+daḷhamenaṁ parakkameti daḷhaṁ enaṁ kareyya.
+sithilo hi paribbājoti sithilagahitā pabbajjā.
+bhiyyo ākirate rajanti atirekaṁ upari kilesarajaṁ ākirati.
+
+akataṁ dukkaṭaṁ seyyoti dukkaṭaṁ akatameva seyyo.
+yaṁ kiñcīti na kevalaṁ dukkaṭaṁ katvā katasāmaññameva, aññampi yaṁ kiñci sithilaṁ kataṁ evarūpameva hoti.
+saṁkiliṭṭhanti dukkarakārikavataṁ.
+imasmiṁ hi sāsane paccayahetu samādinnadhutaṅgavataṁ saṁkiliṭṭhameva.
+saṅkassaranti saṅkāya saritaṁ, “idampi iminā kataṁ bhavissati, idampi iminā”ti evaṁ āsaṅkitaparisaṅkitaṁ. ādibrahmacariyikāti maggabrahmacariyassa ādibhūtā pubbapadhānabhūtā. aṭṭhamaṁ.
+#+end_quote
+
+*NORBU AI:*
+
+"Here, 'chinda' (cut) is an indefinite command. 'Sota' (stream) means the stream of craving. 'Parakkamma' means having made an effort, having applied energy. 'Kāme' refers to both defiling sensual pleasures and objects of sensual pleasure. 'Panuda' means to remove. 'Ekatta' means jhāna (meditation absorption).
+
+This is what is meant: A sage cannot enter or attain jhāna without abandoning sensual pleasures.
+
+'Kayirā ce kayirāthena' means if one should make an effort, one should make it, that effort should not slacken. 'Daḷhamenaṁ parakkame' means one should make it firm. 'Sithilo hi paribbājo' means a loosely practiced religious life. 'Bhiyyo ākirate rajaṁ' means it scatters even more dust of defilements above.
+
+'Akataṁ dukkaṭaṁ seyyo' means it is better not to do wrong. 'Yaṁ kiñci' means not only having done wrong in religious practice, but whatever else is done loosely is also like this. 'Saṁkiliṭṭhaṁ' refers to difficult ascetic practices. In this teaching, ascetic practices undertaken for the sake of requisites are indeed defiled. 'Saṅkassaraṁ' means remembered with suspicion, as in "this must have been done by him, and this too" - thus doubted and suspected. 'Ādibrahmacariyikā' means fundamental to the holy life of the path, being the preliminary effort. This is the eighth [verse]."
