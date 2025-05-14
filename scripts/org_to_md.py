@@ -62,9 +62,17 @@ def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_sear
     s = ", ".join(extract_authors(org_content))
     authors_line = f"\nauthors: [{s}]"
 
+    # Add the YouTube embed html at the top so that it shows up in the index listing.
+    if youtube_id:
+        youtube_embed_html = f"""\n<iframe width="750" height="420" src="https://www.youtube.com/embed/{youtube_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>\n"""
+    else:
+        youtube_embed_html = ""
+
     yaml_header = f"""---{draft_line}{exclude_line}{authors_line}
 date: {date}
 ---
+
+{youtube_embed_html}
 
 <!-- more -->
 
@@ -75,14 +83,6 @@ date: {date}
 
     with open(md_file, 'r+', encoding='utf-8') as f:
         md_content = f.read()
-
-        # Add the YouTube embed html after the first lvl1 heading.
-        if youtube_id:
-            m = re.search(r'^#\s+(.+)$\n', md_content, flags=re.MULTILINE)
-            if m:
-                youtube_embed_html = f"""\n<iframe width="750" height="420" src="https://www.youtube.com/embed/{youtube_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>\n"""
-                start_pos = m.end()
-                md_content = md_content[:start_pos] + youtube_embed_html + md_content[start_pos:]
 
         f.seek(0)
         f.write(yaml_header + md_content)
