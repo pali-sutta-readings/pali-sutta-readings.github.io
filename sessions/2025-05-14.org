@@ -156,9 +156,45 @@ dhāretha, bhikkhave, tāyanagāthā. Atthasaṁhitā, bhikkhave, tāyanagāthā
 
 #+html: <div class="pagebreak"></div>
 
+*** Taṇhāsota :noprint:
+
+Taṇhā is *bhavanetti*, the leader / conduit / channel of existence
+
+/taṇhā ponobbhavikā/: brings up new /bhava/ again and again
+
+/taṇhā → upādāna → bhava/
+
+grasping of signs (/saṅkhā, saṁ + √khā + ā/) makes fabrications endure (/saṅkhāra, saṁ + √kar + *a/)
+
+- na upeti saṅkhaṁ (cannot be defined (by any sign))
+- papañcasaññāsaṅkhā (proliferation of concepts and constructs (of signs))
+
+/Bhava/ (existence) continues to flow by influxes of /kāmāsavā, bhavāsavā, diṭṭhāsavā, avijjāsavā/.
+
+Not grasping of signs → /asaṅkhataṁ, akataṁ/
+
+Right View ends /taṇhā/: /dukkhe ñāṅaṁ, dukkhasamudaye ñāṅaṁ.../
+
+/Taṇhā/ is the seamstress (/sibbanī/), joining and connecting seeing-and-seen, internal-external, here-there (See [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-33.html][Nibbāna Sermon 33]])
+
+[[https://suttacentral.net/ud1.10/pli/ms][Ud 1.10 Bāhiyasutta]], See also [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-15.html][Nibbāna Sermon 15]]
+
+#+begin_quote
+diṭṭhe diṭṭhamattaṁ bhavissati, \\
+sute sutamattaṁ bhavissati, \\
+mute mutamattaṁ bhavissati, \\
+viññāte viññātamattaṁ bhavissati.
+
+... tato tvaṁ Bāhiya nev'idha na huraṁ na ubhayamantarena. \\
+Es'ev'anto dukkhassa.
+
+.. then, Bāhiya, you are neither here nor there nor in between. \\
+This, itself, is the end of suffering.
+#+end_quote
+
 *** Related :noprint:
 
-Dhammapada XXII: Nirayavagga ([[https://suttacentral.net/dhp306-319/pli/ms][SC]], [[http://localhost:4848/suttas/dhp306-319/pli/ms?window_type=Sutta+Study][SSP]])
+The verses are also found in Dhammapada XXII: Nirayavagga ([[https://suttacentral.net/dhp306-319/pli/ms][SC]], [[http://localhost:4848/suttas/dhp306-319/pli/ms?window_type=Sutta+Study][SSP]])
 
 - Dhp 311-314 Dubbacabhikkhuvatthu (Kuso yathā duggahito...)
 - Dhp 315 Issāpakataitthivatthu (Akataṁ dukkaṭaṁ seyyo...)
