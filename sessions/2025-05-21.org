@@ -13,48 +13,7 @@ addhānamaggappaṭipanno hoti mahatā bhikkhusaṅghena saddhiṁ
 pañcamattehi bhikkhusatehi. Atha kho āyasmā mahākassapo 
 
 maggā okkamma aññatarasmiṁ rukkhamūle nisīdi.
-
-Tena kho pana samayena aññataro ājīvako kusinārāya 
-
-mandāravapupphaṁ gahetvā pāvaṁ addhānamaggappaṭipanno hoti. 
-
-Addasā kho āyasmā mahākassapo taṁ ājīvakaṁ dūratova āgacchantaṁ, 
-
-disvā taṁ ājīvakaṁ etadavoca: “apāvuso, amhākaṁ satthāraṁ jānāsī”ti?
-
-“Āmāvuso, jānāmi, ajja sattāhaparinibbuto samaṇo gotamo. Tato me 
-
-idaṁ mandāravapupphaṁ gahitan”ti. Tattha ye te bhikkhū avītarāgā 
-
-appekacce bāhā paggayha kandanti, chinnapātaṁ papatanti, āvaṭṭanti, 
-
-vivaṭṭanti: “atikhippaṁ bhagavā parinibbuto, atikhippaṁ sugato 
-
-parinibbuto, atikhippaṁ cakkhuṁ loke antarahito”ti. Ye pana te bhikkhū 
-
-vītarāgā, te satā sampajānā adhivāsenti: “aniccā saṅkhārā, taṁ kutettha labbhā”ti.
-
-Tena kho pana samayena subhaddo nāma vuddhapabbajito tassaṁ parisāyaṁ nisinno hoti.
-
-Atha kho subhaddo vuddhapabbajito te bhikkhū etadavoca: “alaṁ, āvuso, mā socittha, 
-
-mā paridevittha, sumuttā mayaṁ tena mahāsamaṇena. Upaddutā ca homa: 
-
-‘idaṁ vo kappati, idaṁ vo na kappatī’ti. Idāni pana mayaṁ yaṁ icchissāma, 
-
-taṁ karissāma, yaṁ na icchissāma, na taṁ karissāmā”ti.
-
-Atha kho āyasmā mahākassapo bhikkhū āmantesi: “alaṁ, āvuso, mā socittha, 
-
-mā paridevittha. Nanu etaṁ, āvuso, bhagavatā paṭikacceva akkhātaṁ: 
-
-‘sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo’. 
-
-Taṁ kutettha, āvuso, labbhā. ‘Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, 
-
-taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjatī”ti.
 #+end_quote
-
 
 | Tena | Instrumental singular demonstrative pronoun | By that |
 | kho pana | Indeclinable particles | Indeed, moreover |
@@ -75,6 +34,21 @@ taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjat�
 | aññatarasmiṁ | Locative singular adjective | At a certain |
 | rukkhamūle | Locative singular compound noun | At the foot of a tree |
 | nisīdi | Past tense verb | Sat down |
+
+#+begin_quote
+Tena kho pana samayena aññataro ājīvako kusinārāya 
+
+mandāravapupphaṁ gahetvā pāvaṁ addhānamaggappaṭipanno hoti. 
+
+Addasā kho āyasmā mahākassapo taṁ ājīvakaṁ dūratova āgacchantaṁ, 
+
+disvā taṁ ājīvakaṁ etadavoca: “apāvuso, amhākaṁ satthāraṁ jānāsī”ti?
+
+“Āmāvuso, jānāmi, ajja sattāhaparinibbuto samaṇo gotamo. Tato me 
+
+idaṁ mandāravapupphaṁ gahitan”ti. 
+#+end_quote
+
 | tena kho pana | Indeclinable particles | At that |
 | samayena | Instrumental singular noun | Time |
 | aññataro | Nominative singular adjective | A certain |
@@ -101,6 +75,19 @@ taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjat�
 | -parinibbuto | Past participle, nominative singular | Attained parinibbāna |
 | tato | Ablative pronoun | From that |
 | gahitaṁ | Past participle, nominative singular | Taken |
+
+#+begin_quote
+Tattha ye te bhikkhū avītarāgā 
+
+appekacce bāhā paggayha kandanti, chinnapātaṁ papatanti, āvaṭṭanti, 
+
+vivaṭṭanti: “atikhippaṁ bhagavā parinibbuto, atikhippaṁ sugato 
+
+parinibbuto, atikhippaṁ cakkhuṁ loke antarahito”ti. Ye pana te bhikkhū 
+
+vītarāgā, te satā sampajānā adhivāsenti: “aniccā saṅkhārā, taṁ kutettha labbhā”ti.
+#+end_quote
+
 | tattha | Indeclinable | There |
 | ye te | Nominative plural demonstrative | Those who |
 | avītarāgā | Nominative plural adjective | Not free from passion |
@@ -121,6 +108,19 @@ taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjat�
 | adhivāsenti | Present tense verb, 3rd person plural | Endure |
 | aniccā | Nominative plural adjective | Impermanent |
 | saṅkhārā | Nominative plural noun | Conditioned things |
+
+#+begin_quote
+Tena kho pana samayena subhaddo nāma vuddhapabbajito tassaṁ parisāyaṁ nisinno hoti.
+
+Atha kho subhaddo vuddhapabbajito te bhikkhū etadavoca: “alaṁ, āvuso, mā socittha, 
+
+mā paridevittha, sumuttā mayaṁ tena mahāsamaṇena. Upaddutā ca homa: 
+
+‘idaṁ vo kappati, idaṁ vo na kappatī’ti. Idāni pana mayaṁ yaṁ icchissāma, 
+
+taṁ karissāma, yaṁ na icchissāma, na taṁ karissāmā”ti.
+#+end_quote
+
 | subhaddo nāma | Nominative singular noun + particle | Named Subhadda |
 | vuddha-pabbajito | Nominative singular compound | Ordained in old age |
 | tassaṁ | Locative singular demonstrative | In that |
@@ -141,6 +141,19 @@ taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjat�
 | icchissāma | Future tense verb, 1st person plural | We will wish |
 | karissāma | Future tense verb, 1st person plural | We will do |
 | na karissāma | Future tense verb with negative | We will not do |
+
+#+begin_quote
+Atha kho āyasmā mahākassapo bhikkhū āmantesi: “alaṁ, āvuso, mā socittha, 
+
+mā paridevittha. Nanu etaṁ, āvuso, bhagavatā paṭikacceva akkhātaṁ: 
+
+‘sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo’. 
+
+Taṁ kutettha, āvuso, labbhā. ‘Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, 
+
+taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjatī”ti.
+#+end_quote
+
 | nanu | Interrogative particle | Is it not? |
 | paṭikacceva | Absolutive + emphatic particle | Already beforehand |
 | akkhātaṁ | Past participle, nominative singular | Declared |
