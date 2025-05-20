@@ -20,7 +20,7 @@ Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readi
 
 [tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
 
-[gdrive-readings]: https://drive.google.com/drive/folders/1_nhb4gwvgzuWAegSboS4zI3MJY8OLnt8?usp=sharing
+[gdrive-readings]: https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing
 
 [youtube-readings]: https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
 
