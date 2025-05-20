@@ -20,7 +20,7 @@ Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readi
 
 [tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
 
-[gdrive-readings]: https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing
+[gdrive-readings]: https://drive.google.com/drive/folders/1_nhb4gwvgzuWAegSboS4zI3MJY8OLnt8?usp=sharing
 
 [youtube-readings]: https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
 
@@ -37,7 +37,7 @@ The PDF is updated the day before the meeting to allow printing.
 </div>
 </div>
 
-[readings-pdf]: https://drive.google.com/file/d/1oxgcw1j_hSYYvOCj2TNNwrYMhupj3ulP/view?usp=sharing
+[readings-pdf]: https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing
 
 [readings-anki]: https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing
 
