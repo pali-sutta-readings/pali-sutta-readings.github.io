@@ -1,0 +1,175 @@
+#+author: gavesako
+
+* 2025-05-21
+** Mahākassapattheravatthu (excerpt from DN 16)
+
+([[https://suttacentral.net/dn16/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin#dn16:6.19.0][SC]])
+
+#+begin_quote
+Tena kho pana samayena āyasmā mahākassapo pāvāya kusināraṁ 
+
+addhānamaggappaṭipanno hoti mahatā bhikkhusaṅghena saddhiṁ 
+
+pañcamattehi bhikkhusatehi. Atha kho āyasmā mahākassapo 
+
+maggā okkamma aññatarasmiṁ rukkhamūle nisīdi.
+
+Tena kho pana samayena aññataro ājīvako kusinārāya 
+
+mandāravapupphaṁ gahetvā pāvaṁ addhānamaggappaṭipanno hoti. 
+
+Addasā kho āyasmā mahākassapo taṁ ājīvakaṁ dūratova āgacchantaṁ, 
+
+disvā taṁ ājīvakaṁ etadavoca: “apāvuso, amhākaṁ satthāraṁ jānāsī”ti?
+
+“Āmāvuso, jānāmi, ajja sattāhaparinibbuto samaṇo gotamo. Tato me 
+
+idaṁ mandāravapupphaṁ gahitan”ti. Tattha ye te bhikkhū avītarāgā 
+
+appekacce bāhā paggayha kandanti, chinnapātaṁ papatanti, āvaṭṭanti, 
+
+vivaṭṭanti: “atikhippaṁ bhagavā parinibbuto, atikhippaṁ sugato 
+
+parinibbuto, atikhippaṁ cakkhuṁ loke antarahito”ti. Ye pana te bhikkhū 
+
+vītarāgā, te satā sampajānā adhivāsenti: “aniccā saṅkhārā, taṁ kutettha labbhā”ti.
+
+Tena kho pana samayena subhaddo nāma vuddhapabbajito tassaṁ parisāyaṁ nisinno hoti.
+
+Atha kho subhaddo vuddhapabbajito te bhikkhū etadavoca: “alaṁ, āvuso, mā socittha, 
+
+mā paridevittha, sumuttā mayaṁ tena mahāsamaṇena. Upaddutā ca homa: 
+
+‘idaṁ vo kappati, idaṁ vo na kappatī’ti. Idāni pana mayaṁ yaṁ icchissāma, 
+
+taṁ karissāma, yaṁ na icchissāma, na taṁ karissāmā”ti.
+
+Atha kho āyasmā mahākassapo bhikkhū āmantesi: “alaṁ, āvuso, mā socittha, 
+
+mā paridevittha. Nanu etaṁ, āvuso, bhagavatā paṭikacceva akkhātaṁ: 
+
+‘sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo’. 
+
+Taṁ kutettha, āvuso, labbhā. ‘Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, 
+
+taṁ tathāgatassāpi sarīraṁ mā palujjī’ti, netaṁ ṭhānaṁ vijjatī”ti.
+#+end_quote
+
+
+| Tena | Instrumental singular demonstrative pronoun | By that |
+| kho pana | Indeclinable particles | Indeed, moreover |
+| samayena | Instrumental singular noun | Time, occasion |
+| pāvāya | Ablative singular noun | From Pāvā |
+| kusināraṁ | Accusative singular noun | To Kusināra |
+| addhānamagga- | Compound noun | Long road |
+| -ppaṭipanno | Past participle, nominative singular | Set out on |
+| hoti | Present tense verb | Is |
+| mahatā | Instrumental singular adjective | Great |
+| bhikkhusaṅghena | Instrumental singular compound noun | With community of monks |
+| saddhiṁ | Indeclinable | Together with |
+| pañcamattehi | Instrumental plural adjective | About five |
+| bhikkhusatehi | Instrumental plural compound noun | Hundred monks |
+| atha kho | Indeclinable particles | Then |
+| maggā | Ablative singular noun | From the path |
+| okkamma | Absolutive | Having stepped aside |
+| aññatarasmiṁ | Locative singular adjective | At a certain |
+| rukkhamūle | Locative singular compound noun | At the foot of a tree |
+| nisīdi | Past tense verb | Sat down |
+| tena kho pana | Indeclinable particles | At that |
+| samayena | Instrumental singular noun | Time |
+| aññataro | Nominative singular adjective | A certain |
+| ājīvako | Nominative singular noun | Ājīvaka ascetic |
+| kusinārāya | Ablative singular noun | From Kusināra |
+| mandārava- | Compound element | Coral tree |
+| -pupphaṁ | Accusative singular noun | Flower |
+| gahetvā | Absolutive | Having taken |
+| pāvaṁ | Accusative singular noun | To Pāvā |
+| addasā | Past tense verb | Saw |
+| dūrato-va | Ablative adverb + emphatic particle | From afar indeed |
+| āgacchantaṁ | Present participle, accusative singular | Coming |
+| disvā | Absolutive | Having seen |
+| etad- | Demonstrative pronoun base | This |
+| -avoca | Past tense verb | Said |
+| amhākaṁ | Genitive plural pronoun | Our |
+| satthāraṁ | Accusative singular noun | Teacher |
+| jānāsi | Present tense verb, 2nd person singular | Do you know |
+| āma | Indeclinable | Yes |
+| āvuso | Vocative singular | Friend |
+| jānāmi | Present tense verb, 1st person singular | I know |
+| ajja | Indeclinable | Today |
+| sattāha- | Compound element | Seven days |
+| -parinibbuto | Past participle, nominative singular | Attained parinibbāna |
+| tato | Ablative pronoun | From that |
+| gahitaṁ | Past participle, nominative singular | Taken |
+| tattha | Indeclinable | There |
+| ye te | Nominative plural demonstrative | Those who |
+| avītarāgā | Nominative plural adjective | Not free from passion |
+| appekacce | Nominative plural adjective | Some |
+| bāhā | Accusative plural noun | Arms |
+| paggayha | Absolutive | Having raised |
+| kandanti | Present tense verb, 3rd person plural | Weep |
+| chinnapātaṁ | Adverbial compound | Like falling when cut |
+| papatanti | Present tense verb, 3rd person plural | Fall down |
+| āvaṭṭanti | Present tense verb, 3rd person plural | Roll this way |
+| vivaṭṭanti | Present tense verb, 3rd person plural | Roll that way |
+| atikhippaṁ | Adverb | Too quickly |
+| parinibbuto | Past participle, nominative singular | Attained parinibbāna |
+| ye pana te | Nominative plural demonstrative | But those who |
+| vītarāgā | Nominative plural adjective | Free from passion |
+| satā | Nominative plural adjective | Mindful |
+| sampajānā | Nominative plural adjective | Clearly comprehending |
+| adhivāsenti | Present tense verb, 3rd person plural | Endure |
+| aniccā | Nominative plural adjective | Impermanent |
+| saṅkhārā | Nominative plural noun | Conditioned things |
+| subhaddo nāma | Nominative singular noun + particle | Named Subhadda |
+| vuddha-pabbajito | Nominative singular compound | Ordained in old age |
+| tassaṁ | Locative singular demonstrative | In that |
+| parisāyaṁ | Locative singular noun | Assembly |
+| nisinno | Past participle, nominative singular | Seated |
+| alaṁ | Indeclinable | Enough |
+| mā socittha | Prohibitive + Aorist 2nd plural | Do not grieve |
+| mā paridevittha | Prohibitive + Aorist 2nd plural | Do not lament |
+| sumuttā | Past participle, nominative plural | Well freed |
+| tena | Instrumental singular demonstrative | From that |
+| mahāsamaṇena | Instrumental singular compound | Great ascetic |
+| upaddutā | Past participle, nominative plural | Oppressed |
+| homa | Present tense verb, 1st person plural | We were |
+| idaṁ vo | Nominative singular demonstrative + Dative plural | This for you |
+| kappati | Present tense verb | Is allowable |
+| idāni | Indeclinable | Now |
+| yaṁ | Accusative singular relative | What |
+| icchissāma | Future tense verb, 1st person plural | We will wish |
+| karissāma | Future tense verb, 1st person plural | We will do |
+| na karissāma | Future tense verb with negative | We will not do |
+| nanu | Interrogative particle | Is it not? |
+| paṭikacceva | Absolutive + emphatic particle | Already beforehand |
+| akkhātaṁ | Past participle, nominative singular | Declared |
+| sabbehi eva | Instrumental plural adjective + particle | With all |
+| piyehi | Instrumental plural adjective | Dear |
+| manāpehi | Instrumental plural adjective | Pleasing |
+| nānābhāvo | Nominative singular compound | Separation |
+| vinābhāvo | Nominative singular compound | Division |
+| aññathābhāvo | Nominative singular compound | Change |
+| jātaṁ | Past participle, nominative singular | Born |
+| bhūtaṁ | Past participle, nominative singular | Become |
+| saṅkhataṁ | Past participle, nominative singular | Conditioned |
+| palokadhammaṁ | Accusative singular compound | Subject to destruction |
+| tathāgatassāpi | Genitive singular noun + particle | Even of the Tathāgata |
+| sarīraṁ | Nominative singular noun | Body |
+| mā palujjī | Prohibitive + Aorist 3rd singular | May not break up |
+| netaṁ | Negative + demonstrative (na + etaṁ) | This is not |
+| ṭhānaṁ | Nominative singular noun | Possibility |
+| vijjati | Present tense verb, 3rd person singular | Exists |
+
+
+This passage is particularly significant as it shows the contrasting reactions 
+to the Buddha's parinibbāna between those who had and hadn't attained liberation, 
+and includes Subhadda's controversial statement that later became one of the 
+causes for the First Buddhist Council.
+
+Note: Aṭṭhamī Pūjā, also known as "Paying Respect on the Eighth Day," commemorates 
+the cremation of the Buddha's body on the eighth day after Visākha Pūjā (a major 
+Buddhist festival celebrating the Buddha's birth, enlightenment, and death). It's 
+a lesser-known festival compared to Visākha Pūjā and is not recognized as a public 
+holiday in many places. 
+
