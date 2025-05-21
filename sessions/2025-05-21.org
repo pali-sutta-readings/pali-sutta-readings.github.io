@@ -3,7 +3,7 @@
 * 2025-05-21
 ** Mahākassapattheravatthu (excerpt from DN 16)
 
-([[https://suttacentral.net/dn16/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin#dn16:6.19.0][SC]])
+([[https://suttacentral.net/dn16/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin#dn16:6.19.0][SC]], [[http://localhost:4848/suttas/dn16/pli/ms?quote=Tena%2520kho%2520pana%2520samayena%2520%25C4%2581yasm%25C4%2581%2520mah%25C4%2581kassapo&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 Tena kho pana samayena āyasmā mahākassapo pāvāya kusināraṁ 
@@ -87,6 +87,11 @@ parinibbuto, atikhippaṁ cakkhuṁ loke antarahito”ti. Ye pana te bhikkhū
 
 vītarāgā, te satā sampajānā adhivāsenti: “aniccā saṅkhārā, taṁ kutettha labbhā”ti.
 #+end_quote
+
+| kutettha (sandhi)           | What in this regard? lit. from where here [kuto + ettha]     |
+| taṁ kutettha labbhā (idom) | What can be gained from that? [taṁ + kuto + ettha + labbhā] |
+|                             | What else is there to expect?                                |
+
 
 | tattha | Indeclinable | There |
 | ye te | Nominative plural demonstrative | Those who |
@@ -186,3 +191,39 @@ Buddhist festival celebrating the Buddha's birth, enlightenment, and death). It'
 a lesser-known festival compared to Visākha Pūjā and is not recognized as a public 
 holiday in many places. 
 
+*** Related
+
+#+begin_quote
+‘Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ tathāgatassāpi sarīraṁ mā palujjī’ti
+#+end_quote
+
+| palokadhamma (adj.) | having the nature to fall apart; liable to break [paloka + dhamma] |
+| paloka (m.)         | falling apart; dissolution; disintegration [pa + √luj + *a]        |
+| palujjati           | breaks off; comes apart; crumbles [pa + √luj + ya + ti]            |
+| lujjati (+instr)    | is broken (by); falls apart [√luj + ya + ti]                       |
+
+SN 35.82 Lokapañhāsutta ([[https://suttacentral.net/sn35.82/pli/ms][SC]], [[http://localhost:4848/suttas/sn35.82/pli/ms?window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Lujjatī'ti kho, bhikkhu, tasmā loko'ti vuccati. Kiñca lujjati? Cakkhu kho, bhikkhu, lujjati. Rūpā lujjanti, cakkhuviññāṇaṁ lujjati...
+
+It is disintegrating, bhikkhu, therefore it is called the world. And what is disintegrating? The eye, bhikkhu, is disintegrating, forms are disintegrating, eye-consciousness is disintegrating ...
+#+end_quote
+
+SN 22.93 Nadīsutta ([[https://suttacentral.net/sn22.93/pli/ms][SC]], [[http://localhost:4848/suttas/sn22.93/pli/ms?window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+... And if a person who was being swept along by the current grabbed the wild
+sugarcane, kusa grass, reeds, vetiver, or trees, it’d break off, and they’d come
+to ruin because of that.
+
+Tassā puriso sotena vuyhamāno kāse cepi gaṇheyya, te palujjeyyuṁ. So tatonidānaṁ
+anayabyasanaṁ āpajjeyya.
+
+Evameva kho, bhikkhave, assutavā puthujjano ... rūpaṁ / vedanaṁ / saññaṁ /
+saṅkhāre / viññāṇaṁ attato samanupassati ... Tassa taṁ rūpaṁ palujjati. So
+tatonidānaṁ anayabyasanaṁ āpajjati.
+
+The ordinary person ... assumes form to be the self ... That form tears away
+from him, and so from that cause he would come to disaster.
+#+end_quote
