@@ -1,7 +1,7 @@
 #+author: gavesako
 
 * 2025-05-21
-** Mahākassapattheravatthu (excerpt from DN 16)
+** DN 16: Mahākassapattheravatthu (excerpt)
 
 ([[https://suttacentral.net/dn16/en/sujato?lang=en&layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin#dn16:6.19.0][SC]], [[http://localhost:4848/suttas/dn16/pli/ms?quote=Tena%2520kho%2520pana%2520samayena%2520%25C4%2581yasm%25C4%2581%2520mah%25C4%2581kassapo&window_type=Sutta+Study][SSP]])
 
