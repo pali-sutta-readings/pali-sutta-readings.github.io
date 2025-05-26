@@ -151,9 +151,13 @@ span.vin {
 }
 
 @media screen {
-    .declensions, div.pagebreak {
-        display: none;
-    }
+  .declensions, div.pagebreak {
+    display: none;
+  }
+
+  div.print-only {
+    display: none;
+  }
 }
 
 /* ===================
@@ -177,6 +181,10 @@ span.vin {
     font-size: 11pt;
     line-height: 15pt;
     color: black;
+  }
+
+  div.print-only {
+    display: block;
   }
 
   div.pagebreak {
@@ -252,7 +260,17 @@ span.vin {
       padding: 0 1em 0 0;
   }
 
+  .md-typeset__scrollwrap {
+    margin: 0;
+  }
+
+  .md-typeset table:not([class]) {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   table thead {
+      margin: 0;
       display: none;
   }
 

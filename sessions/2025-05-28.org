@@ -1,0 +1,168 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-05-28
+** Pāli language review
+
+Further Pāli lessons: https://vinaya-class.github.io/pali-lessons.html
+
+*Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, \\
+word order is often altered for emphasis.
+
+| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.pl.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
+| The chef cooks the rice.                              | The boys eat the food.                                        |
+
+The *subject* and *verb* must agree in number: /Sakuṇā ākāse uḍḍayanti/ (Birds fly in the sky).
+
+*An adjective* agrees with the noun it qualifies in gender, number and case. \\
+Generally, the order is adjective + noun. E.g. /seto asso:/ a white horse, /setā assā:/ white horses.
+
+The nominatives may form pairs, read them as equational phrases: /A/ is the /B/, and /C/ is the /D/, etc. \\
+Such a sequence forms a "nominal clause". E.g.: /Dārako samaṇo./
+
+nt.nom. and f.nom. form: /Kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho./
+
+*Translate:* The man who is faithful goes to the village with an all-white chariot.\\
+All white is the chariot, all-white are the yoked horses.
+
+# Saddho puriso sabbasetena rathena gāmaṁ gacchati. Sabbaseto ratho (hoti), sabbasetā assā yuttā (honti).
+
+#+html: <div class="print-only" style="height: 6em"></div>
+
+*Absolutive: -tvā*
+
+Datvā, disvā, vatvā, upasaṅkamitvā, bhavetvā etc.
+
+#+begin_quote
+Ādīnavaṁ kāmaguṇesu disvā, Tasmā ahaṁ pabbajitomhi rāja. (MN 82)
+
+... upekkhaṁ bhāvetvā labhati ajjhattaṁ vūpasamaṁ. (MN 40)
+
+Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā
+
+labhati samādhiṁ, labhati cittassa ekaggataṁ – idaṁ vuccati, bhikkhave, samādhindriyaṁ. (SN 48.11)
+#+end_quote
+
+*Translate:* From my kuṭi I go the the vihāra. Having gone, I sit on the chair. \\
+Having sat, I learn the Buddha's words. Having learnt, having reflected, I practise for liberation.
+
+# (Mama) kuṭito (ahaṁ) vihāraṁ gacchāmi. Gantvā, āsane/pīṭhe nisīdāmi. Nisīditvā,
+# buddhavacanāni uggaṇhāmi. Uggahetvā, paccavekkhitvā, vimuttiyā paṭipajjāmi.
+
+#+html: <div class="pagebreak"></div>
+
+| vadati (+acc)       | says (to); speaks (to); tells (to) [√vad + a + ti]                      |
+|                     | /So evaṁ vadeyya: ‘na tāvāhaṁ imaṁ sallaṁ.../                          |
+| vacati              | speaks [√vac]                                                           |
+| vuccati             | passive, is said to be, is called [√vac + ya + ti]                      |
+|                     | /ruppatī'ti kho, bhikkhave, tasmā rūpan'ti vuccati/                     |
+| avoca (+acc & +acc) | aor of vacati, said (something to somebody) [a + √vac + a + a]          |
+|                     | /Atha kho āyasmā mahāmoggallāno āyasmantaṁ mahākassapaṁ etadavoca .../ |
+|---------------------+-------------------------------------------------------------------------|
+| bhavati (+nom)      | is being; becomes [√bhū + a + ti]                                       |
+|                     | /ānando tuṇhī bhavati/                                                  |
+| bhāveti (+acc)      | cultivates, develops; causes to become [√bhū + *e + ti]                 |
+|                     | /iddhipādaṁ bhāveti/                                                   |
+| bhāva (m.)          | state; condition; characteristic [√bhū + *a]                            |
+|                     | abstr                                                                   |
+|                     | /tuṇhībhāvena kho pan'āyasmante parisuddhā'ti vedissāmi/                |
+| bhāvanā (f.)        | the cultivating; the developing; [√bhū + *e + anā]                      |
+|                     | abstr, from bhāveti                                                     |
+
+*Imperative:* pl.2nd: /Nisīdatha, vadetha, bhāvetha./ sg.2nd: /bhāvehi./
+
+#+begin_quote
+Samādhiṁ, bhikkhave, bhāvetha. Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. (SN 56.1)
+
+Bhagavā etadavoca: ... "Bhāvetha no tumhe, bhikkhave, maraṇassatin"ti. (AN 8.73)
+
+[Sāriputta] Disvāna āyasmantaṁ rāhulaṁ āmantesi: “ānāpānassatiṁ, rāhula, bhāvanaṁ bhāvehi.
+
+Ānāpānassati, rāhula, bhāvanā bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā”ti. (MN 62)
+#+end_quote
+
+*Optative: -eyya*
+
+| na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ (SN 22.59)                   |
+| Yadā tumhe, bhaddiya, attanāva [attanā + eva] jāneyyātha... ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]]) |
+
+# these volitions would not lead to affliction
+# When (if) you, Bhaddiya, know this by yourself...
+
+Optative of √as (to be) has two forms:
+
+| atthi      | pr.3rd.sg/pl.   | there is        |
+| assa, siyā | opt.2nd/3rd.sg. | you/he could be |
+
+*Future Passive Participle: -tabba*
+
+| √dā  | dātabba, deyya    | should be given       |
+| √su  | sotabba           | should be listened to |
+| √kar | kātabba, karaṇīya | should be done        |
+| √ñā  | ñātabba, ñeyya    | should be known       |
+
+#+begin_quote
+Dukkhaṁ ariyasaccaṁ pariññeyyaṁ ... pariññātaṁ \\
+Dukkhasamudayaṁ a.s. pahātabbaṁ ... pahīnaṁ \\
+Dukkhanirodhaṁ a.s. sacchikātabbaṁ ... sacchikataṁ \\
+D.n.gāminī paṭipadā a.s. bhāvetabbaṁ ... bhāvitaṁ ([[https://suttacentral.net/sn56.11/pli/ms][SN 56.11]])
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Karaṇīyamatthakusalena ...\\
+Na ca khuddamācare kiñci, \\
+Yena viññū pare upavadeyyuṁ; (Snp 1.8)
+
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya ... ([[https://suttacentral.net/pli-tv-bu-vb-ss2/pli/ms][Sg 2]])
+#+end_quote
+
+*Pronouns:*
+
+|             | *sg.*        | *pl.*            |
+| *1st*       | ahaṁ        | amhe, mayaṁ, no |
+| *2nd*       | tuvaṁ, tvaṁ | tumhe, vo        |
+| *3rd.masc.* | so, sa       | te               |
+| *3rd.nt.*   | taṁ, tad    | tāni             |
+| *3rd.fem.*  | sā           | tā, tāyo         |
+
+| yo so puriso ...           | that man who...                | tatra [ta + tra]   | there, in that place               |
+|                            | whatever man who...            | tattha [ta + ttha] | there, in that place               |
+| yassa ... tassa [ta + ssa] | of/for whom ... of/for him ... | tato [ta + to]     | from there, from him               |
+| assa [ima + ssa]           | to him, for him, of him, etc   | tasmā [ta + smā]   | from that (therefore, that is why) |
+
+*Past Participle (-ta, -ita, -na)*
+
+| bhāvita | pp. of bhāveti, √bhū + *e + ita | pamatta | pp. of pamajjati, pa + √mad + ta |
+| vutta   | pp. of vacati,  √vac + ta       | pahīna  | pp. of pajahati, pa + √hā + na   |
+
+*Locative Absolute:* noun loc. + participle loc.
+
+The noun is an agent to the participle. Past participle: "when/after this had
+happened". Present participle: "when/after this happens".
+
+pakkamati → pakkanta → pakkante: /Pakkante Sāriputte, brāhmaṇo kālaṁ akāsi./
+
+uggacchati → uggachanta → uggacchante: /Tiṇagge ussāvabindu sūriye uggacchante khippaṁyeva paṭivigacchati./ (AN 7.74)
+
+labhati → laddha → laddhe: /Tāya okāse laddhe anumodanaṁ karissāmī'ti/ (Dhp 174 Comm.)
+
+vacati → vutta → vutte: /Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca .../
+
+f.loc.sg.: /Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya/ (AN 11.15)
+
+#+html: <div class="print-only" style="height: 3em"></div>
+
+** MN 92: Selasutta (excerpt)
+
+([[https://suttacentral.net/mn92/pli/ms][SC]], [[http://localhost:4848/suttas/mn92/pli/ms?quote=Abhi%25C3%25B1%25C3%25B1eyya%25E1%25B9%2581%2520abhi%25C3%25B1%25C3%25B1%25C4%2581ta%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) The Buddha is addressing the brahmin Sela:
+
+#+begin_quote
+Abhiññeyyaṁ abhiññātaṁ, / bhāvetabbañca bhāvitaṁ;
+
+Pahātabbaṁ pahīnaṁ me, / tasmā buddhosmi brāhmaṇa.
+#+end_quote
+
+| abhijānāti | directly knows; understands experientially; lit. completely knows [abhi + √ñā + nā + ti] |
+| pajahati   | gives up; abandons; lets go (of) [pa + √hā + a + ti]                                     |
