@@ -1,0 +1,316 @@
+\ProvidesPackage{vinaya-class-questions}
+
+\title{Vinaya Class Questions}
+\subject{Vinaya Class}
+\date{\the\year}
+\author{The Bhikkhu Saṅgha}
+
+\newif\ifnosolutions
+\nosolutionsfalse
+
+\newif\ifyourname
+\yournametrue
+
+\RequirePackage{pgfopts}
+
+\pgfkeys{
+  /VINAYA/.cd,
+  nosolutions/.code=\nosolutionstrue,
+}
+
+\DeclareOption*{}
+\ProcessPgfOptions{/VINAYA}
+\ProcessOptions\relax
+
+\usepackage[british]{babel}
+
+\renewcommand\britishhyphenmins{{3}{3}}
+
+\hyphenation{thulla-caya sangha-disesa sangha-kamma}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {./fonts/}, }
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+]{Crimson-Roman.otf}
+
+% Missing ṁ
+\newfontfamily\spectralScFont[Numbers=Lining]{SpectralSC-Medium.otf}
+
+% SmallCaps is missing ṁ
+\newfontfamily\notoSerifFont[
+  ItalicFont = NotoSerif-Italic.ttf,
+  BoldFont = NotoSerif-Bold.ttf,
+  BoldItalicFont = NotoSerif-BoldItalic.ttf,
+]{NotoSerif-Regular.ttf}
+
+\newfontfamily\symbolFont{DejaVuSans.ttf}
+
+\newcommand\sym[1]{{\symbolFont\selectfont #1}}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{eso-pic}
+\usepackage{enumitem}
+\usepackage{multicol}
+% \usepackage{comment}
+\usepackage[normalem]{ulem}
+
+\usepackage[final]{pdfpages}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{mathtools}
+
+\usepackage{hyperref}
+\usepackage{hyperxmp}
+
+\definecolor{textbody}{gray}{0}
+\definecolor{linkred}{HTML}{8D2C2B}% HSV 1 70 55
+% Red is better for printing than blue or dark blue
+\colorlet{link}{linkred}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=link,
+  citecolor=link,
+  filecolor=link,
+  urlcolor=link,
+  unicode=true,
+}
+
+\RequirePackage[
+  open,
+  openlevel=2
+]{bookmark}
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) \the\year, \theauthor},
+  pdfsubject={buddhism, vinaya},
+  pdfkeywords={buddhism, vinaya},
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={https://pali-sutta-readings.github.io/},
+  pdflang={en},
+}
+
+% === penalties ===
+
+\midsloppy
+
+% === normalsize ===
+
+\def\BOOK@apt{11}
+\def\BOOK@bpt{15}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+\newcommand{\doubleLineSize}{\@setfontsize\doubleLineSize{11}{30}}
+
+% === indentations ===
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\setlength{\columnsep}{18pt}
+\setlength{\columnseprule}{0.1pt}
+\flushcolumns
+% \columnseprulecolor
+
+% === setup page layout ===
+
+\stockaiv
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{20mm}{*}{1}
+\setulmarginsandblock{20mm}{*}{1}
+\setheadfoot{\baselineskip}{2\baselineskip}
+\setheaderspaces{*}{15pt}{*}
+\checkandfixthelayout
+
+\newcommand*\cleartonewsheet{%
+  \clearpage%
+  \ifodd\value{page}\relax%
+  \else%
+    \thispagestyle{empty}%
+    \hbox{}%
+    \newpage%
+  \fi%
+}
+
+\newcommand*{\problemDivide}{\rule{\linewidth}{0.4pt}}
+
+\newcommand*{\casesLegendHeaderBG}{%
+  \AddToShipoutPictureBG{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\newcommand*{\casesLegendHeaderBGHere}{%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\setsecnumdepth{part}
+
+\newcommand{\printchaptertitleHook}{}
+
+\newcommand*{\theChapterTitle}{}% FIXME This shouldn't be necessary.
+
+\makechapterstyle{vinaya-class}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \printchaptertitleHook%
+    \memRTLraggedright%
+    {\spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}}%
+    \ifyourname%
+    \hfill%
+    {\normalsize Kiṁ nāmo si:\hspace*{4cm}}%
+    \fi%
+  }
+  \renewcommand*{\afterchaptertitle}{%
+    \vskip\onelineskip \hrule\vskip\onelineskip}
+}
+
+\makechapterstyle{vinaya-class-frontmatter}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \memRTLraggedright%
+    {\spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}}%
+  }
+  \renewcommand*{\afterchaptertitle}{%
+    \vskip\onelineskip \hrule\vskip\onelineskip}
+}
+
+\newcommand\sectionFmt[1]{%
+  \notoSerifFont\fontsize{12}{15}\selectfont%
+  \memRTLraggedright%
+  \textbf{#1}%
+}
+
+\newcommand\subSectionFmt[1]{%
+  \normalfont
+  \memRTLraggedright
+  \uline{\bfseries\itshape #1}%
+}
+
+\newcommand\subSubSectionFmt[1]{%
+  \normalfont
+  \memRTLraggedright
+  \uline{\itshape #1}%
+}
+
+\makeheadstyles{vinaya-class}{%
+\chapterstyle{vinaya-class}
+  \setsecheadstyle{\sectionFmt}%
+  \setbeforesecskip{1\onelineskip \@plus -0.5\onelineskip \@minus -.5\onelineskip}%
+  \setaftersecskip{1\onelineskip \@plus 0.1\onelineskip}%
+  %
+  \setsubsecheadstyle{\subSectionFmt}%
+  \setbeforesubsecskip{-1.0\onelineskip \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
+  \setaftersubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  %
+  \setsubsubsecheadstyle{\subSubSectionFmt}%
+  \setbeforesubsubsecskip{-1.0\onelineskip \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
+  \setaftersubsubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  %
+  \setparaheadstyle{\normalfont\normalsize\itshape\addperiod}%
+  \setbeforeparaskip{1.0\onelineskip \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setafterparaskip{-1em}%
+  %
+  \setsubparaheadstyle{\normalfont\normalsize\itshape\addperiod}%
+  \setsubparaindent{\parindent}%
+  \setbeforesubparaskip{1.0\onelineskip \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setaftersubparaskip{-1em}%
+}
+
+%% Based on bringhurst from memoir.
+\headstyles{vinaya-class}
+
+\addtodef{\frontmatter}{}{\chapterstyle{vinaya-class-frontmatter}}
+\addtodef{\mainmatter}{}{\chapterstyle{vinaya-class}}
+
+% Leave the footer empty to allow \enlargethispage{} when necessary
+
+\makepagestyle{chapterpage}
+\makeevenhead{chapterpage}{}{}{}
+\makeevenfoot{chapterpage}{}{}{}
+\makeoddhead{chapterpage}{}{}{}
+\makeoddfoot{chapterpage}{}{}{}
+
+\makepagestyle{toprule}
+\makeevenhead{toprule}{{\notoSerifFont\selectfont\theChapterTitle}}{}{{\notoSerifFont\selectfont\thepage}}
+\makeevenfoot{toprule}{}{}{}
+\makeoddhead{toprule}{{\notoSerifFont\selectfont\thepage}}{}{{\notoSerifFont\selectfont\theChapterTitle}}
+\makeoddfoot{toprule}{}{}{}
+
+\makeheadrule{toprule}{\textwidth}{\normalrulethickness}
+
+\aliaspagestyle{normalpage}{toprule}
+\aliaspagestyle{chapter}{chapterpage}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
+
+\pagestyle{normalpage}
+
+% === TOC settings ===
+
+\setlength{\cftbeforechapterskip}{8pt}
+
+\usepackage[final,babel=true]{microtype}
+
+\ifnosolutions
+\excludecomment{solution}
+\else
+\specialcomment{solution}{\emph{Solution:}\space}{}
+\fi
+
+\newcommand{\normalArrayStretch}{\renewcommand{\arraystretch}{1.2}}
+\normalArrayStretch
+
+\setlist[itemize,1]{parsep=0pt, partopsep=0pt}
+
+% \newenvironment{packeditemize}%
+% {\begin{itemize}[
+%   itemindent=0pt,
+%   leftmargin=15pt,
+%   rightmargin=0pt,
+%   itemsep=4pt,
+%   topsep=0pt,
+%   parsep=0pt,
+%   partopsep=0pt,
+% ]%
+% }{\end{itemize}}
+
+\raggedcolumns

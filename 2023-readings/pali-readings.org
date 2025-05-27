@@ -1,0 +1,999 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+LATEX_CLASS: memoir
+#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
+#+LATEX_HEADER: \maxtocdepth{section}
+#+LANGUAGE: en_GB
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{} tags:nil
+#+TITLE: Pāli Readings
+#+AUTHOR: The Bhikkhu Saṅgha
+
+#+begin_export latex
+\renewenvironment{quote}%
+{\list{}{%
+    \doubleLineSize
+    \listparindent 0pt
+    \itemindent    0pt
+    \leftmargin    3em
+    \rightmargin   3em
+    \parsep        0pt
+    \topsep        8pt
+    \partopsep     0pt}%
+\item[] \raggedright}%
+{\endlist}
+
+\renewcommand*{\printchaptertitleHook}{%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-100mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\renewcommand*\sentenceDiaSolution[2][0.4]{%
+  \ifanswerkey%
+    \hspace*{-\spinemargin}%
+    \begin{minipage}{\paperwidth}%
+      \centering%
+      \includegraphics[scale=#1]{#2}%
+    \end{minipage}%
+  \fi%
+}
+
+\mainmatter
+#+end_export
+
+* Tasks :noexport:
+** Ideas
+
+test adding a new lesson with a new deck
+- new Anki IDs are created, old cards duplicated
+- assign ID in a field? get old card IDs?
+
+test adding a new lesson to an old deck
+
+Slides for the reading? with refs and links
+- notes section at the end, optional print
+
+- contact def
+- papañca from MN 18
+- text with paṭighasamphasso / -sañña
+- Jaṭāsutta
+- Snp 4.11: Evaṁ sametassa vibhoti rūpaṁ, / Saññānidānā hi papañcasaṅkhā
+- feelings growing cool
+
+Johansson book quotes
+
+* Schedule
+
+- [X] [2025-02-27 Thu] Gavesako
+- [ ] [2025-03-05 Wed] Gambhiro
+- [ ] [2025-04-02 Wed] Gavesako
+- [ ] [2025-04-09 Wed] ? Gavesako away, Gambhiro staying with parents
+- [ ] [2025-04-16 Wed] Gambhiro
+- [ ] [2025-04-23 Wed] Gavesako
+- [ ] [2025-04-30 Wed] Gambhiro
+- [ ] [2025-05-07 Wed] ECM in Italy: Move to Tue?
+- [ ] [2025-05-14 Wed]
+- [ ] [2025-05-21 Wed]
+- [ ] [2025-05-28 Wed] Gavesako (Gambhiro joining from Hungary)
+- [ ] [2025-06-04 Wed]
+- [ ] [2025-06-11 Wed]
+- [ ] [2025-06-18 Wed]
+- [ ] [2025-06-26 Thu] (Wed is uposatha)
+- [ ] [2025-07-02 Wed]
+- [ ] [2025-07-09 Wed] Gambhiro from Norway
+
+* Recording setup with Zoom and OBS                                :noexport:
+** Setup
+
+Mac: muted, no speaker sound.
+
+Plug in camera to laptop, so people get video and audio from the same account.
+Otherwise the current speaker thumbnail jumps back-and-forth.
+
+? Jabra Mic input level
+? Jabra Speaker output level
+
+OBS: Add audio input AND output capture
+
+Hide top Qtile bar.
+Fullscreen Brave with tldraw, but windowed in Qtile.
+Toggle emacs dropdown with notes, no modeline.
+
+: (hide-mode-line-mode 1)
+: (hide-mode-line-mode 0)
+
+Laptop:
+- Connect the JABRA mic/speaker, place it on the table
+- Record at 30fps with OBS
+
+Record separately on the Mac
+- camera feed, in case of showing sth to the camera
+
+OBS: Record only the shared screen (my screen with the tldraw explanation), to
+show less of other people's camera feed.
+
+Mac:
+- Mac setting: select Jabra speaker from the top bar menu
+- Zoom join: enable audio and video
+- Start video on Theravada account screen
+- Left screen: gallery (people's video) window
+- Right screen: highlight window (screen sharing / speaker's video)
+- Zoom settings: speaker/microphone: Jabra SPEAK 510 USB
+- OBS: Record at 60 FPS
+
+Laptop:
+- Mute audio input/output, due to feedback with Mac computer
+- Open Zoom in Firefox
+
+ws 3: org notes
+ws 4: Brave with tldraw, Simsapa
+ws 9: Firefox with Zoom
+
+Use scp to copy recording to laptop.
+
+: cd "~/Videos/Recordings/Pali Readings (Europe)"
+: scp "sumedharama@192.168.1.124:/Users/sumedharama/Movies/2025-01-22 13-01-25.mkv" .
+
+** Uploading
+
+Export the reading section with [[https://github.com/mifi/lossless-cut][lossless-cut]]. Fast, no re-encoding.
+
+Create a thumbnail PNG image with [[/home/gambhiro/Videos/Recordings/Pali Readings (Europe)/scripts/thumbnail-page.typ][thumbnail-page.typ]]
+
+https://github.com/mifi/lossless-cut/issues/2114#issuecomment-2426151921
+
+Create a video: 4sec title, 1sec fade to to reading image
+
+: ../scripts/title-fade.sh ../scripts/thumbnail-page.png `2025-02-13 13-02-25 Ovada-patimokkha-00.01.15.000-01.32.27.884.mkv`
+
+Upload to YouTube. Playlist is linked from the lessons github page.
+
+https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
+
+Title format: ~(2025-01-15) Bojjhaṅga gilānasutta~
+
+Upload settings:
+
+Add timestamps in description, start with 00:00:00
+
+- Visibility: Public
+- Playlist: Pāli Sutta Readings
+- No, not Made for Kids
+- No, don't restrict to over 18
+- No paid promotion
+- No, not Altered / generated
+- No automatic chapters (add timestamps), no places, no concepts
+- Language: English
+- Set Recording date
+- License: Creative Commons - Attribution
+- Yes, allow embedding
+- Yes, publish to subscription feeds
+- No, don't allow remixing
+- Category: Education / Lecture
+- Comments: Off
+
+** Pāli reading presentation howto
+
+ODT ref style?
+
+A4 paper size
+- margins?
+
+Title (date): SpectralSC-Medium.otf
+Sections: NotoSerif-Bold.ttf 12pt
+Text body: Crimson-Roman.otf 11/15pt
+
+https://github.com/pali-sutta-readings/pali-sutta-readings.github.io/tree/source/pali-lessons/fonts
+
+- Org-mode or Markdown template?
+- Obsidian with Simsapa plugin
+- pandoc: md > docx/odt with reference style > pdf
+- pandoc: md > typst > pdf
+  - style in typst
+
+VS Code typst plugin with Simsapa addon?
+
+-----
+
+*LibreOffice, save to PDF*
+
+Colour legends for declension cases:
+
+- [[https://github.com/pali-sutta-readings/pali-sutta-readings.github.io/blob/source/pali-lessons/images/cases-legend-white.png][cases-legend-white.png]]
+- [[https://github.com/pali-sutta-readings/pali-sutta-readings.github.io/blob/source/pali-lessons/images/cases-legend-white-large.png][cases-legend-white-large.png]]
+
+*Upload PDF to Google Drive shared folder Pāli Readings*
+
+File name should be =pali-readings.pdf=, so the existing file is replaced and previously shared links remain the same.
+
+*tldraw whiteboard*
+
+Add text to [[https://www.tldraw.com][tldraw.com]] with [[https://profound-labs.github.io/tltxt/][TLTXT]] bookmarklet
+
+*Record with OBS Studio*
+
+- Plug in the JABRA Mic/Speaker
+- Check system settings, set the JABRA as the default *mic AND speaker*
+- Open OBS Studio
+- Check under "Audio Mixer" the *Desktop Audio* and *Mic/Aux* are enabled
+- Settings:
+  - Video > General
+    + Base (Canvas) Resolution: 1366x768 (your full screen size)
+      - (Aspect Ratio 16:9)
+    + Output Resolution: same, no downscaling required
+    + FPS: 30
+  - Audio > Global Audio Devices
+    + Desktop Audio: Default
+    + Mic/Auxiliary Audio: Default
+  - Output > Recording
+    + Recording Format: Matroska Video (.mkv)
+
+Don't crop the recording area, the output should be *16:9 ratio*.
+
+Create a test recording: speak for testing the mic, play a talk for testing the speaker.
+
+*Fullscreen or 'Install as app' in Brave browser*
+
+Brave has a more "persistent" fullscreen toggle that helps hiding browser buttons and menus.
+
+The vertical tabs option hides the tab bar.
+
+Or you can try if the "Install as app" option works for tldraw.com:
+
+https://community.brave.com/t/install-page-as-app/580224
+
+*Hide the Unity launch sidebar for more screen space*
+
+[[https://askubuntu.com/a/106673][How can I configure Unity's launcher auto-hide behavior? - Ask Ubuntu]]
+* Links                                                            :noexport:
+
+[[https://www.tldraw.com/r/hXdaGU7vKip5vHbAkQa8D?d=v-31.-133.1879.981.uD8B2rmiVHR_6viSS8AOn][tldraw Pāli Readings]]
+
+[[https://www.tldraw.com/r/XXFsr0LAbq5hnpIPk68oZ?d=v-271.-85.1879.981.-MoEVvzvSGwo5y3S6Xo4B][tldraw 2024 (class) edit]]
+
+[[https://www.tldraw.com/ro/PhYEAoE4a35dCVhtF-hEB?d=v-205.-141.1879.1015.page][tldraw 2024 (class) view]]
+
+[[https://www.tldraw.com/r/NBh0Ae8CWE1As8DiFaGI9][tldraw 2024 (solved)]]
+
+* Notes                                                            :noexport:
+* Weaver's Daughter :noexport:
+** Dhp 174 Commentary: The Weaver's Daughter (Part 2)
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=andhabh%25C5%25ABtoti%2520ima%25E1%25B9%2581%2520dhammadesana%25E1%25B9%2581&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
+
+#+begin_quote
+athekadivasaṁ satthā paccūsasamaye lokaṁ olokento taṁ kumārikaṁ attano ñāṇajālassa antopaviṭṭhaṁ disvā ‘‘kiṁ nu kho bhavissatī’’ti upadhārento ‘‘imāya kumārikāya mama dhammadesanāya sutadivasato paṭṭhāya tīṇi vassāni maraṇassati bhāvitā, idānāhaṁ tattha gantvā imaṁ kumārikaṁ cattāro pañhe pucchitvā tāya vissajjentiyā catūsu ṭhānesu sādhukāraṁ datvā imaṁ gāthaṁ bhāsissāmi. sā gāthāvasāne sotāpattiphale patiṭṭhahissati, taṁ nissāya mahājanassāpi sātthikā dhammadesanā bhavissatī’’ti ñatvā pañcasatabhikkhuparivāro jetavanā nikkhamitvā anupubbena aggāḷavavihāraṁ agamāsi. āḷavivāsino ‘‘satthā āgato’’ti sutvā taṁ vihāraṁ gantvā nimantayiṁsu. tadā sāpi kumārikā satthu āgamanaṁ sutvā ‘‘āgato kira mayhaṁ pitā, sāmi, ācariyo puṇṇacandamukho mahāgotamabuddho’’ti tuṭṭhamānasā ‘‘ito me tiṇṇaṁ saṁvaccharānaṁ matthake suvaṇṇavaṇṇo satthā diṭṭhapubbo, idānissa suvaṇṇavaṇṇaṁ sarīraṁ daṭṭhuṁ madhurojañca varadhammaṁ sotuṁ labhissāmī’’ti cintesi. pitā panassā sālaṁ gacchanto āha – ‘‘amma, parasantako me sāṭako āropito, tassa vidatthimattaṁ aniṭṭhitaṁ, taṁ ajja niṭṭhāpessāmi, sīghaṁ me tasaraṁ vaṭṭetvā āhareyyāsī’’ti. sā cintesi – ‘‘ahaṁ satthu dhammaṁ sotukāmā, pitā ca maṁ evaṁ āha. kiṁ nu kho satthu dhammaṁ suṇāmi, udāhu pitu tasaraṁ vaṭṭetvā harāmī’’ti? athassā etadahosi ‘‘pitā maṁ tasare anāhariyamāne potheyyapi pahareyyapi, tasmā tasaraṁ vaṭṭetvā tassa datvā pacchā dhammaṁ sossāmī’’ti pīṭhake nisīditvā tasaraṁ vaṭṭesi.
+
+āḷavivāsinopi satthāraṁ parivisitvā pattaṁ gahetvā anumodanatthāya aṭṭhaṁsu. satthā ‘‘yamahaṁ kuladhītaraṁ nissāya tiṁsayojanamaggaṁ āgato, sā ajjāpi okāsaṁ na labhati. tāya okāse laddhe anumodanaṁ karissāmī’’ti tuṇhībhūto ahosi. evaṁ tuṇhībhūtampi satthāraṁ sadevake loke koci kiñci vattuṁ na visahati. sāpi kho kumārikā tasaraṁ vaṭṭetvā pacchiyaṁ ṭhapetvā pitu santikaṁ gacchamānā parisapariyante ṭhatvā satthāraṁ olokayamānāva aṭṭhāsi. satthāpi gīvaṁ ukkhipitvā taṁ olokesi. sā olokitākāreneva aññāsi – ‘‘satthā evarūpāya parisāya majjhe nisīditvāva maṁ olokento mamāgamanaṁ paccāsīsati, attano santikaṁ āgamanameva paccāsīsatī’’ti. sā tasarapacchiṁ ṭhapetvā satthu santikaṁ agamāsi. kasmā pana naṁ satthā olokesīti? evaṁ kirassa ahosi ‘‘esā ettova gacchamānā puthujjanakālakiriyaṁ katvā aniyatagatikā bhavissati, mama santikaṁ āgantvā gacchamānā sotāpattiphalaṁ patvā niyatagatikā hutvā tusitavimāne nibbattissatī’’ti. tassā kira taṁ divasaṁ maraṇato mutti nāma natthi. sā olokitasaññāṇeneva satthāraṁ upasaṅkamitvā chabbaṇṇaraṁsīnaṁ antaraṁ pavisitvā vanditvā ekamantaṁ aṭṭhāsi. tathārūpāya parisāya majjhe nisīditvā tuṇhībhūtaṁ satthāraṁ vanditvā ṭhitakkhaṇeyeva taṁ āha – ‘‘kumārike, kuto āgacchasī’’ti? ‘‘na jānāmi, bhante’’ti. ‘‘kattha gamissasī’’ti? ‘‘na jānāmi, bhante’’ti. ‘‘na jānāsī’’ti? ‘‘jānāmi, bhante’’ti. ‘‘jānāsī’’ti? ‘‘na jānāmi, bhante’’ti. iti naṁ satthā cattāro pañhe pucchi. mahājano ujjhāyi – ‘‘ambho, passatha, ayaṁ pesakāradhītā sammāsambuddhena saddhiṁ icchiticchitaṁ kathesi, nanu nāma imāya ‘kuto āgacchasī’ti vutte ‘pesakāragehato’ti vattabbaṁ. ‘kahaṁ gacchasī’ti vutte ‘pesakārasāla’nti vattabbaṁ siyā’’ti.
+
+satthā mahājanaṁ nissaddaṁ katvā, ‘‘kumārike, tvaṁ kuto āgacchasī’’ti vutte ‘‘kasmā na jānāmīti vadesī’’ti pucchi. bhante, tumhe mama pesakāragehato āgatabhāvaṁ jānātha, ‘‘kuto āgatāsī’’ti pucchantā pana ‘‘kuto āgantvā idha nibbattāsī’’ti pucchatha. ahaṁ pana na jānāmi ‘‘kuto ca āgantvā idha nibbattāmhī’’ti. athassā satthā ‘‘sādhu sādhu, kumārike, mayā pucchitapañhova tayā vissajjito’’ti paṭhamaṁ sādhukāraṁ datvā uttarimpi pucchi – ‘‘kattha gamissasīti puna puṭṭhā kasmā ‘na jānāmī’ti vadesī’’ti? bhante, tumhe maṁ tasarapacchiṁ gahetvā pesakārasālaṁ gacchantiṁ jānātha, ‘‘ito gantvā kattha nibbattissasī’’ti pucchatha. ahañca ito cutā na jānāmi ‘‘kattha gantvā nibbattissāmī’’ti. athassā satthā ‘‘mayā pucchitapañhoyeva tayā vissajjito’’ti dutiyaṁ sādhukāraṁ datvā uttarimpi pucchi – ‘‘atha kasmā ‘na jānāsī’ti puṭṭhā ‘jānāmī’ti vadesī’’ti? ‘‘maraṇabhāvaṁ jānāmi, bhante, tasmā evaṁ vademī’’ti. athassā satthā ‘‘mayā pucchitapañhoyeva tayā vissajjito’’ti tatiyaṁ sādhukāraṁ datvā uttarimpi pucchi – ‘‘atha kasmā ‘jānāsī’ti puṭṭhā ‘na jānāmī’ti vadesī’’ti. mama maraṇabhāvameva ahaṁ jānāmi, bhante, ‘‘rattindivapubbaṇhādīsu pana asukakāle nāma marissāmī’’ti na jānāmi, tasmā evaṁ vademīti. athassā satthā ‘‘mayā pucchitapañhoyeva tayā vissajjito’’ti catutthaṁ sādhukāraṁ datvā parisaṁ āmantetvā ‘‘ettakaṁ nāma tumhe imāya kathitaṁ na jānātha, kevalaṁ ujjhāyatheva. yesañhi paññācakkhu natthi, te andhā eva. yesaṁ paññācakkhu atthi, te eva cakkhumanto’’ti vatvā imaṁ gāthamāha –
+
+174.
+
+‘‘andhabhūto ayaṁ loko, tanukettha vipassati.
+
+sakuṇo jālamuttova, appo saggāya gacchatī’’ti..
+
+tattha andhabhūto ayaṁ lokoti ayaṁ lokiyamahājano paññācakkhuno abhāvena andhabhūto. tanuketthāti tanuko ettha, na bahu jano aniccādivasena vipassati. jālamuttovāti yathā chekena sākuṇikena jālena ottharitvā gayhamānesu vaṭṭakesu kocideva jālato muccati. sesā antojālameva pavisanti. tathā maraṇajālena otthaṭesu sattesu bahū apāyagāmino honti, appo kocideva satto saggāya gacchati, sugatiṁ vā nibbānaṁ vā pāpuṇātīti attho.
+
+desanāvasāne kumārikā sotāpattiphale patiṭṭhahi, mahājanassāpi sātthikā dhammadesanā ahosīti.
+
+sāpi tasarapacchiṁ gahetvā pitu santikaṁ agamāsi, sopi nisinnakova niddāyi. tassā asallakkhetvāva tasarapacchiṁ upanāmentiyā tasarapacchi vemakoṭiyaṁ paṭihaññitvā saddaṁ kurumānā pati. so pabujjhitvā gahitanimitteneva vemakoṭiṁ ākaḍḍhi. vemakoṭi gantvā taṁ kumārikaṁ ure pahari, sā tattheva kālaṁ katvā tusitabhavane nibbatti. athassā pitā taṁ olokento sakalasarīrena lohitamakkhitena patitvā mataṁ addasa. athassa mahāsoko uppajji. so ‘‘na mama sokaṁ añño nibbāpetuṁ sakkhissatī’’ti rodanto satthu santikaṁ gantvā tamatthaṁ ārocetvā, ‘‘bhante, sokaṁ me nibbāpethā’’ti āha. satthā taṁ samassāsetvā ‘‘mā soci, upāsaka. anamataggasmiñhi saṁsāre tava evameva dhītu maraṇakāle paggharitaassu catunnaṁ mahāsamuddānaṁ udakato atirekatara’’nti vatvā anamataggakathaṁ kathesi. so tanubhūtasoko satthāraṁ pabbajjaṁ yācitvā laddhūpasampado na cirasseva arahattaṁ pāpuṇīti.
+
+pesakāradhītāvatthu sattamaṁ.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+|   |   |   |   |
+
+* 2024-12-27 :noexport:
+** Ratana sutta: khīṇaṁ purāṇaṁ...
+
+#+begin_quote
+Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
+
+Viratta- cittāyatike bhavasmiṁ;
+
+Te khīṇa- bījā avirūḷhi- chandā,
+
+Nibbanti dhīrā yathā- yaṁ padīpo;
+
+Idampi saṅghe ratanaṁ paṇītaṁ,
+
+Etena saccena suvatthi hotu.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| khīyati                       | is destroyed; is exhausted                                 |
+| khīṇa (pp. of khīyati)         | consumed; destroyed                                        |
+| khaya (m. from khīyati)       | wearing away; destruction                                  |
+| purāṇa (adj.)                  | previous; old; ancient                                     |
+| nava (adj.)                   | new; fresh                                                 |
+| sambhavati                    | comes to be; happens; occurs                               |
+| sambhava (m. from sambhavati) | birth; origin; source (of)                                 |
+| rajjati                       | finds pleasure (in); is enamoured (with)                   |
+| virajjati                     | becomes detached (from); loses interest (in)               |
+| viratta (pp. of virajjati)    | detached (from); without desire (for); lost interest (in)  |
+| āyati (f.)                    | future; upcoming                                           |
+| āyatika (adj. from āyati)     | upcoming; future                                           |
+| bīja (nt.)                    | seed; germ                                                 |
+| virūḷhi (f.)                   | growth; increase                                           |
+| chanda (m.)                   | (1) interest; desire; wish (2) consent; agreement          |
+| nibbāti                       | is extinguished; goes out; lit. blows away                 |
+| dhīra (adj.)                  | (1) stable; constant; reliable; firm (2) wise; intelligent |
+| padīpa (m.)                   | lamp; light; lighting                                      |
+
+(tesaṁ,) purāṇaṁ kammaṁ khīṇaṁ hoti
+
+navaṁ sambhavaṁ natthi
+
+kammaṁ: nt. nom/acc. sg.
+
+kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho (AN 3.76)
+
+*** Links                                                          :noexport:
+
+[[http://localhost:4848/suttas/snp2.1/pli/ms?quote=Kh%25C4%25AB%25E1%25B9%2587a%25E1%25B9%2581%2520pur%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Study][Khīṇaṁ purāṇaṁ...]]
+
+[[https://www.tldraw.com/r/hXdaGU7vKip5vHbAkQa8D?d=v-278.-199.1553.811.page][tldraw board]]
+
+*** Analysis                                                       :noexport:
+
+Provide a word-by-word grammar analysis of the following Pali text.
+Indicate omitted subjects, objects or verbs (e.g. hoti).
+
+: Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
+: Virattacittāyatike bhavasmiṁ;
+
+The construction follows a parallel structure:
+[tesaṁ] khīṇaṁ purāṇaṁ [hoti] - "the old is destroyed [for them]"
+
+Khīṇaṁ:
+- Root: √khī (to waste away, be exhausted)
+- Past participle of khīyati
+- Nominative/accusative singular neuter
+- Meaning: exhausted, destroyed
+
+purāṇaṁ:
+- Adjective
+- Nominative/accusative singular neuter
+- Meaning: old, former
+
+navaṁ:
+- Adjective
+- Nominative/accusative singular neuter
+- Meaning: new
+
+natthi:
+- na (negative particle) + atthi (from √as, to be)
+- 3rd person singular present indicative
+- Meaning: is not, does not exist
+
+sambhavaṁ:
+- Prefix saṁ + √bhū (to become)
+- Nominative/accusative singular neuter
+- Action noun/gerund
+- Meaning: arising, origination
+
+Viratta-cittāyatike:
+- Compound word (tatpurusa):
+  * viratta: past participle of virajjati (vi + √raj)
+  * citta: mind
+  * āyatika: future, what lies ahead
+- Locative singular
+- Meaning: in future becoming
+
+bhavasmiṁ:
+- Root: √bhū (to become)
+- Locative singular masculine
+- Meaning: in existence
+
+: Te khīṇabījā avirūḷhichandā,
+: Nibbanti dhīrā yathāyaṁ padīpo;
+
+Te:
+- Demonstrative pronoun, nominative plural masculine
+- "They, those"
+
+khīṇabījā:
+- Compound adjective (bahuvrīhi), nominative plural masculine
+- khīṇa (destroyed) + bīja (seed)
+- "Those whose seeds are destroyed"
+
+avirūḷhichandā:
+- Compound adjective (bahuvrīhi), nominative plural masculine
+- a (negative) + virūḷhi (growth) + chanda (desire)
+- "Those whose desire for growth has ceased"
+
+Nibbanti:
+- Verb, 3rd person plural present indicative
+- Root: √nibbā (to be extinguished)
+- "They are extinguished"
+
+dhīrā:
+- Adjective/noun, nominative plural masculine
+- "The wise ones"
+
+yathā:
+- Indeclinable, adverb of comparison
+- "Just as, like"
+
+ayaṁ:
+- Demonstrative pronoun, nominative singular masculine
+- "This"
+
+padīpo:
+- Noun, nominative singular masculine
+- "Lamp"
+* Dhammapada 21-23                                                 :noexport:
+** Chanting: Yaṅkiñci ratanaṁ loke
+
+#+begin_quote
+Yaṅkiñci ratanaṁ loke vijjati
+
+vividhaṁ puthu ratanaṁ buddhasamaṁ natthi
+
+tasmā sotthī bhavantu te
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| vividha (adj.)   | various kinds of; assorted; multiple |
+| puthu (ind.)     | far and wide; all over               |
+| sama (adj.)      | level; even; balanced                |
+| sama (nt.)       | similarity; equality                 |
+| sotthi (f. +dat) | safety (for); well-being (for)       |
+|                  | abstr, from atthi (+dat)             |
+
+** Dhammapada: Sāmāvatīvatthu (Dhp 21-23)
+
+#+begin_quote
+Appamādo amatapadaṁ,
+
+pamādo maccuno padaṁ;
+
+Appamattā na mīyanti,
+
+ye pamattā yathā matā.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| appamāda (m.) | lit. not heedless; [na + pamajjati] |
+| maccu (m.)    | death                               |
+| mīyati        | is killed; dies; pass of marati     |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Evaṁ visesato ñatvā,
+
+appamādamhi paṇḍitā;
+
+Appamāde pamodanti,
+
+ariyānaṁ gocare ratā.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| visesato (ind.)     | distinctly; clearly                          |
+| pamodati (pr. +loc) | is delighted (with/about)                    |
+| gocara (m.)         | food; grazing; pasture                       |
+|                     | lit. (where the) cows walk [go + cara]       |
+| rata (pp. +loc)     | pleased (with/about); enjoying; pp of ramati |
+
+#+begin_quote
+Te jhāyino sātatikā,
+
+niccaṁ daḷhaparakkamā;
+
+Phusanti dhīrā nibbānaṁ,
+
+yogakkhemaṁ anuttaraṁ.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| jhāyī (adj.)          | meditating; contemplating; from jhāyati       |
+| sātatika (adj.)       | persevering; consistent                       |
+| daḷhaparakkama (adj.) | making continuous effort; [daḷha + parakkama] |
+| daḷha (pp.)           | firm; steady; strenuous                       |
+| phusati               | touches; contacts; feels; experiences         |
+| yoga (m.)             | yoke; bond; attachment                        |
+
+*** Links                                                          :noexport:
+
+[[http://localhost:4848/suttas/dhp21-32/pli/ms?quote=Appam%25C4%2581do%2520amatapada%25E1%25B9%2581&window_type=Sutta+Study][Dhp 21]]
+* Pārājika 4                                                       :noexport:
+** Exercise
+
+#+begin_quote
+Yasmā ca kho bhikkhave
+
+\vin atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
+
+Tasmā jātassa bhūtassa katassa saṅkhatassa
+
+\vin nissaraṇaṁ paññāyati.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| paññāyati | is clearly known; is evident; pass. of pajānāti |
+
+#+begin_quote
+Yan-dunnimittaṁ avamaṅgalañ-ca, yo cāmanāpo sakuṇassa saddo
+
+Pāpaggaho dussupinaṁ akantaṁ, buddhānubhāvena vināsamentu
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| gaha (m.)     | (1) grip; grabbing; from gaṇhāti  |
+|               | (2) planet; lit. what is grasped  |
+| ānubhāva (m.) | power; ability                    |
+| vināsa (m.)   | destruction; ruin; from vinassati |
+| eti (+acc)    | comes (to); goes (to); becomes     |
+
+\vspace*{2\baselineskip}
+
+** Pārājika 4
+
+#+begin_quote
+Yo pana bhikkhu anabhijānaṁ uttari-manussa-dhammaṁ
+
+attūpanāyikaṁ alam-ariya-ñāṇa-dassanaṁ samudācareyya
+
+“iti jānāmi, iti passāmī”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| attūpanāyika (adj.) | referring to oneself [atta + upanāyika] |
+| samudācarati        | asserts; announces                      |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Tato aparena samayena
+
+samanuggāhiyamāno vā asamanuggāhiyamāno vā
+
+āpanno visuddhāpekkho evaṁ vadeyya,
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| apara (adj.)                    | another; after                                       |
+| samaya (m.)                     | time; occasion                                       |
+| āpanna (pp. + acc.)             | fallen into; pp. of āpajjati                         |
+| samanuggāhiyamāna (prp. +instr) | being closely questioned (by); lit. being dived into |
+|                                 | [saṁ + anu + √gāh + īya + māna]                     |
+| apekkha (adj.)                  | looking (for); desiring                              |
+
+\vspace*{2\baselineskip}
+
+#+begin_quote
+“Ajānam-evaṁ āvuso avacaṁ 'jānāmi', apassaṁ 'passāmi'.
+
+Tucchaṁ musā vilapi”nti.
+
+Aññatra adhimānā: ayam-pi pārājiko hoti asaṁvāso.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| tucchaṁ (ind.) | emptily; vainly; without substance [tuccha + aṁ] |
+| musā (ind.)     | falsely; untruthfully                             |
+| vilapi          | talked nonsense; aor. of vilapati                 |
+
+*** Links                                                          :noexport:
+
+[[http://localhost:4848/suttas/pli-tv-bu-pm/pli/ms?quote=Yo%2520pana%2520bhikkhu%2520anabhij%25C4%2581na%25E1%25B9%2581&window_type=Sutta+Study][Pr 4 (SSP)]]
+
+** Closing of Pr 4                                                 :noexport:
+
+#+begin_quote
+Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā,
+
+yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā
+
+na labhati bhikkhūhi saddhiṁ saṁvāsaṁ.
+
+Yathā pure, tathā pacchā: pārājiko hoti asaṁvāso.
+#+end_quote
+
+#+begin_quote
+Tatth'āyasmante pucchāmi: kacci'ttha parisuddhā?
+
+Dutiyampi ... tatiyampi ...
+
+Parisuddh'etth'āyasmanto, tasmā tuṇhī,
+
+evam-etaṁ dhārayāmi.
+#+end_quote
+
+* Name-and-Form                                                    :noexport:
+** Cases Exercise: The Elephant
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Jetavane hatthinī soṇḍāya vā dīghahatthena vā
+
+attano hatthipotakassa tiṇaṁ datvā,
+
+tato vīriyārambhāya soṇḍato mahāsaddaṁ pahiṇi.
+
+Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
+#+end_quote
+
+# At Jetavana, the elephant gave grass to her own baby-elephant by the trunk (or by
+# the long hand), then sent a loud noise from the trunk for making effort.
+# The belly of this baby elephant grew large with grass.
+
+#+latex: \vspace*{2\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{5cm} L{3cm}
+| word             | meaning                             | case                  |
+|------------------+-------------------------------------+-----------------------|
+| Jetavane         | \fillin{5cm}{at Jetavana}           | \fillin{3cm}{loc.}    |
+| hatthinī         | \fillin{5cm}{the female elephant}   | \fillin{3cm}{nom.}    |
+| soṇḍāya vā       | \fillin{5cm}{by the trunk}          | \fillin{3cm}{inst.}   |
+| dīghahatthena vā | \fillin{5cm}{or by the long hand}   | \fillin{3cm}{inst.}   |
+| attano           | \fillin{5cm}{her own}               | \fillin{3cm}{gen.}    |
+| hatthipotakassa  | \fillin{5cm}{to the baby-elephant}  | \fillin{3cm}{dat.}    |
+| tiṇaṁ           | \fillin{5cm}{grass}                 | \fillin{3cm}{acc.}    |
+| datvā            | \fillin{5cm}{having given}          | \fillin{3cm}{ger.}    |
+| tato             | \fillin{5cm}{then}                  | \fillin{3cm}{ind.}    |
+| vīriyārambhāya   | \fillin{5cm}{for making effort}     | \fillin{3cm}{dat.}    |
+| soṇḍato          | \fillin{5cm}{from the trunk}        | \fillin{3cm}{abl.}    |
+| mahāsaddaṁ      | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
+| pahiṇi           | \fillin{5cm}{sent (→ pahiṇāti)}     | \fillin{3cm}{aor.}    |
+| imassa           | \fillin{5cm}{pron. of this (→ ima)} | \fillin{3cm}{gen.sg.} |
+| hatthipotakassa  | \fillin{5cm}{of the baby elephant}  | \fillin{3cm}{gen.}    |
+| tiṇena           | \fillin{5cm}{with grass}            | \fillin{3cm}{inst.}   |
+| kucchi           | \fillin{5cm}{belly, stomach}        | \fillin{3cm}{nom.}    |
+| mahanto          | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
+| ahosi            | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
+
+#+latex: \normalArrayStretch
+
+\clearpage
+
+*** Notes                                                          :noexport:
+
+soṇḍa origin:
+
+The Hungarian dictionary says "szonda" is from the French "sonde" (tool for
+water-depth measurement or medical probe), and the French word is
+Proto-Indo-European
+
+https://en.wiktionary.org/wiki/sonde#French
+* More                                                             :noexport:
+** Akuppā me vimutti / kuppapaṭicca santi
+*** akuppā me vimutti
+
+#+begin_quote
+Ñāṇañca pana me dassanaṁ udapādi, akuppā me vimutti ayam-antimā jāti, natthi dāni punabbhavo'ti.
+
+Idam-avoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
+
+Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
+
+yaṁ kiñci samudaya-dhammaṁ sabban-taṁ nirodha-dhamman'ti.
+#+end_quote
+
+Dhammacakkappavattana
+
+*** akuppā cetovimutti
+
+The term *akuppā cetovimutti*, "unshakeable deliverance of the mind", expresses
+the same idea. Sometimes the Buddha refers to Nibbāna as *akuppā
+cetovimutti*.[^fn285] All other such deliverances are shakeable, or irritable.
+
+MN 29 Mahāsāropamasutta [[http://localhost:4848/suttas/mn29/pli/ms?quote=akupp%25C4%2581%2520cetovimutti&window_type=Sutta+Study][SSP]]
+
+*** acalaṁ sukhaṁ
+
+Sermon 8
+
+# Then, in which sense is Nibbāna called *dhuva*? In the sense that the experience
+# of Nibbāna is irreversible. That is why it is referred to as *acalaṁ
+# sukhaṁ*, "unshakeable bliss".
+
+Ud 8.10 [[http://localhost:4848/suttas/ud8.10/pli/ms?quote=acala%25E1%25B9%2581%2520sukhan&window_type=Sutta+Study][SSP]]
+Thag 3.16 Vimala Thera [[http://localhost:4848/suttas/thag3.16/pli/ms?quote=patthento%2520acala%25E1%25B9%2581%2520sukha%25E1%25B9%2581&window_type=Sutta+Study][SSP]]
+
+#+begin_quote
+Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
+
+“Ayoghanahatasseva,
+jalato jātavedaso;
+Anupubbūpasantassa,
+yathā na ñāyate gati.
+
+Evaṁ sammāvimuttānaṁ,
+kāmabandhoghatārinaṁ;
+Paññāpetuṁ gati natthi,
+pattānaṁ acalaṁ sukhan”ti.
+#+end_quote
+
+*** kuppapaṭicca santi
+
+# As the expression *kuppapaṭicca santi*, "peace dependent on
+# irritability", implies, they are irritable and shakeable.
+
+Snp 4.3 Duṭṭhaṭṭhakasutta ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.4.0.0.3.0.2.m][DPR]], [[http://localhost:4848/suttas/snp4.3/pli/ms?quote=Ta%25E1%25B9%2581%2520nissito%2520kuppapa%25E1%25B9%25ADiccasanti%25E1%25B9%2581&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Sakañhi diṭṭhiṁ kathamaccayeyya,
+Chandānunīto ruciyā niviṭṭho;
+...
+
+Santo ca bhikkhu abhinibbutatto,
+Itihanti sīlesu akatthamāno;
+Tamariyadhammaṁ kusalā vadanti,
+Yassussadā natthi kuhiñci loke.
+
+Pakappitā saṅkhatā yassa dhammā,
+Purakkhatā santi avīvadātā;
+Yadattani passati ānisaṁsaṁ,
+Taṁ nissito kuppapaṭiccasantiṁ.
+
+Diṭṭhīnivesā na hi svātivattā,
+Dhammesu niccheyya samuggahītaṁ;
+Tasmā naro tesu nivesanesu,
+Nirassatī ādiyatī ca dhammaṁ.
+
+Dhonassa hi natthi kuhiñci loke,
+Pakappitā diṭṭhi bhavābhavesu;
+Māyañca mānañca pahāya dhono,
+Sa kena gaccheyya anūpayo so.
+#+end_quote
+
+*** kiṁ kuppissati
+
+Sermon 14
+
+> *amiyyamāno kiṁ kuppissati, akuppamāno kissa pihessati,*
+>
+> not dying, how shall he be shaken, and being unshaken, what shall he long
+> for?
+
+> *Yatthaṭṭhitaṁ maññussavā nappavattanti, maññussave kho pana nappavattamāne
+> muni santo ti vuccatīti, iti yaṁ taṁ vuttaṁ, idam etaṁ paṭicca
+> vuttaṁ*.[^fn479]
+
+[^fn479]: M III 246, *Dhātuvibhaṅgasutta*
+
+** Chanting: Mettāya, bhikkhave
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya
+
+vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā.
+
+Katame ekādasa? Sukhaṁ supati, sukhaṁ paṭibujjhati, na pāpakaṁ supinaṁ passati,
+
+manussānaṁ piyo hoti, amanussānaṁ piyo hoti, devatā rakkhanti,
+
+nāssa aggi vā visaṁ vā satthaṁ vā kamati,
+
+tuvaṭaṁ cittaṁ samādhiyati, mukhavaṇṇo vippasīdati,
+
+asammūḷho kālaṁ karoti, uttari appaṭivijjhanto brahmalokūpago hoti.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| āsevita (pp.)          | practised persistently; pp of āsevati                   |
+| pāṭikaṅkha (ptp. +dat) | to be expected (for); certain (for); can be anticipated |
+|                        | ptp of paṭikaṅkhati                                     |
+
+*** Links
+
+[[http://localhost:4848/suttas/an11.15/pli/ms?window_type=Sutta+Study][AN 11.15 (SSP)]]
+
+** Chanting: Āyudo balado dhīro
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Āyudo balado dhīro, / vaṇṇado paṭibhānado;
+
+Sukhassa dātā medhāvī, / sukhaṁ so adhigacchati.
+
+Āyuṁ datvā balaṁ vaṇṇaṁ, / sukhañca paṭibhānado;
+
+Dīghāyu yasavā hoti, / yattha yatthūpapajjatī”ti.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| āyuda (adj.)    | giving life [āyu + da]                                      |
+| dhīra (m.)      | wise man; intelligent person [√dhī + ra]                    |
+| paṭibhāna (nt.) | wit; intelligence; quick response                           |
+|                 | lit. speaking back [pati + √bhaṇ + *a]                      |
+| medhāvī (m.)    | intelligent man; who has good judgment; lit. who has wisdom |
+|                 | [√medh + ā + vī]                                            |
+| yasavant (adj.) | famous; renowned                                            |
+| yattha (ind.)   | wherever; where                                             |
+| upapajjati      | is reborn (in); re-arises (in); lit. goes towards           |
+
+\clearpage
+
+** Jaṭā Sutta (SN 7.6) :noexport:
+
+Sāvatthinidānaṁ. Atha kho jaṭābhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami;
+
+upasaṅkamitvā bhagavatā saddhiṁ sammodi.
+
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi.
+
+Ekamantaṁ nisinno kho jaṭābhāradvājo brāhmaṇo bhagavantaṁ gāthāya ajjhabhāsi:
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| sammodati (+instr)               | greets; exchanges pleasantries (with)        |
+| bhagavatā                        | instr.sg. of bhagavant                       |
+| sammodanīya (ptp.)               | lit. to be enjoyed; ptp. of sammodati        |
+| sāraṇīya (ptp.)                  | polite; lit. to be desired; ptp of sārajjati |
+| vītisāreti                       | conducts, concludes (a conversation)         |
+| gāthā (f.)                       | verse; poem; stanza; lit. song               |
+| ajjhabhāsi (aor. +acc & +instr)  | addressed; spoke (to someone with)           |
+
+“Antojaṭā bahijaṭā, / Jaṭāya jaṭitā pajā;
+
+Taṁ taṁ gotama pucchāmi, / Ko imaṁ vijaṭaye jaṭan”ti.
+
+“Sīle patiṭṭhāya naro sapañño, / Cittaṁ paññañca bhāvayaṁ;
+
+Ātāpī nipako bhikkhu, / So imaṁ vijaṭaye jaṭaṁ.
+
+Yesaṁ rāgo ca doso ca, / Avijjā ca virājitā;
+
+Khīṇāsavā arahanto, / Tesaṁ vijaṭitā jaṭā.
+
+Yattha nāmañca rūpañca, / Asesaṁ uparujjhati;
+
+Paṭighaṁ rūpasaññā ca, / Etthesā chijjate jaṭā”ti.
+
+Evaṁ vutte, jaṭābhāradvājo bhagavantaṁ etadavoca:
+
+“abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosī”ti.
+
+\bigskip
+
+([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
+
+\textbf{jaṭābhāradvājo}ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṁ vutto.
+
+*** Links                                                          :noexport:
+
+[[id:5f92c53b-fbf1-4505-a191-a507b8fb14c2][Jaṭā Sutta (SN 7.6)]]
+
+[[http://localhost:4848/suttas/sn7.6/pli/ms?window_type=Sutta+Study][SN 7.6 Jaṭāsutta (SSP)]], the tangle within and without
+
+Translation by Bh Bodhi: [[http://localhost:4848/suttas/sn1.23/en/bodhi?window_type=Sutta+Study][SN 1.23 (SSP)]]
+
+DPPN:
+
+DPPN: Bhāradvāja. The name of a brahmin clan; about twenty individuals belonging to
+this clan are mentioned in the Pitakas.
+
+Jaṭā bhāradvāja: A brahmin of the Bhāradvājagotta.
+
+The Commentary (SA.i.179) says that he was given this name by the Recensionists
+because he asked a question about jatā (tangle).
+
+([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
+
+__jaṭābhāradvājo__ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṁ vutto.
+
+([[http://localhost:4848/suttas/s0301t.tik/pli/cst4?quote=antoja%25E1%25B9%25AD%25C4%2581%2520bahija%25E1%25B9%25AD%25C4%2581&window_type=Sutta+Study][Ṭīkā]]) jaṭāsuttavaṇṇanā:
+
+__jaṭāpañhassā__ti ‘‘antojaṭā bahijaṭā’’ti evaṁ jaṭāpariyāyassa pañhassa.
+
+**** Meter
+
+2.3 Siloka (Śloka) a.k.a. Vatta (Vaktra) & Anuṭṭhubha (Anuṣṭubh)
+https://ancient-buddhist-texts.net/Textual-Studies/Outline/2-Outline-03.htm
+
+: A Siloka verse normally consists of 4 lines (sometimes 6, rarely 5) with 8
+: syllables to the line, organised in dissimilar pairs which are repeated to make
+: up a verse (note that owing to resolution sometimes a Siloka line may contain 9
+: syllables).
+
+What is the meter of Jaṭā Sutta (SN 7.6)?
+
+“Antojaṭā bahijaṭā,
+jaṭāya jaṭitā pajā;
+Taṁ taṁ gotama pucchāmi,
+ko imaṁ vijaṭaye jaṭan”ti.
+
+------
+
+NORBU: The verse you've quoted from the Jaṭā Sutta (SN 7.6) is in a meter known
+as Śloka (also spelled Sloka) in Sanskrit, or Siloka in Pali. This is one of the
+most common meters used in Sanskrit and Pali poetry, including many Buddhist
+texts.
+
+The Śloka meter consists of four padas (lines) of eight syllables each, making a
+total of 32 syllables per verse. The basic structure is as follows:
+
+1st line: 8 syllables
+2nd line: 8 syllables
+3rd line: 8 syllables
+4th line: 8 syllables
+
+In the verse you've provided:
+
+"Antojaṭā bahijaṭā, (8 syllables)
+jaṭāya jaṭitā pajā; (8 syllables)
+Taṁ taṁ gotama pucchāmi, (8 syllables)
+ko imaṁ vijaṭaye jaṭan"ti. (8 syllables)
+
+Each line indeed contains 8 syllables, conforming to the Śloka meter. This meter
+is widely used in Buddhist literature, including the Dhammapada and many suttas,
+due to its simplicity and ease of memorization, which was crucial in the oral
+transmission of these teachings.
+
+-------
+
+Question: What is the history of the Śloka / Siloka meter?
+
+NORBU: The Śloka meter has a long and significant history in Indian literature,
+including Buddhist texts. Here's an overview of its development and importance:
+
+1. Vedic Origins: The Śloka meter evolved from the Vedic Anuṣṭubh meter, which
+   was used in the Rigveda. The Anuṣṭubh consisted of four padas of eight
+   syllables each, much like the Śloka.
+
+2. Epic Period: The Śloka gained prominence during the composition of the great
+   Indian epics, the Ramayana and the Mahabharata (circa 5th-4th century BCE).
+   It became the primary meter for narrative poetry.
+
+3. Classical Sanskrit: In classical Sanskrit literature, the Śloka became highly
+   refined. Poets like Kalidasa (c. 4th-5th century CE) used it extensively in
+   their works.
+
+4. Buddhist Adoption: As Buddhism emerged and spread, it adopted the Śloka meter
+   for its own texts. Many suttas in the Pali Canon, including parts of the
+   Sutta Nipata and the entire Dhammapada, use this meter.
+
+5. Flexibility and Popularity: The Śloka's popularity stemmed from its
+   flexibility. It allowed for variations in the arrangement of long and short
+   syllables, making it adaptable to different linguistic contexts.
+
+6. Mnemonic Device: In oral traditions, the Śloka's rhythmic structure made it
+   an excellent mnemonic device for preserving and transmitting teachings.
+
+7. Pan-Indian Usage: The Śloka transcended linguistic and religious boundaries,
+   being used in Sanskrit, Pali, and various Prakrits, and in Hindu, Buddhist,
+   and Jain texts.
+
+8. Continued Use: Even in modern times, the Śloka remains a popular meter in
+   Indian languages for religious and didactic poetry.
+
+The Śloka's enduring popularity in Buddhist literature demonstrates its
+effectiveness in conveying complex philosophical and spiritual concepts in a
+memorable form. Its use in texts like the Jaṭā Sutta exemplifies how Buddhist
+teachers adapted existing cultural forms to spread the Dhamma.
+** Chanting
+
+uppannāya taṇhā꜔꜒ya ponobhavikāya na vasa꜔꜒ṁ gacchissa꜔꜒nti
+
+Ye ca kho tvaṁ, gotami, dhamme jāneyyāsi:
+‘ime dhammā virāgāya saṁvattanti, no sarāgāya;
+
+** Vinaya
+
+tinaṁ vā...

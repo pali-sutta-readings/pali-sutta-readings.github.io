@@ -61,11 +61,7 @@ A 12-shade colour-pencil pack has all the necessary shades:
 
 ## Pāli Lessons
 
-FIXME
-
-## Readings Archive
-
-FIXME
+[![Pali Lessons](assets/docs/pali-lessons-thumb.png)](pali-lessons/)
 
 ## Notifications with RSS or Email
 
@@ -85,3 +81,18 @@ With an **RSS to email** service, such as:
 Protect your email address with a forwarding alias and tracker-remover service:
 
 <https://duckduckgo.com/email/>
+
+## Readings Archive
+
+[pali-readings-2023.pdf](assets/docs/pali-readings-2023.pdf)
+
+[pali-readings-2023-answerkey.pdf](assets/docs/pali-readings-2023-answerkey.pdf)
+
+[pali-readings-2023.apkg](assets/docs/pali-readings-2023.apkg)
+
+[pali-readings-weavers-daughter-dhp174.pdf](assets/docs/pali-readings-weavers-daughter-dhp174.pdf)
+
+[pali-readings-weavers-daughter-dhp174-answerkey.pdf](assets/docs/pali-readings-weavers-daughter-dhp174-answerkey.pdf)
+
+[pali-readings-weavers-daughter-dhp174.apkg](assets/docs/pali-readings-weavers-daughter-dhp174.apkg)
+

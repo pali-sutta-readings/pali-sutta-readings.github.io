@@ -5,6 +5,16 @@ tmp/
 docs/readings/sessions/*.md
 docs/readings-print/
 
+pali-lessons/*.pdf
+pali-lessons/*.apkg
+pali-lessons/exported/*.apkg
+pali-lessons/*.zip
+
+2023-readings/*.pdf
+2023-readings/*.apkg
+2023-readings/exported/*.apkg
+2023-readings/*.zip
+
 # Environments
 .env
 .venv
@@ -45,7 +55,11 @@ tags
 *.fls
 *.fdb_latexmk
 *.xdv
-doc/_minted-prophecy/
+*.out
+*.qsl
+*.sol
+*.cut
+*.xdv
 
 # General macOS
 .DS_Store
@@ -55,3 +69,19 @@ doc/_minted-prophecy/
 
 # Other
 .sass-cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/

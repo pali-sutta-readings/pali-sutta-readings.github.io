@@ -4,7 +4,7 @@
 * 2025-05-28
 ** Pāli language review
 
-Further Pāli lessons: https://vinaya-class.github.io/pali-lessons.html
+Further Pāli lessons: <https://pali-sutta-readings.github.io/pali-lessons/>
 
 *Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, \\
 word order is often altered for emphasis.
