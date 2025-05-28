@@ -94,6 +94,15 @@ Optative of √as (to be) has two forms:
 | atthi      | pr.3rd.sg/pl.   | there is        |
 | assa, siyā | opt.2nd/3rd.sg. | you/he could be |
 
+
+#+begin_quote
+Yassa siyā āpatti, so āvikareyya. Asantiyā [na + santi + yā] āpattiyā tuṇhī bhāvitabbaṁ.
+
+Tuṇhī-bhāvena kho pan'āyasmante pārisuddhā'ti vedissāmi. (Nidānuddeso)
+
+Aho vata mayaṁ na maraṇadhammā assāma! (DN 22)
+#+end_quote
+
 *Future Passive Participle: -tabba*
 
 | √dā  | dātabba, deyya    | should be given       |
