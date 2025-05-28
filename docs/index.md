@@ -61,7 +61,7 @@ A 12-shade colour-pencil pack has all the necessary shades:
 
 ## Pāli Lessons
 
-[![Pali Lessons](assets/docs/pali-lessons-thumb.png)](pali-lessons/)
+[![Pali Lessons](assets/docs/pali-lessons-thumb.png)](pali-lessons.md)
 
 ## Notifications with RSS or Email
 
