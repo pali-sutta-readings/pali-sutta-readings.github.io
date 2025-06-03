@@ -4,6 +4,8 @@
 * 2025-04-23
 ** Dhp 174 Commentary: The Weaver's Daughter (Part 2)
 
+[[https://pali-sutta-readings.github.io/readings/2025-02-19/][Part 1 (2025-02-19)]], [[https://pali-sutta-readings.github.io/readings/2025-04-23/][Part 2 (2025-04-23)]], [[https://pali-sutta-readings.github.io/readings/2025-06-04/][Part 3 (2025-06-04)]]
+
 ([[https://suttacentral.net/dhp167-178/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.12.0.0.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][SSP]]) Dhp 174 Verse
 
 #+begin_quote
@@ -13,8 +15,6 @@ Sakuṇo jālamuttova, / appo saggāya gacchati.
 #+end_quote
 
 ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=s%25C4%2581pi%2520kum%25C4%2581rik%25C4%2581%2520t%25C4%25AB%25E1%25B9%2587i%2520vass%25C4%2581ni&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
-
-Continuing from [[https://pali-sutta-readings.github.io/readings/2025-02-19/][2024-02-19]]
 
 #+begin_quote
 ... Sāpi kumārikā tīṇi vassāni maraṇassatiṁ bhāvesiyeva.
