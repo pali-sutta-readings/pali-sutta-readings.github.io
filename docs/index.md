@@ -28,8 +28,8 @@ The PDF is updated the day before the meeting to allow printing.
 
 <div style="display: flex; gap: 0.5em; text-align: center;">
 <div style="width: 50%;">
-<p><a href="https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing">pali-readings.pdf</a></p>
-<p><a href="https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing"><img src="assets/docs/pdf-example.png" alt="Readings PDF Download"></a></p>
+<p><a href="https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing">pali-readings.pdf</a></p>
+<p><a href="https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing"><img src="assets/docs/pdf-example.png" alt="Readings PDF Download"></a></p>
 </div>
 <div style="width: 50%;">
 <p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing">pali-readings-anki.zip</a></p>
@@ -37,7 +37,7 @@ The PDF is updated the day before the meeting to allow printing.
 </div>
 </div>
 
-[readings-pdf]: https://drive.google.com/file/d/1Ya_ziHnteIkEcerm8m9e5F7qj0TJl1hk/view?usp=sharing
+[readings-pdf]: https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing
 
 [readings-anki]: https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing
 

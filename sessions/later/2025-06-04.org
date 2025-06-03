@@ -1,0 +1,245 @@
+#+author: gavesako
+#+draft: t
+
+* 2025-06-04
+** Ādhipateyya-sutta (AN 3.40)
+
+([[https://suttacentral.net/an3.40/pli/ms?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin][SC]])
+
+#+begin_quote
+Tīṇimāni, bhikkhave, ādhipateyyāni. Katamāni tīṇi? 
+
+Attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ.
+#+end_quote
+
+| Tīṇi          | Three       | Nominative plural, neuter, numeral                                        |
+| imāni         | These       | Nominative plural, neuter, demonstrative pronoun                          |
+| ādhipateyyāni | Authorities | Nominative plural, neuter noun (*ādhipateyya* = rulership/influence) |
+| Katamāni          | Which (things)?  | Interrogative pronoun, nominative plural, neuter               |
+| attādhipateyyaṁ   | Self-authority   | Compound noun: *atta* (self) + *ādhipateyya*, acc. sg., neuter |
+| lokādhipateyyaṁ   | World-authority  | Compound: *loka* + *ādhipateyya*, acc. sg., neuter             |
+| dhammādhipateyyaṁ | Dhamma-authority | Compound: *dhamma* + *ādhipateyya*, acc. sg., neuter           |
+
+
+#+begin_quote
+Katamañca, bhikkhave, attādhipateyyaṁ? Idha, bhikkhave, bhikkhu 
+
+araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati: 
+
+‘na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. 
+
+Na piṇḍapātahetu, na senāsanahetu, na itibhavābhavahetu 
+
+agārasmā anagāriyaṁ pabbajito. Api ca khomhi otiṇṇo 
+
+jātiyā jarāya maraṇena sokehi paridevehi dukkhehi 
+
+domanassehi upāyāsehi, dukkhotiṇṇo dukkhapareto. 
+#+end_quote
+
+| araññagato     | Gone to the forest       | Past participle of *gacchati*, nom. sg. (arañña + gata)      |
+| rukkhamūlagato | Gone to the root of tree | Compound: *rukkhassa mūla + gata*, past participle, nom. sg. |
+| suññāgāragato  | Gone to an empty hut     | Compound: *suñña + agāra + gata*, past participle, nom. sg.  |
+| paṭisañcikkhati | Reflects, considers | 3rd person singular, present tense; from *paṭi + saṁ + √cikkh* |
+| na kho pana   | Surely not              | Triple emphatic/negative particles (indeclinables)              |
+| cīvarahetu    | For the sake of robes   | Compound: *cīvara* (robe) + *hetu* (cause/reason), instrumental |
+| agārasmā      | From the household life | Ablative singular of *agāra*                                    |
+| anagāriyaṁ    | Homeless life           | Accusative singular, neuter noun from *an+agāra*                |
+| pabbajito     | Gone forth (ordained)   | Past participle, nominative singular, masculine                 |
+| piṇḍapātahetu     | For the sake of almsfood    | Compound: *piṇḍapāta* (almsfood) + *hetu* (reason), instrumental |
+| senāsanahetu      | For the sake of lodging     | Compound: *senāsana* (lodging) + *hetu*, instrumental            |
+| itibhavābhavahetu | For sake of becoming such or such | Compound: *iti-bhava-abhava* + *hetu*, instrumental              |
+| Api ca        | Moreover, and       | Indeclinable connectors                                |
+| amhi          | I am                | 1st person singular, present of *atthi*                |
+| otiṇṇo        | Afflicted, overcome | Past participle from *ava + √tar*, nominative singular |
+| jātiyā        | With birth          | Instrumental singular, feminine noun *jāti*            |
+| jarāya        | With aging          | Instrumental singular, feminine noun *jarā*            |
+| maraṇena      | With death          | Instrumental singular, neuter noun *maraṇa*            |
+| sokehi        | With sorrows      | Instrumental plural, masculine noun *soka*     |
+| paridevehi    | With lamentations | Instrumental plural, masculine noun *parideva* |
+| dukkhehi      | With sufferings   | Instrumental plural, neuter noun *dukkha*      |
+| domanassehi   | With griefs       | Instrumental plural, neuter noun *domanassa*   |
+| upāyāsehi     | With distresses   | Instrumental plural, neuter noun *upāyāsa*     |
+| dukkhotiṇṇo   | Overwhelmed by suffering | Compound: *dukkha* + *otiṇṇa* (past participle), nominative singular |
+| dukkhapareto  | Surrounded by suffering  | Compound: *dukkha* + *pareta* (surrounded by), nominative singular   |
+
+#+begin_quote
+Appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā 
+
+paññāyethāti. Ahañceva kho pana yādisake kāme ohāya 
+
+agārasmā anagāriyaṁ pabbajito 
+
+tādisake vā kāme pariyeseyyaṁ tato vā pāpiṭṭhatare, 
+
+na metaṁ patirūpan’ti.
+#+end_quote
+
+| Appeva            | Oh that it might… (hope/wish)      | Indeclinable, idiomatic wish form                            |
+| nāma              | Indeed, surely (emphatic particle) | Indeclinable                                                 |
+| kevalassa         | Entire                             | Genitive singular, adjective                                 |
+| dukkhakkhandhassa | Mass of suffering                  | Genitive singular, compound: *dukkha* + *kkhandha*           |
+| antakiriyā        | Ending, cessation                  | Nominative singular, feminine noun                           |
+| paññāyetha        | Might be known, realized           | Optative mood, 3rd person singular, passive from *paññāyati* |
+| yādisake      | Of such kind             | Accusative plural, adjective            |
+| kāme          | Desires, sense-pleasures | Accusative plural, masculine            |
+| ohāya         | Having abandoned         | Absolutive of *ohāti* (to leave behind) |
+| tādisake      | Such, of that kind       | Accusative plural, adjective                                           |
+| pariyeseyyaṁ  | I would seek             | Optative mood, 1st person singular, from *pariyesati* (to seek/search) |
+| pāpiṭṭhatare  | Even worse, more base | Comparative form of *pāpiṭṭha*                 |
+| patirūpaṁ     | Suitable, fitting     | Accusative singular, neuter adjective          |
+
+
+
+#+begin_quote
+So iti paṭisañcikkhati: ‘āraddhaṁ kho pana me 
+
+vīriyaṁ bhavissati asallīnaṁ, 
+
+upaṭṭhitā sati asammuṭṭhā, 
+
+passaddho kāyo asāraddho, 
+
+samāhitaṁ cittaṁ ekaggan’ti. 
+
+So attānaṁyeva adhipatiṁ karitvā 
+
+akusalaṁ pajahati, kusalaṁ bhāveti, 
+
+sāvajjaṁ pajahati, anavajjaṁ bhāveti, 
+
+suddhaṁ attānaṁ pariharati. 
+
+Idaṁ vuccati, bhikkhave, attādhipateyyaṁ.
+#+end_quote
+
+| āraddhaṁ        | Aroused, initiated     | Past participle, nominative singular, neuter                    |
+| vīriyaṁ         | Energy, effort       | Nominative singular, neuter noun                                |
+| bhavissati      | Will be              | Future tense, 3rd person singular                               |
+| asallīnaṁ       | Unsluggish, not lazy | Past participle, accusative singular, adjective from *asallīna* |
+| upaṭṭhitā     | Established, present   | Past participle, nominative singular, feminine (*sati*) |
+| sati          | Mindfulness            | Nominative singular, feminine noun                      |
+| asammuṭṭhā    | Not confused | Past participle, nominative singular, feminine          |
+| passaddho     | Calm, relaxed          | Past participle, nominative singular, masculine         |
+| kāyo          | Body                   | Nominative singular, masculine noun                     |
+| asāraddho     | Unagitated, unaroused  | Past participle, nominative singular, masculine         |
+| samāhitaṁ     | Collected, composed  | Past participle, accusative singular, neuter (modifying *cittaṁ*) |
+| cittaṁ        | Mind                 | Accusative singular, neuter noun                                  |
+| ekaggaṁ       | Unified, one-pointed | Adjective, accusative singular, neuter                            |
+| attānaṁ       | Himself           | Accusative singular of *atta*       |
+| yeva          | Just, only        | Emphatic particle (indeclinable)    |
+| adhipatiṁ     | Master, authority | Accusative singular, masculine noun |
+| karitvā       | Having made       | Absolutive of *karoti* (to make/do) |
+| akusalaṁ      | Unwholesome | Accusative singular, neuter adjective |
+| pajahati      | Abandons    | 3rd person singular, present tense    |
+| bhāveti       | Develops    | 3rd person singular, present tense    |
+| sāvajjaṁ      | Blameworthy | Accusative singular, neuter adjective |
+| anavajjaṁ     | Blameless   | Accusative singular, neuter adjective |
+| suddhaṁ       | Pure                     | Accusative singular, neuter adjective |
+| attānaṁ       | Himself                  | Accusative singular of *atta*         |
+| pariharati    | Maintains, takes care of | 3rd person singular, present tense    |
+
+#+begin_quote
+Katamañca, bhikkhave, lokādhipateyyaṁ? ...
+
+Ahañceva kho pana evaṁ pabbajito samāno 
+
+kāmavitakkaṁ vā vitakkeyyaṁ, byāpādavitakkaṁ vā vitakkeyyaṁ, 
+
+vihiṁsāvitakkaṁ vā vitakkeyyaṁ, mahā kho panāyaṁ lokasannivāso. 
+
+Mahantasmiṁ kho pana lokasannivāse santi samaṇabrāhmaṇā 
+
+iddhimanto dibbacakkhukā paracittaviduno. Te dūratopi passanti, 
+
+āsannāpi na dissanti, cetasāpi cittaṁ pajānanti. 
+
+Tepi maṁ evaṁ jāneyyuṁ: ‘passatha, bho, imaṁ kulaputtaṁ 
+
+saddhā agārasmā anagāriyaṁ pabbajito samāno 
+
+vokiṇṇo viharati pāpakehi akusalehi dhammehī’ti. 
+
+Devatāpi kho santi iddhimantiniyo dibbacakkhukā paracittaviduniyo...
+#+end_quote
+
+| samāno        | Being                | Present participle, nominative singular                      |
+| kāmavitakkaṁ  | Sensual thought      | Accusative singular, masculine compound noun: kāma + vitakka |
+| vitakkeyyaṁ   | Might think          | Optative mood, 1st person singular of *vitakketi*            |
+| byāpādavitakkaṁ | Thought of ill-will | Accusative singular, masculine compound noun |
+| vihiṁsāvitakkaṁ | Thought of harming  | Accusative singular, masculine compound noun |
+| lokasannivāso | World population, world community | Nominative singular, compound noun: *loka* + *sannivāsa* |
+| mahantasmiṁ    | In the great           | Locative singular, adjective *mahanta*      |
+| santi          | There are              | 3rd person plural, present tense of *atthi* |
+| iddhimanto      | Possessing psychic powers | Nominative plural, masculine adjective |
+| dibbacakkhukā   | With divine eye           | Nominative plural, adjective           |
+| paracittaviduno | Knowers of others' minds  | Nominative plural, adjective           |
+| dūratopi      | Even from afar    | Indeclinable (dūrato + api)                           |
+| passanti      | They see          | 3rd person plural, present tense                      |
+| āsannāpi      | Even though near  | Indeclinable (āsanna + api)                           |
+| na dissanti   | Are not seen      | Present passive, 3rd person plural                    |
+| cetasāpi      | Even by mind      | Instrumental singular, masculine noun *cetas* + *api* |
+| pajānanti     | They know clearly | 3rd person plural, present tense of *pajānāti*        |
+| tepi          | They too             | Nominative plural pronoun + emphatic *pi*  |
+| jāneyyuṁ      | Might know           | Optative mood, 3rd person plural           |
+| passatha      | Look! (see!)         | Imperative 2nd person plural               |
+| bho           | O! Hey! (vocative)   | Vocative particle                          |
+| kulaputtaṁ    | Son of a good family | Accusative singular, masculine noun        |
+| vokiṇṇo    | Mixed up with        | Past participle, nominative singular, from *vi + ava + √kir* |
+| viharati   | Dwells, lives        | 3rd person singular, present tense verb                      |
+| pāpakehi   | With evil            | Instrumental plural, adjective *pāpaka*                      |
+| devatāpi          | The deities too                   | Nominative plural, feminine noun *devatā* + emphatic *pi* |
+| iddhimantiniyo    | Possessing psychic power (female) | Nominative plural, feminine adjective                     |
+| dibbacakkhukā     | Having the divine eye             | Nominative plural, feminine adjective                     |
+| paracittaviduniyo | Knower of others’ minds           | Nominative plural, feminine adjective                     |
+
+
+#+begin_quote
+Katamañca, bhikkhave, dhammādhipateyyaṁ? ...
+
+Svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko 
+
+ehipassiko opaneyyiko paccattaṁ veditabbo viññūhīti. 
+
+Santi kho pana me sabrahmacārī jānaṁ passaṁ viharanti. 
+
+Ahañceva kho pana evaṁ svākkhāte dhammavinaye 
+
+pabbajito samāno kusīto vihareyyaṁ pamatto, 
+
+na metaṁ assa patirūpan’ti.
+#+end_quote
+
+| svākkhāto   | Well-proclaimed                     | Past participle of *svākkhāta* (su + ākhyāta), nominative singular, masculine |
+| bhagavatā   | By the Blessed One                  | Instrumental singular, masculine noun                                         |
+| sandiṭṭhiko | Directly visible, seen by oneself   | Nominative singular, masculine adjective                                      |
+| akāliko     | Timeless, not delayed               | Nominative singular, masculine adjective                                      |
+| ehipassiko  | Inviting verification, come-and-see | Nominative singular, masculine adjective                                      |
+| opaneyyiko  | Leading onward, to be applied       | Nominative singular, masculine adjective                                      |
+| paccattaṁ   | Personally, for oneself             | Indeclinable         |
+| veditabbo   | To be known, understood             | Future passive participle (gerundive), nominative singular, masculine         |
+| viññūhi     | By the wise                         | Instrumental plural, masculine noun *viññū*                                   |
+| sabrahmacārī | Fellow monks, spiritual companions | Nominative plural, masculine noun                              |
+| jānaṁ        | Knowing                            | Present participle, accusative singular, used adverbially here |
+| passaṁ       | Seeing                             | Present participle, accusative singular, used adverbially here |
+| viharanti    | They dwell                         | 3rd person plural, present tense verb                          |
+| svākkhāte    | Well-proclaimed              | Locative singular, masculine adjective, agreeing with *dhammavinaye*     |
+| dhammavinaye | In the Dhamma and Discipline | Locative singular, compound noun: *dhamma* + *vinaya*                    |
+| kusīto       | Lazy                         | Nominative singular, masculine adjective                                 |
+| vihareyyaṁ   | Might dwell                  | Optative mood, 1st person singular, verb from *viharati*                 |
+| pamatto      | Heedless, negligent          | Nominative singular, masculine adjective, past participle of *pamajjati* |
+| assa      | Would be             | Optative 3rd person singular, from *atthi* |
+
+
+Verse summary at the end:
+
+| Natthi loke raho nāma, pāpakammaṁ pakubbato; | For one performing an evil deed, there is no place in the world called “hidden.” |
+| Attā te purisa jānāti, saccaṁ vā yadi vā musā. | The self within you knows, O person, whether it is true or false. |
+| Kalyāṇaṁ vata bho sakkhi, attānaṁ atimaññasi; | Indeed, sir, you the witness despise your good self; |
+| Yo santaṁ attani pāpaṁ, attānaṁ parigūhasi. | you conceal the evil self existing within yourself. |
+| Passanti devā ca tathāgatā ca, Lokasmiṁ bālaṁ visamaṁ carantaṁ; | The devas and Tathāgatas see the fool acting unrighteously in the world. |
+| Tasmā hi attādhipateyyako ca, Lokādhipo ca nipako ca jhāyī; | Therefore one should fare mindfully, taking oneself as authority; alert and meditative, taking the world as authority; |
+| Dhammādhipo ca anudhammacārī, Na hīyati saccaparakkamo muni. | and fare in accordance with the Dhamma, taking the Dhamma as authority. Truly exerting himself, a sage does not decline. |
+| Pasayha māraṁ abhibhuyya antakaṁ, Yo ca phusī jātikkhayaṁ padhānavā; | Having vanquished Māra and overcome the end-maker, the striver has finished with birth. |
+| So tādiso lokavidū sumedho, Sabbesu dhammesu atammayo munī”ti. | Such a sage, wise, a world-knower, identifies with nothing at all. |
+
