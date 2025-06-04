@@ -197,64 +197,78 @@ So tanubhūtasoko satthāraṁ pabbajjaṁ yācitvā laddhūpasampado na cirasse
 | na cirasseva            | after only a short time; lit. not after a long time [na + cirassa + eva]            |
 | pāpuṇi (aor.)           | reached; arrived (at); aor of pāpuṇāti                                              |
 
+#+html: <div class="pagebreak"></div>
+
 ** Verb forms :noexport:
 
-gacchati  [√gam + a + ti]
-gacchanti
+pr.3rd.sg. gacchati  [√gam + a + ti]
 
-gacchasi
-gacchatha
+pr.3rd.pl. ---- gacchanti \\
+pr.1st.sg. ---- gacchāmi \\
+pr.2nd.sg. ---- gacchasi \\
+pr.2nd.pl. ---- gacchatha
 
-gantvā [√gam + tvā]
+abs. gantvā [√gam + tvā]
 
-gamissati [√gam + issa + ti]
-gamissāmi
-gamissasi
+---- nisīdati [ni + √sad + a + ti] \\
+pr.2nd.sg ---- nisīdasi \\
+pr.2nd.pl. ---- nisīdatha \\
+---- nisīdi \\
+abs. ----
 
-gacchanta [√gam + a + nta]
+fut.3rd.sg. gamissati [√gam + issa + ti] \\
+fut.1st.sg. ---- gamissāmi \\
+fut.2nd.sg. ---- gamissasi
 
-gacchi [√gam]
+aor.1st.sg. agamāsiṁ \\
+aor.2nd/3rd.sg. agamāsi / gacchi \\
+aor.1st.pl. agamamhā
 
-agamāsiṁ aor.1st.sg.
-agamāsi aor.2nd/3rd.sg.
-agamamhā aor.1st.pl.
+prp. gacchanta [√gam + a + nta]
 
-āgacchati [ā + √gam + a + ti]
-āgacchasi
+aor.2nd/3rd.sg. agamāsi
 
-āgantvā  [ā + √gam + tvā]
-āgata [ā + √gam + ta]
+pr.3rd.sg. āgacchati [ā + √gam + a + ti]
 
-pucchati [√pucch + a + ti]
-pucchatha
-pucchi
-pucchanta [√pucch + a + nta]
-puṭṭha [√pucch + ta]
+pr.2nd.sg. ---- āgacchasi
 
-dadāti [√dā + a + ti]
-datvā [√dā + tvā]
+---- āgantvā  [ā + √gam + tvā]
 
-āmanteti [ā + √mant + *e + ti]
-āmantesi
-āmantetvā [ā + √mant + *e + tvā]
+---- āgata [ā + √gam + ta]
 
-jānāti [√ñā + nā + ti]
-jānāmi
-jānāsi
-jānātha
+---- pucchati [√pucch + a + ti] \\
+---- pucchatha
 
-vadati / vadeti [√vad + a + ti]
-vademi
-vadesi
-vattabba [√vad + tabba]
+---- pucchi
 
-vacati  [√vac]
-vutta [√vac + ta]
+prp. pucchanta [√pucch + a + nta]
+
+pp. puṭṭha [√pucch + ta]
+
+pr.3rd.sg. dadāti [√dā + a + ti]
+abs. ---- datvā [√dā + tvā]
+
+pr.3rd.sg. jānāti [√ñā + nā + ti] \\
+pr.1st.sg. ---- jānāmi \\
+pr.2nd.sg. ---- jānāsi \\
+pr.2nd.pl. ---- jānātha
+
+#+html: <div class="pagebreak"></div>
+
+pr.3rd.sg. vadati / vadeti [√vad + a + ti] \\
+---- vademi \\
+---- vadesi
+
+---- vattabba [√vad + tabba]
+
+pr.3d.sg. vacati  [√vac] \\
+---- vutta [√vac + ta]
+
 evaṁ vutte
 
-nibbattati [nī + √vatt + a + ti]
-nibbattissāmi
-nibbattissasi
+passive form: vuccati [√vac + ya + ti] \\
+ruppatī'ti kho, bhikkhave, tasmā rūpan'ti vuccati
 
-nibbattāsi
-nibbattāmhi
+pr.3rd.sg. nibbattati [nī + √vatt + a + ti] \\
+---- nibbattissāmi \\
+---- nibbattissasi
