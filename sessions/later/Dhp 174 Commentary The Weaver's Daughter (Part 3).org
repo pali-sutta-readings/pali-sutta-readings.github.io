@@ -1,0 +1,201 @@
+#+author: gambhiro
+
+* 2025-06-04
+** Dhp 174 Commentary: The Weaver's Daughter (Part 3)
+
+[[https://pali-sutta-readings.github.io/readings/2025-02-19/][Part 1 (2025-02-19)]], [[https://pali-sutta-readings.github.io/readings/2025-04-23/][Part 2 (2025-04-23)]], [[https://pali-sutta-readings.github.io/readings/2025-06-04/][Part 3 (2025-06-04)]]
+
+([[https://suttacentral.net/dhp167-178/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.12.0.0.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][SSP]]) Dhp 174 Verse
+
+#+begin_quote
+Andhabhūto ayaṁ loko, / tanuk'ettha vipassati; \\
+Sakuṇo jālamuttova, / appo saggāya gacchati.
+#+end_quote
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=mara%25E1%25B9%2587ato%2520mutti%2520n%25C4%2581ma%2520natthi&window_type=Sutta+Study][SSP]]) Dhp 174 Commentary: Pesakāradhītāvatthu
+
+#+begin_quote
+... Tassā kira taṁ divasaṁ maraṇato mutti nāma natthi.
+
+Sā olokitasaññāṇeneva satthāraṁ upasaṅkamitvā chabbaṇṇaraṁsīnaṁ antaraṁ
+pavisitvā vanditvā ekamantaṁ aṭṭhāsi.
+
+Tathārūpāya parisāya majjhe nisīditvā tuṇhībhūtaṁ satthāraṁ vanditvā
+ṭhitakkhaṇeyeva taṁ āha –
+
+'Kumārike, kuto āgacchasī'ti? 'Na jānāmi, bhante'ti.
+
+'Kattha gamissasī'ti? 'Na jānāmi, bhante'ti.
+
+'Na jānāsī'ti? 'Jānāmi, bhante'ti. 'Jānāsī'ti? 'Na jānāmi, bhante'ti.
+#+end_quote
+
+| tassā (pron.)        | to her; for her; to that; for that [ta + ssā]                  |
+| divasa (nt./m.)      | day                                                            |
+| olokita (pp.)        | looked at, inspected [ava + √lok]                              |
+| saññāṇa (nt.)        | mental noting; lit. marking [saṁ + √ñā + aṇa], from sañjānāti |
+| chabbaṇṇaraṁsi (f.) | six-colour light-rays (rainbow)                                |
+| antaraṁ (ind.)      | inside; near to                                                |
+| pavisati             | enters; goes (into) [pa + √vis + a + ti]                       |
+| tuṇhībhūta (pp.)     | silent; quiet; mute; lit. became silent [tuṇhī + bhūta]        |
+| ṭhitakkhaṇeyeva      | at that very moment [ṭhita + khaṇa + eva]                      |
+| āha                  | said; from √ah (speak)                                         |
+| kuto (ind.)          | from where?; where? [ka + to] abl.sg. of ka                    |
+| kattha (ind.)        | where? [ka + ttha]                                             |
+
+#+begin_quote
+Iti naṁ satthā cattāro pañhe pucchi. Mahājano ujjhāyi –
+
+"Ambho, passatha, ayaṁ pesakāradhītā sammāsambuddhena saddhiṁ icchiticchitaṁ kathesi,
+
+nanu nāma imāya 'kuto āgacchasī'ti vutte 'pesakāragehato'ti vattabbaṁ.
+
+'kahaṁ gacchasī'ti vutte 'pesakārasāla'nti vattabbaṁ siyā"ti.
+#+end_quote
+
+| pañha (nt.)          | question; enquiry [√pañh + a]                                         |
+| pucchi  (aor.)       | asked; enquired; questioned; aor. of pucchati                         |
+| ujjhāyi (aor.)       | complained; grumbled (about); lit. thought down [ava + √jhā + ya + i] |
+| icchiticchita (adj.) | whatever one wishes; lit. wished wished [icchita + icchita]           |
+| kathesi (aor.)       | spoke; told; related [√kath + *e + si]; aor. of katheti               |
+| geha (nt.)           | house; dwelling; lit. what is grasped [√gah + a]                      |
+| siyā  (opt.)         | could be; may be; might be; should be; opt of atthi                   |
+
+#+begin_quote
+Satthā mahājanaṁ nissaddaṁ katvā, 'kumārike, tvaṁ kuto āgacchasī'ti vutte \\
+'kasmā na jānāmīti vadesī'ti pucchi.
+
+Bhante, tumhe mama pesakāragehato āgatabhāvaṁ jānātha, 'kuto āgatāsī'ti pucchantā pana \\
+'kuto āgantvā idha nibbattāsī'ti pucchatha.
+
+Ahaṁ pana na jānāmi 'kuto ca āgantvā idha nibbattāmhī'ti.
+
+Athassā satthā 'Sādhu sādhu, kumārike, mayā pucchitapañhova tayā vissajjito'ti
+#+end_quote
+
+| kasmā (ind.)            | why?; lit. from what?; from where? [ka + smā] abl.sg.of ka |
+| nibbattāsi (aor.)       | you were born; aor.2nd.sg. of nibbattati                   |
+| nibbattāmhi (aor.)      | I was born; aor.1st.sg. of nibbattati                      |
+| mayā (pron.)            | by me; intr. of ahaṁ                                       |
+| pucchitapañhova         | the question just asked [pucchita + pañho + eva]            |
+| tayā (pron.)            | by you; with you [tvaṁ + ayā]; 2nd.instr.sg of tvaṁ       |
+| vissajjita (pp. +instr) | answered; replied to; responded to (with/by)               |
+
+#+begin_quote
+Paṭhamaṁ sādhukāraṁ datvā uttarimpi pucchi –
+
+"Kattha gamissasī'ti puna puṭṭhā kasmā 'Na jānāmī'ti vadesī"ti?
+
+Bhante, tumhe maṁ tasarapacchiṁ gahetvā pesakārasālaṁ gacchantiṁ jānātha, \\
+'Ito gantvā kattha nibbattissasī'ti pucchatha.
+
+Ahañca ito cutā na jānāmi 'kattha gantvā nibbattissāmī'ti.
+
+Athassā satthā 'mayā pucchitapañhoyeva tayā vissajjito'ti dutiyaṁ sādhukāraṁ datvā uttarimpi pucchi –
+#+end_quote
+
+| uttari (ind.)     | furthermore; what is more; from uttara    |
+| tasarapacchi (f.) | shuttle basket [tasara + pacchi]          |
+| cuta (pp.)        | passed away; died [√cu + ta] pp of cavati |
+
+#+begin_quote
+"Atha kasmā 'na jānāsī'ti puṭṭhā 'jānāmī'ti vadesī"ti? "Maraṇabhāvaṁ jānāmi,
+bhante, tasmā evaṁ vademī"ti.
+
+Athassā satthā 'mayā pucchitapañhoyeva tayā vissajjito'ti tatiyaṁ sādhukāraṁ datvā uttarimpi pucchi –
+
+"Atha kasmā 'jānāsī'ti puṭṭhā 'na jānāmī'ti vadesī"ti.
+
+Mama maraṇabhāvameva ahaṁ jānāmi, bhante, 'Rattindivapubbaṇhādīsu pana asukakāle
+nāma marissāmī'ti na jānāmi, tasmā evaṁ vademī'ti.
+#+end_quote
+
+| rattindiva (nt.) | lit. night and day [ratti + diva]            |
+| pubbaṇha (m.)    | early morning; lit. early day [pubba + aṇha] |
+| ādi (m. +loc)    | starting (with); beginning (of)              |
+| asuka (adj.)     | such and such; this or that [asu + ka]       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Athassā satthā 'mayā pucchitapañhoyeva tayā vissajjito'ti catutthaṁ sādhukāraṁ datvā parisaṁ āmantetvā
+
+'Ettakaṁ nāma tumhe imāya kathitaṁ na jānātha, kevalaṁ ujjhāyatheva.
+
+Yesañhi paññācakkhu natthi, te andhā eva. Yesaṁ paññācakkhu atthi, te eva cakkhumanto'ti \\
+vatvā imaṁ gāthamāha –
+
+(174.) 'Andhabhūto ayaṁ loko, tanukettha vipassati.
+
+Sakuṇo jālamuttova, appo saggāya gacchatī'ti.
+
+Desanāvasāne kumārikā sotāpattiphale patiṭṭhahi, mahājanassāpi sātthikā dhammadesanā ahosī'ti.
+#+end_quote
+
+| yesaṁ (pron.)    | of whoever; of whom [ya + esānaṁ]                            |
+| cakkhumant (adj.) | with eyes; who can see; who has vision; [√cakkh + u + mant]   |
+| avasāna (nt.)     | ending; finishing; concluding [ava + √sā + ana]               |
+| patiṭṭhahati      | establishes; sets up; lit. stands back [pati + √ṭhā + a + ti] |
+| sātthaka (adj.)   | useful; beneficial; advantageous; lit. with benefit           |
+
+#+begin_quote
+Sāpi tasarapacchiṁ gahetvā pitu santikaṁ agamāsi, sopi nisinnakova niddāyi.
+
+Tassā asallakkhetvāva tasarapacchiṁ upanāmentiyā tasarapacchi vemakoṭiyaṁ paṭihaññitvā saddaṁ kurumānā pati.
+
+So pabujjhitvā gahitanimitteneva vemakoṭiṁ ākaḍḍhi. Vemakoṭi gantvā taṁ
+kumārikaṁ ure pahari, sā tattheva kālaṁ katvā tusitabhavane nibbatti.
+#+end_quote
+
+| niddāyati            | sleeps [ni + √dā + ya + ti]                                          |
+| asallakkhetvā (abs.) | having not considered; having not thought through; heedlessly        |
+| upanāmeti            | serves; brings near; lit. causes to bend near [upa + √nam + *e + ti] |
+| vemakoṭi (f.)        | shuttle's point [vema + koṭi]                                        |
+| paṭihaññitvā (abs.)  | having struck against [pati + √han]                                  |
+| kurumāna (prp.)      | doing; making [√kar + o + māna] prp of karoti                        |
+| pati (aor.)          | fell; dropped [√pat + i] aor. of patati                              |
+| pabujjhati           | wakes up; is awake; gets up [pa + √budh + ya + ti]                   |
+| gahitanimitta (nt.)  | grasped object (usually of meditation)  [gahita + nimitta]           |
+| ākaḍḍhi (aor.)       | pulled, dragged [√kaḍḍh] aor of akaḍḍhati                            |
+| uras (m.)            | breast; heart; chest                                                 |
+| pahari (aor.)        | beat, hit, struck; lit. carried forward [pa + √har]                  |
+
+#+begin_quote
+Athassā pitā taṁ olokento sakalasarīrena lohitamakkhitena patitvā mataṁ addasa. Athassa mahāsoko uppajji.
+
+So 'na mama sokaṁ añño nibbāpetuṁ sakkhissatī'ti rodanto satthu santikaṁ gantvā tamatthaṁ ārocetvā, \\
+'Bhante, sokaṁ me nibbāpethā'ti āha.
+#+end_quote
+
+| sakalasarīra (nt.)      | entire body; whole being [sakala + sarīra]                                          |
+| lohitamakkhita (adj.)   | smeared with blood; bloodstained [lohita + makkhita]                                |
+| patitvā (abs.)          | having fallen down (from) [√pat + itvā]                                             |
+| mata (pp.)              | dead; deceased; departed [√mar + ta] pp. of marati                                  |
+| addasa (aor.)           | saw; aor of √dis                                                                    |
+| uppajji (aor.)          | appeared; arose; aor of uppajjati                                                   |
+| nibbāpetuṁ (inf.)      | to extinguish; to put out; lit. to cause to blow away; inf of nibbāpeti             |
+| sakkhissati (fut. +inf) | will be able (to); fut of sakkoti                                                   |
+| rodati                  | cries (about); weeps (over)                                                         |
+| tamatthaṁ (sandhi)     | that meaning; that goal; that purpose [taṁ + atthaṁ]                               |
+| ārocetvā (abs.)         | having informed (to); abs of āroceti                                                |
+
+#+begin_quote
+Satthā taṁ samassāsetvā 'Mā soci, upāsaka. Anamataggasmiñhi saṁsāre tava evameva dhītu \\
+maraṇakāle paggharitaassu catunnaṁ mahāsamuddānaṁ udakato atirekatara'nti vatvā anamataggakathaṁ kathesi.
+
+So tanubhūtasoko satthāraṁ pabbajjaṁ yācitvā laddhūpasampado na cirasseva arahattaṁ pāpuṇī'ti.
+#+end_quote
+
+| samassāseti             | consoles; comforts; lit. causes to breath together [saṁ + ā + √sas + *e + ti]      |
+| anamatagga (adj.)       | with inconceivable beginning; lit. without measuring point [anu + na + mata + agga] |
+| paggharita (pp.)        | flowed forth, oozed                                                                 |
+| assu (nt.)              | tears                                                                               |
+| udaka (nt.)             | water                                                                               |
+| atirekatara (adj.)      | greater (than); more (than); more excessive (than)                                  |
+| tanubhūta (adj.)        | reduced; decreased [tanu + bhūta]                                                   |
+| yācati (+acc & +acc)    | asks; requests; begs (someone for something) [√yāc + a + ti]                        |
+| na cirasseva            | after only a short time; lit. not after a long time [na + cirassa + eva]            |
+| pāpuṇi (aor.)           | reached; arrived (at); aor of pāpuṇāti                                              |
+
+#+html: <div class="pagebreak"></div>
+
