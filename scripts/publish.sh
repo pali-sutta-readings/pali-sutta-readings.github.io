@@ -43,6 +43,7 @@ if $stashed; then
 fi
 
 # Detect source changes and commit all updates.
+git add -A .
 if ! git diff --cached --quiet; then
   git add -A .
   git status
