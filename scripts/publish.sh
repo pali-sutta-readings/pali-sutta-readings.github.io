@@ -17,7 +17,9 @@ fi
 
 # Avoid merge commits, stash changes if there are any.
 stashed=false
-if ! git diff --quiet HEAD; then
+# Add untracked files.
+git add -A .
+if ! git diff --cached --quiet; then
   if ! git stash push -q; then
     echo "Failed to stash changes"
     exit 1
@@ -41,7 +43,7 @@ if $stashed; then
 fi
 
 # Detect source changes and commit all updates.
-if ! git diff --quiet HEAD; then
+if ! git diff --cached --quiet; then
   git add -A .
   git status
   git commit -m "upd"
