@@ -1,0 +1,250 @@
+#+author: mahabodhi
+#+youtube_id:
+
+* 2025-06-11
+** MN 118: Ānāpānassatisutta (excerpts)
+
+([[https://suttacentral.net/mn118/pli/ms][SC]], [[http://localhost:4848/suttas/mn118/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde
+
+sambahulehi abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ —
+
+āyasmatā ca sāriputtena āyasmatā ca mahāmoggallānena āyasmatā ca mahākassapena \\
+... mahākaccāyanena ... mahākoṭṭhikena ... mahākappinena ... mahācundena ... \\
+anuruddhena ... revatena ... ānandena, aññehi ca abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ.
+#+end_quote
+
+| ekaṁ samayaṁ           | on one occasion                                               |
+| bhagavā                 | Sublime One; Blessed One; Fortunate One                       |
+| viharati                | lives (in); dwells (in); stays (in)                           |
+| pubbārāme               | Pubbarama, Eastern monastery                                  |
+| abhiññātehi abhiññātehi | very well-known; famous; distinguished; lit. completely known |
+| therehi                 | old; elderly; senior; lit. lasting                            |
+| āyasmatā                | sir; venerable; reverend; [ā + √i > ay + *as + mant]          |
+
+#+begin_quote
+... Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe arahanto khīṇāsavā vusitavanto katakaraṇīyā ...
+
+Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ satipaṭṭhānānaṁ bhāvanānuyogamanuyuttā viharanti
+
+-- evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe.
+
+... catunnaṁ sammappadhānānaṁ ... catunnaṁ iddhipādānaṁ ... pañcannaṁ indriyānaṁ ...
+
+pañcannaṁ balānaṁ ... sattannaṁ bojjhaṅgānaṁ ... ariyassa aṭṭhaṅgikassa maggassa
+
+bhāvanānuyogamanuyuttā viharanti — evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe.
+
+Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe mettābhāvanānuyogamanuyuttā viharanti ... \\
+karuṇābhāvanānuyogamanuyuttā viharanti ... muditābhāvanānuyogamanuyuttā viharanti ... \\
+upekkhābhāvanānuyogamanuyuttā viharanti ... asubhabhāvanānuyogamanuyuttā viharanti ... \\
+aniccasaññābhāvanānuyogamanuyuttā viharanti — evarūpāpi, bhikkhave, santi bhikkhū imasmiṁ bhikkhusaṅghe.
+
+Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe ānāpānassatibhāvanānuyogamanuyuttā viharanti.
+#+end_quote
+
+| santi                           | there are; there exist                                                   |
+| satipaṭṭhānānaṁ                 | attending mindfully; being present with mindfulness                      |
+| bhāvanānuyogamanuyuttā          | devoted to meditation practice; engaged in mental cultivation            |
+| sammappadhāna                   | correct application of effort                                            |
+| iddhipāda                       | basis for spiritual power                                                |
+| indriyānaṁ                     | faculties                                                                |
+| bojjhaṅgānaṁ                   | awakening factors                                                        |
+| ariyassa aṭṭhaṅgikassa maggassa | of the noble eightfold path                                              |
+| mettā/karuṇā/muditā/upekkhā     | goodwill/compassion/sympathetic joy/equanimity                           |
+| asubha                          | (meditation on) ugliness; foulness; unattractiveness; lit. not beautiful |
+| aniccasaññā                     | recognition of impermanence (in); perception of instability (in)         |
+
+#+begin_quote
+Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā.
+
+Ānāpānassati, bhikkhave, bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūreti.
+
+Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti.
+
+Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrenti.
+#+end_quote
+
+| ānāpānassati   | mindfulness while breathing in and out, āna + apāna + sati                              |
+| sati        | mindfulness; presence; recollection; awareness, √sar･1 a (remember)                     |
+| bhāvitā        | cultivated; developed                                                                   |
+| bahulīkatā     | practised often; repeated a lot; done again and again                                   |
+| mahapphalā     | of great fruit; yielding good results                                                   |
+| mahānisaṁsā   | of great benefit (to); highly profitable (for)                                          |
+| satipaṭṭhāne   | attending mindfully; being present with mindfulness                                     |
+| paripūreti     | fulfils; completes; accomplishes; lit. causes to fill                                   |
+| sattabojjhaṅge | seven elements of awakening; seven factors of enlightenment                             |
+| vijjāvimuttiṁ | liberation and understanding; release and discernment; (or) emancipation through wisdom |
+
+#+begin_quote
+Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?
+
+Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā
+
+nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā.
+
+So satova assasati satova passasati.
+#+end_quote
+
+| araññagato         | gone to the forest; gone to the woods                                                   |
+| rukkhamūlagato     | gone to the foot of a tree                                                              |
+| suññāgāragato      | gone to an uninhabited place; gone to an empty dwelling, hut                            |
+| nisīdati           | sits (on); sits down (in)                                                               |
+| pallaṅkaṁ         | cross-legged sitting position; meditation posture                                       |
+| ujuṁ              | straight; upright; erect                                                                |
+| kāyaṁ             | body; physical body; physical process; lit. accumulation, √ci･5 nā (gather, accumulate) |
+| parimukhaṁ        | as first priority; to the fore - (comm) at the tip of the nose or on the upper lip;     |
+| upaṭṭhapetvā       | having established, having set up, having aroused, having generated                     |
+| assasati/passasati | breathes in/out, √sas･1 a (breath)                                                      |
+
+
+#+begin_quote
+Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; \\
+rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
+
+‘sabbakāyapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṁvedī passasissāmī’ti sikkhati; \\
+‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati.
+#+end_quote
+
+| dīghaṁ              | (of breathing) for a long time; deeply                                 |
+| assasanto/passasanto | breathing in/out                                                       |
+| pajānāti             | (he) knows; knows clearly; understands; distinguishes, √ñā･5 nā (know) |
+| rassaṁ              | (of breathing) for a short time; shallowly                             |
+| sikkhati             | learns; trains (in); practices, √sikkh･1 a (learn, train)              |
+| passambhayaṁ        | calming; stilling; settling; becoming quiet; lit. causing to be calm   |
+| kāyasaṅkhāraṁ       | physical process; bodily function; breathing                           |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Pītipaṭisaṁvedī ... sukhapaṭisaṁvedī ... cittasaṅkhārapaṭisaṁvedī ... passambhayaṁ cittasaṅkhāraṁ ...
+#+end_quote
+
+| pītipaṭisaṁvedī          | experiencing heartfelt joy; feeling delight; sensitive to happiness |
+| sukhapaṭisaṁvedī         | ease; comfort; happiness; pleasure; contentment                     |
+| cittasaṅkhārapaṭisaṁvedī | experiencing mental activity; observing thought formation;          |
+|                          | sensitive to the mental processes;                                  |
+| cittasaṅkhāraṁ           | mental activity; thought formation; (comm) feeling and perception   |
+
+#+begin_quote
+Cittapaṭisaṁvedī ... abhippamodayaṁ ... samādahaṁ ... vimocayaṁ ...
+#+end_quote
+
+| cittapaṭisaṁvedī | experiencing the mind; conscious of psyche; sensitive to the mind            |
+| abhippamodayaṁ  | gladdening; pleasing; satisfying; lit. causing extreme happiness             |
+| samādahaṁ       | (of the mind) composing; stabilising; collecting; lit. placing together here |
+| vimocayaṁ       | setting free; detaching; disengaging; releasing; lit. making free            |
+
+#+begin_quote
+Aniccānupassī ... virāgānupassī ... nirodhānupassī ... \\
+‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.
+
+Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā.
+#+end_quote
+
+| aniccānupassī       | observing impermanence (of); watching instability (of) |
+| virāgānupassī       | observing dispassion; watching fading of desire        |
+| nirodhānupassī      | observing cessation; watching ending                   |
+| paṭinissaggānupassī | observing letting go; watching relinquishment          |
+
+#+begin_quote
+Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā cattāro satipaṭṭhāne paripūreti?
+
+... kāye kāyānupassī ... vedanāsu vedanānupassī ...
+
+citte cittānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno
+
+satimā vineyya loke abhijjhādomanassaṁ.
+
+Nāhaṁ, bhikkhave, muṭṭhassatissa asampajānassa ānāpānassatiṁ vadāmi.
+#+end_quote
+
+| ātāpī (adj.)           | ardent; zealous; with continuous effort; lit. burning [ā + √tap + *ī] |
+| sampajāna (adj.)       | clearly aware; fully knowing; [saṁ + pa + √ñā + nā + a]              |
+| satimant (adj.)        | mindful; fully present; lit. having memory quality [√sar + ti + mant] |
+| vineyya (ger.)         | removing; getting rid (of) [vi + √nī + *ya]; ger. of vineti           |
+| abhijjhādomanassa (m.) | wanting and unhappiness; craving and aversion [abhijjhā + domanassa]  |
+| muṭṭhassatī (adj.)     | unmindful; forgetful; lit. with forgotten memory [muṭṭha + sati + ī]  |
+
+#+begin_quote
+... dhammesu dhammānupassī, bhikkhave, tasmiṁ samaye bhikkhu viharati ātāpī sampajāno
+
+satimā vineyya loke abhijjhādomanassaṁ.
+
+So yaṁ taṁ abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti.
+
+... cattāro satipaṭṭhānā ... satta bojjhaṅge paripūrenti ...
+#+end_quote
+
+| pahāna (nt. +gen)        | giving up (of); removal (of); abandoning (of) [pa + √hā + ana]                   |
+| ajjhupekkhitar (m. +acc) | equanimous observer (of); who observes indifferently [adhi + upa + √ikkh + itar] |
+
+#+begin_quote
+Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti?
+
+Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.
+#+end_quote
+
+| bhāveti (pr. +acc) | cultivates; develops; lit. causes to become [√bhū + *e + ti]; caus of bhavati  |
+| viveka (m.)        | seclusion; solitude; disengagement; [vi + √vic + *a]                           |
+| nissita (pp.)      | dependent (on); attached (to); supported (by); based (on); [ni + √si + ta]     |
+| vossagga (m.)      | complete relinquishment; release; letting go; giving up [vi + ava + √sajj + a] |
+| pariṇāmī (adj.)    | developing (into); ripening (in); culminating (in);                            |
+|                    | maturing (in); inclining towards [pari + √nam + *ī]                            |
+
+#+begin_quote
+Dhammavicayasambojjhaṅgaṁ bhāveti ... vīriyasambojjhaṅgaṁ bhāveti ... pītisambojjhaṅgaṁ bhāveti ...
+
+passaddhisambojjhaṅgaṁ bhāveti ... samādhisambojjhaṅgaṁ bhāveti ...
+
+upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.
+
+Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī”ti.
+
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+#+end_quote
+
+
+* Notes :noexport:
+
+khīnāsava
+
+knowlege of what? knowthing things (exp.) as they are, not living in perception
+not staying in the puthujjana's attitude
+
+freedom from what? kilesa which leads to bhava
+
+right view: practice leads to the ending of name-and-form and bhava
+
+** the complete list
+
+kind of mindfulness → sense restraint, giving up
+how great fruit? small fruit
+intentional, instrument to develop
+
+http://localhost:4848/suttas/sn54.6/en/sujato?window_type=Sutta+Search
+“‘Atthesā, ariṭṭha, ānāpānassati, nesā natthī’ti vadāmi.
+I do not say it is not, but...
+
+** Bodhipakkhiyā dhammā
+
+AN 6.17 Soppasutta (On Sleep)
+
+http://localhost:4848/suttas/an6.17/en/sujato?window_type=Sutta+Search
+
+What do you think, mendicants?
+Taṁ kiṁ maññatha, bhikkhave,
+Have you ever seen or heard
+api nu tumhehi diṭṭhaṁ vā sutaṁ vā:
+of an ascetic or brahmin who indulges in the pleasures of sleeping, lying down, and drowsing as much as they like? Their sense doors are unguarded, they eat too much, they’re not dedicated to wakefulness, they’re unable to discern skillful qualities, and they don’t pursue the development of the qualities that lead to awakening in the evening and toward dawn. Yet they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”
+‘samaṇo vā brāhmaṇo vā yāvadatthaṁ seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto indriyesu aguttadvāro bhojane amattaññū jāgariyaṁ ananuyutto avipassako kusalānaṁ dhammānaṁ pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ bhāvanānuyogaṁ ananuyutto āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanto’”ti? ⧫
+
+“No, sir.”
+“No hetaṁ, bhante”.
+
+“Good, mendicants!
+“Sādhu, bhikkhave.
+I too have never seen or heard of such a thing.
+Mayāpi kho etaṁ, bhikkhave, neva diṭṭhaṁ na sutaṁ:
