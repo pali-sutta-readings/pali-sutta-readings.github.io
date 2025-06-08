@@ -4,7 +4,7 @@
 * 2025-06-11
 ** MN 118: Ānāpānassatisutta (excerpts)
 
-([[https://suttacentral.net/mn118/pli/ms][SC]], [[http://localhost:4848/suttas/mn118/pli/ms?window_type=Sutta+Study][SSP]])
+([[https://suttacentral.net/mn118/pli/ms][SC]], [[http://localhost:4848/suttas/mn118/pli/ms?window_type=Sutta+Study][SSP]]) Anki deck: [[https://drive.google.com/file/d/1m54FNTw_zZqbLGOt1ZBgwDpOVQWllKex/view?usp=drive_link][MN 118 Ānāpānassatisutta.apkg]]
 
 #+begin_quote
 Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde
