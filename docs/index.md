@@ -32,14 +32,14 @@ The PDF is updated the day before the meeting to allow printing.
 <p><a href="https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing"><img src="assets/docs/pdf-example.png" alt="Readings PDF Download"></a></p>
 </div>
 <div style="width: 50%;">
-<p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing">pali-readings-anki.zip</a></p>
-<p><a href="https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing"><img src="assets/docs/anki-example.png" alt="Anki Decks Download"></a></p>
+<p><a href="https://drive.google.com/drive/folders/1hC36BKmLSJv1rp5oNvw-h7mE2oA0TVcv?usp=sharing">Anki Card Decks</a></p>
+<p><a href="https://drive.google.com/drive/folders/1hC36BKmLSJv1rp5oNvw-h7mE2oA0TVcv?usp=sharing"><img src="assets/docs/anki-example.png" alt="Anki Decks Download"></a></p>
 </div>
 </div>
 
 [readings-pdf]: https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing
 
-[readings-anki]: https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing
+[readings-anki]: https://drive.google.com/drive/folders/1hC36BKmLSJv1rp5oNvw-h7mE2oA0TVcv?usp=sharing
 
 The [pali-cheatsheet.pdf](assets/docs/pali-cheatsheet.pdf) may also be useful.
 
