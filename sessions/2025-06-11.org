@@ -25,6 +25,36 @@ anuruddhena ... revatena ... ānandena, aññehi ca abhiññātehi abhiññāteh
 | āyasmatā                | sir; venerable; reverend; [ā + √i > ay + *as + mant]          |
 
 #+begin_quote
+... Tena kho pana samayena bhagavā tadahuposathe pannarase pavāraṇāya puṇṇāya
+puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti.
+
+... Idhevāhaṁ sāvatthiyaṁ komudiṁ cātumāsiniṁ āgamessāmī'ti.
+
+... Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṁ pubbenāparaṁ visesaṁ jānanti.
+
+... Tena kho pana samayena bhagavā tadahuposathe pannarase komudiyā cātumāsiniyā puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti.
+
+Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi:
+
+“Apalāpāyaṁ, bhikkhave, parisā; nippalāpāyaṁ, bhikkhave, parisā; suddhā sāre patiṭṭhitā.
+#+end_quote
+
+| parivuta (pp. +instr)       | surrounded (by); accompanied (by); together (with) [pari + √var + ta] |
+| abbhokāsa (m.)              | open space; open air; wide open space [abhi + ava + √kās + a]         |
+| āgameti (pr. +acc)          | waits (until); waits (for); (comm) expects [√āgam + *e + ti]          |
+| anusāsiyamāna (prp. +instr) | being instructed (by); being taught (by) [anu + √sās + iya + māna]    |
+| uḷāra (adj.)                | excellent; lofty; high; noble [ud + √ar + *a]                         |
+| pubbenāpara (adj.)          | successive; lit. before then after [pubbena + apara]                  |
+| visesa (m.)                 | distinction; attainment; superior state; eminence [vi + √sis + *a]    |
+| anuviloketi                 | looks around; surveys [anu + vi + √lok + *e + ti]                     |
+| apalāpa (adj.)              | free from chatter; without idle talk [na + pa + √lap + *a]            |
+| suddha (pp.)                | clean; pure; white; lit. purified [√sudh + ta]                        |
+| sāra (m.)                   | core; essence; heartwood                                              |
+| patiṭṭhita (pp. +loc)       | firmly grounded (in); well established (in); [pati + √ṭhā + ita]      |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
 ... Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe arahanto khīṇāsavā vusitavanto katakaraṇīyā ...
 
 Santi, bhikkhave, bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ satipaṭṭhānānaṁ bhāvanānuyogamanuyuttā viharanti
@@ -78,6 +108,8 @@ Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrenti.
 | sattabojjhaṅge | seven elements of awakening; seven factors of enlightenment                             |
 | vijjāvimuttiṁ | liberation and understanding; release and discernment; (or) emancipation through wisdom |
 
+#+html: <div class="pagebreak"></div>
+
 #+begin_quote
 Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?
 
@@ -99,7 +131,6 @@ So satova assasati satova passasati.
 | upaṭṭhapetvā       | having established, having set up, having aroused, having generated                     |
 | assasati/passasati | breathes in/out, √sas･1 a (breath)                                                      |
 
-
 #+begin_quote
 Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; \\
 rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
@@ -115,8 +146,6 @@ rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā pass
 | sikkhati             | learns; trains (in); practices, √sikkh･1 a (learn, train)              |
 | passambhayaṁ        | calming; stilling; settling; becoming quiet; lit. causing to be calm   |
 | kāyasaṅkhāraṁ       | physical process; bodily function; breathing                           |
-
-#+html: <div class="pagebreak"></div>
 
 #+begin_quote
 Pītipaṭisaṁvedī ... sukhapaṭisaṁvedī ... cittasaṅkhārapaṭisaṁvedī ... passambhayaṁ cittasaṅkhāraṁ ...
