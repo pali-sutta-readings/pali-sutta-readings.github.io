@@ -235,18 +235,6 @@ Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvi
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 #+end_quote
 
-*** vossaggapariṇāmiṁ
-
-vossaggapariṇāmiṁ: fulfillment/maturity of surrender/letting go/release
-
-What type of letting go?
-
-vossaggārammaṇam: Jhāna is reached by making "letting go/release/surrender" ("vossagga") the meditation object (e.g. SN 48.10, MN 118).
-
-#+begin_quote
-Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
-#+end_quote
-
 *** cittasaṅkhāra
 
 MN 44: Cūḷavedallasutta
@@ -271,6 +259,18 @@ Perceptions & feelings are mental; these are things tied up with the mind.
 That’s why perceptions & feelings are mental fabrications.”
 
 (Aj Thanissaro)
+#+end_quote
+
+*** vossaggapariṇāmiṁ
+
+vossaggapariṇāmiṁ: fulfillment/maturity of surrender/letting go/release
+
+What type of letting go?
+
+vossaggārammaṇam: Jhāna is reached by making "letting go/release/surrender" ("vossagga") the meditation object (e.g. SN 48.10, MN 118).
+
+#+begin_quote
+Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
 #+end_quote
 
 *** vijjāvimuttiṁ
