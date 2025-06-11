@@ -235,17 +235,90 @@ Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvi
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 #+end_quote
 
+*** vossaggapariṇāmiṁ
+
+vossaggapariṇāmiṁ: fulfillment/maturity of surrender/letting go/release
+
+What type of letting go?
+
+vossaggārammaṇam: Jhāna is reached by making "letting go/release/surrender" ("vossagga") the meditation object (e.g. SN 48.10, MN 118).
+
+#+begin_quote
+Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+#+end_quote
+
+*** cittasaṅkhāra
+
+MN 44: Cūḷavedallasutta
+
+#+begin_quote
+“Assāsapassāsā kho, āvuso visākha, kāyikā ete dhammā kāyappaṭibaddhā,
+tasmā assāsapassāsā kāyasaṅkhāro.
+
+“In-&-out breaths are bodily; these are things tied up with the body.
+That’s why in-&-out breaths are bodily fabrications.
+
+Pubbe kho, āvuso visākha, vitakketvā vicāretvā pacchā vācaṁ bhindati,
+tasmā vitakkavicārā vacīsaṅkhāro.
+
+Having first directed one’s thoughts and made an evaluation, one then breaks out into speech.
+That’s why directed thought & evaluation are verbal fabrications.
+
+Saññā ca vedanā ca cetasikā ete dhammā cittappaṭibaddhā,
+tasmā saññā ca vedanā ca cittasaṅkhāro”ti.
+
+Perceptions & feelings are mental; these are things tied up with the mind.
+That’s why perceptions & feelings are mental fabrications.”
+
+(Aj Thanissaro)
+#+end_quote
+
+*** vijjāvimuttiṁ
+
+SN 45.42-47 ([[https://archive.org/details/dhatukatha-pts/PTS-Samyutta-Nikaya-Vol-5-Feer-1898/page/27/mode/2up][S V 28]]) Saṁyojanappahānādisuttachakka
+
+#+begin_quote
+“Sace vo, bhikkhave, aññatitthiyā paribbājakā evaṁ puccheyyuṁ: ‘kimatthiyaṁ, āvuso, samaṇe gotame brahmacariyaṁ vussatī’ti, evaṁ puṭṭhā tumhe, bhikkhave, tesaṁ aññatitthiyānaṁ paribbājakānaṁ evaṁ byākareyyātha:
+
+“Bhikkhus, if wanderers of other sects ask you: ‘For what purpose, friends, is the holy life lived under the ascetic Gotama?’—being asked thus, you should answer them thus:
+
+‘saṁyojanappahānatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe…
+
+‘It is, friends, for the abandoning of the fetters …
+
+‘anusayasamugghātanatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe…
+
+for the uprooting of the underlying tendencies …
+
+‘addhānapariññatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe…
+
+for the full understanding of the course …
+
+‘āsavānaṁ khayatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe…
+
+for the destruction of the taints …
+
+for the realization of the fruit of true knowledge and liberation …
+
+‘vijjāvimuttiphalasacchikiriyatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe…
+
+for the sake of knowledge and vision …
+
+‘ñāṇadassanatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī’ti …pe….
+
+for the sake of final Nibbāna without clinging that the holy life is lived under the Blessed One.’
+
+(Bhikkhu Bodhi)
+#+end_quote
 
 * Notes :noexport:
+** vossaggapariṇāmiṁ
 
-khīnāsava
+maturity of surrender S. I, 88. (Page 652)
 
-knowlege of what? knowthing things (exp.) as they are, not living in perception
-not staying in the puthujjana's attitude
+https://suttacentral.net/sn3.18/pli/ms Kalyāṇamittasutta
 
-freedom from what? kilesa which leads to bhava
-
-right view: practice leads to the ending of name-and-form and bhava
+Idhānanda, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, sammāsaṅkappaṁ bhāveti … sammāvācaṁ bhāveti … sammākammantaṁ bhāveti … sammāājīvaṁ bhāveti … sammāvāyāmaṁ bhāveti … sammāsatiṁ bhāveti … sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ kho, ānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti. Tadamināpetaṁ, ānanda, pariyāyena veditabbaṁ yathā sakalamevidaṁ brahmacariyaṁ—yadidaṁ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatāti.
 
 ** the complete list
 
@@ -264,16 +337,25 @@ AN 6.17 Soppasutta (On Sleep)
 http://localhost:4848/suttas/an6.17/en/sujato?window_type=Sutta+Search
 
 What do you think, mendicants?
+
 Taṁ kiṁ maññatha, bhikkhave,
+
 Have you ever seen or heard
+
 api nu tumhehi diṭṭhaṁ vā sutaṁ vā:
+
 of an ascetic or brahmin who indulges in the pleasures of sleeping, lying down, and drowsing as much as they like? Their sense doors are unguarded, they eat too much, they’re not dedicated to wakefulness, they’re unable to discern skillful qualities, and they don’t pursue the development of the qualities that lead to awakening in the evening and toward dawn. Yet they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”
-‘samaṇo vā brāhmaṇo vā yāvadatthaṁ seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto indriyesu aguttadvāro bhojane amattaññū jāgariyaṁ ananuyutto avipassako kusalānaṁ dhammānaṁ pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ bhāvanānuyogaṁ ananuyutto āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanto’”ti? ⧫
+
+‘samaṇo vā brāhmaṇo vā yāvadatthaṁ seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto indriyesu aguttadvāro bhojane amattaññū jāgariyaṁ ananuyutto avipassako kusalānaṁ dhammānaṁ pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ bhāvanānuyogaṁ ananuyutto āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanto’”ti?
 
 “No, sir.”
+
 “No hetaṁ, bhante”.
 
 “Good, mendicants!
+
 “Sādhu, bhikkhave.
+
 I too have never seen or heard of such a thing.
+
 Mayāpi kho etaṁ, bhikkhave, neva diṭṭhaṁ na sutaṁ:
