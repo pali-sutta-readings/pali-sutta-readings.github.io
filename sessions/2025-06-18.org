@@ -1,6 +1,6 @@
 #+author: gavesako
 
-* 2025-06-04
+* 2025-06-18
 ** AN 3.40: Ādhipateyya-sutta
 
 ([[https://suttacentral.net/an3.40/pli/ms?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin][SC]])
