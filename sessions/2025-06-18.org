@@ -1,5 +1,4 @@
 #+author: gavesako
-#+draft: t
 
 * 2025-06-04
 ** AN 3.40: Ādhipateyya-sutta
