@@ -18,7 +18,7 @@ Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
 Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readings (youtube.com)][youtube-readings]
 
-[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
+[tldraw-readings]: https://www.tldraw.com/f/P39YAHFckegYneVo8CzE9
 
 [gdrive-readings]: https://drive.google.com/drive/folders/1_nhb4gwvgzuWAegSboS4zI3MJY8OLnt8?usp=sharing
 
