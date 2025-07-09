@@ -48,7 +48,8 @@ vimuttiñāṇadassanaṁ anupādāparinibbānatthāya.
 | anupādā (ger.)    | not holding (on); not grasping (on); [na + upa + √ādā + ya]       |
 |                   | ger of na upādiyati                                                                 |
 
-The sequence is also called 'Transcendental Dependent Origination', see [[https://buddhadhamma.github.io/dependent-origination.html#breaking-the-cycle][Buddhadhamma Ch. 4. Dependent Origination, Breaking the Cycle]]
+The sequence is also called 'Transcendental Dependent Origination' \\
+(See [[https://buddhadhamma.github.io/dependent-origination.html#breaking-the-cycle][Buddhadhamma Ch. 4. Dependent Origination, Breaking the Cycle]])
 
 #+html: <div class="pagebreak"></div>
 
