@@ -1,0 +1,200 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-07-11
+** The purpose of Vinaya
+
+Cūlavagga Kd 19 ([[https://suttacentral.net/pli-tv-kd19/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-kd19/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Search][SSP]]), Ud 5 ([[https://suttacentral.net/ud5.5/pli/ms][SC]], [[http://localhost:4848/suttas/ud5.5/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso; \\
+evamevaṁ kho, bhikkhave, ayaṁ dhammavinayo ekaraso vimuttiraso.
+#+end_quote
+
+| samudda (m.)    | sea; ocean                            |
+| loṇarasa (adj.) | salty; lit. salt taste; [loṇa + rasa] |
+
+*** Vinaya is for the sake of restraint...
+
+The procedure for an investigator (Anuvijjakassa-paṭipatti), ([[https://suttacentral.net/pli-tv-pvr14/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-pvr14/pli/ms?quote=Vinayo%2520sa%25E1%25B9%2581varatth%25C4%2581ya&window_type=Sutta+Search][SSP]]) Pv.XII.2
+
+(Following a description of proper procedures which an investigator of a Vinaya issue should follow)
+
+#+begin_quote
+Peme vā sati dose vā, chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyya.
+#+end_quote
+
+| pema (nt.)  | love (for); liking (for)         |
+| dosa (m.)   | aversion; ill-will; hate; hatred |
+
+# When there is affection or ill will, one might be biased by favoritism, ill will, confusion, or fear.
+
+Four incorrect courses of actions: /cattāri agatigamanāni/ (See AN 4.17 - AN 4.19, [[https://www.dhammatalks.org/suttas/AN/AN4_19.html][Aj Thanissaro]], [[http://localhost:4848/suttas/an4.19/pli/ms?window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+[...] Vinayo saṁvaratthāya, saṁvaro avippaṭisāratthāya, avippaṭisāro pāmujjatthāya, \\
+pāmujjaṁ pītatthāya, pīti passaddhatthāya, passaddhi sukhatthāya, sukhaṁ samādhatthāya, \\
+samādhi yathābhūtañāṇadassanatthāya, yathābhūtañāṇadassanaṁ nibbidatthāya, \\
+nibbidā virāgatthāya, virāgo vimuttatthāya, vimutti vimuttiñāṇadassanatthāya, \\
+vimuttiñāṇadassanaṁ anupādāparinibbānatthāya.
+#+end_quote
+
+| atthāya (m.)      | for the purpose (of); dat.sg. of attha;  [√ar + tha + āya]        |
+|                   | √ar･1 a (move, attain)                                            |
+| saṁvara (m.)     | control; restraint; holding back                                  |
+| avippaṭisāra (m.) | non-remorse; non-regret                                           |
+|                   | lit. not remembering back negatively [na + vi + pati + √sar + *a] |
+| pāmujja (nt.)     | joy, happiness                                                    |
+| anupādā (ger.)    | not holding (on); not grasping (on); [na + upa + √ādā + ya]       |
+|                   | ger of na upādiyati                                                                 |
+
+The sequence is also called 'Transcendental Dependent Origination', see [[https://buddhadhamma.github.io/dependent-origination.html#breaking-the-cycle][Buddhadhamma Ch. 4. Dependent Origination, Breaking the Cycle]]
+
+#+html: <div class="pagebreak"></div>
+
+*** Ven. Sāriputta's request
+
+(Pr 1, [[http://localhost:4848/suttas/pli-tv-bu-vb-pj1/pli/ms?quote=Atha%2520kho%2520%25C4%2581yasmato%2520s%25C4%2581riputtassa%2520rahogatassa&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+“Bhagavā ca, sāriputta, kakusandho bhagavā ca koṇāgamano bhagavā ca kassapo akilāsuno ahesuṁ \\
+sāvakānaṁ vitthārena dhammaṁ desetuṁ. Bahuñca nesaṁ ahosi suttaṁ geyyaṁ veyyākaraṇaṁ gāthā \\
+udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ, paññattaṁ sāvakānaṁ sikkhāpadaṁ, \\
+uddiṭṭhaṁ pātimokkhaṁ.
+
+[...] Seyyathāpi, sāriputta, nānāpupphāni phalake nikkhittāni suttena susaṅgahitāni, \\
+tāni vāto na vikirati na vidhamati na viddhaṁseti. Taṁ kissa hetu? \\
+Yathā taṁ suttena susaṅgahitattā.
+#+end_quote
+
+| akilāsu (adj.)     | active; energetic; tireless; lit. not tired [na + √gilā + su]  |
+| vitthārena (ind.)  | in detail; in full; thoroughly                                 |
+| paññatta (pp.)     | arranged; laid out; lit. caused to know [pa + √ñā + *āpe + ta] |
+| uddiṭṭha (pp.)     | recited; explained; pointed out; pp of uddisati                |
+| puppha (nt.)       | flower                                                         |
+| phalaka (nt.)      | wooden board; plank                                            |
+| nikkhitta (pp.)    | placed; laid down                                              |
+| susaṅgahita (adj.) | cohesive; united; well harmonized [su + saṁ + √gah + ita]     |
+| vāta (m.)          | wind                                                           |
+| vikirati           | scatters; spreads                                              |
+
+#+begin_quote
+[...] Atha kho āyasmā sāriputto uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā \\
+yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca —
+
+"etassa, bhagavā, kālo. Etassa, sugata, kālo. \\
+Yaṁ bhagavā sāvakānaṁ sikkhāpadaṁ paññapeyya, uddiseyya pātimokkhaṁ, \\
+yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikan"ti.
+
+[...] "Āgamehi tvaṁ, sāriputta. ... Yato ca kho, sāriputta, \\
+idhekacce āsavaṭṭhānīyā dhammā saṅghe pātubhavanti, \\
+atha satthā sāvakānaṁ sikkhāpadaṁ paññapeti uddisati pātimokkhaṁ \\
+tesaṁyeva āsavaṭṭhānīyānaṁ dhammānaṁ paṭighātāya.
+#+end_quote
+
+| uṭṭhāyāsanā (ger.)            | rising from one's seat [uṭṭhāya + āsanā]                     |
+| ekaṁsaṁ (ind.)               | on one shoulder; over one shoulder [eka + aṁsa + aṁ]        |
+| tenañjaliṁ paṇāmetvā (idiom) | streched out the hands in añjali                             |
+| yathayidaṁ (sandhi)          | such as this [yathā + idaṁ]                                 |
+| ciraṭṭhitika (adj.)           | long lasting; enduring; lit. long standing [cira + ṭhitika]  |
+| āgameti (pr. +acc)            | waits (until); waits (for)                                   |
+| idhekacca (pron.)             | here one; here a certain; [idha + ekacca]                    |
+| āsavaṭṭhānīya (adj.)          | basis for defilements [āsava + ṭhānīya]                      |
+| pātubhavati (pr. +loc)        | occurs (among); lit. becomes in front [pātu + bhavati]       |
+| paṭighāta (m.)                | warding off; driving off; keeping at bay [pati + √ghaṭ + *a] |
+
+#+html: <div class="pagebreak"></div>
+
+*** Ten reasons for the Pāṭimokkha
+
+(After Ven. Sudinna's story and Pārājika 1)
+
+#+begin_quote
+“tena hi, bhikkhave, bhikkhūnaṁ sikkhāpadaṁ paññapessāmi dasa atthavase paṭicca — \\
+saṅghasuṭṭhutāya, saṅghaphāsutāya, dummaṅkūnaṁ puggalānaṁ niggahāya, \\
+pesalānaṁ bhikkhūnaṁ phāsuvihārāya, diṭṭhadhammikānaṁ āsavānaṁ saṁvarāya, \\
+samparāyikānaṁ āsavānaṁ paṭighātāya, appasannānaṁ pasādāya, \\
+pasannānaṁ bhiyyobhāvāya, saddhammaṭṭhitiyā, vinayānuggahāya.
+#+end_quote
+
+| suṭṭhutā (f.)      | well-being; excellence                                                                   |
+| dummaṅku (adj.)    | unrepentant; obdurate; obstinate; lit. difficult to embarrass into silence [dur + maṅku] |
+| niggaha (adj.)     | holding back; restraining; arresting; lit. holding down [ni + √gah + a]                  |
+| pesala (adj.)      | well-behaved; good; honest                                                               |
+| diṭṭha (pp.)       | of √dis; seen; found; visible                                                            |
+| samparāyika (adj.) | in the future; hereafter                                                                 |
+| pasanna (adj.)     | who has faith (in); who has confidence (in); lit. settled                                |
+| appasanna (m.)     | one without faith or confidence                                                          |
+| pasāda (m.)        | inspiration; faith; trust; confidence; lit. settling                                     |
+| bhiyyobhāva (m.)   | growth (of); increase (of)                                                               |
+| anuggaha (m.)      | support; help; assistance [anu + √gah + a]                                               |
+
+*** First Council: Dhamma or the Vinaya first?
+
+Commonly quoted as "vinayo sāsanassa āyu" ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.0.1.0.0.1.0.a&query=vinayo%20n%C4%81ma%20buddhas%C4%81sanassa%20%C4%81yu&para=28][DPR]], [[http://localhost:4848/suttas/vin01a.att/pli/cst4?quote=vinayo%2520n%25C4%2581ma%2520buddhas%25C4%2581sanassa%2520%25C4%2581yu&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Evaṁ nisinne tasmiṁ āyasmante mahākassapatthero bhikkhū āmantesi – "Āvuso, kiṁ
+paṭhamaṁ saṅgāyāma, dhammaṁ vā vinayaṁ vā"ti?
+
+Bhikkhū āhaṁsu – "Bhante mahākassapa, vinayo nāma buddhasāsanassa āyu, vinaye ṭhite sāsanaṁ ṭhitaṁ hoti;
+tasmā paṭhamaṁ vinayaṁ saṅgāyāmā"ti.
+
+"Kaṁ dhuraṁ katvā"ti? "Āyasmantaṁ Upālin"ti. "Kiṁ Ānando nappahotī"ti? "No
+nappahoti; api ca kho pana sammāsambuddho dharamānoyeva vinayapariyattiṁ nissāya
+Āyasmantaṁ Upāliṁ etadagge ṭhapesi –
+
+"etadaggaṁ, bhikkhave, mama sāvakānaṁ bhikkhūnaṁ vinayadharānaṁ yadidaṁ upālī"ti.
+
+Tasmā upālittheraṁ pucchitvā vinayaṁ saṅgāyāmā"ti.
+#+end_quote
+
+# Friends, what should we chant first, the Dhamma or Vinaya? The monks said:
+# Ven. Mahākassapa, the Vinaya is truly the life of the Buddha's message, while
+# the Vinaya remains the messages remains, therefore let's chant the Vinaya
+# first.
+
+| nisinne (loc.abs.) | when seated; from nisīdati                                     |
+| saṅgāyati          | chants, rehearses                                              |
+| āhaṁsu            | they said; they told; perf 3rd pl of āha                       |
+| dhura (nt.)        | responsibility; duty                                           |
+| nappahoti          | is not sufficient (for); is not able (to)                      |
+| dharamāna (prp.)   | lasting; continuing; living                                    |
+| etadagga (adj.)    | this is the best; this is the highest [etad + agga]            |
+| ṭhapesi (aor.)     | appointed; established                                         |
+| vinayadhara (m.)   | expert in monastic law; lit. bearer of vinaya [vinaya + dhara] |
+| pucchati           | asks; enquires; questions                                      |
+
+#+html: <div class="pagebreak"></div>
+
+** Timeline of the development of the Vinaya
+
+| 498 BCE       | Bodh Gaya, India       | *Enlightenment of the Buddha* - *Siddhārtha Gautama* attains enlightenment under the Bodhi tree, marking the beginning of his teaching career and the foundation for all Buddhist texts including the Vinaya.                                                                                                                                                                    |
+| -             | India                  | *The First Pārājika* - The Buddha establishes the first major monastic rule (Pr 1), beginning the gradual formation of the monastic code. This marks the origin of the Vinaya as a living system of rules developed in response to actual situations.                                                                                                                             |
+| 543 BCE       | Kushinagar, India      | *Parinibbāna of the Buddha* - The Buddha's passing away, after which the preservation and compilation of his teachings, including the Vinaya rules, becomes crucial for survival of the Sangha.                                                                                                                                                                                  |
+| 543 BCE       | Rājagaha, India        | *First Council* - *Ven. Mahākassapa* presides over the council where *Ven. Upāli* recites the entire Vinaya from memory. This is the first formal compilation of the Vinaya rules, establishing the oral tradition.                                                                                                                                                              |
+| 383 BCE       | Vesālī, India          | *Second Council* - Convened to address disputes over Vinaya interpretation, particularly the "Ten Points" controversy regarding monastic practices. This council reinforced the importance of strict Vinaya observance.                                                                                                                                                          |
+| 250 BCE       | Pāṭaliputta, India     | *Third Council* - Held under *Emperor Asoka's* patronage, this council further refined the Vinaya texts and established the version that would be transmitted to other countries.                                                                                                                                                                                                |
+| 247 BCE       | Mihintale, Sri Lanka   | *Ven. Mahinda's Mission* - Emperor Asoka's son brings Buddhism to Sri Lanka, establishing the Theravāda tradition that would preserve the Pāli Vinaya texts.                                                                                                                                                                                                      |
+| 2nd c. BCE    | Sri Lanka              | *The Core Vinaya Texts* - The *Sutta Vibhaṅga* (analysis of rules for monks and nuns) and *Khandakas* (institutional rules) are established in their canonical form. The Khandakas include the *Mahāvagga* (dealing with upasampadā, uposatha, etc.) and *Cūlavagga* (covering disciplinary procedures).                                                                         |
+| 1st c. BCE    | Aluvihāra, Sri Lanka   | *Writing Down of the Tipitaka* - The Pāli Canon, including the Vinaya, is committed to writing for the first time on palm leaves, preserving the oral tradition in written form during a time of famine and political instability.                                                                                                                                               |
+| 1st c. BCE    | Burma and Thailand     | Theravāda Buddhism first appears in Burma and Central Thailand.                                                                                                                                                                                                                                                                                                                  |
+| 1st c. BCE    | Sri Lanka              | *Parivāra* - The Parivāra (appendix) is compiled as a systematic analysis and summary of the Vinaya rules, serving as a study guide for the monastic code.                                                                                                                                                                                                                       |
+| 5th c. CE     | Mahāvihāra, Sri Lanka  | *Samanta-pāsādikā* - *Buddhaghosa* writes an authoritative commentary, synthesizing earlier "ancient commentaries" (in Sinhalese, now lost) with his own analysis. This work becomes the standard Vinaya reference.                                                      |
+| 5th c. CE     | Sri Lanka              | *Kaṅkhā-vitaraṇī* - Buddhaghosa also compiles this supplementary commentary, including the system of analyzing offenses by five factors.                                                                                                                        |
+| 3rd-6th c. CE | Sri Lanka to Burma     | *Tipitaka Transmission to Burma* - Buddhist monks carry the written Tipitaka texts from Sri Lanka to Burma, establishing the first major transmission route from the source of written Pāli Canon to mainland Southeast Asia.                                                                                                                                                    |
+| 12th c. CE    | Burma/Mon to Sukhothai | *Sukhothai Kingdom Buddhism* - The emerging Thai kingdoms of Sukhothai and later Ayutthaya receive Buddhism and Tipitaka texts primarily through Mon and Burmese channels.                                                                                                                                            |
+| 1753          | Sri Lanka              | *Upasampada Re-established from Siam* - Upasampadā is restored in Sri Lanka by the Thai Ven. Upāli, reviving the Theravāda monastic tradition after its decline.                                                                                                                                                                                                                 |
+| 1824-1851     | Thailand               | *Prince Mongkut's Monastic Life* - Future King Rama IV becomes a monk and begins observing discrepancies between Thai monastic practices and Pāli Canon rules, leading to reform efforts.                                                                                                                                                                                        |
+| 1833          | Thailand               | *Dhammayuttika Nikāya* - Prince Mongkut establishes the Dhammayuttika Nikāya as a reform movement emphasizing strict adherence to Pāli Canon Vinaya rules, creating Thailand's second major monastic order.                                                                                                                                                                      |
+| 1860          | Thailand               | *Pubbasikkhā-vaṇṇanā* - Compiled by Phra Amarabhirakkhit (Amaro Koed), a pupil of King Rāma IV, as the first comprehensive Vinaya guide for the Dhammayut order.                                                                                                                                                                                                                 |
+| 1881          | London, England        | *The Pāli Text Society* - Founded by T.W. Rhys Davids, the PTS begins the systematic editing and publication of Pāli texts, including critical editions of the Vinaya, making these texts accessible to Western scholarship.                                                                                                                                                     |
+| 1916          | Thailand               | *Vinaya-mukha* - Written by Prince Vajirañāṇavarorasa, a son of King Rāma IV who ordained as a bhikkhu and eventually held the position of 10th Sangharāja of Thailand. This classic analysis of the Pāṭimokkha becomes the standard interpretation of monastic Vinaya in Thailand. The first English translation was published in 1969 as *The Entrance to the Vinaya*.  |
+| 1970-1986     | London, England        | *The Book of Discipline* - *I.B. Horner* publishes her six-volume English translation of the entire Vinaya Pitaka, the first complete English translation making the monastic code accessible to English-speaking practitioners and scholars.                                                                                                                                    |
+| 1994          | United States          | *Buddhist Monastic Code* - *Ṭhānissaro Bhikkhu* publishes his comprehensive guide to the Vinaya rules, providing practical guidance for contemporary monastic communities.                                                                                                                                               |
+
+* Notes :noexport:
+
+- cattāri akaraṇīyāni, resuming the training after offense
+- cattāro mahāpadese
+- upasampadā procedure
