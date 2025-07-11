@@ -4,7 +4,7 @@
 * 2025-07-11
 ** The purpose of Vinaya
 
-Cūlavagga Kd 19 ([[https://suttacentral.net/pli-tv-kd19/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-kd19/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Search][SSP]]), Ud 5 ([[https://suttacentral.net/ud5.5/pli/ms][SC]], [[http://localhost:4848/suttas/ud5.5/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Search][SSP]])
+Cūlavagga Kd 19 ([[https://suttacentral.net/pli-tv-kd19/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-kd19/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Study][SSP]]), Ud 5.5 ([[https://suttacentral.net/ud5.5/pli/ms][SC]], [[http://localhost:4848/suttas/ud5.5/pli/ms?quote=Seyyath%25C4%2581pi%252C%2520bhikkhave%252C%2520mah%25C4%2581samuddo%2520ekaraso%2520lo%25E1%25B9%2587araso&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 Seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso; \\
@@ -14,9 +14,9 @@ evamevaṁ kho, bhikkhave, ayaṁ dhammavinayo ekaraso vimuttiraso.
 | samudda (m.)    | sea; ocean                            |
 | loṇarasa (adj.) | salty; lit. salt taste; [loṇa + rasa] |
 
-*** Vinaya is for the sake of restraint...
+*** Vinaya is for the sake of...
 
-The procedure for an investigator (Anuvijjakassa-paṭipatti), ([[https://suttacentral.net/pli-tv-pvr14/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-pvr14/pli/ms?quote=Vinayo%2520sa%25E1%25B9%2581varatth%25C4%2581ya&window_type=Sutta+Search][SSP]]) Pv.XII.2
+The procedure for an investigator (Anuvijjakassa-paṭipatti), ([[https://suttacentral.net/pli-tv-pvr14/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-pvr14/pli/ms?quote=Vinayo%2520sa%25E1%25B9%2581varatth%25C4%2581ya&window_type=Sutta+Study][SSP]]) Pv.XII.2
 
 (Following a description of proper procedures which an investigator of a Vinaya issue should follow)
 
@@ -29,7 +29,7 @@ Peme vā sati dose vā, chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyy
 
 # When there is affection or ill will, one might be biased by favoritism, ill will, confusion, or fear.
 
-Four incorrect courses of actions: /cattāri agatigamanāni/ (See AN 4.17 - AN 4.19, [[https://www.dhammatalks.org/suttas/AN/AN4_19.html][Aj Thanissaro]], [[http://localhost:4848/suttas/an4.19/pli/ms?window_type=Sutta+Search][SSP]])
+Four incorrect courses of actions: /cattāri agatigamanāni/ (See AN 4.17 - AN 4.19, [[https://www.dhammatalks.org/suttas/AN/AN4_19.html][Aj Thanissaro]], [[http://localhost:4848/suttas/an4.19/pli/ms?window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 [...] Vinayo saṁvaratthāya, saṁvaro avippaṭisāratthāya, avippaṭisāro pāmujjatthāya, \\
@@ -55,7 +55,7 @@ The sequence is also called 'Transcendental Dependent Origination' \\
 
 *** Ven. Sāriputta's request
 
-(Pr 1, [[http://localhost:4848/suttas/pli-tv-bu-vb-pj1/pli/ms?quote=Atha%2520kho%2520%25C4%2581yasmato%2520s%25C4%2581riputtassa%2520rahogatassa&window_type=Sutta+Search][SSP]])
+(Pr 1, [[http://localhost:4848/suttas/pli-tv-bu-vb-pj1/pli/ms?quote=Atha%2520kho%2520%25C4%2581yasmato%2520s%25C4%2581riputtassa%2520rahogatassa&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 “Bhagavā ca, sāriputta, kakusandho bhagavā ca koṇāgamano bhagavā ca kassapo akilāsuno ahesuṁ \\
@@ -132,7 +132,7 @@ pasannānaṁ bhiyyobhāvāya, saddhammaṭṭhitiyā, vinayānuggahāya.
 
 *** First Council: Dhamma or the Vinaya first?
 
-Commonly quoted as "vinayo sāsanassa āyu" ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.0.1.0.0.1.0.a&query=vinayo%20n%C4%81ma%20buddhas%C4%81sanassa%20%C4%81yu&para=28][DPR]], [[http://localhost:4848/suttas/vin01a.att/pli/cst4?quote=vinayo%2520n%25C4%2581ma%2520buddhas%25C4%2581sanassa%2520%25C4%2581yu&window_type=Sutta+Search][SSP]])
+Commonly quoted as "vinayo sāsanassa āyu" ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.0.1.0.0.1.0.a&query=vinayo%20n%C4%81ma%20buddhas%C4%81sanassa%20%C4%81yu&para=28][DPR]], [[http://localhost:4848/suttas/vin01a.att/pli/cst4?quote=vinayo%2520n%25C4%2581ma%2520buddhas%25C4%2581sanassa%2520%25C4%2581yu&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 Evaṁ nisinne tasmiṁ āyasmante mahākassapatthero bhikkhū āmantesi – "Āvuso, kiṁ
@@ -165,6 +165,27 @@ Tasmā upālittheraṁ pucchitvā vinayaṁ saṅgāyāmā"ti.
 | ṭhapesi (aor.)     | appointed; established                                         |
 | vinayadhara (m.)   | expert in monastic law; lit. bearer of vinaya [vinaya + dhara] |
 | pucchati           | asks; enquires; questions                                      |
+
+*** MN 31, Blending like milk and water
+
+([[http://suttacentral.net/mn31/pli/ms][SC]], [[http://localhost:4848/suttas/mn31/pli/ms?quote=Yath%25C4%2581%2520katha%25E1%25B9%2581%2520pana%2520tumhe&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Tena kho pana samayena āyasmā ca anuruddho āyasmā ca nandiyo \\
+āyasmā ca kimilo gosiṅgasālavanadāye viharanti.
+
+Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena gosiṅgasālavanadāyo tenupasaṅkami.
+
+[...] “Yathā kathaṁ pana tumhe, anuruddhā, samaggā sammodamānā avivadamānā \\
+khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharathā”ti?
+#+end_quote
+
+| samagga (adj.)        | all together; in harmony                                      |
+| sammodamāna (prp.)    | being friendly; being on good terms [saṁ + √mud + *a + māna] |
+| avivadamānā           | not disputing; not quarrelling [na + vi + √vad + a + māna]    |
+| khīrodakībhūta (adj.) | blending like milk and water [khīra + udaka + bhūta]          |
+| aññamaññaṁ (sandhi)  | one another; each other [aññaṁ + aññaṁ]                      |
+| piyacakkhu (nt.)      | kind eye; loving eye; friendly eye [piya + cakkhu]            |
 
 #+html: <div class="pagebreak"></div>
 
