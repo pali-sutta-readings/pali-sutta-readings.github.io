@@ -168,7 +168,7 @@ Tasmā upālittheraṁ pucchitvā vinayaṁ saṅgāyāmā"ti.
 
 *** MN 31, Blending like milk and water
 
-([[http://suttacentral.net/mn31/pli/ms][SC]], [[http://localhost:4848/suttas/mn31/pli/ms?quote=Yath%25C4%2581%2520katha%25E1%25B9%2581%2520pana%2520tumhe&window_type=Sutta+Study][SSP]])
+([[https://www.dhammatalks.org/suttas/MN/MN31.html][Aj Thanissaro]], [[http://localhost:4848/suttas/mn31/pli/ms?quote=Yath%25C4%2581%2520katha%25E1%25B9%2581%2520pana%2520tumhe&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 Tena kho pana samayena āyasmā ca anuruddho āyasmā ca nandiyo \\
