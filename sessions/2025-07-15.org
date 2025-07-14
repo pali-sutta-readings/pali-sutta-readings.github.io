@@ -163,3 +163,14 @@ Yaṁ, bhikkhave, mayā 'idaṁ kappatī'ti ananuññātaṁ,
 
 tañce kappiyaṁ anulometi, akappiyaṁ paṭibāhati, taṁ vo kappatī"ti.
 #+end_quote
+
+** threats
+
+I allow you to recite the Monastic Code in brief when there are any of these threats:
+
+Anujānāmi, bhikkhave, sati antarāye saṅkhittena pātimokkhaṁ uddisituṁ.
+
+a threat from kings, bandits, fire, floods, people, spirits, predatory animals, or creeping animals, or a threat to life, or a threat to the monastic life.”
+
+rājantarāyo, corantarāyo, agyantarāyo, udakantarāyo, manussantarāyo, amanussantarāyo, vāḷantarāyo, sarīsapantarāyo, jīvitantarāyo, brahmacariyantarāyoti.
+
