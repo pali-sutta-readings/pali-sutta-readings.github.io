@@ -46,7 +46,7 @@ vimuttiñāṇadassanaṁ anupādāparinibbānatthāya.
 |                   | lit. not remembering back negatively [na + vi + pati + √sar + *a] |
 | pāmujja (nt.)     | joy, happiness                                                    |
 | anupādā (ger.)    | not holding (on); not grasping (on); [na + upa + √ādā + ya]       |
-|                   | ger of na upādiyati                                                                 |
+|                   | ger of na upādiyati                                               |
 
 The sequence is also called 'Transcendental Dependent Origination' \\
 (See [[https://buddhadhamma.github.io/dependent-origination.html#breaking-the-cycle][Buddhadhamma Ch. 4. Dependent Origination, Breaking the Cycle]])
