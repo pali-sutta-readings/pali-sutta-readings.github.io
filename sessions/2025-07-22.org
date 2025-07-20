@@ -1,0 +1,440 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-07-22
+** Quotes
+
+*Snp 3.11 jhāyati → jhāna* ([[http://localhost:4848/suttas/snp3.11/pli/ms?quote=Sa%2520jh%25C4%2581napasuto%2520dh%25C4%25ABro&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Sa jhānapasuto dhīro, / Vanante ramito siyā; \\
+Jhāyetha rukkhamūlasmiṁ, / Attānamabhitosayaṁ.
+#+end_quote
+
+The sage, firmly intent on jhāna / should find delight in the forest; \\
+should meditate at the root of a tree, / completely content in himself.
+
+*SN 53.1-12 Slopes and inclines to Nibbāna* ([[http://localhost:4848/suttas/sn53.1-12/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; \\
+evameva kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto \\
+nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+#+end_quote
+
+Bhikkhus, just as the river Ganges slants, slopes and inclines to the east;
+in the same way, a bhikkhu who develops and cultivates the four absorptions
+slants, slopes, and inclines to Nibbāna.
+
+*MN 43 Abandoned five, possessing five factors* ([[http://localhost:4848/suttas/mn43/pli/ms?quote=Pa%25E1%25B9%25ADhama%25E1%25B9%2581%2520kho%252C%2520%25C4%2581vuso%252C%2520jh%25C4%2581na%25E1%25B9%2581%2520pa%25C3%25B1ca%25E1%25B9%2585gavippah%25C4%25ABna%25E1%25B9%2581&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Paṭhamaṁ kho, āvuso, jhānaṁ pañc'aṅga'vippahīnaṁ, pañc'aṅga'samannāgataṁ.
+
+Idhāvuso, paṭhamaṁ jhānaṁ samāpannassa bhikkhuno kāmacchando pahīno hoti, byāpādo pahīno hoti, \\
+thinamiddhaṁ pahīnaṁ hoti, uddhaccakukkuccaṁ pahīnaṁ hoti, vicikicchā pahīnā hoti;
+
+vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca.
+#+end_quote
+
+| vitakka (m.)      | thought; reflection; pondering                                                                     |
+| vattati           | occurs; happens; takes place                                                                       |
+| vicāra (m.)       | consideration; examination; pondering; lit. causing to move around [vi + √car + *e + a]   |
+| pīti (f.)         | delight; heartfelt joy; lit. lovely feeling [√pī + ti]                                             |
+| sukha (nt.)       | ease; comfort; happiness; contentment [√sukh + a]                                                  |
+| cittekaggatā (f.) | mental unification; oneness of mind                                                                |
+| ekaggatā (f.)     | unification; oneness; lit. one place state [eka + agga + tā]                                       |
+
+*AN 1.53-55 Metta even for a finger-snap* ([[http://localhost:4848/suttas/an1.51-60/pli/ms?quote=bhikkhu%2520mett%25C4%2581citta%25E1%25B9%2581%2520%25C4%2581sevati&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+"Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ āsevati / bhāveti / manasi karoti; \\
+Ayaṁ vuccati, bhikkhave: 'bhikkhu arittajjhāno viharati satthusāsanakaro ovādapatikaro, \\
+amoghaṁ raṭṭhapiṇḍaṁ bhuñjati'. Ko pana vādo ye naṁ bahulīkarontī"ti.
+#+end_quote
+
+| āsevati          | applies oneself (to); engages (with); practices; pursues     |
+| bhāveti          | cultivates; develops; lit. causes to become [√bhū + *e + ti] |
+| manasi karoti    | pays attention; bears in mind; lit. makes in mind            |
+| arittajjhāna     | not devoid of meditation attainment [aritta + jhāna]         |
+| amogha (adj.)    | fruitful; not in vain; not futile                            |
+| raṭṭhapiṇḍa (m.) | country's alms food; food from the people                    |
+
+See [[https://www.dhammatalks.org/suttas/SN/SN46_54.html][SN 46.54]], /metta cetovimutti/: abandons clinging to perceptions of attractive / unattractive
+
+*DN 29, Four benefits of indulging in the pleasure of jhāna*
+
+1. Exhausting, depleting (/parikkhaya/) the first three fetters, stream entry, destined for full awakening
+2. Weakening rāga-dosa-moha, once-returner
+3. Exhausting the five lower fetters, non-returner
+4. Wearing away of the effluents /āsavānaṁ khayā/ → /paññāvimutti/, arahant
+
+** SN 48.10 Dutiyavibhaṅgasutta
+
+#+begin_quote
+Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā \\
+labhati samādhiṁ, labhati cittassa ekaggataṁ.
+
+So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ \\
+paṭhamaṁ jhānaṁ upasampajja viharati.
+
+Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ \\
+samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati.
+#+end_quote
+
+samādhi [saṁ + ā + √dhā + i]: the "placing (√dhā) (of the mind) on (ā) (an object) in an integrated way (saṃ)" (Aj Kovilo)
+
+AN 6.63: "Saṅkapparāgo purisassa kāmo" ([[http://localhost:4848/suttas/an6.63/pli/ms?quote=Sa%25E1%25B9%2585kappar%25C4%2581go%2520purisassa%2520k%25C4%2581mo&window_type=Sutta+Study][SSP]])
+
+| vossagga (m.)       | relinquishment; release; letting go; surrender                                      |
+| ārammaṇa (nt.)      | base; basis; foundation; support                                                    |
+| vivicca (ger. +abl) | separating (from); aloof (from)                                                     |
+| vivekaja (adj.)     | born from seclusion  [viveka + ja]                                                  |
+| upasampajja (ger.)  | reaching; attaining; arriving at                                                    |
+| vūpasama (m. +gen)  | peace (of); calming (of); subsiding (of)                                            |
+| ajjhatta            |                                                                                     |
+| sampasādana (nt.)   | calming; tranquillising                                                             |
+| ekodibhāva (m.)     | singleness; unification; lit. unified state [ekodi + bhāva]                         |
+| samādhija (adj.)    | born from stable mind; produced by samadhi; [samādhi + ja] |
+
+#+begin_quote
+Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti
+
+yaṁ taṁ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati.
+#+end_quote
+
+| virāga (m. +gen.) | fading (of); disappearance (of)          |
+| paṭisaṁvedeti     | personally experiences; undergoes; feels |
+| ācikkhati         | informs; talks about; describes          |
+
+#+begin_quote
+Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā
+
+adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati
+
+— idaṁ vuccati, bhikkhave, samādhindriyaṁ.
+#+end_quote
+
+| pahāna (nt. +gen)            | giving up (of); letting go (of); abandoning (of)                      |
+| pubbeva (+abl)               | as before                                                             |
+| somanassa-domanassa (nt.)    | (mental) pleasure and displeasure; satisfaction and dissatisfaction   |
+| atthaṅgama (m. +gen)         | disappearance (of); vanishing (of); subsiding (of)                    |
+| upekkhāsatipārisuddhi (adj.) | purification of awareness by equanimity [upekkhā + sati + pārisuddhi] |
+
+#+html: <div class="pagebreak"></div>
+
+** Progression of purification of the mind
+
+#+html: <p style="text-align: center;"><img width="90%" src="/assets/docs/jhana-cycle-of-practice.png"></p>
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/jhana-progression-of-purification.png"></p>
+
+# Anupubbasikkhā (MN 107)
+#   (The Gradual Training)
+
+# sīla
+#   (moral training)
+# indriyesu guttadvāra
+#   (guarding the sense doors)
+# bhojane mattaññutā
+#   (moderation in eating)
+# jāgariyaṁ anuyutta
+#   (dedication to wakefulness)
+# satisampajañña
+#   (clear comprehension)
+# pañca nīvaraṇe pahāna
+#   (abandoning the hindrances)
+# sammā-samādhi (jhāna)
+#   (right concentration)
+# khīṇāsava
+#   (ending of effluents)
+
+# ----
+
+# Dasa Saṁyojanā
+#   (Ten Fetters)
+
+# sakkāya-diṭṭhi
+#   (self-view)
+# vicikicchā
+#   (doubt)
+# sīlabbata-parāmāsa
+#   (attachment to rites and rituals)
+# kāmacchanda
+#   (sensual desire)
+# byāpāda
+#   (ill will)
+# rūparāga
+#   (lust for material existence)
+# arūparāga
+#   (lust for immaterial existence)
+# māna
+#   (conceit)
+# uddhacca-kukkucca
+#   (restlessness and anxiety)
+# avijjā
+#   (ignorance)
+
+# ----
+
+# Satta Bojjhaṅgā
+#   (Seven Factors of E.)
+
+# sati
+#   (mindfulness)
+# dhamma-vicaya
+#   (investigation of Dhamma)
+# viriya
+#   (energy)
+# pīti
+#   (rapture)
+# passadhi
+#   (tranquillity)
+# samādhi
+#   (concentration)
+# upekkhā
+#   (equanimity)
+
+# ----
+
+# Jhāna
+#   (Absorptions)
+
+# First: vitakka, vicāra, pīti, sukha, ekaggatā
+#   (thought, investigation, rapture, happiness, one-pointedness)
+
+# Second: ekaggatā, pīti, sukha
+
+# Third: ekaggatā, sukha
+
+# Fourth: ekaggatā, awareness with upekkhā
+
+# ----
+
+# First Jhāna: A Turning Point in the Spiritual Path
+#   a completely wholesome state in which “one enters and abides in”, i.e. not momentary
+
+# Second Jhāna: Non-discursive Broad Field of Awareness
+
+# Third Jhāna: Establishing a Specialized Form of Awareness
+
+# Fourth Jhāna: Non-reactive and Lucid Awareness of the Phenomenal Field
+
+#+html: <div class="pagebreak"></div>
+
+** Feelings, thoughts and desire
+
+#+begin_quote
+(MN 125) Evameva kho, aggivessana, ariyasāvakassa ime cattāro satipaṭṭhānā cetaso
+upanibandhanā honti gehasitānañceva sīlānaṁ abhinimmadanāya gehasitānañceva
+sarasaṅkappānaṁ abhinimmadanāya gehasitānañceva darathakilamathapariḷāhānaṁ
+abhinimmadanāya ñāyassa adhigamāya nibbānassa sacchikiriyāya.
+
+Tamenaṁ tathāgato uttariṁ vineti: ‘ehi tvaṁ, bhikkhu, kāye kāyānupassī viharāhi,
+mā ca kāmūpasaṁhitaṁ vitakkaṁ vitakkesi. Vedanāsu … citte … dhammesu
+dhammānupassī viharāhi, mā ca kāmūpasaṁhitaṁ vitakkaṁ vitakkesī’ti. So
+vitakkavicārānaṁ vūpasamā ... jhānaṁ upasampajja viharati.
+#+end_quote
+
+(Aj Thanissaro) [Like the bindings on a wild elephant] ... These four
+establishings of mindfulness are bindings for the awareness of the disciple of
+the noble ones, to break him of his household habits, his household memories &
+resolves, his distraction, fatigue, & fever over leaving the household life, for
+the attainment of the right method and the realization of unbinding.
+
+“Then the Tathāgata trains him further: ‘Come, monk, remain focused on the body
+in & of itself, but do not think any thoughts connected with the body. Remain
+focused on feelings in & of themselves, but do not think any thoughts connected
+with feelings. Remain focused on the mind in & of itself, but do not think any
+thoughts connected with mind. Remain focused on mental qualities in & of
+themselves, but do not think any thoughts connected with mental qualities.’ With
+the stilling of directed thoughts & evaluations, he enters & remains ... in jhāna.
+
+#+begin_quote
+(MN 18) ... phassapaccayā vedanā, yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ
+vitakketi, yaṁ vitakketi taṁ papañceti
+#+end_quote
+
+(See discussion on [[https://pali-sutta-readings.github.io/readings/2025-03-05/][2025-03-05]] on papañca)
+
+#+begin_quote
+(DN 21) Chando pana, mārisa, kiṁnidāno ... ? Chando kho, devānaminda,
+vitakkanidāno vitakkasamudayo vitakkajātiko vitakkapabhavo; vitakke sati chando
+hoti, vitakke asati chando na hoti.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-29.html][Nibbāna Sermon 29]]) What, dear sir, is the cause of desire ...? Desire, O King
+of Gods, has thinking as its cause, it arises with thinking, it has thinking as
+its origin. When thinking is there, desire comes to be; when thinking is not
+there, desire does not come to be!
+
+What is the cause, the arising and the origin of thinking?
+
+Reckonings born of prolific perception /papañcasaññāsaṅkhā/, but feelings and
+thinking are of two kinds, one inclines to papañca, the other inclines toward
+Nibbāna.
+
+#+begin_quote
+(AN 4.171) Avijjāya tveva asesavirāganirodhā so kāyo na hoti, yaṁ paccayāssa taṁ
+uppajjati ajjhattaṁ sukhadukkhaṁ … sā vācā na hoti … so mano na hoti … khettaṁ
+taṁ na hoti, vatthum taṁ na hoti, āyatanaṁ taṁ na hoti, adhikaraṇaṁ taṁ na hoti,
+yaṁ paccayāssa taṁ uppajjati ajjhattaṁ sukhadukkhaṁ.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-08.html][Nibbāna Sermon 8]]) With the complete fading away and cessation of ignorance, the
+arahant has no notion of a body. That is, he does not have a perception of a
+body, like that of a worldling, who takes it as such, due to his perception of
+the compact, /ghanasaññā/. [...] Similarly, that mind is not there, /so mano na
+hoti/. It is only the collocation of preparations which arise and cease that is
+conceived as ‘my mind’. Therefore, whatever field, site, base or reason, owing
+to which there can arise inward pleasure or pain, is no longer there.
+
+#+begin_quote
+(Snp 5.7) Accī yathā vātavegena khitto / atthaṁ paleti na upeti saṅkhaṁ \\
+evaṁ munī nāmakāyā vimutto / atthaṁ paleti na upeti saṅkhaṁ.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-11.html][Nibbāna Sermon 11]]) As flame flung on by force of wind, / Reaches its end, comes not within reckoning, \\
+So the sage, released from name-and-form, / Reaches his end, comes not within reckoning.
+
+#+html: <div class="pagebreak"></div>
+
+** MN 119 Kāyagatāsatisutta
+
+#+begin_quote
+([[http://localhost:4848/suttas/mn119/pli/ms?window_type=Sutta+Study][SSP]]) Kathaṁ bhāvitā ca, bhikkhave, kāyagatāsati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?
+#+end_quote
+
+Ānāpānassati (See 2025-06-11), mindfulness of four postures and current activity, examining the body as 32 parts, as the four elements, as the same nature of corpses.
+
+#+begin_quote
+Tassa evaṁ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṁ pahānā ajjhattameva cittaṁ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+#+end_quote
+
+And as he remains thus heedful, ardent, & resolute, any memories & resolves
+related to the household life are abandoned, and with their abandoning his mind
+gathers & settles inwardly, grows unified & concentrated. (Aj Th.)
+
+#+begin_quote
+Puna caparaṁ, bhikkhave, bhikkhu vivicceva kāmehi ... paṭhamaṁ jhānaṁ upasampajja viharati. [...] Evampi, bhikkhave, bhikkhu kāyagatāsatiṁ bhāveti.
+#+end_quote
+
+First jhāna simile: kneading a ball of bath powder until it is saturated with moisture.
+
+Second jhāna simile: a deep lake gradually filled with cool water.
+
+Third jhāna simile: a lotus that is still underwater, immersed in cool water.
+
+Fourth jhāna simile: a person completely wrapped with white cloth.
+
+Kāyagatāsati abhāvitā / bhāvitā:
+
+#+begin_quote
+Yassa kassaci, bhikkhave, kāyagatāsati bhāvitā bahulīkatā, na tassa labhati māro otāraṁ, na tassa labhati māro ārammaṇaṁ.
+#+end_quote
+
+In whomever mindfulness immersed in the body is developed, is pursued, Māra gains no entry, Māra gains no foothold. (Aj Th.)
+
+Ten benefits can be expected. Which ten?
+
+#+begin_quote
+(1) Aratiratisaho hoti, na ca taṁ arati sahati, uppannaṁ aratiṁ abhibhuyya viharati.
+(2) Bhayabheravasaho hoti, na ca taṁ bhayabheravaṁ sahati, uppannaṁ bhayabheravaṁ abhibhuyya viharati.
+(3) Khamo hoti sītassa uṇhassa ...
+(4) Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī.
+(5-9) ... powers of the mind ...
+(10) Āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+#+end_quote
+
+(1) He conquers displeasure & delight, and displeasure does not conquer him. He remains victorious over any displeasure that has arisen.
+(2) He conquers fear & dread, and fear & dread do not conquer him. He remains victorious over any fear & dread that have arisen.
+(3) He is resistant to cold, heat ...
+(4) He can attain at will, without trouble or difficulty, the four jhānas — heightened mental states providing a pleasant abiding in the here & now.
+(5-9) ... powers of the mind ...
+(10) Through the ending of effluents, he remains in the effluent-free awareness-release & discernment-release, having known and realized them for himself right in the here & now.
+
+#+html: <div class="pagebreak"></div>
+
+** Canonical jhāna VS Visuddhimagga / Commentarial jhāna
+
+In the canonical suttas, abandoning the hindrances leads to /sammā-samādhi/,
+which is described as the four /jhānas/, hence they are an integral part of the
+Path which leads to the cessation of /dukkha/, and the texts confirm that
+practising them is leading to Nibbāna (e.g. DN 29).
+
+The suttas also describe the four formless attainments (/āruppa, arūpa
+samāpatti, "vimokkhā atikkamma rūpe āruppā"/) which are available for meditators
+but are not necessary for the Path, and (the attainments in themselves) are not
+leading to Nibbāna. (MN 26: /nāyaṁ dhammo ... na sambodhāya na nibbānāya
+saṁvattati/).
+
+See also /vimokkha/ in [[https://www.budsas.org/ebud/bud-dict/dic3_v.htm][Nyanatiloka's Buddhist Dictionary]] for /aṭṭha vimokkhā/,
+the eight liberations, the 8th being /nirodha-samāpatti/.
+
+The Visuddhimagga introduced the /samatha/ VS /vipassana/ practice as distinct
+categories, including the four /jhānas/ and four /āruppa/ formless attainments
+in /samatha/. Due to this mixing of categories, /jhāna/ came to include the
+/āruppas/, sometimes referred to as /arūpa-jhānas/ in the Visuddhimagga.
+
+(The term /arūpa-jhāna/ does not exist in the suttas, since the canonical
+/jhāna/ does not include the /arūpa samāpatti/ attainments.)
+
+From this originates the commentarial notion of /sukkha-vipassaka/ (dry-insight) /arahants/, who
+attain awakening without experiencing /jhānas/ -- but this /jhāna/ refers to the
+/āruppas/, which were not part of the canonical term /jhāna/.
+
+The Visuddhimagga also introduced the terms of /khaṇika-/ (momentary),
+/upacāra-/ (access/neighbourhood), and /appanā-samādhi/ (fixed/absorption)
+concentration as another way of categorizing states and degrees of absorptions.
+
+** Further reading
+
+[[https://www.goodreads.com/book/show/26133643-early-buddhist-meditation][Early Buddhist Meditation by Keren Arbel (2015)]]
+
+- /The Four Jhanas as the Actualization of Insight/
+- https://kerenarbel.com/en/
+- [[https://kerenarbel.com/en/wp-content/uploads/2022/03/Keren-Arbel-Summary-Article-The-Four-Jhanas-as-the-Actualization-of-Insight.pdf][a summary article of the book (PDF)]]
+
+[[https://drive.google.com/file/d/1NLXgfjQEuCfLhY4E5vL-Wcn-sp0w3fpL/view][What You Might not Know About Jhāna & Samādhi by Kumāra Bhikkhu (EPUB)]]
+
+- Comparing the change of 'jhāna' terminology as used in the Canon and the Visuddhimagga
+
+[[https://archive.org/details/wayofbuddhistmeditationkhemindathera_202002/][The Way of Buddhist Meditation by Ven Kheminda (1980)]]
+
+- /Serenity and insight according to the Pali Canon/
+- the vipassana VS samatha division, jhāna and satipaṭṭhāna
+- Upacāra-samādhi: 'access' or 'neighbourhood' concentration, suppresses the five hindrances
+
+* Notes :noexport:
+
+not blocking experience -- suppressing hindrances
+
+#+begin_quote
+jhāna is not one-pointedness
+jhāna, sammā samādhi
+are the outcome of developing the other path factors (e.g., MN I.356-7, SN
+V.21, AN IV.40, DN II.216-7, DN III.252-3, AN V.212):
+
+Bhikkhus I shall teach you noble right samadhi with its support and requisites... What
+bhikkhus is noble right samadhi with its support and requisites, that is, right view, right
+intention, right speech, right action, right livelihood, right effort, and right mindfulness?
+Unification of mind equipped with these seven factors is called noble right samadhi with
+its support and requisites. [MN III.71]
+#+end_quote
+
+arahattaphalasamādhi
+
+unperturbable -- can't hear
+
+Aj Thanissaro jhāna talk
+- In "Thinking About Jhana", Ajahn Thanissaro notes that, though vitakka-vicara are present in the 1st jhana, only terms of metacognition, ie. paṭisañcikati (reflects), discerns (pajājāti), and paccavekkheyye (reflect), regards (samanupassati) are present in the later ones. Metacognition involves taking a step back from your mental activity and deciding whether it's worth doing, and is for the purpose of dispassion and relinquishment in Buddhism. Ie. from MN 52, "He reflects (paṭisañcikati) on this and discerns (pajānāti), 'This second jhāna is fabricated & intended. Now whatever is fabricated & intended is inconstant & subject to cessation.' Staying right there, he reaches the ending of the effluents."
+
+- It is also emphasized that jhāna is something rather special and profound: >"The range of jhāna, monks, cannot be conceived of; it should not be explored in thought. Anyone exploring it would partake of madness and distress."
+
+- In the Pāsādika-sutta (D 29; DN III 132) it is emphasized that the four jhānas are practices involving happiness that lead to full disenchantment, dispassion, cessation, peace, higher knowledge, full awakening, and nibbāna.
+
+Fourth, in the suttas, the “formless attainments” (arupa samapattis) are never called
+“arupa jhanas”. This is a later designation. Furthermore, while the suttas clearly state that
+the “formless attainments” do not lead to nibbana [MN I 165-6], there are various statements
+in the suttas, that the four jhanas are conducive to awakening, and that they are the unique
+teaching of the Buddha
