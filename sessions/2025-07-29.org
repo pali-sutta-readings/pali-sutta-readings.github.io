@@ -222,6 +222,40 @@ adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja v
 
 #+html: <div class="pagebreak"></div>
 
+** Ud 4.1 Meghiyasutta
+
+([[http://suttacentral.net/ud4.1/pli/ms][SC]], [[http://localhost:4848/suttas/ud4.1/pli/ms?quote=bhikkhun%25C4%2581%2520imesu%2520pa%25C3%25B1casu%2520dhammesu%2520pati%25E1%25B9%25AD%25E1%25B9%25ADh%25C4%2581ya&window_type=Sutta+Study][SSP]]) Ven. Meghiya, while being the Buddha's attendant, insists to leave the Buddha and go to meditate \\
+in a mango grove. While there, his mind is filled with hindrances. When he returns, the Buddha praises \\
+staying with good friends and companions for abandoning the unskilful and developing the skilful qualities \\
+of the mind. Furthermore:
+
+#+begin_quote
+Tena ca pana, meghiya, bhikkhunā imesu pañcasu dhammesu patiṭṭhāya
+
+cattāro dhammā uttari bhāvetabbā — asubhā bhāvetabbā rāgassa pahānāya,
+
+mettā bhāvetabbā byāpādassa pahānāya, ānāpānassati bhāvetabbā vitakkupacchedāya,
+
+aniccasaññā bhāvetabbā asmimānasamugghātāya.
+
+Aniccasaññino hi, meghiya, anattasaññā saṇṭhāti, anattasaññī asmimānasamugghātaṁ pāpuṇāti
+
+diṭṭheva dhamme nibbānan'ti.
+#+end_quote
+
+| patiṭṭhāya (ger. +loc)   | firmly grounded (in); well established (in); [pati + √ṭhā + ya] |
+| vitakkupaccheda (m.)    | cutting off thinking; silencing thought [vitakka + upaccheda]   |
+| asmimānasamugghāta (m.) | eradicating the idea 'I am' [asmimāna + samugghāta]             |
+| aniccasaññino (m.pl.)   | those who perceive impermanence (in) [anicca + saññī]           |
+| saṇṭhāti (pr. +loc)     | remains (in); is established (in); [saṁ + √ṭhā + a + ti]        |
+| pāpuṇāti (pr. +acc)     | reaches; arrives (at)                                           |
+| diṭṭheva dhamme          | in this life; right here right now; in the present;             |
+|                         | lit. even in seen things [diṭṭhe + eva + dhamme]                 |
+
+/Related:/ [[https://www.dhammawheel.com/viewtopic.php?t=35122][Does the aims of breathing training is to cut off thoughts totally? (dhammawheel.com)]]
+
+#+html: <div class="pagebreak"></div>
+
 ** Canonical jhāna VS Visuddhimagga / Commentarial jhāna
 
 In the canonical suttas, abandoning the hindrances leads to /sammā-samādhi/,
@@ -274,6 +308,13 @@ concentration as another way of categorizing states and degrees of absorptions.
 
 * Notes :noexport:
 
+jhāna != one-pointedness
+the cycle (practice) is important, not the attainment
+every step is less confusion and greater happiness
+the mind of the arahant: important b/c stream-enterer's mind, which orients our practice
+do you practice satipaṭṭhāna? even though you are not yet non-returner
+do you practice jhāna? yes, if you are abandoning hindrances and not following sensual thoughts
+
 not blocking experience -- suppressing hindrances
 
 #+begin_quote
@@ -305,3 +346,4 @@ Fourth, in the suttas, the “formless attainments” (arupa samapattis) are nev
 the “formless attainments” do not lead to nibbana [MN I 165-6], there are various statements
 in the suttas, that the four jhanas are conducive to awakening, and that they are the unique
 teaching of the Buddha
+
