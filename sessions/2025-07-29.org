@@ -82,7 +82,7 @@ Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāva�
 samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati.
 #+end_quote
 
-samādhi [saṁ + ā + √dhā + i]: the "placing (√dhā) (of the mind) on (ā) (an object) in an integrated way (saṃ)" (Aj Kovilo)
+samādhi [saṁ + ā + √dhā + i]: the "placing (√dhā) (of the mind) on (ā) (an object) in an integrated way (saṁ)" (Aj Kovilo)
 
 AN 6.63: "Saṅkapparāgo purisassa kāmo" ([[http://localhost:4848/suttas/an6.63/pli/ms?quote=Sa%25E1%25B9%2585kappar%25C4%2581go%2520purisassa%2520k%25C4%2581mo&window_type=Sutta+Study][SSP]])
 
@@ -347,3 +347,8 @@ the “formless attainments” do not lead to nibbana [MN I 165-6], there are va
 in the suttas, that the four jhanas are conducive to awakening, and that they are the unique
 teaching of the Buddha
 
+Keren Arbel, IV Samādhi, ekodibhāvaṁ, sati and paññā
+
+Come friends, dwell observing the body as body, ardently, fully aware with unified and clear mind, calm and with oneness of mind, in order to know the body as it really is. Dwell observing feeling as feeling… dwell observing mind as mind… dwell observing phenomena as phenomena ardently, fully aware with unified and clear mind, calm and with oneness of mind, in order to know phenomena as it really is.
+
+SN V. 144: etha tumhe āvuso, kāye kāyānupassino viharatha, ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā kāyassa yathābhūtaṁ ñāṇāya. Vedanāsu vedanānupassino viharatha, ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā vedanānaṁ yathābhūtaṁ ñāṇāya. Citte cittānupassino viharatha, ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā cittassa yathābhūtaṁ ñāṇāya. Dhammesu dhammānupassino viharatha, ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā dhammānaṁ yathābhūtaṁ ñāṇāya.
