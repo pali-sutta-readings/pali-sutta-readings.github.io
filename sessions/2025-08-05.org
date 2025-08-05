@@ -1,0 +1,232 @@
+#+author: gavesako
+
+* 2025-08-05
+** Pc 37 Eating at the wrong time
+
+#+begin_quote
+“Yo pana bhikkhu vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti.
+
+“Khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa.
+
+Ajjhohāre ajjhohāre āpatti pācittiyassa. ([[https://suttacentral.net/pli-tv-bu-vb-pc37/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-bu-vb-pc37/pli/ms?window_type=Sutta+Study][SSP]])
+#+end_quote
+
+| vikāle (ind.)   | at the wrong time; at an improper time                    |
+| khādanīya (nt.) | edible food; raw food; non-staple food; lit. to be chewed |
+| khādati         | chews; devours; eats; √khād (chew)                        |
+| bhojanīya (nt.) | cooked food; soft food; lit. to be eaten                  |
+| bhuñjati        | eats; consumes; √bhuj (use, eat, enjoy)                   |
+| paṭiggaṇhāti    | takes; accepts; receives                                  |
+| ajjhohāra (m.)  | swallowing; from ajjhoharati                              |
+
+** NP 23 Storing the five tonics too long
+
+#+begin_quote
+“Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ —
+
+sappi navanītaṁ telaṁ madhu phāṇitaṁ, tāni paṭiggahetvā
+
+sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni.
+
+Taṁ atikkāmayato nissaggiyaṁ pācittiyan”ti. ([[https://suttacentral.net/pli-tv-bu-vb-np23/pli/ms][SC]], [[http://localhost:4848/suttas/pli-tv-bu-vb-np23/pli/ms?window_type=Sutta+Study][SSP]])
+#+end_quote
+
+| gilāna (adj.)                         | sick; ill; unwell                              |
+| paṭisāyanīya (ptp.)                   | edible; palatable; tasty; lit. to be tasted    |
+| bhesajja (nt.)                        | medicine; remedy; tonic                        |
+| sappi, navanīta, tela, madhu, phāṇita | ghee, butter, oil, honey, sugar                |
+| sattāha-paramaṁ (ind.)               | seven days at most                             |
+| paramaṁ                              | at the most; for a maximum of; up to           |
+| sannidhi-kārakaṁ                     | keeping in store; storing                      |
+| paribhuñjitabba (ptp.)                | should be used; should be consumed             |
+| atikkāmayanta (prp.)                  | exceeding; going over                          |
+| nissaggiya (ptp.)                     | involving relinquishment; lit. to be cast away |
+
+** Mv.VI.17.8 - Uggahitapaṭiggahaṇā "Accepting What One Has Picked Up"
+
+([[https://suttacentral.net/pli-tv-kd6/pli/ms?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin#17.8.1][SC]], [[https://www.dhammatalks.org/vinaya/Mv/MvVI.html#burmese165][DT]])
+
+#+begin_quote
+Tena kho pana samayena sambahulā bhikkhū kāsīsu vassaṁvuṭṭhā
+
+rājagahaṁ gacchantā bhagavantaṁ dassanāya 
+
+antarāmagge na labhiṁsu lūkhassa vā paṇītassa vā bhojanassa 
+
+yāvadatthaṁ pāripūriṁ; bahuñca phalakhādanīyaṁ ahosi; 
+
+kappiyakārako ca na ahosi.
+#+end_quote
+
+| **sambahulā**         | Nominative plural adjective                                                              | "many"                                                                  |
+| **kāsīsu**            | Locative plural of *Kāsī* (a country)                                                    | "in the Kāsī region"                                                   |
+| **vassaṁvuṭṭhā**      | Past participle compound: *vassaṁ* (rains) + *vuṭṭhā* (having spent)                      | "having spent the rains retreat"                                       |
+| **gacchantā**         | Present participle nominative plural of *gacchati* (to go)                               | "going"                                                                 |
+| **dassanāya**         | Dative/infinite of *dassana* (seeing)                                                    | "for the seeing of" → "to see"                                         |
+| **antarāmagge**       | Locative singular of *antarāmagga* (on the road)                                        | "on the way"                                                            |
+| **labhiṁsu**          | 3rd person plural aorist of *labhati* (to obtain)                                        | "they obtained" / "they got"                                           |
+| **lūkhassa**          | Genitive singular of *lūkha* (coarse)                                                    | "of coarse"                                                             |
+| **paṇītassa**         | Genitive singular of *paṇīta* (refined)                                                  | "of refined"                                                            |
+| **yāvadatthaṁ**       | Compound: *yāvat* (as much as) + *attha* (need); accusative singular                     | "as much as needed"                                                    |
+| **pāripūriṁ**         | Accusative singular of *pāripūri* (satisfaction, fulfillment)                            | "fulfillment", "satisfaction"                                          |
+| **phalakhādanīyaṁ**   | Accusative singular neuter of *phala-khādanīya* (edible fruit)                            | "fruit to be eaten"                                                    |
+| **ahosi**             | 3rd person singular imperfect of *atthi* (to be)                                         | "there was"                                                             |
+| **kappiyakārako**     | Nominative singular of *kappiya-kāraka* (monastic attendant/helper)                       | "attendant who makes allowable"                     |
+
+#+begin_quote
+Atha kho te bhikkhū kilantarūpā yena rājagahaṁ 
+
+veḷuvanaṁ kalandakanivāpo, yena bhagavā tenupasaṅkamiṁsu, 
+
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. 
+
+Āciṇṇaṁ kho panetaṁ buddhānaṁ bhagavantānaṁ 
+
+āgantukehi bhikkhūhi saddhiṁ paṭisammodituṁ. 
+
+Atha kho bhagavā te bhikkhū etadavoca 
+
+“kacci, bhikkhave, khamanīyaṁ, kacci yāpanīyaṁ, 
+
+kaccittha appakilamathena addhānaṁ āgatā; 
+
+kuto ca tumhe, bhikkhave, āgacchathā”ti?
+#+end_quote
+
+| **kilantarūpā**       | Compound: *kilanta* (weary) + *rūpā* (in appearance); nom. pl.                           | "looking weary", "appearing tired"                                     |
+| **yena**              | Relative adverb                                                                           | "to where", "where"                                                     |
+| **kalandakanivāpo**   | Accusative singular compound: *kalandaka* (squirrel) + *nivāpa* (feeding place)          | "Squirrel’s Feeding Ground"                                            |
+| **tenupasaṅkamiṁsu**  | Verb: *tena* (to him) + *upasaṅkamiṁsu* (they approached); 3rd pl. aorist                | "they approached him"                                                  |
+| **abhivādetvā**       | Absolutive of *abhivādeti* (to pay respect)                                              | "having paid respect"                                                  |
+| **ekamantaṁ**         | Accusative singular adverbial phrase                                                     | "to one side"                                                          |
+| **nisīdiṁsu**         | 3rd person plural aorist of *nisīdati* (to sit down)                                     | "they sat down"                                                        |
+| **Āciṇṇaṁ**           | Nominative singular of *āciṇṇa* (habit, custom)                                          | "customary"                                                            |
+| **buddhānaṁ**         | Genitive plural of *buddha*                                                              | "of the Buddhas"                                                       |
+| **bhagavantānaṁ**     | Genitive plural of *bhagavant*                                                           | "of the Blessed Ones"                                                  |
+| **āgantukehi**        | Instrumental plural of *āgantuka* (visitor)                                              | "by visitors"                                                          |
+| **saddhiṁ**           | Indeclinable particle                                                                    | "together with"                                                        |
+| **paṭisammodituṁ**    | Infinitive of *paṭisammodati* (to greet, welcome)                                        | "to greet", "to exchange greetings"                                    |
+| **“kacci**            | Interrogative particle (used in polite/concerned inquiry)                                | "Is it well?" / "I hope..."                                            |
+| **khamanīyaṁ**        | Nominative singular neuter of *khamanīya* (bearable)                                     | "bearable?"                                                             |
+| **yāpanīyaṁ**         | Nominative singular neuter of *yāpanīya* (livable, endurable)                            | "livable?", "endurable?"                                               |
+| **kaccittha**         | *kacci + tumhe + attha* (are you...?)                                                   | "Are you...?"                                                          |
+| **appakilamathena**   | Instrumental singular of *appa* (little) + *kilamatha* (fatigue)                         | "with little fatigue"                                                  |
+| **addhānaṁ**          | Accusative singular of *addhāna* (journey)                                               | "journey"                                                              |
+| **āgatā**             | Past participle of *āgacchati* (to come), nominative plural                              | "arrived", "come"                                                      |
+| **kuto**              | Interrogative adverb                                                                     | "from where?"                                                          |
+| **āgacchathā**        | 2nd person plural present of *āgacchati* (to come)                                       | "do you come"                                                           |
+
+#+begin_quote
+“Khamanīyaṁ, bhagavā, yāpanīyaṁ, bhagavā. Idha mayaṁ, 
+
+bhante, kāsīsu vassaṁvuṭṭhā rājagahaṁ āgacchantā 
+
+bhagavantaṁ dassanāya antarāmagge na labhimhā 
+
+lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ;
+
+bahuñca phalakhādanīyaṁ ahosi; kappiyakārako ca na ahosi; 
+
+tena mayaṁ kilantarūpā addhānaṁ āgatā”ti. 
+
+Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe 
+
+dhammiṁ kathaṁ katvā bhikkhū āmantesi
+
+“anujānāmi, bhikkhave, yattha phalakhādanīyaṁ passati, 
+
+kappiyakārako ca na hoti, sāmaṁ gahetvā, haritvā, 
+
+kappiyakārake passitvā, bhūmiyaṁ nikkhipitvā, 
+
+paṭiggahāpetvā paribhuñjituṁ. 
+
+Anujānāmi, bhikkhave, uggahitaṁ paṭiggahitun”ti.
+#+end_quote
+
+| **Khamanīyaṁ**      | Nominative singular neuter of *khamanīya* (bearable)          | "It is bearable"                                |
+| **yāpanīyaṁ**       | Nominative singular neuter of *yāpanīya* (livable, endurable) | "It is livable"                                 |
+| **nidāne**           | Locative singular of *nidāna* (occasion, cause)               | "occasion"                                      |
+| **pakaraṇe**         | Locative singular of *pakaraṇa* (topic, subject)              | "topic", "matter"                               |
+| **dhammiṁ**         | Accusative singular adjective of *dhamma*                     | "according to Dhamma", "righteous"              |
+| **kathaṁ**          | Accusative singular of *kathā* (talk, discourse)              | "talk", "discourse"                             |
+| **katvā**            | Absolutive of *karoti* (to do)                                | "having made", "after giving (a talk)"          |
+| **āmantesi**         | 3rd person singular aorist of *āmanteti* (to address)         | "he addressed"                                  |
+| **anujānāmi**        | 1st person singular present of *anujānāti* (to allow, permit) | "I allow"                                       |
+| **yattha**           | Relative adverb                                               | "where"                                         |
+| **phalakhādanīyaṁ** | Acc. sg. nt. of *phalakhādanīya* (edible fruit)               | "edible fruit"                                  |
+| **passati**          | 3rd person singular present of *passati* (to see)             | "one sees", "he sees"                           |
+| **kappiyakārako**    | Nominative singular of *kappiyakāraka*                        | "monastic attendant"                            |
+| **sāmaṁ**           | Indeclinable adverb                                           | "oneself", "personally"                         |
+| **gahetvā**          | Absolutive of *gaṇhāti* (to take)                             | "having taken"                                  |
+| **haritvā**          | Absolutive of *harati* (to carry, bring)                      | "having brought"                                |
+| **kappiyakārake**    | Locative plural of *kappiyakāraka*                            | "to the monastic attendants"                    |
+| **passitvā**         | Absolutive of *passati* (to see)                              | "having seen"                                   |
+| **bhūmiyaṁ**        | Locative singular of *bhūmi* (ground, earth)                  | "on the ground"                                 |
+| **nikkhipitvā**      | Absolutive of *nikkhipati* (to place, deposit)                | "having placed down"                            |
+| **paṭiggahāpetvā**   | Absolutive of causative *paṭiggahāpeti* (to cause to receive) | "having caused to be accepted"                  |
+| **paribhuñjituṁ**   | Infinitive of *paribhuñjati* (to use, consume)                | "to make use of", "to consume"                  |
+| **uggahitaṁ**       | Accusative singular neuter of *uggahita* (picked up, taken)   | "what has been picked up"                       |
+| **paṭiggahituṁ**    | Infinitive of *paṭiggaṇhāti* (to accept)                      | "to be accepted", “I allow [it] to be accepted” |
+
+** SN 12.63 Puttamaṁsasutta
+
+([[https://suttacentral.net/sn12.63/pli/ms][SC]], [[http://localhost:4848/suttas/sn12.63/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Sāvatthiyaṁ … “Cattārome, bhikkhave, āhārā bhūtānaṁ vā sattānaṁ ṭhitiyā
+
+sambhavesīnaṁ vā anuggahāya. Katame cattāro? Kabaḷīkāro āhāro oḷāriko vā sukhumo vā,
+
+phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ.
+
+Ime kho, bhikkhave, cattāro āhārā bhūtānaṁ vā sattānaṁ ṭhitiyā sambhavesīnaṁ vā anuggahāya.
+
+Kathañca, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo?
+
+Seyyathāpi, bhikkhave, dve jāyampatikā parittaṁ sambalaṁ ādāya kantāramaggaṁ paṭipajjeyyuṁ.
+
+[...] crossing the desert [...]
+#+end_quote
+
+| āhāra (m. +dat)       | food (for); fuel (for); sustenance (for); nutriment (for)          |
+| bhūta (pp.)           | existing; born; living; lit. become; [√bhū + ta]                   |
+| satta (m.)            | being; living being; creature [√as + a + tta]                      |
+| ṭhitiyā (f. +gen)     | for the continuity (of); for the endurance (of)                    |
+| sambhavesī (adj.)     | who is seeking birth                                               |
+| anuggaha (m)          | support; help; assistance [anu + √gah + a]                         |
+| kabaḷīkāra (adj.)     | material; physical; edible; lit. made into morsels [kabaḷa + kāra] |
+| daṭṭhabba (ptp. +intr) | should be seen; should be regarded as;                             |
+|                       | lit. to be seen [√dis + a + tabba]                                 |
+| jāyampatikā (m.)      | wife and husband                                                   |
+| parittaṁ sambalaṁ    | little provisions                                                  |
+| ādāya (ger.)          | taking                                                             |
+| kantāramagga (m.)     | road through a desert/wilderness                                   |
+| paṭipajjati           | follows a path; undertake a journey                                |
+
+#+begin_quote
+Taṁ kiṁ maññatha, bhikkhave, api nu te davāya vā āhāraṁ āhāreyyuṁ, madāya vā āhāraṁ āhāreyyuṁ,
+
+maṇḍanāya vā āhāraṁ āhāreyyuṁ, vibhūsanāya vā āhāraṁ āhāreyyun”ti? “No hetaṁ, bhante”.
+
+“Nanu te, bhikkhave, yāvadeva kantārassa nittharaṇatthāya āhāraṁ āhāreyyun”ti? “Evaṁ, bhante”.
+
+“‘Evameva khvāhaṁ, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo’ti vadāmi. Kabaḷīkāre, bhikkhave,
+
+āhāre pariññāte pañca kāmaguṇiko rāgo pariññāto hoti.
+
+Pañca kāmaguṇike rāge pariññāte natthi taṁ saṁyojanaṁ yena saṁyojanena saṁyutto
+
+ariyasāvako puna imaṁ lokaṁ āgaccheyya.
+#+end_quote
+
+| maññati           | thinks; imagines; conceives                                         |
+| davāya            | for fun; for play; √dū (go, run)                                    |
+| madāya            | for intoxication; for indulgence; √mad (be mad, be intoxicated)     |
+| maṇḍanāya         | for embellishment; for bulk; for shape; √maṇḍ (adorn)               |
+| vibhūsanāya       | for embellishment; for physical appearance; √bhūs (adorn, decorate) |
+| kantāra (m.)      | desert; wasteland                                                   |
+| nittharaṇatthāya  | for crossing; for getting across; [nittharaṇa + attha + āya]        |
+| pariññāta (pp.)   | completely comprehended; fully understood [pari + √ñā + ta]         |
+| kāmaguṇika (adj.) | related to strings of sensual desire [kāma + guṇa + ika]            |
+| puna (ind.)       | again                                                               |
