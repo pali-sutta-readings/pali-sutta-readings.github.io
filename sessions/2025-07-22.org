@@ -1,0 +1,135 @@
+#+author: gavesako
+#+youtube_id: NwM4KMrGI98
+
+* 2025-07-22
+** Jhāna, feelings, thoughts and desire
+
+#+begin_quote
+(MN 125) Evameva kho, aggivessana, ariyasāvakassa ime cattāro satipaṭṭhānā cetaso
+upanibandhanā honti gehasitānañceva sīlānaṁ abhinimmadanāya gehasitānañceva
+sarasaṅkappānaṁ abhinimmadanāya gehasitānañceva darathakilamathapariḷāhānaṁ
+abhinimmadanāya ñāyassa adhigamāya nibbānassa sacchikiriyāya.
+
+Tamenaṁ tathāgato uttariṁ vineti: ‘ehi tvaṁ, bhikkhu, kāye kāyānupassī viharāhi,
+mā ca kāmūpasaṁhitaṁ vitakkaṁ vitakkesi. Vedanāsu … citte … dhammesu
+dhammānupassī viharāhi, mā ca kāmūpasaṁhitaṁ vitakkaṁ vitakkesī’ti. So
+vitakkavicārānaṁ vūpasamā ... jhānaṁ upasampajja viharati.
+#+end_quote
+
+(Aj Thanissaro) [Like the bindings on a wild elephant] ... These four
+establishings of mindfulness are bindings for the awareness of the disciple of
+the noble ones, to break him of his household habits, his household memories &
+resolves, his distraction, fatigue, & fever over leaving the household life, for
+the attainment of the right method and the realization of unbinding.
+
+“Then the Tathāgata trains him further: ‘Come, monk, remain focused on the body
+in & of itself, but do not think any thoughts connected with the body. Remain
+focused on feelings in & of themselves, but do not think any thoughts connected
+with feelings. Remain focused on the mind in & of itself, but do not think any
+thoughts connected with mind. Remain focused on mental qualities in & of
+themselves, but do not think any thoughts connected with mental qualities.’ With
+the stilling of directed thoughts & evaluations, he enters & remains ... in jhāna.
+
+#+begin_quote
+(MN 18) ... phassapaccayā vedanā, yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ
+vitakketi, yaṁ vitakketi taṁ papañceti
+#+end_quote
+
+(See discussion on [[https://pali-sutta-readings.github.io/readings/2025-03-05/][2025-03-05]] on papañca)
+
+#+begin_quote
+(DN 21) Chando pana, mārisa, kiṁnidāno ... ? Chando kho, devānaminda,
+vitakkanidāno vitakkasamudayo vitakkajātiko vitakkapabhavo; vitakke sati chando
+hoti, vitakke asati chando na hoti.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-29.html][Nibbāna Sermon 29]]) What, dear sir, is the cause of desire ...? Desire, O King
+of Gods, has thinking as its cause, it arises with thinking, it has thinking as
+its origin. When thinking is there, desire comes to be; when thinking is not
+there, desire does not come to be!
+
+What is the cause, the arising and the origin of thinking?
+
+Reckonings born of prolific perception /papañcasaññāsaṅkhā/, but feelings and
+thinking are of two kinds, one inclines to papañca, the other inclines toward
+Nibbāna.
+
+#+begin_quote
+(AN 4.171) Avijjāya tveva asesavirāganirodhā so kāyo na hoti, yaṁ paccayāssa taṁ
+uppajjati ajjhattaṁ sukhadukkhaṁ … sā vācā na hoti … so mano na hoti … khettaṁ
+taṁ na hoti, vatthum taṁ na hoti, āyatanaṁ taṁ na hoti, adhikaraṇaṁ taṁ na hoti,
+yaṁ paccayāssa taṁ uppajjati ajjhattaṁ sukhadukkhaṁ.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-08.html][Nibbāna Sermon 8]]) With the complete fading away and cessation of ignorance, the
+arahant has no notion of a body. That is, he does not have a perception of a
+body, like that of a worldling, who takes it as such, due to his perception of
+the compact, /ghanasaññā/. [...] Similarly, that mind is not there, /so mano na
+hoti/. It is only the collocation of preparations which arise and cease that is
+conceived as ‘my mind’. Therefore, whatever field, site, base or reason, owing
+to which there can arise inward pleasure or pain, is no longer there.
+
+#+begin_quote
+(Snp 5.7) Accī yathā vātavegena khitto / atthaṁ paleti na upeti saṅkhaṁ \\
+evaṁ munī nāmakāyā vimutto / atthaṁ paleti na upeti saṅkhaṁ.
+#+end_quote
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-11.html][Nibbāna Sermon 11]]) As flame flung on by force of wind, / Reaches its end, comes not within reckoning, \\
+So the sage, released from name-and-form, / Reaches his end, comes not within reckoning.
+
+** MN 119 Kāyagatāsatisutta
+
+#+begin_quote
+([[http://localhost:4848/suttas/mn119/pli/ms?window_type=Sutta+Study][SSP]]) Kathaṁ bhāvitā ca, bhikkhave, kāyagatāsati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?
+#+end_quote
+
+Ānāpānassati (See 2025-06-11), mindfulness of four postures and current activity, examining the body as 32 parts, as the four elements, as the same nature of corpses.
+
+#+begin_quote
+Tassa evaṁ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṁ pahānā ajjhattameva cittaṁ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+#+end_quote
+
+And as he remains thus heedful, ardent, & resolute, any memories & resolves
+related to the household life are abandoned, and with their abandoning his mind
+gathers & settles inwardly, grows unified & concentrated. (Aj Th.)
+
+#+begin_quote
+Puna caparaṁ, bhikkhave, bhikkhu vivicceva kāmehi ... paṭhamaṁ jhānaṁ upasampajja viharati. [...] Evampi, bhikkhave, bhikkhu kāyagatāsatiṁ bhāveti.
+#+end_quote
+
+First jhāna simile: kneading a ball of bath powder until it is saturated with moisture.
+
+Second jhāna simile: a deep lake gradually filled with cool water.
+
+Third jhāna simile: a lotus that is still underwater, immersed in cool water.
+
+Fourth jhāna simile: a person completely wrapped with white cloth.
+
+Kāyagatāsati abhāvitā / bhāvitā:
+
+#+begin_quote
+Yassa kassaci, bhikkhave, kāyagatāsati bhāvitā bahulīkatā, na tassa labhati māro otāraṁ, na tassa labhati māro ārammaṇaṁ.
+#+end_quote
+
+In whomever mindfulness immersed in the body is developed, is pursued, Māra gains no entry, Māra gains no foothold. (Aj Th.)
+
+Ten benefits can be expected. Which ten?
+
+#+begin_quote
+(1) Aratiratisaho hoti, na ca taṁ arati sahati, uppannaṁ aratiṁ abhibhuyya viharati.
+(2) Bhayabheravasaho hoti, na ca taṁ bhayabheravaṁ sahati, uppannaṁ bhayabheravaṁ abhibhuyya viharati.
+(3) Khamo hoti sītassa uṇhassa ...
+(4) Catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī.
+(5-9) ... powers of the mind ...
+(10) Āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+#+end_quote
+
+(1) He conquers displeasure & delight, and displeasure does not conquer him. He remains victorious over any displeasure that has arisen.
+(2) He conquers fear & dread, and fear & dread do not conquer him. He remains victorious over any fear & dread that have arisen.
+(3) He is resistant to cold, heat ...
+(4) He can attain at will, without trouble or difficulty, the four jhānas — heightened mental states providing a pleasant abiding in the here & now.
+(5-9) ... powers of the mind ...
+(10) Through the ending of effluents, he remains in the effluent-free awareness-release & discernment-release, having known and realized them for himself right in the here & now.
+** Related :noprint:
+
+[[https://buddhism.stackexchange.com/questions/50680/why-is-the-first-jhana-omitted-from-mn-125][Why is the first jhana omitted from MN 125? - Buddhism Stack Exchange]]

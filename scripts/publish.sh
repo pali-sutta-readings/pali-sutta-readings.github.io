@@ -44,10 +44,23 @@ fi
 
 # Detect source changes and commit all updates.
 git add -A .
+source_needs_push=false
+
+# Check if there are unstaged changes to commit
 if ! git diff --cached --quiet; then
   git add -A .
   git status
   git commit -m "upd"
+  source_needs_push=true
+fi
+
+# Check if local branch is ahead of remote (has unpushed commits)
+if [[ $(git rev-list --count HEAD ^origin/"$SOURCE_BRANCH" 2>/dev/null || echo "0") -gt 0 ]]; then
+  source_needs_push=true
+fi
+
+# Push if needed
+if $source_needs_push; then
   git push origin "$SOURCE_BRANCH"
 fi
 

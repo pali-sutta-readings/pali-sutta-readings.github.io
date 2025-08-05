@@ -10,7 +10,7 @@ Readings, study and discussions of the Pāli Theravāda suttas.
 
 See the calendar below for which days have a meeting planned.
 
-Generally, meetings are on every **Wednesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
+Generally, meetings are on every **Tuesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
 
 Meeting link: <https://meet.google.com/yip-ffjm-reo>
 
@@ -18,7 +18,7 @@ Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
 Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readings (youtube.com)][youtube-readings]
 
-[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
+[tldraw-readings]: https://www.tldraw.com/f/P39YAHFckegYneVo8CzE9
 
 [gdrive-readings]: https://drive.google.com/drive/folders/1_nhb4gwvgzuWAegSboS4zI3MJY8OLnt8?usp=sharing
 
@@ -74,7 +74,7 @@ With an **RSS reader**: [Feedbro](https://nodetics.com/feedbro/), [Feeder](https
 With an **RSS to email** service, such as:
 
 - [Blogtrottr](https://blogtrottr.com/)
-  - It sent the update email within an hour of publishing. The free version is supported by ads.
+  - It sent the update notification email within an hour of publishing. The free version is supported by ads.
 - [Feedrabbit](https://feedrabbit.com/)
   - The free version fetches updates every 3 hours, but no ads.
 

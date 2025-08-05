@@ -1,0 +1,176 @@
+#+author: gambhiro
+#+youtube_id: 3g6xtp4yBAk
+
+* 2025-07-15
+** Āpatti-paṭidesanā (Confession of Offences)
+
+Mahāvagga, Āpattipaṭikammavidhi ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.3.0.0.1.0.24.m&query=na%20s%C4%81pattikena%20uposatho%20k%C4%81tabbo&para=1][DPR]], [[http://localhost:4848/suttas/vin02m2.mul/pli/cst4?quote=na%2520s%25C4%2581pattikena%2520uposatho%2520k%25C4%2581tabbo&window_type=Sutta+Study][SSP]], [[http://localhost:4848/suttas/vin02a2.att/pli/cst4?quote=na%2520s%25C4%2581pattikena%2520uposatho%2520k%25C4%2581tabbo&window_type=Sutta+Study][Comm]])
+
+#+begin_quote
+"Bhagavatā paññattaṁ ‘na sāpattikena uposatho kātabbo’ti. \\
+Ahañcamhi āpattiṁ āpanno. Kathaṁ nu kho mayā paṭipajjitabban"ti?
+#+end_quote
+
+| paññatta (pp.)        | prepared; readied; arranged; laid out; lit. caused to know [pa + √ñā + *āpe + ta] |
+| sāpattika (adj.)      | guilty of offence; lit. with offence                                              |
+| āpatti (f.)           | offence; wrongdoing; transgression [ā + √pad + ti]                                |
+| √pad                  | go, step                                                                          |
+| āpanna (pp. +acc)     | fallen into [ā + √pad + na] pp of āpajjati                                        |
+| kathaṁ nu (idiom)    | how indeed!?                                                                      |
+| mayā                  | pron, 1st instr sg of ahaṁ                                                       |
+| paṭipajjitabba (ptp.) | should be practised; should be followed                                           |
+
+*Six reasons for āpatti:* (See [[https://bhikkhu-manual.github.io/vinaya/offences.html#%C4%81patti-patidesana][Bhikkhu Manual]])
+
+(1) Lack of shame; (2) ignorance of the rule; (3) in doubt but goes ahead; (4) thinks he ought when he ought not; \\
+(5) thinks he ought not when he ought; (6) acts without thinking (i.e. absent-mindedly).
+
+*Four conditions for exemption from āpatti:*
+
+A bhikkhu who is (1) insane, (2) delirious, (3) suffering intense pain, or (4) the original perpetrator.
+
+*SB:* Senior Bhikkhu, *JB:* Junior Bhikkhu
+
+#+begin_quote
+*JB:* Ahaṁ bhante sambahulā nānā-vatthukāyo thullaccayāyo āpattiyo āpanno tā paṭidesemi.
+
+*SB:* Passasi āvuso. (*JB:* Passatha bhante.)
+
+*JB:* Āma bhante passāmi.
+
+*SB:* Āyatiṁ āvuso saṁvareyyāsi. (*JB:* Āyatiṁ bhante saṁvareyyātha.)
+
+*JB:* Sādhu suṭṭhu bhante saṁvarissāmi.
+#+end_quote
+
+| sambahula (adj.)            | many; numerous [saṁ + √bah + u + la]                   |
+| nānā (ind.)                 | various; different; distinct                            |
+| vatthuka (adj.)             | based on; founded on; grounded on                       |
+| tā (pron)                   | they, those; fem acc pl of ta                           |
+| paṭideseti                  | acknowledges; confesses; admits [pati + √dis + *e + ti] |
+| √dis                        | point out, explain                                      |
+| passati                     | sees; understands                                       |
+| āyatiṁ (ind.)              | in the future                                           |
+| saṁvarati                  | restrains; controls [saṁ + √var + a + ti]              |
+| √var                        | cover, dress, restrain                                  |
+| saṁvareyyāsi (opt.2nd.sg.) | you should restrain                                     |
+| sādhu (ind.)                | (excl.) well said!                                      |
+| suṭṭhu (ind.)               | (adv.) well; good; right; most certainly                |
+
+#+html: <div class="pagebreak"></div>
+
+** Analysis and exemptions
+
+Five Factors of analysis for an offense: (1) intention, (2) perception, (3) object, (4) effort, (5) result.
+
+Blanket exemptions, See BMC Pr 1, Pr 2 ([[http://localhost:4848/suttas/pli-tv-bu-vb-pj2/pli/ms?quote=ummattakassa%252C%2520khittacittassa&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Anāpatti ... ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.
+
+Comm.: khittacittako'ti yakkhādīhi vikkhepam'āpādita'citto.
+#+end_quote
+
+Common non-offenses. (*NOTE:* Doesn't always apply!)
+
+#+begin_quote
+Pācittiyas: Anāpatti — asañcicca, assatiyā, ajānantassa, ummattakassa, ādikammikassāti.
+
+Sekhiyas: Anāpatti — asañcicca, assatiyā, ajānantassa, gilānassa, āpadāsu, ummattakassa, ādikammikassāti.
+
+(VINa) āpadāsū'ti vāḷamigā vā corā vā anubandhanti, evarūpāsu āpadāsu anāpatti.
+#+end_quote
+
+| ummattaka (m.)     | madman; crazy; lunatic [ud + √mad + ta + ka]              |
+| √mad               | be mad, be intoxicated                                    |
+| khittacitta (adj.) | mentally unbalanced; deranged; unhinged                   |
+| vedanāṭṭa (adj.)   | afflicted with pain; suffering injury [vedanā + aṭṭa]     |
+| ādikammika (m.)    | initial offender; first person to do it                   |
+| vikkhepa (m.)      | disturbance; confusion; derangement                       |
+| āpādita (pp.)      | caused; effected; produced; become                        |
+| asañcicca (ind.)   | unintentionally; not purposefully; lit. not with mind     |
+| assati (f.)        | not remembering; lack of awareness                        |
+| ajānanta (prp.)    | not knowing; being ignorant (of)                          |
+| gilāna (adj.)      | sick; ill; unwell                                         |
+| āpadā (f.)         | adversity; misfortune; distress; calamity                 |
+| vāḷamiga (m.)      | wild beast; fierce animal                                 |
+| cora (m.)          | thief; robber                                             |
+| anubandhati        | follows; trails; lit. ties behind [anu + √bandh + a + ti] |
+
+#+html: <div class="pagebreak"></div>
+
+** Iti 42 Sukkadhammasutta
+
+([[https://www.dhammatalks.org/suttas/KN/Iti/iti42.html][Aj Thanissaro]], [[http://localhost:4848/suttas/iti42/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+
+“Dveme, bhikkhave, sukkā dhammā lokaṁ pālenti. Katame dve? Hirī ca, ottappañca. [...]"
+
+Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+
+“Yesañce hiriottappaṁ, / sabbadā ca na vijjati;
+
+Vokkantā sukkamūlā te, / jātimaraṇagāmino.
+
+Yesañca hiriottappaṁ, / sadā sammā upaṭṭhitā;
+
+Virūḷhabrahmacariyā te, / santo khīṇa-punabbhavā”ti.
+#+end_quote
+
+| vutta (pp.)             | said, spoken; pp. of vacati                                   |
+| sukka (adj.)            | pure; bright [√suc + ra]                                      |
+| pāleti (pr. +acc)       | protects; guards; takes care of; preserves                    |
+| hiri (f.)               | sense of shame; modesty; conscience; sense of right and wrong |
+| ottappa (nt.)           | regret; shame in wrongdoing; respect for others               |
+| etamatthaṁ (sandhi)    | meaning of this; significance of this [etaṁ + atthaṁ]        |
+| yesaṁ (pron.)          | of whoever; of whom; gen pl of ya                             |
+| sabbadā (ind.)          | always; at all times                                          |
+| vijjati                 | exists (in); is found (in); is present (in)                   |
+| vokkanta (pp.)          | turned aside, deviated from                                   |
+| mūla (nt.)              | root; source; origin                                          |
+| gāmī (adj.)             | leading to; heading to                                        |
+| sadā (ind.)             | always; ever                                                  |
+| upaṭṭhita (pp.)         | arrived; present; established                                 |
+| virūḷha (pp.)           | grown; developed; increased; flourished                       |
+| santa (pp.)             | still; calm; at peace; tranquil                               |
+| khīṇa-punabbhava (adj.) | ended rebirth; finished with re-becoming                      |
+
+* Notes :noexport:
+** The Four Great Standards, Cattāro Mahāpadese
+
+Mahāvagga, Catumahāpadesakathā ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.3.0.0.5.0.25.m&query=ki%E1%B9%83%20nu%20kho%20bhagavat%C4%81%20anu%C3%B1%C3%B1%C4%81ta%E1%B9%83&para=1][DPR]], [[http://localhost:4848/suttas/vin02m2.mul/pli/cst4?quote=ki%25E1%25B9%2581%2520nu%2520kho%2520bhagavat%25C4%2581%2520anu%25C3%25B1%25C3%25B1%25C4%2581ta%25E1%25B9%2581&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Tena kho pana samayena bhikkhūnaṁ kismiñci kismiñci ṭhāne kukkuccaṁ uppajjati –
+
+"kiṁ nu kho bhagavatā anuññātaṁ, kiṁ ananuññāta"nti? bhagavato etamatthaṁ ārocesuṁ.
+
+"Yaṁ, bhikkhave, mayā 'idaṁ na kappatī'ti appaṭikkhittaṁ
+
+tañce akappiyaṁ anulometi, kappiyaṁ paṭibāhati, taṁ vo na kappati.
+
+Yaṁ, bhikkhave, mayā 'idaṁ na kappatī'ti appaṭikkhittaṁ
+
+tañce kappiyaṁ anulometi, akappiyaṁ paṭibāhati, taṁ vo kappati.
+
+Yaṁ, bhikkhave, mayā 'idaṁ kappatī'ti ananuññātaṁ
+
+tañce akappiyaṁ anulometi, kappiyaṁ paṭibāhati, taṁ vo na kappati.
+
+Yaṁ, bhikkhave, mayā 'idaṁ kappatī'ti ananuññātaṁ,
+
+tañce kappiyaṁ anulometi, akappiyaṁ paṭibāhati, taṁ vo kappatī"ti.
+#+end_quote
+
+** Threats
+
+I allow you to recite the Monastic Code in brief when there are any of these threats:
+
+Anujānāmi, bhikkhave, sati antarāye saṅkhittena pātimokkhaṁ uddisituṁ.
+
+a threat from kings, bandits, fire, floods, people, spirits, predatory animals, or creeping animals, or a threat to life, or a threat to the monastic life.”
+
+rājantarāyo, corantarāyo, agyantarāyo, udakantarāyo, manussantarāyo, amanussantarāyo, vāḷantarāyo, sarīsapantarāyo, jīvitantarāyo, brahmacariyantarāyoti.
+
