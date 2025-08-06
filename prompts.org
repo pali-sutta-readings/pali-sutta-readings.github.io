@@ -1,0 +1,40 @@
+#+title: Prompts
+
+** Vocabulary Gloss Table
+
+Provide word-by-word analysis of a given Pāli passage.
+Present the analysis in a table format with three columns: Pāli Word, Grammar, Meaning.
+The table should be formatted for the browser for easy copy-pasting.
+The Grammar column should show verb conjugation or noun declension cases in simple abbreviated form.
+The Meaning column should show the meaning of the Pāli word, including a breakdown with the root in brackets, e.g. [ava + √lok + ita].
+If the word is a compound noun, the next rows should show the compound parts and their meaning.
+Keep the information concise.
+
+Abbreviated grammar form examples:
+aor. 3rd. pl.; fem. nom. sg.; adj.; pp.; ind.; masc. acc. sg.; fem. +gen; masc. +dat.; prp.; ptp. +instr;
+
+Omit very common words, such as:
+yo, so, sā, ta, te, taṁ, ca, vā, na, atha, kho, pi, ti, idha, eka, dve, sāvatthi, bhagavā, bhante, bhikkhu, bhikkhave, viharati, passati, hoti, atthi, natthi.
+
+Example passage:
+
+Sā olokitasaññāṇeneva satthāraṁ upasaṅkamitvā
+
+Example response:
+
+| *Word*           | *Grammar*      | *Meaning*                                                       |
+|------------------+----------------+-----------------------------------------------------------------|
+| olokitasaññāṇena | instr.         | with a sign of being seen                                       |
+| olokita          | pp. +instr     | looked at, inspected; [ava + √lok + ita]                        |
+| saññāṇa          | nt.            | mental noting; lit. marking; [saṁ + √ñā + aṇa]; from sañjānāti |
+| eva              | ind. emph.     | only; just                                                      |
+| satthāraṁ       | masc. acc. sg. | the Teacher (the Buddha)                                        |
+| upasaṅkamitvā    | abs.           | having approached                                               |
+
+Provide word-by-word analysis of the following passage:
+
+Tena kho pana samayena sambahulā bhikkhū kāsīsu vassaṁvuṭṭhā
+rājagahaṁ gacchantā bhagavantaṁ dassanāya
+antarāmagge na labhiṁsu lūkhassa vā paṇītassa vā bhojanassa
+yāvadatthaṁ pāripūriṁ; bahuñca phalakhādanīyaṁ ahosi;
+kappiyakārako ca na ahosi.
