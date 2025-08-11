@@ -1,0 +1,215 @@
+#+author: gavesako
+#+youtube_id:
+
+* 2025-08-12
+** Sīluddesa-pāṭha
+
+([[https://bhikkhu-manual.github.io/chants/patimokkha-chants.html#sil-uddesa][Bhikkhu Manual]])
+
+#+begin_quote
+Bhāsitam idaṁ tena bhagavatā jānatā passatā arahatā sammā-sambuddhena:
+#+end_quote
+
+| *bhāsita 1*      | /(nt)/ saying; speech; statement; utterance; talk; words  *[√bhās + ita]*  /nt, pp of bhāsati/                           |
+| *idaṁ 1*        | /(pron)/ this; this thing  *[ida + aṁ]*  /pron, nt nom sg of ima/                                                       |
+| *tena 1*         | /(pron)/ with him; by him; with that; by that  *[ta + ena]*  /pron, masc & nt instr sg of ta/                            |
+| *bhagavatā*      | /(masc)/ by the Buddha; with the Buddha  *[bhagavant + ā]*  /masc, instr sg of bhagavant/   |
+| *jānatā*         | /(prp)/ by the one who knows  *[jānā + nta + tā], [jānanta + tā]*  /prp, masc instr sg of jānanta/                       |
+| *passanta 3*     | /(prp)/ understanding; (intellectually) getting; grasping  *[passa + nta]*  /prp of passati/                             |
+| *arahatā*        | /(masc)/ by awakened being  *[√arah + ant + tā], [arahant + tā]*  /masc, instr sg of arahant, irreg/                     |
+
+(AN 10.71, [[https://suttacentral.net/an10.71/pli/ms][SC]], [[http://localhost:4848/suttas/an10.71/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṁvarasaṁvutā
+viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino, samādāya
+sikkhatha sikkhāpadesu.
+
+In the chanting: Tasmā-tih'amhehi sikkhitabbaṁ (Tasmā + iti + (h) + amhehi)
+
+viharatha → viharissāma; sikkhatha → sikkhissāma
+
+Evañ'hi no sikkhitabbaṁ (Evaṁ + hi)
+#+end_quote
+
+| *sampannasīla*              | /(adj)/ virtuous; with perfect conduct  *[sampanna + sīla]*  /adj, comp/                                                                              |
+| *sampannapātimokkha*        | /(adj)/ with perfect precepts; accomplished in morality  /adj, comp/                                                       |
+| *pātimokkhasaṁvarasaṁvuta* | /(adj)/ controlled by restraint of Patimokkha; restrained and controlled by the Pātimokkha precepts  *[pātimokkha + saṁvara + saṁvuta]*  /adj, comp/ |
+| *ācāragocarasampanna*       | /(adj)/ who knows how to behave and keep to suitable places; well behaved and restrained  *[ācāragocara + sampanna]*  /adj, comp/                     |
+| *aṇumatta*                  | /(adj)/ tiniest; smallest  *[aṇu + matta]*  /adj, comp/                                                                                               |
+| *vajja 2.1*                 | /(nt)/ fault (of); error (of); mistake (of)  *[√vajj + ya > vajja]*  /nt, ptp of vajjeti/                                                             |
+| *bhayadassāvī*              | /(adj)/ seeing the danger (of); aware of the danger (in)  *[bhaya + dassāvī]*                                                                         |
+| *samādāya 2*                | /(ger)/ undertaking; taking up; accepting  *[saṁ + √ādā + ya]*  /ger of samādāti/                                                                    |
+| *sikkhati 1*                | /(pr)/ learns; trains (in); practices  *[sikkha + ti]*  /pr/                                                                                          |
+| *sikkhāpada*                | /(nt)/ precept; instruction; training rule  *[sikkhā + pada]*  /nt, comp/                                                                             |
+| *tasmā 2*                   | /(ind)/ therefore; that is why  *[ta + smā]*  /ind, adv, abl sg of ta/                                                                                |
+| *amhehi 1*                  | /(pron)/ by us; with us  *[amha + ehi]*  /pron, 1st instr pl of ahaṁ/                                                                                |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Ākaṅkheyya ce, bhikkhave, bhikkhu ‘sabrahmacārīnaṁ piyo cassaṁ manāpo ca garu ca bhāvanīyo cā’ti,
+
+sīlesvevassa paripūrakārī ajjhattaṁ cetosamathamanuyutto anirākatajjhāno vipassanāya samannāgato
+
+brūhetā suññāgārānaṁ.
+#+end_quote
+
+| *ākaṅkheyya*           | /(ptp)/ desirable; should be sought after  *[ā + kaṅkha + eyya]*  /ptp of ākaṅkhati/                          |
+| *piya 1*               | /(adj)/ dear (to); beloved (by); loved (by)  *[√pī > piy + a]*  /adj/                                         |
+| *cassaṁ*              | /(sandhi)/ but I might be; and I could become  *[ca + assaṁ]*  /sandhi, ind + opt/                           |
+| *manāpa 1*             | /(adj)/ pleasant; likeable; attractive; agreeable   /adj/                                                     |
+| *garu 3*               | /(adj)/ respected; esteemed  *[√gar + u]*  /adj/                                                              |
+| *bhāvanīya 1*          | /(ptp)/ respected; honoured; worthy of esteem  *[bhāve + anīya]*  /ptp of bhāveti/                            |
+| *sīlesvevassa*         | in virtuous conduct one should be  *[sīlesu > sīlesv + eva + assa]*  /nt + ind + opt/                         |
+| *paripūrakārī*         | /(adj)/ who completely fulfils; who is complete (wrt); who practices fully  *[paripūra + kārī]*  /adj, comp/  |
+| *ajjhattaṁ*           | /(ind)/ internally; inwardly; personally /ind, adv/                                                           |
+| *cetosamathamanuyutta* | /(adj)/ devoted to tranquillity of mind; practising internal peace  *[cetosamathaṁ + anuyutta]*  /adj, comp/ |
+| *anirākatajjhāna*      | /(adj)/ not neglected meditation; meditating diligently  *[anirākata + jhāna]*                                |
+| *samannāgata*          | /(pp)/ possessing; endowed (with); having  *[saṁ + anu > ann + ā + √gam + ta]*                               |
+| *brūhetar*             | /(masc)/ who develops; who practices; who furthers  *[brūhe + tar]*                                           |
+| *suññāgāra 1*          | /(nt)/ empty dwelling; uninhabited place  *[suñña + agāra]*  /nt, comp/                                       |
+
+(Also: If a monk would wish... robes and requisites; being benefit for supporters and relatives; being content; being resistant to cold, heat, hunger, thirst, insects, etc.; overcoming displeasure and delight; overcoming fear and dread; attaining the jhānas without difficulty; final ending of effluents.)
+
+(AN 5.24, [[https://suttacentral.net/an5.24/pli/ms][SC]], [[http://localhost:4848/suttas/an5.24/pli/ms?quote=rukkho%2520s%25C4%2581kh%25C4%2581pal%25C4%2581sasampanno&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Seyyathāpi, bhikkhave, rukkho sākhāpalāsasampanno. Tassa papaṭikāpi pāripūriṁ gacchati, tacopi pāripūriṁ gacchati, pheggupi pāripūriṁ gacchati, sāropi pāripūriṁ gacchati;
+
+Evamevaṁ kho, bhikkhave, sīlavato sīlasampannassa upanisasampanno hoti sammāsamādhi;
+
+(sammāsamādhi → yathābhūtañāṇadassana → nibbidāvirāga → vimuttiñāṇadassana)
+#+end_quote
+
+| *rukkha 1*            | /(masc)/ tree   /masc/                                                                   |
+| *sākhāpalāsasampanna* | /(adj)/ with branches and leaves  *[sākhāpalāsa + sampanna]*  /adj, comp/                |
+| *tassa 2*             | /(pron)/ of that; his; its  *[ta + ssa]*  /pron, masc & nt gen sg of ta/                 |
+| *papaṭikā 1*          | /(fem)/ dry outer bark  *[pa + √paṭ + ikā]*  /fem/                                       |
+| *pāripūri 1*          | /(fem)/ fulfilment (of); completion (of); culmination (of); maturity (of)                |
+| *taca 3*              | /(masc)/ (of a tree) bark   /masc/                                                       |
+| *pheggu 1*            | /(nt)/ fibre; sapwood; valueless wood next to the heartwood  *[√phal > phel + gu]*  /nt/ |
+| *sāra 3*              | /(masc)/ hardwood; heartwood  *[√sar > sār + *a]*  /masc, from sarati/                   |
+| *sīlavant*            | /(adj)/ virtuous; ethical; moral  *[√sīl + a + vant], [sīla + vant]*  /adj, from sīla/   |
+| *sīlasampanna*        | /(adj)/ of excellent morality; accomplished in virtue  *[sīla + sampanna]*  /adj, comp/  |
+| *upanisasampanna*     | /(adj)/ having the precondition for; with the prerequisite for  *[upanisā + sampanna]*   |
+
+#+html: <div class="pagebreak"></div>
+
+** Sanghakamma by incomplete and complete assembly
+
+([[https://suttacentral.net/pli-tv-kd9/en/brahmali][SC]], [[http://localhost:4848/suttas/pli-tv-kd9/en/brahmali?quote=%25C3%2591atticatutthe%2520ce%252C%2520bhikkhave%252C%2520kamme%2520y%25C4%2581vatik%25C4%2581%2520bhikkh%25C5%25AB%2520kammappatt%25C4%2581%2520te%2520%25C4%2581gat%25C4%2581%2520honti%252C%2520chand%25C4%2581rah%25C4%2581na%25E1%25B9%2581%2520chando%2520%25C4%2581ha%25E1%25B9%25ADo%2520hoti&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ñatticatutthe ce, bhikkhave, kamme yāvatikā bhikkhū kammappattā te āgatā honti,
+
+chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā paṭikkosanti — vaggakammaṁ.
+
+Idaṁ vuccati, bhikkhave, vaggakammaṁ.
+#+end_quote
+
+# When a procedure requires one motion and three announcements, and the monks
+# who should take part have arrived, and consent has been brought for those who
+# are eligible to give their consent, but someone present objects to the
+# decision, then it’s a legal procedure done by an incomplete assembly.
+
+#+begin_quote
+Ñatticatutthe ce, bhikkhave, kamme yāvatikā bhikkhū kammappattā, te āgatā honti,
+
+chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā na paṭikkosanti — samaggakammaṁ.
+
+Idaṁ vuccati, bhikkhave, samaggakammaṁ.
+#+end_quote
+
+# When a procedure requires one motion and three announcements, and the monks
+# who should take part have arrived, and consent has been brought for those who
+# are eligible to give their consent, and no-one present objects to the
+# decision, then it’s a legal procedure done by a unanimous assembly.
+
+| *ñatticatuttha*   | /(adj)/ (vinaya) having a motion and three announcements  *[ñatti + catuttha]*  /adj, comp/                                               |
+| *yāvatika*        | /(adj)/ however many; as many as  *[yāva + tā + ika]*  /adj, from yāvatā/                                                                 |
+| *kammappatta*     | /(adj)/ (vinaya) eligible to take part in the legal action; entitled to participate in the legal act  *[kamma + patta]*  /adj, comp/      |
+| *āgata 1*         | /(masc)/ guest; visitor; arriver  *[ā + √gam + ta]*  /masc, agent, from āgacchati/                                                        |
+| *chandāraha*      | /(adj)/ entitled to give consent by proxy; fit to give agreement  *[chanda + araha]*  /adj, comp/                                         |
+| *āhaṭa 1*         | /(pp)/ brought near; taken (to)  *[ā + √har + ta]*  /pp of āharati/                                                                       |
+| *sammukhībhūta 2* | /(adj)/ present; existing; occurring (for)  *[sammukhā > sammukhī + bhūta]*  /adj, comp/                                                  |
+| *paṭikkosati*     | /(pr)/ rejects; refuses to accept; disses; disdains  *[pati + kosa + ti]*  /pr/                                                           |
+| *vaggakamma*      | /(nt)/ legal action done by a faction  *[vagga + kamma]*  /nt, comp/                                                                      |
+| *samaggakamma*    | /(nt)/ united legal action  *[samagga + kamma]*  /nt, comp/                                                                               |
+
+** Uposatha and travelling monks
+
+([[https://suttacentral.net/pli-tv-kd2/en/brahmali][SC]], [[http://localhost:4848/suttas/pli-tv-kd2/en/brahmali?quote=Te%2520dhammasa%25C3%25B1%25C3%25B1ino%2520vinayasa%25C3%25B1%25C3%25B1ino%2520vagg%25C4%2581%2520vaggasa%25C3%25B1%25C3%25B1ino%2520uposatha%25E1%25B9%2581%2520karonti&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+Idha pana, bhikkhave, aññatarasmiṁ āvāse tadahuposathe sambahulā āvāsikā bhikkhū
+sannipatanti cattāro vā atirekā vā. Te jānanti — ‘atthaññe āvāsikā bhikkhū
+anāgatā’ti.
+#+end_quote
+
+# “On the observance day, four or more resident monks may have gathered together
+# in a certain monastery. They know: there are other resident monks who haven’t
+# arrived.
+
+# Perceiving that they’re acting according to the Teaching and the Monastic Law,
+# yet correctly perceiving the assembly as incomplete, they do the
+# observance-day ceremony and recite the Monastic Code.
+
+| *aññatara 1*    | /(pron)/ a certain; a  *[añña + tara]*  /pron, from añña/                                                             |
+| *āvāsa 1*       | /(masc)/ home (of); dwelling place (of); residence (of)  *[ā + √vas > vās + *a]*  /masc, from āvasati/                |
+| *tadahuposathe* | /(sandhi)/ on that observance day; that being the observance day  *[tad + aha + uposathe]*  /sandhi, pron + nt + adv/ |
+| *sambahula*     | /(adj)/ many; numerous; plenty of  *[saṁ + √bah + u + la], [sambahu + la]*  /adj, from bahula/                       |
+| *āvāsika 1*     | /(adj)/ related to living; who lives  *[ā + √vas > vās + *a + ika], [āvāsa + ika]*  /adj, from āvāsa/                 |
+| *sannipatati*   | /(pr)/ gathers together; assembles; throngs  *[saṁ + ni + pata + ti]*  /pr/                                          |
+| *atireka 1*     | /(adj)/ surplus; excess; leftover; too much  *[ati + √ric > rek + *a]*  /adj, from atiriccati/                        |
+| *anāgata 1*     | /(pp)/ not come; not arrived; not present  *[na > an + ā + √gam + ta]*  /pp of na āgacchati/                          |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Te dhammasaññino vinayasaññino vaggā vaggasaññino uposathaṁ karonti, pātimokkhaṁ
+uddisanti.
+
+Tehi uddissamāne pātimokkhe, athaññe āvāsikā bhikkhū āgacchanti bahutarā.
+
+Tehi, bhikkhave, bhikkhūhi puna pātimokkhaṁ uddisitabbaṁ.
+
+Uddesakānaṁ āpatti dukkaṭassa.
+#+end_quote
+
+# While they’re doing it, a greater number of resident monks arrive.
+# In such a case, those monks should recite the Monastic Code once more.
+# There’s an offense of wrong conduct for the reciters.
+
+| *dhammasaññī* | /(adj)/ perceiving (something) as the teaching  *[dhamma + saññī]*  /adj, comp/                                                   |
+| *vinayasaññī* | /(adj)/ perceiving (something) as discipline  *[vinaya + saññī]*  /adj, comp/                                                     |
+| *vagga 2*     | /(masc)/ group; party; faction  *[vi + agga]*  /masc/                                                                             |
+| *vaggasaññī*  | /(adj)/ perceiving (the community) as not all present; regarding (the Saṅgha) as not all together  *[vagga + saññī]*  /adj, comp/ |
+| *uddisati 1*  | /(pr)/ recites; chants  *[ud + disa + ti]*  /pr/                                                                                  |
+| *tehi 1*      | /(pron)/ with them; with those; by them  *[ta + ehi]*  /pron, masc & nt instr pl of ta/                                           |
+| *uddissamāna* | /(prp)/ being recited; being chanted  *[ud + dissa + māna]*  /prp of uddissati/                                                   |
+| *āgacchati 1* | /(pr)/ comes (to); arrives (at)  *[ā + gaccha + ti]*  /pr/                                                                        |
+| *bahutara*    | /(adj)/ more; greater; bigger  *[√bah + u + tara], [bahu + tara]*  /adj, compar of bahu/                                          |
+| *puna*        | /(ind)/ again; once more   /ind, adv/                                                                                             |
+| *uddisitabba* | /(ptp)/ should be recited; can be chanted  *[ud + √dis + itabba]*  /ptp of uddisati/                                              |
+| *uddesaka 1*  | /(masc)/ appointer (of); director (of); manager (of)  *[ud + √dis > des + aka]*  /masc, agent, in comps, from uddisati/           |
+
+([[https://suttacentral.net/pli-tv-kd2/en/brahmali][SC]], [[http://localhost:4848/suttas/pli-tv-kd2/en/brahmali?quote=Gantabbo%252C%2520bhikkhave%252C%2520tadahuposathe%2520sabhikkhuk%25C4%2581%2520%25C4%2581v%25C4%2581s%25C4%2581%2520sabhikkhuko%2520%25C4%2581v%25C4%2581so&window_type=Sutta+Search][SSP]])
+
+#+begin_quote
+[...] Gantabbo, bhikkhave, tadahuposathe sabhikkhukā āvāsā sabhikkhuko āvāso,
+yatthassu bhikkhū samānasaṁvāsakā, yaṁ jaññā — ‘sakkomi ajjeva gantun’ti.
+#+end_quote
+
+# “On the observance day you may go from a monastery with monks to a monastery
+# with monks who belong to the same Buddhist sect if you know: I will get there on
+# the same day.
+
+| *gantabba 1*       | /(ptp)/ should go  *[√gam + tabba]*  /ptp of gacchati/                                                                                      |
+| *sabhikkhuka*      | /(adj)/ (of a monastery) with monks; containing monastics  *[sa + √bhikkh + u + ka]*  /adj, from bhikkhu/                   |
+| *yatthassu*        | /(sandhi)/ where there may be; when there are  *[yattha + assu]*  /sandhi, adv + opt/                                                       |
+| *samānasaṁvāsaka* | /(adj)/ belonging to the same community; (comm) living harmoniously together  *[samāna + saṁvāsa + ka]*  /adj, comp/   |
+| *jaññā 1*          | /(ger)/ knowing; understanding  *[jānā + ya > jaññā]*  /ger of jānāti/                                                                      |
+| *sakkoti*          | /(pr)/ is able (to)  *[sakko + ti]*  /pr/                                                                                                   |
+| *ajjeva*           | /(sandhi)/ this very day; just today; right now  *[ajja + eva]*  /sandhi, adv + ind/                                                        |
+| *gantuṁ*          | /(inf)/ to go (to); to travel (to)  *[√gam + tuṁ]*  /inf of gacchati/                                                                      |
