@@ -1,5 +1,5 @@
 #+author: gavesako
-#+youtube_id:
+#+youtube_id: _rgdIHvMuKk
 
 * 2025-08-12
 ** Sīluddesa-pāṭha
@@ -96,7 +96,7 @@ Evamevaṁ kho, bhikkhave, sīlavato sīlasampannassa upanisasampanno hoti samm�
 
 #+html: <div class="pagebreak"></div>
 
-** Sanghakamma by incomplete and complete assembly
+** Sanghakamma done in division or in unity
 
 ([[https://suttacentral.net/pli-tv-kd9/en/brahmali][SC]], [[http://localhost:4848/suttas/pli-tv-kd9/en/brahmali?quote=%25C3%2591atticatutthe%2520ce%252C%2520bhikkhave%252C%2520kamme%2520y%25C4%2581vatik%25C4%2581%2520bhikkh%25C5%25AB%2520kammappatt%25C4%2581%2520te%2520%25C4%2581gat%25C4%2581%2520honti%252C%2520chand%25C4%2581rah%25C4%2581na%25E1%25B9%2581%2520chando%2520%25C4%2581ha%25E1%25B9%25ADo%2520hoti&window_type=Sutta+Study][SSP]])
 
