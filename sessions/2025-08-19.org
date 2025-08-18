@@ -1,0 +1,264 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-08-19
+** Jaya-paritta (Mahā-kāruṇiko)
+
+([[https://bhikkhu-manual.github.io/chants/parittas.html#maha-karuniko][Bhikkhu Manual]])
+
+#+begin_quote
+Mahā-kāruṇiko nātho / Hitāya sabba-pāṇinaṁ
+
+Pūretvā pāramī sabbā / Patto sambodhim-uttamaṁ
+
+Etena sacca-vajjena / Hotu te jaya-maṅgalaṁ
+#+end_quote
+
+# (The Buddha), our protector, with great compassion,
+# for the welfare of all beings,
+# having fulfilled all the perfections,
+# attained the highest self-awakening.
+# By the utterance of this truth,
+# may you have a blessing of victory.
+
+| *mahākāruṇika* | /(adj)/ of great compassion; enormously compassionate  *[mahā + karuṇā]*                         |
+| *nātha*        | /(masc)/ protector; lord; refuge (of)  *[√nāth + a]*  /masc, agent, from nāthati/                |
+| *hitāya*       | /(nt)/ beneficial (for); advantageous (for)  *[hita + āya]*  /nt, dat sg of hita/                |
+| *sabbapāṇī*    | /(masc)/ all living beings; all creatures  *[sabba + pāṇī]*  /masc, comp/                        |
+| *pūretvā 2*    | /(abs)/ having fulfilled; having completed; having accomplished  *[pūre + tvā]*  /abs of pūreti/ |
+| *pāramī*       | /(fem)/ fulfilment; perfection; transcendental virtue; ultimate state  /fem, abstr, from parama/ |
+| *sabba 1*      | /(pron)/ all; every   /pron, adj/                                                                |
+| *patta 3.1*    | /(pp)/ reached; attained; gained; accomplished; found  *[pa + √ap + ta]*  /pp of pāpuṇāti/       |
+| *sambodhi*     | /(fem)/ full awakening; enlightenment  *[saṁ + √budh > bodh + &ast;i]*  /fem, from sambujjhati/ |
+| *uttama 1*     | /(adj)/ best; highest; ultimate; supreme; top  *[ud + tama]*  /adj, superl of ud/                |
+| *etena*        | /(ind)/ because of this; on account of this  *[eta + ena]*  /ind, instr sg of eta/               |
+| *saccavajja*   | /(nt)/ speaking honestly; telling the truth  *[sacca + vajja]*  /nt, comp/                       |
+| *hotu 1*       | /(imp)/ may it be (for)!  *[ho + tu]*  /imp of hoti/                                             |
+| *jaya 1*       | /(nt)/ victory; conquest; winning  *[√ji > jay + &ast;a]*  /nt, from jayati/                     |
+| *maṅgala 1*    | /(nt)/ what is auspicious; blessing; good omen; prosperity  *[√maṅg + ala]*  /nt/                |
+
+#+begin_quote
+Jayanto bodhiyā mūle / Sakyānaṁ nandi-vaḍḍhano
+
+Evaṁ tvaṁ vijayo hohi / Jayassu jaya-maṅgale
+#+end_quote
+
+# Victorious at the foot of the Bodhi tree,
+# was he who increased the Sakyans’ delight.
+# May you have the same sort of victory.
+# May you win blessings of victory.
+
+| *jayanta 1*  | /(prp)/ conquering; being victorious (over)  *[jaya + nta]*  /prp of jayati/                           |
+| *bodhi 3*    | /(fem)/ Bodhi tree; Ficus religiosia  *[√budh > bodh + &ast;i]*  /fem, from bujjhati/                  |
+| *mūla 1*     | /(nt)/ (of a tree) root; base; foot  *[√mūl + a]*  /nt/                                                |
+| *sakya 1*    | /(masc)/ name of the family into which the Buddha was born  *[√sak + ya]*  /masc, from sakkoti/        |
+| *nandi 1*    | /(fem)/ pleasure; enjoyment; relish; delight  *[√nand + i]*  /fem, abstr, from nandati/                |
+| *vaḍḍhana 1* | /(nt)/ increasing; growing; proliferating  *[√vaḍḍh + ana]*  /nt, act, from vaḍḍheti/                  |
+| *evaṁ 1*    | /(ind)/ thus; this; like this; similarly; in the same manner; just as; such  *[eva + aṁ]*  /ind, adv/ |
+| *tvaṁ 1*    | /(pron)/ you (subject)  *[tumha + aṁ > tuvaṁ > tvaṁ]*  /pron, 2nd nom sg of tumha/                    |
+| *vijaya 1*   | /(masc)/ victory; triumph; success (in)  *[vi + √ji > jay + &ast;a]*  /masc, from vijayati/            |
+| *hohi*       | /(imp)/ be! you must become!  *[ho + hi]*  /imp 2nd sg of hoti/                                        |
+| *ssu*        | /(ind)/ certainly; definitely   /ind, in comps/                                                        |
+| *tayassu*    | /(sandhi)/ exactly three  *[taya + ssu]*  /sandhi, adj + ind/                                          |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Aparājita-pallaṅke / Sīse paṭhavi-pokkhare
+
+Abhiseke sabba-buddhānaṁ / Aggappatto pamodati
+#+end_quote
+
+# At the head of the lotus leaf of the world
+# on the undefeated seat
+# consecrated by all the Buddhas,
+# he rejoiced in the utmost attainment.
+
+| *aparājita 1* | /(pp)/ unconquered; undefeated; victorious; triumphant  *[na > a + parā + √ji + ta]*                 |
+| *pallaṅka 2*  | /(masc)/ cross-legged sitting position; meditation posture                                           |
+| *sīsa 1*      | /(nt)/ head   /nt/                                                                                   |
+| *pathavī 1*   | /(fem)/ earth; world  *[√path + avī]*  /fem/                                                         |
+| *pokkhara 1*  | /(nt)/ blue water lily; Nymphaea nouchali   /nt/                                                     |
+| *abhiseka*    | /(masc)/ anointment; coronation; inauguration; investiture                                           |
+| *sabba 1*     | /(pron)/ all; every   /pron, adj/                                                                    |
+| *buddhānaṁ*  | /(masc)/ of Buddhas, of Awakened Ones  *[buddha + ānaṁ]*  /masc, gen pl of buddha/                  |
+| *aggappatta*  | /(adj)/ who has reached the peak level; who has attained the pinnacle  *[agga + patta]*  /adj, comp/ |
+| *pamodati*    | /(pr)/ is delighted (with); is very happy (with); is jubilant (about)  *[pa + moda + ti]*  /pr/      |
+
+(AN 3.155 Pubbaṇhasutta, [[https://suttacentral.net/an3.155/pli/ms][SC]], [[http://localhost:4848/suttas/an3.155/pli/ms?quote=Sunakkhatta%25E1%25B9%2581%2520suma%25E1%25B9%2585gala%25E1%25B9%2581%252C&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ye, bhikkhave, sattā pubbaṇhasamayaṁ / majjhanhikasamayaṁ / sāyanhasamayaṁ
+
+kāyena sucaritaṁ caranti, vācāya sucaritaṁ caranti, manasā sucaritaṁ caranti,
+
+supubbaṇho / sumajjhanhiko / susāyanho, bhikkhave, tesaṁ sattānaṁ.
+#+end_quote
+
+| *ye 1*                | /(pron)/ whoever; whatever; whichever; those who  /pron, masc & nt nom pl of ya/              |
+| *pubbaṇhasamayaṁ*    | /(ind)/ early in the morning  *[pubba + aṇha + samaya + aṁ]*                                 |
+| *majjhanhikasamayaṁ* | /(ind)/ at noon time; at midday  *[majjhanhika + samaya + aṁ]*                               |
+| *sāyanhasamayaṁ*     | /(ind)/ in the late afternoon; in the early evening  *[sāyanha + samaya + aṁ]*               |
+| *sucarita 2*          | /(nt)/ good conduct (by); good behaviour (by)  *[su + √car + ita]*  /nt, from carita/         |
+| *carati 2.1*          | /(pr)/ acts; practices; performs; does  *[cara + ti]*  /pr/                                   |
+| *tesaṁ 2*            | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ]*  /pron, masc & nt gen pl of ta/ |
+
+#+begin_quote
+Sunakkhattaṁ sumaṅgalaṁ, / Supabhātaṁ suhuṭṭhitaṁ;
+
+Sukhaṇo sumuhutto ca, / Suyiṭṭhaṁ brahmacārisu.
+#+end_quote
+
+# A lucky star it is, a lucky blessing,
+# a lucky dawn, a lucky sacrifice,
+# a lucky instant, a lucky moment,
+# a lucky offering:
+
+| *sunakkhatta* | /(nt)/ auspicious occasion  *[su + √nakkh + a + tta]*  /nt, abstr, from nakkhatta/         |
+| *sumaṅgala 1* | /(adj)/ very auspicious; propitious; beneficial  *[su + √maṅg + ala]*  /adj, from maṅgala/ |
+| *supabhāta*   | /(nt)/ beautiful sunrise; good dawn  *[su + pa + √bhā + ta]*  /nt, from pabhāta/           |
+| *suhuṭṭhita*   | /(nt)/ good rising; good wake up  *[su + [h] + ud + √ṭhā + ita]*  /nt, from uṭṭhita/        |
+| *sukhaṇa*     | /(masc)/ precious moment  *[su + khaṇa]*  /masc, from khaṇa/                               |
+| *sumuhutta*   | /(masc)/ good moment; auspicious time  *[su + muhutta]*  /masc, from muhutta/              |
+| *suyiṭṭha 1*   | /(adj)/ well given; properly offered (to)  *[su + √yaj > yij + ta]*  /adj, from yiṭṭha/     |
+| *brahmacāri*  | /(masc)/ celibate man; spiritual practitioner  *[brahma + cārī > cāri]*  /masc, comp/      |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Padakkhiṇaṁ kāya-kammaṁ, / Vācā-kammaṁ padakkhiṇaṁ;
+
+Padakkhiṇaṁ mano-kammaṁ, / Paṇidhi te padakkhiṇā;
+
+Padakkhiṇāni katvāna, / Labhant'atthe padakkhiṇe.
+#+end_quote
+
+# i.e., a rightful bodily act
+# a rightful verbal act, a rightful mental act,
+# your rightful intentions
+# with regard to those who lead the holy life.
+# Doing these rightful things, your rightful aims are achieved.
+
+| *padakkhiṇa*   | /(adj)/ auspicious; favourable; reverential; respectful; upright  *[pa + √dakkh + iṇa]*        |
+| *vācākamma*    | /(nt)/ verbal action; deed by speech  *[vācā + kamma]*  /nt, comp/                             |
+| *paṇidhi*      | /(masc)/ aspiration (for); intention (to); determination (to)                                  |
+| *katvāna 2*    | /(abs)/ having made; having done; having performed  *[√kar + tvāna]*  /abs of karoti/          |
+| *labhantatthe* | /(sandhi)/ they get the benefits (of); they obtain the good results (of)  *[labhanti + atthe]* |
+| *attha 1.2*    | /(masc)/ benefit; profit; good; welfare  *[√ar + tha]*  /masc/                                 |
+
+#+begin_quote
+Te atthaladdhā sukhitā, / viruḷhā buddhasāsane;
+
+Arogā sukhitā hotha, / saha sabbehi ñātibhī'ti.
+#+end_quote
+
+# May he gain in his aims, be happy, and flourish in the Buddha’s teachings. May
+# you, together with all your relatives, be happy and free from disease.
+
+| *atthaladdha*  | /(adj)/ attained the goal; fulfilled one's purpose; got the benefit  *[attha + laddha]*  /adj, comp/  |
+| *sukhita*      | /(pp)/ pleased; delighted; blessed; comforted; happy  *[√sukh + ita]*  /pp of sukheti/                |
+| *viruḷha*      | /(pp)/ grown; developed; increased; flourished (in) /pp of viruhati/                                  |
+| *buddhasāsana* | /(nt)/ Buddha's teaching; Buddha's message  *[buddha + sāsana]*  /nt, comp/                           |
+| *aroga*        | /(adj)/ healthy; free from disease  *[na > a + √ruj > rog + &ast;a]*  /adj, from na rujati/           |
+| *hotha*        | /(imp)/ may you all be!; you all must be!; I pray you all may be!  *[ho + tha]*  /imp 2nd pl of hotu/ |
+| *saha 1.2*     | /(ind)/ with; together (with); accompanied (by)   /ind, prep/                                         |
+| *sabba 1*      | /(pron)/ all; every   /pron, adj/                                                                     |
+| *ñāti*         | /(masc)/ family; relative; kinsman  *[√ñā + ti]*  /masc, from jānāti/                                 |
+
+#+html: <div class="pagebreak"></div>
+
+** Sīmānujānana: The Allowance of Territories
+
+[[https://tinyurl.com/sima-presentation][Presentation About Sīmā by Ajahn Gavesako]] (PDF, 2023)
+
+Sīmānujānanā (Mv.II.6.1, [[https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts6_1][dhammatalks.org]], [[http://localhost:4848/suttas/pli-tv-kd2/en/brahmali?quote=kitt%25C4%2581vat%25C4%2581%2520nu%2520kho%2520ek%25C4%2581v%25C4%2581so%2520hot%25C4%25AB&window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Atha kho bhikkhūnaṁ etadahosi — “bhagavatā paññattaṁ:
+
+‘ettāvatā sāmaggī yāvatā ekāvāso’ti, kittāvatā nu kho ekāvāso hotī”ti?
+
+Bhagavato etamatthaṁ ārocesuṁ.
+
+“Anujānāmi, bhikkhave, sīmaṁ sammannituṁ. Evañca pana, bhikkhave, sammannitabbā —
+
+paṭhamaṁ nimittā kittetabbā — pabbatanimittaṁ, pāsāṇanimittaṁ, vananimittaṁ,
+
+rukkhanimittaṁ, magganimittaṁ, vammikanimittaṁ, nadīnimittaṁ, udakanimittaṁ.
+
+Nimitte kittetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo:
+#+end_quote
+
+| *paññatta 2*    | /(pp)/ (of a rule) formulated; prescribed; decreed; declared  *[pa + ñāpe + ta]*  /pp of paññāpeti/                                    |
+| *ettāvatā*      | /(ind)/ to this extent; to such a degree; so far  *[ima + tta + vant + tā], [ettāvant + tā]*  /ind, adv, instr sg of ettāvant/         |
+| *sāmaggī 1*     | /(fem)/ concord; unity; peace; harmony  *[saṁ > sām + agga + &ast;ī], [samagga + &ast;ī]*  /fem, from agga/                           |
+| *yāvatā 1*      | /(ind)/ as long as; as far as; of all; to the extent that  *[yāva + tā]*  /ind, adv, abl sg of yāva/                                   |
+| *kittāvatā*     | /(ind)/ in what way?; to what extent?; in what respect?  *[ka > ki + tāva + tā], [kittāva + tā]*  /ind, adv, comp, interr/             |
+| *ekāvāsa*       | /(masc)/ one residence; single monastery  *[eka + āvāsa]*  /masc, comp/                                                                |
+| *ārocesi 1*     | /(aor)/ told (to); informed (to); explained (to)  *[ā + roce + si]*  /aor of āroceti/                                                  |
+| *anujānāti 1*   | /(pr)/ allows (to); permits (to); grants permission (to)  *[anu + jānā + ti]*  /pr/                                                    |
+| *sīmā 1*        | /(fem)/ limit; boundary; barrier; border   /fem/                                                                                       |
+| *sammannituṁ*  | /(inf)/ to authorize; to appoint; to elect; to choose  *[saṁ + manna + ituṁ]*  /inf of sammannati/                                    |
+| *sammannitabba* | /(ptp)/ should be authorized; should be appointed; should be elected; should be chosen  *[saṁ + manna + itabba]*  /ptp of sammannati/ |
+| *paṭhamaṁ 1*    | /(ind)/ first; firstly; at first; first of all  *[pa + √ṭhā + ma + aṁ], [paṭhama + aṁ]*  /ind, adv, acc sg of paṭhama/                  |
+| *nimitta 1*     | /(nt)/ mark; sign; symbol; indication  *[ni + √mā > mi + tta]*  /nt/                                                                   |
+| *kittetabba*    | /(ptp)/ should be announced; should be proclaimed  *[kitte + tabba]*  /ptp of kitteti/                                                 |
+| *ñāpetabba*     | /(ptp)/ should be informed (by)  *[ñāpe + tabba]*  /ptp of ñāpeti/                                                                     |
+
+*pabbata:* mountain, *pāsāṇa:* rock, *vana:* forest grove, *rukkha:* tree, \\
+*magga:* road, *vammika:* anthill, *nadī:* river, *udaka:* water.
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+*‘Suṇātu me, bhante, saṅgho.* Yāvatā samantā nimittā kittitā. *Yadi saṅghassa pattakallaṁ, saṅgho* \\
+etehi nimittehi sīmaṁ sammanneyya samānasaṁvāsaṁ ekuposathaṁ. *Esā ñatti.*
+
+*Suṇātu me, bhante, saṅgho.* Yāvatā samantā nimittā kittitā. *Saṅgho* etehi nimittehi sīmaṁ \\
+sammannati samānasaṁvāsaṁ ekuposathaṁ. *Yassāyasmato khamati* etehi nimittehi sīmāya sammuti \\
+samānasaṁvāsāya ekuposathāya, *so tuṇhassa; yassa nakkhamati, so bhāseyya.*
+
+Sammatā sīmā saṅghena etehi nimittehi samānasaṁvāsā ekuposathā. \\
+*Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.*
+#+end_quote
+
+| *suṇātu*         | /(imp)/ one must listen!; it must hear!  *[suṇā + tu]*  /imp of suṇāti/                               |
+| *me 1*           | /(pron)/ myself; me (object)   /pron, 1st acc sg of ahaṁ/                                            |
+| *yāvatā 1*       | /(ind)/ as long as; as far as; of all; to the extent that  *[yāva + tā]*  /ind, adv, abl sg of yāva/  |
+| *samantā 2*      | /(ind)/ nearby; bordering; neighbouring  *[saṁ + anta + ā]*  /ind, adv, abl sg of samanta/           |
+| *nimitta 1*      | /(nt)/ mark; sign; symbol; indication  *[ni + √mā > mi + tta]*  /nt/                                  |
+| *kittita 2*      | /(pp)/ proclaimed; announced; expounded (by)  *[√kitt + ita]*  /pp of kitteti/                        |
+| *yadi 1*         | /(ind)/ if; even; even if; perhaps  *[ya + di]*  /ind/                                                |
+| *pattakalla*     | /(nt)/ good time; suitable occasion (for)  *[patta + kāla > kalla]*  /nt, comp/                       |
+| *etehi 1*        | /(pron)/ by these; with these  *[eta + ehi]*  /pron, masc & nt instr pl of eta/                       |
+| *sīmā 1*         | /(fem)/ limit; boundary; barrier; border   /fem/                                                      |
+| *sammannati 1*   | /(pr)/ determines; arranges; authorizes; approves  *[saṁ + manna + ti]*  /pr/                        |
+| *samānasaṁvāsa* | /(adj)/ belonging to the same community; sharing the same residence  *[samāna + saṁvāsa]*            |
+| *ekuposatha*     | /(adj)/ with one and the same observance-day ceremony  *[eka + uposatha]*  /adj, comp/                |
+| *esā*            | /(pron)/ she; this; this woman  *[eta + sā]*  /pron, fem nom sg of eta/                               |
+| *ñatti*          | /(fem)/ (vinaya) motion; initial statement  *[√ñā + ti]*  /fem, abstr, from jānāpeti/                 |
+| *yassāyasmato*   | /(sandhi)/ for that venerable who  *[yassa + āyasmato]*  /sandhi, pron + masc/                        |
+| *khamati 2*      | /(pr)/ seems good (to); is acceptable (to); is suitable (for); is pleasing (to)  *[khama + ti]*  /pr/ |
+| *so 1.1*         | /(pron)/ he; that person; that thing   /pron, masc nom sg of ta/                                      |
+| *tuṇhassa*       | /(opt)/ one should remain silent  *[tuṇhi + assa]*  /opt of tuṇhībhavati, comp vb/                    |
+| *yassa 1*        | /(pron)/ to whom; for whom; for whoever  *[ya + ssa]*  /pron, masc & nt dat sg of ya/                 |
+| *nakkhamati*     | /(pr)/ is not acceptable (to); is not suitable (for)  *[na + khamati]*                                |
+| *bhāseyya*       | /(opt)/ should speak; should say  *[bhāsa + eyya]*  /opt of bhāsati/                                  |
+| *tasmā 1*        | /(pron)/ from that  *[ta + smā]*  /pron, masc & nt abl sg of ta/                                      |
+| *tuṇhī 3*        | /(ind)/ silent; quiet   /ind, adv, from tuṇhī/                                                        |
+| *evametaṁ*      | /(sandhi)/ so it is; just like that; exactly like that  *[evaṁ + etaṁ]*  /sandhi, ind + pron/        |
+| *dhārayati 2*    | /(pr)/ takes; considers; believes; keeps in mind  *[dhāraya + ti]*  /pr/                              |
+
+... The Group-of-six monks authorized excessively large territories ... Coming
+to the Uposatha, monks arrived during the recitation of the Pāṭimokkha, when the
+Pāṭimokkha had just been recited, or they spent the night on the way.
+They reported the matter to the Blessed One.
+
+“I allow that a territory be authorized for three yojanas at most.”
+
+... Group-of-six monks authorized a territory including the far side of a river.
+Monks coming to the Uposatha were swept away, or their bowls were swept away, or
+their robes were swept away. They reported the matter to the Blessed One.
+
+“I allow that a territory including the far side of a river be authorized if it
+has a permanent boat [i.e. a ferry] or permanent bridge.”
