@@ -210,6 +210,8 @@ Nimitte kittetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo:
 
 #+html: <div class="pagebreak"></div>
 
+(Compare the formula with the [[https://bhikkhu-manual.github.io/vinaya/rains-and-kathina.html#kathina-sanghakamma][Kaṭhina Saṅghakamma]])
+
 #+begin_quote
 *‘Suṇātu me, bhante, saṅgho.* Yāvatā samantā nimittā kittitā. *Yadi saṅghassa pattakallaṁ, saṅgho* \\
 etehi nimittehi sīmaṁ sammanneyya samānasaṁvāsaṁ ekuposathaṁ. *Esā ñatti.*
