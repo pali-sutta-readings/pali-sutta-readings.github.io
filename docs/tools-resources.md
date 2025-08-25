@@ -24,8 +24,9 @@
 
 ## AI / LLM
 
-- NORBU AI – Buddhist AI Assistant
-  - <https://norbu-ai.org/>
+- [NORBU AI – Buddhist AI Assistant (norbu-ai.org)](https://norbu-ai.org/)
 - [wordsofthebuddha.org](https://www.wordsofthebuddha.org/)
-  - [Buddha GPT](https://chatgpt.com/g/g-pBierD1G2-buddha-gpt-buddhism-dhamma-companion)
-  - [ChatGPT - Learn Pali](https://chatgpt.com/g/g-N9C0Wd4To-learn-pali)
+- [Buddha GPT (chatgpt.com)](https://chatgpt.com/g/g-pBierD1G2-buddha-gpt-buddhism-dhamma-companion)
+- [ChatGPT - Learn Pali (chatgpt.com)](https://chatgpt.com/g/g-N9C0Wd4To-learn-pali)
+- [Pa-Auk Society Tipitaka translation project with AI translated texts (tipitaka.paauksociety.org)](https://tipitaka.paauksociety.org/index.php)
+
