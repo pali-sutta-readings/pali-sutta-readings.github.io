@@ -1,0 +1,259 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-09-09
+** sukhī hotu / sukhī hontu
+
+#+begin_quote
+✘ sukhī hotu, ✘ sukhī hontu
+#+end_quote
+
+*** 3rd sg
+
+#+begin_quote
+*Sukhī hotu*, brāhmaṇa, ambaṭṭho māṇavo'ti. (DN 3)
+
+Evaṁ *sukhī hotu*, pañcasikha, sakko devānamindo sāmacco saparijano. (DN 21)
+
+Appampi ce saddahāno dadāti, teneva so *hoti sukhī* paratthā'ti. (SN 1.33)
+#+end_quote
+
+| *sukha 1*      | /(adj)/ easy (on); comfortable (for); pleasant (for); contented  *[√sukh + a]*  /adj/      |
+| *sukhī 1*      | /(adj)/ at ease; happy; comfortable  *[sukha + ī]*  /adj, from sukha/                      |
+| *hotu 1*       | /(imp)/ may it be (for)!  *[ho + tu]*  /imp of hoti/                                       |
+| *ambaṭṭha*      | /(masc)/ name of a young Brahman   /masc/                                                  |
+| *māṇava 1*     | /(masc)/ young man; young gentleman; young Brahman  /masc, from manu/                      |
+| *pañcasikha 1* | /(masc)/ name of a demigod  *[pañca + sikhā + a], [pañcasikhā + a]*  /masc, comp/          |
+| *sakka 2*      | /(masc)/ name of the king of the Devas; Sakka  *[√sak + ra]*  /masc, from sakkoti/         |
+| *devānaminda*  | /(masc)/ lord of the gods; epithet of Sakka  *[devānaṁ + inda]*  /masc, comp/             |
+| *sāmacca 2*    | /(adj)/ together with one's ministers  /adj, from amacca/                                  |
+| *saparijana*   | /(adj)/ together with one's followers  *[sa + pari + √jan + a]*  /adj, from parijana/      |
+| *appampi*      | /(sandhi)/ even a little  *[appaṁ + api]*  /sandhi, adv + ind/                            |
+| *saddahāna*    | /(prp)/ having faith; having confidence; *[sad + daha + āna]*  /prp of saddahati/          |
+| *dadāti*       | /(pr)/ gives; offers; donates; grants (something to)  *[dadā + ti]*  /pr/                  |
+| *teneva*       | /(sandhi)/ because of that very thing; by that alone  *[tena + eva]*  /sandhi, pron + ind/ |
+| *parattha 2.1* | /(ind)/ afterwards; later; hereafter  *[para + ttha]*  /ind, adv, from para/               |
+
+*** 3rd pl
+
+#+begin_quote
+Idaṁ vo ñātīnaṁ hotu, *sukhitā hontu* ñātayo. (Khp 7)
+
+*Sukhinova* khemino *hontu*, sabbe sattā bhavantu sukhitattā. (Khp 9)
+#+end_quote
+
+| *vo 1.1*     | /(pron)/ you all (subject)   /pron, 2nd nom pl of tvaṁ/                               |
+| *ñāti*       | /(masc)/ family; relative; kinsman  *[√ñā + ti]*  /masc, from jānāti/                  |
+| *sukhita*    | /(pp)/ pleased; delighted; blessed; comforted; happy  *[√sukh + ita]*  /pp of sukheti/ |
+| *khemī*      | /(adj)/ at peace; safe; secure  *[khema + ī]*  /adj, from khema/                       |
+| *bhavati 1*  | /(pr)/ is; is being; becomes  *[bhava + ti]*  /pr/                                     |
+| *sukhitatta* | /(adj)/ happy; easy going; (comm) with pleased mind  *[sukhita + atta]*  /adj, comp/   |
+
+#+html: <div class="pagebreak"></div>
+
+*** 2nd sg
+
+#+begin_quote
+*Sukhito* bāvarī *hotu*, saha sissehi brāhmaṇo, tvañcāpi *sukhito hohi*, ciraṁ jīvāhi māṇava. (Snp 5.1)
+
+Jano janasmiṁ vinayassu chandaṁ, tato *sukhī hohisi* vītarāgo. (SN 9.1)
+#+end_quote
+
+*** 2nd pl
+
+#+begin_quote
+Arogā *sukhitā hotha*, saha sabbehi ñātibhī'ti. (AN 3.156)
+#+end_quote
+
+| *bāvarī*     | /(masc)/ name of a Brahman ascetic   /masc/                                         |
+| *sissa*      | /(masc)/ pupil; student  *[√sās > sīs > siss + ya]*  /masc, ptp of sāsati/          |
+| *api 1.1*    | /(ind)/ just; only   /ind/                                                          |
+| *hohi*       | /(imp)/ be! you must become!  *[ho + hi]*  /imp 2nd sg of hoti/                     |
+| *ciraṁ*     | /(ind)/ for a long time  *[cira + aṁ]*  /ind, adv, acc sg of cira/                 |
+| *jīvāhi*     | /(imp)/ you must live!    /imp 2nd sg of jīvati/                                    |
+| *māṇava 1*   | /(masc)/ young man; young Brahman  *[manu > māṇav + &ast;a]*  /masc, from manu/     |
+| *jana 1*     | /(masc)/ man; person; fellow  *[√jan + a]*  /masc, agent, from jāyati/              |
+| *vinayati*   | /(pr)/ removes; dispels  *[vi + naya + ti]*  /pr/                                   |
+| *chanda 1*   | /(masc)/ desire (for); wish (for); intention (to);  /masc, from chādeti/            |
+| *tato 1*     | /(pron)/ from that; therefrom; from him  *[ta + to]*  /pron, abl sg of ta/          |
+| *hohiti*     | /(fut)/ will be; will become  *[hohi + ti]*  /fut of hoti/                          |
+| *vītarāga 1* | /(adj)/ free from desire (for); without lust (for);  *[vīta + rāga]*  /adj, comp/   |
+| *aroga*      | /(adj)/ healthy; free from disease  /adj, from na rujati/                           |
+| *hotha*      | /(imp)/ may you all be!; I pray you all may be!  *[ho + tha]*  /imp 2nd pl of hotu/ |
+
+#+begin_quote
+✔ sukhī hohi, ✔ sukhī hotha
+#+end_quote
+
+** Kāye kāyānupassī viharati
+*** + locative
+
+#+begin_quote
+Tena samayena buddho bhagavā *verañjāyaṁ viharati naḷerupucimandamūle* (VIN 1 pārājikapāḷi)
+
+Ekaṁ samayaṁ bhagavā *ukkaṭṭhāyaṁ viharati subhagavane sālarājamūle*. (MN 1)
+
+Ekaṁ samayaṁ bhagavā *sāvatthiyaṁ viharati jetavane* anāthapiṇḍikassa *ārāme*. (MN 2)
+
+Ekaṁ samayaṁ bhagavā *sakkesu viharati kapilavatthusmiṁ nigrodhārāme*. (MN 14)
+
+Ekaṁ samayaṁ āyasmā mahāmoggallāno *bhaggesu viharati susumāragire bhesakaḷāvane migadāye*. (MN 15)
+
+Ekaṁ samayaṁ bhagavā *kurūsu viharati* (MN 10, DN 22)
+#+end_quote
+
+| *verañjā*             | /(fem)/ name of a town   /fem/                                                       |
+| *naḷerupucimandamūla* | /(nt)/ foot of Naḷeru's neem tree  *[naḷeru + pucimanda + mūla]*  /nt, comp/          |
+| *ukkaṭṭhā*             | /(fem)/ name of town  *[ukkaṭṭha + ā]*  /fem, from ukkaṭṭha/                           |
+| *vana 1.1*            | /(nt)/ wood; forest; grove   /nt/                                                    |
+| *sakkā 2*             | /(masc)/ name of the people of Sakya; Sakyans  *[√sak + ya + ā]*  /masc pl of sakka/ |
+| *bhaggā*              | /(masc)/ name of the people of Bhagga; Bhaggans  *[bhagga + ā]*  /masc pl of bhagga/ |
+| *kuru*                | /(masc)/ name of a country   /masc/                                                  |
+| *miga 1*              | /(masc)/ deer   /masc/                                                               |
+| *dāya 1.1*            | /(masc)/ wood; grove; park; forest monastery   /masc/                                |
+
+#+html: <div class="pagebreak"></div>
+
+*** + nominative
+
+#+begin_quote
+Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso *cakkhundriyasaṁvarasaṁvuto viharati*. (MN 2)
+
+Byāpādappadosaṁ pahāya *abyāpannacitto viharati*. (MN 27)
+
+*So* mettāsahagatena cetasā ekaṁ disaṁ pharitvā *viharati*. (MN 7)
+#+end_quote
+
+| *paṭisaṅkhā 1*   | /(ger)/ reflecting; carefully considering;  /ger of paṭisaṅkhāti/                      |
+| *yoniso*         | /(ind)/ properly; thoroughly; intelligently  *[yoni + so]*  /ind, adv, abl sg of yoni/ |
+| *saṁvuta 2*     | /(pp)/ restrained (wrt); controlled (in); moderated (in); /pp of saṁvarati/           |
+| *byāpādappadosa* | /(masc)/ ill-will and hatred  *[byāpāda + padosa]*  /masc, comp/                       |
+| *pahāya 1*       | /(ger)/ giving up; abandoning  *[pa + √hā + ya]*  /ger of pajahati/                    |
+| *abyāpannacitta* | /(adj)/ with a kind mind  *[na > a + byāpanna + citta]*  /adj, comp/                   |
+| *sahagata*       | /(adj)/ filled (with); associated (with)  *[saha + gata]*  /adj, comp/                 |
+| *cetasā*         | /(masc)/ with mind; by mind; with thought; /masc, instr sg of cetas, mano group/       |
+| *disā 1*         | /(fem)/ direction; cardinal point  *[√dis + ā]*  /fem, from disati/                    |
+| *pharitvā 1*     | /(abs)/ having pervaded; having filled  *[√phar + itvā]*  /abs of pharati/             |
+
+*** + nominative + locative
+
+#+begin_quote
+Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+... vedanāsu vedanānupassī viharati ... citte cittānupassī viharati ... dhammesu dhammānupassī viharati ...
+
+Ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+#+end_quote
+
+| *anupassī 1*        | /(adj)/ looking (at); observing; following; watching  *[anu + passa + ī]*  /adj, in comps, from anupassati/ |
+| *ātāpī*             | /(adj)/ ardent; with continuous effort  *[ā + √tap > tāp + &ast;ī]*  /adj, from ātapati/                    |
+| *sampajāna 1*       | /(adj)/ clearly aware; fully knowing  *[saṁ + pa + jānā + a]*  /adj, from sampajānāti/                     |
+| *satimant 1*        | /(adj)/ mindful; fully present; attentive  *[sati + mant]*  /adj, from sati/                                |
+| *vineyya 1*         | /(ger)/ removing; getting rid (of); putting aside  /ger of vineti/                                          |
+| *loka 1*            | /(masc)/ world; universe; cosmos  *[√lok + a]*  /masc/                                                      |
+| *abhijjhādomanassa* | /(masc)/ wanting and unhappiness; craving and aversion;  *[abhijjhā + domanassa]*        |
+
+*** + ablative
+**** MN 64 Mahāmālukyasutta
+
+#+begin_quote
+Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
+pahānāya?
+
+Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso
+kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi
+savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+#+end_quote
+
+| *orambhāgiya* | /(adj)/ lower; related to the lower world  *[ora + [m] + bhāgiya]*  /adj, comp, from orambhāga/                     |
+| *pahāna*      | /(nt)/ giving up (of); letting go (of); removal (of); abandoning (of)  *[pa + √hā + ana]*  /nt, act/ |
+| *kāyaduṭṭhulla* | /(nt)/ sluggishness; physical inertia; bodily heaviness  *[kāya + duṭṭhulla]*  /nt, abstr, comp/ |
+| *paṭippassaddhi* | /(fem)/ (vinaya) annulment; revocation; rescinding  *[pati + pa + √sambh + ti]*  /fem, abstr, from paṭippassambhati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ
+viññāṇagataṁ
+
+te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato
+
+parato palokato suññato anattato samanupassati.
+
+So tehi dhammehi cittaṁ paṭivāpeti.
+#+end_quote
+
+| *yadeva*        | /(sandhi)/ any; whichever  *[yad + eva]*  /sandhi, pron + ind/                                                                                 |
+| *tattha 1*      | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/                                                                               |
+| *gata 3*        | /(pp)/ related to; referring to; kind of; type of; of a sort  *[√gam + ta]*  /pp of gacchati, in comps/                                        |
+| *aniccato*      | /(ind)/ as impermanent; as unstable; as transient; as unreliable  *[anicca + to]*  /ind, adv, abl sg/        |
+| *dukkhato 1*    | /(nt)/ from suffering; from discomfort; from pain  *[dukkha + to]*  /nt, abl sg of dukkha/                                  |
+| *rogato*        | /(ind)/ as disease; as illness  *[roga + to]*  /ind, adv, abl sg of roga/                                          |
+| *gaṇḍato*       | /(ind)/ as a boil; as an abscess  *[gaṇḍa + to]*  /ind, adv, abl sg of gaṇḍa/                                                                  |
+| *sallato*       | /(ind)/ as an arrow; as a dagger  *[salla + to]*  /ind, adv, abl sg of salla/                                                                  |
+| *aghato*        | /(ind)/ as trouble; as pain; as bad  *[agha + to]*  /ind, adv, abl sg of agha/                                                                 |
+| *ābādhato*      | /(ind)/ as disease; as sickness; as illness; as affliction; as oppressive  *[ābādha + to]*  /abl sg/  |
+| *parato 1*      | /(pron)/ of another; another's  *[para + to]*  /pron, abl sg of para/                                                                          |
+| *palokato*      | /(ind)/ as falling apart; as disintegrating  *[paloka + to]*  /ind, adv, abl sg of paloka/              |
+| *suññato*       | /(ind)/ as empty; as void; as essenceless  *[suñña + to]*  /ind, adv, abl sg of suñña/                                                         |
+| *anattato*      | /(ind)/ as impersonal; as not oneself; as non-subjective  *[anatta + to]*  /ind, adv, abl sg of na atta/                |
+| *samanupassati* | /(pr)/ sees; perceives  *[saṁ + anu + passa + ti]*  /pr/                                                                                      |
+| *tehi 2*        | /(pron)/ than them; from them  *[ta + ehi]*  /pron, masc & nt abl pl of ta/                                                                    |
+| *citta 1.1*     | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                                                                           |
+| *paṭivāpeti*    | /(pr)/ withdraws (from); pulls back (from); makes turn away (from)  *[pati + vāpe + ti]*  /pr, caus of paṭivāti/                               |
+
+#+begin_quote
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ
+upasaṁharati: ‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho
+sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti; no ce āsavānaṁ khayaṁ pāpuṇāti teneva
+dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
+opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā.
+
+Ayampi kho, ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
+pahānāya.
+#+end_quote
+
+| *amata 1.1* | /(nt)/ deathless state; immortality; epithet of Nibbāna  *[na > a + √mar + ta]*  /nt, pp of na marati/ |
+| *dhātu 1* | /(fem)/ state; property; condition; element  *[√dhā + tu]*  /fem, abstr, from dadhāti/ |
+| *citta 1.1* | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/ |
+| *upasaṁharati 2* | /(pr)/ focuses; concentrates; applies  *[upa + saṁ + hara + ti]*  /pr/ |
+| *paṇīta 2* | /(pp)/ fine; refined; excellent; superior; sublime  *[pa + √nī + ta]*  /pp of paṇeti/ |
+| *yadidaṁ* | /(sandhi)/ namely; that is  *[yad + idaṁ]*  /sandhi, pron + pron/ |
+| *sabbasaṅkhārasamatha* | /(masc)/ stilling of all processes; calming of all activities  *[sabba + saṅkhāra + samatha]*  /masc, comp/ |
+| *sabbūpadhipaṭinissagga* | /(masc)/ letting go all attachment; releasing all sense of ownership  *[sabba + upadhi + paṭinissagga]*  /masc, comp/ |
+
+#+html: <div class="pagebreak"></div>
+
+**** Snp 5.16 Mogharājamāṇavapucchā
+
+#+begin_quote
+Evaṁ abhikkantadassāviṁ, / atthi pañhena āgamaṁ;
+
+Kathaṁ lokaṁ avekkhantaṁ, / maccurājā na passati?
+
+“Suññato lokaṁ avekkhassu, / Mogharāja sadā sato;
+
+Attānudiṭṭhiṁ ūhacca, / Evaṁ maccutaro siyā;
+
+Evaṁ lokaṁ avekkhantaṁ, / Maccurājā na passatī”ti.
+#+end_quote
+
+| *abhikkantadassāvī* | /(adj)/ of excellent vision  *[abhikkanta + dassāvī]*  /adj, comp/                                                 |
+| *atthi 2.1*         | /(masc)/ seeker; who wants; who needs; who desires  *[√atth + i]*  /masc, agent/                                   |
+| *pañha 1*           | /(nt)/ question; enquiry  *[√pañh + a]*  /nt/                                                                      |
+| *āgamaṁ*           | /(aor)/ I myself have come  *[ā + √gam + aṁ]*  /aor, reflx 1st sg of āgami/                                       |
+| *kathaṁ 1*         | /(ind)/ how?  *[ka + thaṁ]*  /ind, adv, interr, from ka/                                                          |
+| *avekkhanta*        | /(prp)/ seeing; regarding; viewing; considering ;  /prp of avekkhati/                                              |
+| *maccurāja*         | /(masc)/ King of Death  *[maccu + rāja]*  /masc, atta group, comp/                                                 |
+| *suññato*           | /(ind)/ as empty; as void; as essenceless  *[suñña + to]*  /ind, adv, abl sg of suñña/                             |
+| *avekkhassu*        | /(imp)/ you yourself must see; you yourself should regard  *[ava + ikkha + ssu]*  /imp, reflx 2nd sg of avekkhati/ |
+| *mogharāja*         | /(masc)/ name of an arahant monk  *[mogha + rāja]*  /masc, comp, atta group/                                       |
+| *mogha*             | /(adj)/ useless; pointless; futile; lit. empty /adj, from muyhati/                                                 |
+| *sadā*              | /(ind)/ always; ever; all the time  *[saṁ + dā]*  /ind, adv, from saṁ/                                            |
+| *sata 1.1*          | /(pp)/ mindful; present; attentive  *[√sar + ta]*  /pp of sarati/                                                  |
+| *attānudiṭṭhi*      | /(fem)/ sense of self; concept of identity;  *[atta + anudiṭṭhi]*  /fem, abstr, comp/                              |
+| *ūhacca 1.1*        | /(ger)/ removing; uprooting; eradicating  *[ud > ū + √han + tya]*  /ger of ūhanati/                                |
+| *maccutara*         | /(adj)/ who surpasses death; who passes beyond death  *[maccu + tara]*  /adj, comp/                                |
+| *siyā 1*            | /(opt)/ could be; may be; might be; should be  *[siya + ā]*  /opt of atthi, irreg/                                 |
