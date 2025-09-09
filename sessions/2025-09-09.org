@@ -1,11 +1,13 @@
 #+author: bodhirasa
-#+youtube_id:
+#+youtube_id: pPfs1Ff8r5Y
 
 * 2025-09-09
 
 Digital Pāḷi Dictionary: https://dpdict.net/
 
 [[https://bdhrs.github.io/meditation-course-on-the-six-senses/][Meditation Course on the Six Senses (Saḷāyatana)]] by Ven. Bodhirasa
+
+[[https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/index.htm][Syntax of the Cases in the Pāli Nikāyas]]
 
 ** sukhī hotu / sukhī hontu
 
@@ -262,3 +264,50 @@ Evaṁ lokaṁ avekkhantaṁ, / Maccurājā na passatī”ti.
 | *ūhacca 1.1*        | /(ger)/ removing; uprooting; eradicating  *[ud > ū + √han + tya]*  /ger of ūhanati/                                |
 | *maccutara*         | /(adj)/ who surpasses death; who passes beyond death  *[maccu + tara]*  /adj, comp/                                |
 | *siyā 1*            | /(opt)/ could be; may be; might be; should be  *[siya + ā]*  /opt of atthi, irreg/                                 |
+
+* Notes :noexport:
+
+https://bdhrs.github.io/meditation-course-on-the-six-senses/8-4-emptiness.html
+loka: sense-world, is empty
+instruction to recognize emptiness in the senses, and stop I-making from the activity of the senses
+nama-rupa ends, the knot is cut
+
+emptiness: this x is useless, not invested
+emptiness: needs two things to come toghether, dependent on other empty things
+
+adhimutta thera, don't make a person from saṅkhāras
+
+https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-08.html
+
+#+begin_quote
+Thag 16.1
+--
+Natthi cetasikaṁ dukkhaṁ,
+anapekkhassa gāmani,
+atikkantā bhayā sabbe,
+khīṇasaṁyojanassa ve.
+--
+There is no mental pain
+For one with no expectations, oh headman,
+All fears have been transcended
+By one whose fetters are extinct.
+--
+Na me hoti ’ahosin’ti,
+’bhavissan’ti na hoti me,
+saṅkhārā vibhavissanti,
+tattha kā paridevanā?
+--
+It does not occur to me ‘I was’,
+Nor does it occur to me ‘I will be’,
+Mere preparations get destroyed,
+What is there to lament?
+#+end_quote
+
+people are sitting and waiting for the magic to happen
+but don't ask what are they doing that would make the magic to turn on
+people are asking how to let go... this is it, do you practise aniccata, suññata...
+or just want to chill out
+
+[[id:323509f0-9aaf-4b2f-9533-2e5d0fc5f7c3][This came into being; the universe made this]]
+
+katsu story, kodo sawaki
