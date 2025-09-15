@@ -1,0 +1,253 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-09-16
+** MN 82 Raṭṭhapālasutta
+
+#+begin_quote
+“Bhuñja, tāta raṭṭhapāla, niṭṭhitaṁ bhattan”ti. Atha kho āyasmato raṭṭhapālassa pitā \\
+āyasmantaṁ raṭṭhapālaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi. \\
+Atha kho āyasmā raṭṭhapālo bhuttāvī onītapattapāṇī ṭhitakova imā gāthā abhāsi:
+#+end_quote
+
+| *tāta 2*         | /(masc)/ term of affection; son; brother; friend; dear   /masc/                             |
+| *niṭṭhita 2*      | /(pp)/ (of food) ready; prepared  *[ni + √ṭhā + ita]*  /pp of niṭṭhāti/                      |
+| *bhatta 1.1*     | /(nt)/ food; boiled rice  *[√bhaj + ta]*  /nt, pp of bhajati/                               |
+| *sahatthā*       | /(ind)/ personally; with one's own hand; by oneself  *[sa + hattha + ā]*                    |
+| *santappesi*     | /(aor)/ satisfied; satiated; fulfilled  *[saṁ + tappe + si]*  /aor of santappeti/   |
+| *onītapattapāṇī* | /(adj)/ having removed one's hand from the bowl  *[onīta + patta + pāṇī]*  /adj, comp/      |
+| *abhāsi 1*       | /(aor)/ spoke; said  *[a + √bhā + si]*  /aor of ābhāti/                                     |
+
+#+begin_quote
+“Passa cittīkataṁ bimbaṁ, / arukāyaṁ samussitaṁ; \\
+Āturaṁ bahusaṅkappaṁ, / yassa natthi dhuvaṁ ṭhiti.
+#+end_quote
+
+| *cittīkataṁ*  | /(ind)/ thoughtfully; considerately  *[citta > ī + kata + aṁ]*  /acc sg of cittīkata/    |
+| *bimba 1*      | /(nt)/ form; image; doll; puppet; body   /nt/                                             |
+| *arukāya*      | /(masc)/ collection of wounds; mass of sores  *[aru + kāya]*  /masc, comp/                |
+| *samussita 1*  | /(pp)/ elevated; propped up  *[saṁ + ud + √si + ta]*  /pp of samusseti/                  |
+| *ātura*        | /(adj)/ sick; diseased; ill; unhealthy  *[ā + √tur + a]*  /adj, from āturati/             |
+| *bahusaṅkappa* | /(adj)/ full of plans; with many intentions; (or) much thought about; *[bahu + saṅkappa]* |
+| *yassa 1*      | /(pron)/ to whom; for whom;   *[ya + ssa]*  /pron, masc & nt dat sg of ya/                |
+| *dhuva 1*      | /(adj)/ stable; enduring; permanent;   *[√dhuv + a]*  /adj/                               |
+| *ṭhiti 2*      | /(fem)/ state; station; support  *[√ṭhā + ti]*  /fem, abstr, from tiṭṭhati/               |
+
+#+begin_quote
+Passa cittīkataṁ rūpaṁ, / maṇinā kuṇḍalena ca; \\
+Aṭṭhi tacena onaddhaṁ, / saha vatthebhi sobhati.
+#+end_quote
+
+| *maṇi 1*     | /(masc)/ jewel; gemstone; crystal   /masc/                                     |
+| *kuṇḍala 1*  | /(masc)/ ring; earring  *[√kuṇḍ + a + la], [kuṇḍa + la]*  /masc, from kuṇḍa/   |
+| *aṭṭhi 1.1*   | /(nt)/ bone   /nt/                                                             |
+| *onaddha*    | /(pp)/ covered (with); wrapped (with)  *[ava + √nadh + ta]*  /pp of onandhati/ |
+| *vattha 1.1* | /(nt)/ cloth; clothes; robe  *[√vas + ta]*  /nt/                               |
+| *sobhati 1*  | /(pr)/ shines (in); radiates (in)  *[sobha + ti]*  /pr/                        |
+
+#+begin_quote
+... Añjanīva navā cittā, / pūtikāyo alaṅkato; \\
+Alaṁ bālassa mohāya, / no ca pāragavesino.
+#+end_quote
+
+| *añjanī 1*     | /(fem)/ make up box; (comm) collyrium tube  *[√añj + ana + ī]*            |
+| *nava 1.1*     | /(adj)/ new; fresh   /adj/                                                |
+| *citta 2.1*    | /(adj)/ decorated; beautiful; adorned  *[√citt + a]*  /adj, from citteti/ |
+| *pūtikāya*     | /(masc)/ putrid body; stinking body;  *[pūti + kāya]*  /masc, comp/       |
+| *alaṅkata*     | /(pp)/ dressed up; decorated; adorned (with)  *[alaṁ + kata]*            |
+| *alaṁ 3*      | /(ind)/ enough; it is enough (for)   /ind, emph, acc sg of ala/           |
+| *bāla 2*       | /(masc)/ fool; idiot; immature person   /masc/                            |
+| *pāragavesī 2* | /(adj)/ seeking the far shore  *[pāra + gavesī]*  /adj, comp/             |
+
+#+begin_quote
+Odahi migavo pāsaṁ, / nāsadā vākaraṁ migo;
+
+Bhutvā nivāpaṁ gacchāma, / kandante migabandhake”ti.
+#+end_quote
+
+| *odahi 1*      | /(aor)/ put (in); inserted  *[ava + daha + i]*  /aor of odahati/       |
+| *migava 1*     | /(masc)/ hunter; huntsman  *[miga + va]*  /masc, agent, from miga/     |
+| *pāsa 2.1*     | /(masc)/ snare; trap; sling  *[√pas > pās + &ast;a]*  /masc/           |
+| *nāsadi 2*     | /(aor)/ (of a trap) did not trigger; did not spring  *[na + āsadi]*    |
+| *vākarā*       | /(fem)/ net; trap; fence (for snaring animals)   /fem/                 |
+| *miga 1*       | /(masc)/ deer   /masc/                                                 |
+| *bhutvā 1*     | /(abs)/ having eaten  *[√bhuj + tvā]*  /abs of bhuñjati/               |
+| *nivāpa 1*     | /(masc)/ fodder; feeding; offered food  /masc, in comps/               |
+| *kandanta*     | /(prp)/ crying out; wailing  *[kanda + nta]*  /prp of kandati/         |
+| *migabandhaka* | /(masc)/ deer catcher; deer trapper  *[miga + bandhaka]*  /masc, comp/ |
+
+#+begin_quote
+... Nisīdi rājā korabyo paññatte āsane. Nisajja kho rājā korabyo āyasmantaṁ
+raṭṭhapālaṁ etadavoca:
+
+“Cattārimāni, bho raṭṭhapāla, pārijuññāni yehi pārijuññehi samannāgatā idhekacce
+kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajanti.
+Katamāni cattāri? Jarāpārijuññaṁ, byādhipārijuññaṁ, bhogapārijuññaṁ,
+ñātipārijuññaṁ.
+#+end_quote
+
+| *paññatta 1*      | /(pp)/ prepared; readied; arranged; laid out  *[pa + ñāpe + ta]*  /pp of paññāpeti/                 |
+| *pārijuñña 1*     | /(nt)/ decrepitude; deterioration;  *[parijiṇṇa + &ast;ya]*                                         |
+| *parijīyati*      | /(pr)/ wears out; decays; becomes old  *[pari + jīya + ti]*  /pr, pass of pari √jīr/                |
+| *idhekacca*       | /(pron)/ here a certain; in this case some; some people here  *[idha + ekacca]*                     |
+| *kesamassu*       | /(nt)/ hair and beard  *[kesa + massu]*  /nt, comp/                                                 |
+| *ohāretvā*        | /(abs)/ having shaved; having shaved off  *[ava + hāre + tvā]*  /abs of ohāreti/                    |
+| *kāsāya 1*        | /(adj)/ organic brown; colour of Buddhist monks' robes                                              |
+| *vattha 1.1*      | /(nt)/ cloth; clothes; robe  *[√vas + ta]*  /nt/                                                    |
+| *acchādetvā*      | /(abs)/ having dressed (in); having put on  *[ā + chāde + tvā]*  /abs of acchādeti/                 |
+| *agāra 2*         | /(nt)/ household life; domestic living   /nt/                                                       |
+| *anagāriya 1*     | /(nt)/ homelessness; homeless state  /nt, abstr, from na agāra/                                     |
+| *pabbajati*       | /(pr)/ ordains as a monastic; renounces the household life  *[pa + vaja + ti]*  /pr/                |
+| *jarāpārijuñña*   | /(nt)/ deterioration due to aging  *[jarā + pārijuñña]*  /nt, abstr, comp/                          |
+| *byādhipārijuñña* | /(nt)/ deterioration due to sickness  *[byādhi + pārijuñña]*  /nt, abstr, comp/                     |
+| *bhogapārijuñña*  | /(nt)/ deterioration of riches  *[bhoga + pārijuñña]*  /nt, abstr, comp/                            |
+| *ñātipārijuñña*   | /(nt)/ deterioration of family  *[ñāti + pārijuñña]*  /nt, comp/                                    |
+
+#+begin_quote
+Tāni bhoto raṭṭhapālassa natthi. Kiṁ bhavaṁ raṭṭhapālo ñatvā vā disvā vā sutvā
+vā agārasmā anagāriyaṁ pabbajito”ti?
+
+“Atthi kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena
+cattāro dhammuddesā uddiṭṭhā, ye ahaṁ ñatvā ca disvā ca sutvā ca agārasmā
+anagāriyaṁ pabbajito. Katame cattāro?
+#+end_quote
+
+| *tāni 1*     | /(pron)/ they; those; those things  *[ta + āni]*  /pron, nt nom pl of ta/                 |
+| *bhoto 2*    | /(masc)/ of sir; of master; of you  *[bho + to]*  /masc, gen sg of bhavant, irreg/        |
+| *bhavaṁ 2*  | /(masc)/ master; sir; you  *[bhavant + aṁ]*  /masc, nom sg of bhavant, irreg/            |
+| *ñatvā*      | /(abs)/ having known; having found out; having understood  *[√ñā + tvā]*  /abs of jānāti/ |
+| *disvā*      | /(abs)/ having seen; having understood; having found out  *[√dis + tvā]*  /abs of √dis/   |
+| *sutvā*      | /(abs)/ having heard; having listened (to)  *[√su + tvā]*  /abs of suṇāti/                |
+| *uddesa 1*   | /(masc)/ statement in brief; summary; introduction   /masc, from uddisati/                |
+| *uddiṭṭha 1* | /(pp)/ recited (by); explained (by); mentioned (by)  *[ud + √dis + ta]*  /pp of uddisati/ |
+
+#+begin_quote
+‘Upaniyyati loko addhuvo’ti kho, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena \\
+paṭhamo dhammuddeso uddiṭṭho, yamahaṁ ñatvā ca disvā ca sutvā ca agārasmā anagāriyaṁ pabbajito.
+
+‘Atāṇo loko anabhissaro’ti ...
+
+‘Assako loko, sabbaṁ pahāya gamanīyan’ti ...
+
+‘Ūno loko atitto taṇhādāso’ti ...
+#+end_quote
+
+| *upaniyyati* | /(pr)/ is led onwards; is carried (towards) (aging and death)  *[upa + nīya + ti]*                  |
+| *atāṇa*      | /(adj)/ without refuge; defenseless; without protection  *[na > a + √tā + ṇa]*  /adj, from na tāṇa/ |
+| *assaka 2*   | /(adj)/ without ownership; void of possession  *[na > a + sa + ka]*  /adj, from na sa/              |
+| *sabba 2*    | /(pron)/ everything; everyone; all   /pron/                                                         |
+| *pahāya 1*   | /(ger)/ leaving behind; giving up; abandoning  *[pa + √hā + ya]*  /ger of pajahati/                 |
+| *gamanīya 2* | /(ptp)/ to be travelled (with)  *[√gam + anīya]*  /ptp of gacchati, in comps/                       |
+| *ūna 1*      | /(adj)/ deficient (in); lacking; wanting; short (by); less than (by)   /adj/                        |
+| *atitta*     | /(pp)/ not satisfied; discontent  *[na > a + √tis + ta]*  /pp of na √tis/                           |
+| *taṇhādāsa*  | /(adj)/ enslaved by craving; a slave of desire  *[taṇhā + dāsa]*  /adj, comp/                       |
+
+#+begin_quote
+... Idamavoca āyasmā raṭṭhapālo. Idaṁ vatvā athāparaṁ etadavoca:
+
+“Passāmi loke sadhane manusse, / Laddhāna vittaṁ na dadanti mohā;
+
+Luddhā dhanaṁ sannicayaṁ karonti, / Bhiyyova kāme abhipatthayanti.
+#+end_quote
+
+| *dhana 1*         | /(nt)/ wealth; riches; treasure  *[√dhan + a]*  /nt/                                              |
+| *manussa*         | /(masc)/ human being; man; person  *[manu + ssa]*  /masc, from manu/                              |
+| *laddhāna*        | /(abs)/ having got; having obtained  *[√labh > ladh + tvāna]*  /abs of labhati/                   |
+| *vitta 1.1*       | /(nt)/ wealth; property; possession  *[√vid + ta]*  /nt, pp of vindati/                           |
+| *dadāti*          | /(pr)/ gives; offers; donates; grants (something to)  *[dadā + ti]*  /pr/                         |
+| *luddha 2*        | /(pp)/ greedy; covetous  *[√lubh + ta]*  /pp of lubbhati/                                         |
+| *sannicaya*       | /(masc)/ hoard; pile; stash; accumulation                                                         |
+| *bhiyyo*          | /(ind)/ more (than); greater than (than);  *[bhiyya + o]*                                         |
+| *abhipatthayanta* | /(prp)/ longing (for); hoping (for); craving (for); aspiring (for)  *[abhi + pa + atthaya + nta]* |
+
+#+begin_quote
+Rājā pasayhā pathaviṁ vijitvā, / Sasāgarantaṁ mahimāvasanto;
+
+Oraṁ samuddassa atittarūpo, / Pāraṁ samuddassapi patthayetha.
+#+end_quote
+
+| *pasayhā*       | /(ger)/ overcoming; conquering; vanquishing  *[pa + √sah + ya]*  /ger of pasahati/                |
+| *pathavī 1*     | /(fem)/ earth; world  *[√path + avī]*  /fem/                                                      |
+| *vijitvā*       | /(abs)/ having conquered;  *[vi + √ji + tvā]*  /abs of vijināti/                                  |
+| *sasāgaranta*   | /(adj)/ extending to the ocean; stretching as far as the sea  *[sa + sāgara + anta]*  /adj, comp/ |
+| *mahimāvasanta* | /(prp)/ ruling the mighty earth;  *[mahiṁ + āvasanta]*  /prp, comp vb/                           |
+| *ora 2*         | /(nt)/ this side; this bank; near side (of)  *[ava > o + ra]*  /nt, abbrev of avara/              |
+| *samudda*       | /(masc)/ sea; ocean  *[saṁ + √ud + ra]*  /masc, from samuddati/                                  |
+| *atittarūpa*    | /(adj)/ dissatisfied; discontented; not content  *[na > a + titta + rūpa]*  /adj, comp/           |
+| *pāra 1.1*      | /(nt)/ far side; far shore; bank on the other side (of) *[para > pāra + &ast;a]*                  |
+| *patthayati*    | /(pr)/ wishes (for); wants; aspires (for); craves (for)  *[pa + atthaya + ti]*  /pr/              |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Rājā ca aññe ca bahū manussā, / Avītataṇhā maraṇaṁ upenti;
+
+Ūnāva hutvāna jahanti dehaṁ, / Kāmehi lokamhi na hatthi titti.
+#+end_quote
+
+FIXME: na hatthi titti.
+
+| *aññe* | /(pron)/ others; other people; the rest  *[añña + e]*  /pron, masc nom & acc pl of añña/ |
+| *avītataṇha* | /(adj)/ not free from desire (for); not without craving (for)  *[na > a + vīta + taṇha]*   |
+| *upeti 1* | /(pr)/ comes; approaches; enters  *[upa + e + ti]*  /pr/ |
+| *ūna 1* | /(adj)/ deficient (in); lacking; wanting; short (by); less than (by)   /adj/ |
+| *hutvāna* | /(abs)/ having become  *[√hū + tvāna]*  /abs of hoti/ |
+| *jahati 1* | /(pr)/ gives up; leaves; abandons; deserts  *[jaha + ti]*  /pr/ |
+| *deha 1* | /(masc)/ body  *[√dih > deh + &ast;a]*  /masc/ |
+| *hatthi* | /(masc)/ elephant  *[hattha + ī > i]*  /masc, agent, from hattha/ |
+| *titti 1.1* | /(fem)/ satisfaction (in); contentment (from)  *[√tis + ti]*  /fem, abstr/ |
+
+#+begin_quote
+[...] Aḍḍhā daliddā ca phusanti phassaṁ, / Bālo ca dhīro ca tatheva phuṭṭho;
+
+Bālo ca bālyā vadhitova seti, / Dhīro ca na vedhati phassaphuṭṭho.
+#+end_quote
+
+| *aḍḍha 2.1*     | /(adj)/ wealthy; rich; loaded; (comm) with power  *[ā + √idh + a]*  /adj, from ijjhati/           |
+| *dalidda*       | /(adj)/ poor; needy; impoverished   /adj/                                                         |
+| *phusati 1*     | /(pr)/ touches; contacts; feels; experiences  *[phusa + ti]*  /pr/                                |
+| *phassa 2*      | /(masc)/ experience (of); coming into contact (with)  *[√phus > phass + a]*  /masc, from phusati/ |
+| *tatheva 1*     | /(sandhi)/ likewise; in the same way;  *[tathā + eva]*  /sandhi, adv + ind/                       |
+| *phuṭṭha 1*     | /(pp)/ touched (by); contacted (by); experienced  *[√phus + ta]*  /pp of phusati/                 |
+| *bālya*         | /(nt)/ foolishness; stupidity;  *[bāla + ya]*  /nt, abstr, from bāla/                             |
+| *vadhita 1*     | /(pp)/ struck; stricken; slain  *[√vadh + ita]*  /pp of vadheti/                                  |
+| *seti 1*        | /(pr)/ lies; lies around  *[se + ti]*  /pr/                                                       |
+| *vedhati*       | /(pr)/ shakes; trembles; is agitated; is distressed;  *[vedha + ti]*  /pr/                        |
+| *phassaphuṭṭha* | /(adj)/ contacted by experience; experiencing the touch  *[phassa + phuṭṭha]*  /adj, comp/        |
+
+#+begin_quote
+[...] Kāmāhi citrā madhurā manoramā, / Virūparūpena mathenti cittaṁ;
+
+Ādīnavaṁ kāmaguṇesu disvā, / Tasmā ahaṁ pabbajitomhi rāja.
+#+end_quote
+
+| *citra 1.2*    | /(adj)/ varied; different; diverse  *[√cit + ra]*  /adj/                                                |
+| *madhura 1.1*  | /(adj)/ sweet; lovely  *[madhu + ra]*  /adj, from madhu/                                                |
+| *manorama*     | /(adj)/ delightful; pleasant; attractive  *[mano + rama]*  /adj, comp/                                  |
+| *virūparūpena* | /(ind)/ in various ways; differently  *[virūpa + rūpa + ena]*  /ind, adv, comp, instr sg of virūparūpa/ |
+| *matheti*      | /(pr)/ churns; stirs; disturbs; agitates  *[mathe + ti]*  /pr, caus of mathati/                         |
+| *citta 1.1*    | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                                    |
+| *ādīnava 2*    | /(masc)/ disadvantage (of); drawback (of); inadequacy (of)  /masc, from ādīna/                          |
+| *kāmaguṇa 1*   | /(masc)/ object of sensual pleasure  *[kāma + guṇa]*  /masc, comp/                                      |
+| *disvā*        | /(abs)/ having seen; having understood; having found out  *[√dis + tvā]*  /abs of √dis/                 |
+| *tasmā 1*      | /(pron)/ from that  *[ta + smā]*  /pron, masc & nt abl sg of ta/                                        |
+| *pabbajitomhi* | /(sandhi)/ I am a monk (in)  *[pabbajito + amhi]*  /sandhi, pp + pr/                 |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Dumapphalāneva patanti māṇavā, / Daharā ca vuḍḍhā ca sarīrabhedā;
+
+Etampi disvā pabbajitomhi rāja, / Apaṇṇakaṁ sāmaññameva seyyo”ti.
+#+end_quote
+
+| *dumapphala*  | /(nt)/ fruit from a tree  *[duma + phala]*  /nt, comp/                                           |
+| *patati 3*    | /(pr)/ falls (off); falls (from)  *[pata + ti]*  /pr/                                            |
+| *māṇava 1*    | /(masc)/ young man; young gentleman; young Brahman  *[manu > māṇav + &ast;a]*  /masc, from manu/ |
+| *dahara 1*    | /(adj)/ young; youthful; junior   /adj/                                                          |
+| *vuḍḍha 1*    | /(pp)/ old; elderly; senior  *[√vaḍḍh > vuḍḍh + ta]*  /pp of vaḍḍhati/                           |
+| *sarīrabheda* | /(masc)/ breakup of the body; physical death  *[sarīra + bheda]*  /masc, comp/                   |
+| *etampi*      | /(sandhi)/ just this; this alone; this  *[etaṁ + api]*  /sandhi, pron + ind/                    |
+| *apaṇṇakaṁ*   | /(ind)/ surely; certainly; without a doubt; unquestionably  *[na > a + pañca > paṇṇa + ka + aṁ]* |
+| *sāmañña 1.1* | /(nt)/ monkhood; ascetic life  *[samaṇa + &ast;ya]*  /nt, abstr, from samaṇa/                    |
+| *seyyo*       | /(ind)/ better (than); it is better (than)  *[seyya + o]*  /ind, compar, nom sg of seyya/        |
