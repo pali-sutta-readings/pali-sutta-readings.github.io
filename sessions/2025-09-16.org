@@ -185,17 +185,15 @@ Rājā ca aññe ca bahū manussā, / Avītataṇhā maraṇaṁ upenti;
 Ūnāva hutvāna jahanti dehaṁ, / Kāmehi lokamhi na hatthi titti.
 #+end_quote
 
-FIXME: na hatthi titti.
-
-| *aññe* | /(pron)/ others; other people; the rest  *[añña + e]*  /pron, masc nom & acc pl of añña/ |
-| *avītataṇha* | /(adj)/ not free from desire (for); not without craving (for)  *[na > a + vīta + taṇha]*   |
-| *upeti 1* | /(pr)/ comes; approaches; enters  *[upa + e + ti]*  /pr/ |
-| *ūna 1* | /(adj)/ deficient (in); lacking; wanting; short (by); less than (by)   /adj/ |
-| *hutvāna* | /(abs)/ having become  *[√hū + tvāna]*  /abs of hoti/ |
-| *jahati 1* | /(pr)/ gives up; leaves; abandons; deserts  *[jaha + ti]*  /pr/ |
-| *deha 1* | /(masc)/ body  *[√dih > deh + &ast;a]*  /masc/ |
-| *hatthi* | /(masc)/ elephant  *[hattha + ī > i]*  /masc, agent, from hattha/ |
-| *titti 1.1* | /(fem)/ satisfaction (in); contentment (from)  *[√tis + ti]*  /fem, abstr/ |
+| *aññe*       | /(pron)/ others; other people; the rest  *[añña + e]*  /pron, masc nom & acc pl of añña/ |
+| *avītataṇha* | /(adj)/ not free from desire (for); not without craving (for)  *[na > a + vīta + taṇha]* |
+| *upeti 1*    | /(pr)/ comes; approaches; enters  *[upa + e + ti]*  /pr/                                 |
+| *ūna 1*      | /(adj)/ deficient (in); lacking; wanting; short (by); less than (by)   /adj/             |
+| *hutvāna*    | /(abs)/ having become  *[√hū + tvāna]*  /abs of hoti/                                    |
+| *jahati 1*   | /(pr)/ gives up; leaves; abandons; deserts  *[jaha + ti]*  /pr/                          |
+| *deha 1*     | /(masc)/ body  *[√dih > deh + &ast;a]*  /masc/                                           |
+| *hatthi*     | /(pr)/  there is; metrical form of /atthi, 3rd.sg.pr.ind./                               |
+| *titti 1.1*  | /(fem)/ satisfaction (in); contentment (from)  *[√tis + ti]*  /fem, abstr/               |
 
 #+begin_quote
 [...] Aḍḍhā daliddā ca phusanti phassaṁ, / Bālo ca dhīro ca tatheva phuṭṭho;
