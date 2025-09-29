@@ -1,0 +1,228 @@
+#+author: gavesako
+#+youtube_id:
+
+* 2025-09-30
+** AN 5.36 Kāladānasutta (Kāle dadanti sapaññā)
+
+([[https://suttacentral.net/an5.36/pli/ms][SC]], [[https://bhikkhu-manual.github.io/chants/anumodana.html#k%C4%81la-d%C4%81na-sutta-g%C4%81th%C4%81][Bhikkhu Manual]])
+
+#+begin_quote
+“Pañcimāni, bhikkhave, kāladānāni. Katamāni pañca? Āgantukassa dānaṁ deti; gamikassa dānaṁ deti; \\
+gilānassa dānaṁ deti; dubbhikkhe dānaṁ deti; yāni tāni navasassāni navaphalāni \\
+tāni paṭhamaṁ sīlavantesu patiṭṭhāpeti. Imāni kho, bhikkhave, pañca kāladānānī'ti.
+#+end_quote
+
+| *āgantuka 1*    | /(masc)/ guest; newcomer; new arrival; stranger  *[āgantu + ka]*  /masc, agent, from āgantar/                 |
+| *deti 1*        | /(pr)/ gives (to); donates (to); offers (to); hands (to)  *[de + ti]*  /pr/                                   |
+| *gamika 1*      | /(masc)/ traveller; leaver; who is going on a journey  *[√gam + ika]*  /masc, agent, from gacchati/           |
+| *gilāna 1*      | /(adj)/ sick; ill; unwell  *[√gilā + ana]*  /adj/                                                             |
+| *dubbhikkha*    | /(nt)/ famine; scarcity of alms-food  *[dur + √bhikkh + ā + a]*  /nt, from bhikkhā/                           |
+| *yāni*          | /(pron)/ whichever (things)  *[ya + āni]*  /pron, nt nom & acc pl of ya/                                      |
+| *tāni 1*        | /(pron)/ they; those; those things  *[ta + āni]*  /pron, nt nom pl of ta/                                     |
+| *navasassa*     | /(nt)/ first fruit of the harvest  *[nava + sassa]*  /nt, comp/                                               |
+| *navaphala*     | /(nt)/ first fruits of the season  *[nava + phala]*  /nt, comp/                                               |
+| *paṭhamaṁ 1*    | /(ind)/ first; firstly; at first; first of all  *[paṭhama + aṁ]*  /ind, adv, acc sg of paṭhama/               |
+| *sīlavant*      | /(adj)/ virtuous; ethical; moral  *[sīla + vant]*  /adj, from sīla/                                           |
+| *patiṭṭhāpeti 1* | /(pr)/ sets (before); offers (to); gives (to); *[pati + ṭhāpe + ti]*  /pr, caus of patiṭṭhāti/ |
+
+#+begin_quote
+Kāle dadanti sappaññā, / vadaññū vītamaccharā; \\
+Kālena dinnaṁ ariyesu, / ujubhūtesu tādisu.
+#+end_quote
+
+| *kāle*         | /(ind)/ at the right time; at the proper time  *[√kal > kāl + &ast;a + e], [kāla + e]*                 |
+| *dadāti*       | /(pr)/ gives; offers; donates; grants (something to)  *[dadā + ti]*  /pr/                              |
+| *sappañña*     | /(adj)/ wise; intelligent  *[sa + pa + √ñā + a]*  /adj, from pañña/                                    |
+| *vadaññū*      | /(adj)/ generous; giving; liberal   /adj, comp/                                                        |
+| *vītamacchara* | /(adj)/ selfless; not selfish  *[vīta + macchara]*  /adj, comp/                                        |
+| *dinna 1*      | /(pp)/ given (to); offered (to)  *[√dā > dī + na]*  /pp of dadāti/                                     |
+| *ujubhūta*     | /(adj)/ straight; upright; erect  *[uju + bhūta]*  /adj, comp/                                         |
+| *tādi*         | /(adj)/ such; of such character; of such quality; like; kind of  *[taṁ > tā + disa + i]*  /adj, comp/ |
+
+#+begin_quote
+Vippasannamanā tassa, / vipulā hoti dakkhiṇā; \\
+Ye tattha anumodanti, / veyyāvaccaṁ karonti vā; \\
+Na tena dakkhiṇā ūnā, / tepi puññassa bhāgino.
+#+end_quote
+
+| *vippasannamana* | /(adj)/ with clear mind; with calm mind  *[vippasanna + mana]*  /adj, comp/ |
+| *tassa 1* | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/ |
+| *vipula 1* | /(adj)/ vast; extensive; expansive; massive  *[vi + √pul + a]*  /adj/ |
+| *dakkhiṇā 1* | /(fem)/ gift; donation  *[√dakkh + iṇā]*  /fem/ |
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/ |
+| *tattha 1* | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/ |
+| *anumodati 1* | /(pr)/ approves (of); appreciates; applauds; is pleased (by)  *[anu + moda + ti]*  /pr/ |
+| *veyyāvacca 1* | /(nt)/ service; assistance  *[vyāvaṭa + &ast;ya]*  /nt, abstr, from vyāvaṭa/ |
+| *karonta 1* | /(prp)/ doing; performing  *[karo + nta]*  /prp of karoti/ |
+| *ūna 1* | /(adj)/ deficient (in); lacking; wanting; short (by); less than (by)   /adj/ |
+| *bhāgī 1* | /(masc)/ who shares (in); who partakes (in)  /masc, agent, from bhajati/    |
+
+#+begin_quote
+Tasmā dade appaṭivānacitto, / Yattha dinnaṁ mahapphalaṁ;
+
+Puññāni paralokasmiṁ, / Patiṭṭhā honti pāṇinan”ti.
+#+end_quote
+
+| *tasmā 1* | /(pron)/ from that  *[ta + smā]*  /pron, masc & nt abl sg of ta/ |
+| *dada* | /(adj)/ giving; offering; bestowing  *[dadā + a]*  /adj, from dadāti/ |
+| *appaṭivānacitta* | /(adj)/ not holding back; unhesitating; confident  *[appaṭivāna + citta]*  /adj, comp/ |
+| *yattha* | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/ |
+| *dinna 1* | /(pp)/ given (to); offered (to)  *[√dā > dī + na]*  /pp of dadāti/ |
+| *puñña 1* | /(nt)/ merit; good deed; spiritual wealth  *[√puṇ + ya]*  /nt/ |
+| *paraloka* | /(masc)/ other world; next world; afterlife  *[para + loka]*  /masc, comp/ |
+| *patiṭṭhā* | /(fem)/ support (for); foundation (for)  *[pati + √ṭhā + ā]*  /fem, abstr, from patiṭṭhahati/ |
+| *pāṇī 1.1* | /(masc)/ living being  *[pāṇa + ī]*  /masc, agent, from pāṇa/ |
+
+** Kathinānujānana
+
+([[https://suttacentral.net/pli-tv-kd7/pli/ms][SC]]: Mahāvagga, Kathinakkhandhaka, Kathinānujānana)
+
+#+begin_quote
+Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa
+ārāme. Tena kho pana samayena tiṁsamattā pāveyyakā bhikkhū, sabbe āraññikā sabbe
+piṇḍapātikā sabbe paṁsukūlikā sabbe tecīvarikā sāvatthiṁ āgacchantā bhagavantaṁ
+dassanāya upakaṭṭhāya vassūpanāyikāya nāsakkhiṁsu sāvatthiyaṁ vassūpanāyikaṁ
+sambhāvetuṁ; antarāmagge sākete vassaṁ upagacchiṁsu. Te ukkaṇṭhitarūpā vassaṁ
+vasiṁsu — āsanneva no bhagavā viharati ito chasu yojanesu, na ca mayaṁ labhāma
+bhagavantaṁ dassanāyāti.
+#+end_quote
+
+| *tiṁsamatta* | /(adj)/ thirty in number  *[tiṁsā + matta]*  /adj, comp/ |
+| *pāveyyaka* | /(adj)/ from Pāvā; living in Pāvā  *[pāvā + eyya + ka], [pāveyya + ka]*  /adj, from pāvā/ |
+| *āraññika 1* | /(masc)/ forest monk; forest dwelling ascetic  *[arañña + &ast;ika]*  /masc, agent, from arañña/ |
+| *piṇḍapātika 1* | /(adj)/ who collects alms-food  *[piṇḍapāta + ika]*    |
+| *paṁsukūlika 1* | /(masc)/ ascetic who wears rag robes; rag robe wearer  *[paṁsukūla + ika]*   |
+| *tecīvarika 1* | /(masc)/ monk who only possess or wears three robes  *[ticīvara + &ast;ika]*  /masc, comp/ |
+| *dassanāya 1* | /(nt)/ to see; to look at  *[dassana + āya]*  /nt, dat sg of dassana/ |
+| *upakaṭṭha* | /(pp)/ approaching; near  *[upa + √kas + ta]*  /pp of upa √kas/ |
+| *vassūpanāyika* | /(adj)/ entering the rains retreat  *[vassa + upanāyika]*  /adj, comp/ |
+| *nāsakkhi* | /(aor)/ was unable (to); was not possible (to)  *[na + asakkhi]*  /aor of na sakkoti/ |
+| *sambhāvetuṁ* | /(inf)/ to reach; to arrive at  *[saṁ + bhāve + tuṁ]*  /inf of sambhāveti/ |
+| *antarāmagge* | /(ind)/ along the road; on the way  *[antarā + magga + e]*  /ind, adv, comp, loc sg of antarāmagga/ |
+| *sāketa* | /(masc)/ name of a town in Kosala; old capital of Kosala   /masc/ |
+| *vassa 1.1* | /(masc)/ rain; downpour  *[√vass + a]*  /masc, from vassati/ |
+| *upagacchi 2* | /(aor)/ entered; went into  *[upa + gaccha + i]*  /aor of upagacchati/ |
+| *ukkaṇṭhitarūpa* | /(adj)/ discontented; fed-up; annoyed  *[ukkaṇṭhita + rūpa]*  /adj, comp/ |
+| *vasi* | /(aor)/ lived; stayed (in)  *[√vas + i]*  /aor of vasati/ |
+| *āsanna 1* | /(pp)/ near; close by; proximate; in the neighbourhood (of)  *[ā + √sad + na]*  /pp of āsīdati/ |
+| *no 2.3* | /(pron)/ for us; to us   /pron, 1st dat pl of ahaṁ/ |
+| *ito 2* | /(ind)/ (of place) from here; away from  *[ima + to]*  /ind, adv, abl sg of ima/ |
+| *chasu* | /(card)/ in six  *[cha + su]*  /card, loc pl of cha/ |
+| *yojana 1* | /(nt)/ approximately twenty kilometres  *[yoje + ana]*  /nt, from yojeti/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Atha kho te bhikkhū vassaṁvuṭṭhā, temāsaccayena katāya pavāraṇāya, deve vassante, \\
+udakasaṅgahe udakacikkhalle okapuṇṇehi cīvarehi kilantarūpā.
+
+Yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo, yena bhagavā tenupasaṅkamiṁsu; \\
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
+#+end_quote
+
+| *temāsaccayena*  | /(ind)/ after three months  *[temāsa + accaya + ena]*  /ind, adv, comp/                          |
+| *udakasaṅgaha*   | /(masc)/ accumulation of water; flooding  *[udaka + saṅgaha]*  /masc, comp/ |
+| *udakacikkhalla* | /(nt)/ water and mud  *[udaka + cikkhalla]*  /nt, comp/                                          |
+| *okapuṇṇa*       | /(adj)/ soaked with water   /adj/                                                                |
+
+#+begin_quote
+Āciṇṇaṁ kho panetaṁ buddhānaṁ bhagavantānaṁ āgantukehi bhikkhūhi saddhiṁ paṭisammodituṁ.
+
+Atha kho bhagavā te bhikkhū etadavoca — “kacci, bhikkhave, khamanīyaṁ, kacci yāpanīyaṁ, \\
+kacci samaggā sammodamānā avivadamānā phāsukaṁ vassaṁ vasittha, na ca piṇḍakena kilamitthā”ti?
+
+“Khamanīyaṁ, bhagavā, yāpanīyaṁ, bhagavā; samaggā ca mayaṁ, bhante, sammodamānā avivadamānā \\
+vassaṁ vasimhā, na ca piṇḍakena kilamimhā.
+
+Idha mayaṁ, bhante, tiṁsamattā pāveyyakā bhikkhū ... okapuṇṇehi cīvarehi kilantarūpā addhānaṁ āgatā”ti.
+#+end_quote
+
+| *kilantarūpa*    | /(adj)/ really tired; absolutely exhausted; worn out  *[kilanta + rūpa]*  /adj, comp/               |
+| *āciṇṇa 1*       | /(nt)/ custom (of); practice (of); habit (of)  *[ā + √car > cir + na]*  /nt, pp of ācarati/         |
+| *paṭisammodituṁ* | /(inf)/ to exchange greetings (with)  *[pati + saṁ + moda +]*  /inf of paṭisammodati/               |
+| *kacci 1*        | /(ind)/ I hope; I trust; I wonder  *[ka + ci]*  /ind, interr, from ka/                              |
+| *khamanīya*      | /(ptp)/ bearable (by); tolerable (by)  *[√kham + anīya]*  /ptp of khamati/                          |
+| *yāpanīya*       | /(ptp)/ able to keep going; able to support oneself; sustainable  *[yāpe + anīya]*  /ptp of yāpeti/ |
+| *samagga 1*      | /(adj)/ unified; united; in concord; harmonious; in agreement  *[saṁ + agga]*  /adj, from agga/    |
+| *sammodamāna*    | /(prp)/ being friendly; being on good terms  *[saṁ + moda + māna]*  /prp of sammodati/             |
+| *avivadamāna*    | /(prp)/ not disputing; not quarrelling  *[na > a + vi + vada + māna]*  /prp of na vivadati/         |
+| *phāsukaṁ*      | /(ind)/ easily; comfortably; happily  *[phāsuka + aṁ]*  /ind, adv, acc sg of phāsuka/              |
+| *vasi*           | /(aor)/ lived; stayed (in)  *[√vas + i]*  /aor of vasati/                                           |
+| *piṇḍaka*        | /(masc)/ alms food  *[√piṇḍ + a + ka], [piṇḍa + ka]*  /masc, from piṇḍa/                            |
+| *kilamesi*       | /(aor)/ made weary; tired out; exhausted  *[kilame + si]*  /aor of kilameti/                        |
+| *addhāna 1* | /(nt)/ long road; highroad; journey  *[addha + āna]*  /nt, from addha/ |
+| *āgata 3* | /(pp)/ come (from); arrived (from); returned (from)  *[ā + √gam + ta]*  /pp of āgacchati/ |
+
+#+begin_quote
+Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi —
+
+“Anujānāmi, bhikkhave, vassaṁvuṭṭhānaṁ bhikkhūnaṁ kathinaṁ attharituṁ. Atthatakathinānaṁ vo, bhikkhave, \\
+pañca kappissanti — anāmantacāro, asamādānacāro, gaṇabhojanaṁ, yāvadatthacīvaraṁ, yo ca tattha cīvaruppādo \\
+so nesaṁ bhavissatīti. Atthatakathinānaṁ vo, bhikkhave, imāni pañca kappissanti.
+
+Evañca pana, bhikkhave, kathinaṁ attharitabbaṁ. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo —
+#+end_quote
+
+| *nidāna 1*         | /(nt)/ source; origin; foundation; cause; reason  *[ni + √dā + ana]*  /nt/                                  |
+| *pakaraṇa 1*       | /(nt)/ affair; occasion; event  *[pa + √kar + aṇa]*  /nt, from pakubbati/                                   |
+| *dhammī 1*         | /(adj)/ righteous; related to the Dhamma  *[dhamma + ī]*  /adj, from dhamma/                                |
+| *anujānāti 1*      | /(pr)/ allows (to); permits (to); grants permission (to)  *[anu + jānā + ti]*  /pr/                         |
+| *kathina 1*        | /(nt)/ wooden frame for making robes   /nt/                                                                 |
+| *attharituṁ*      | /(inf)/ to spread; to lay out  *[ā + √thar + ituṁ]*  /inf of attharati/                                    |
+| *atthatakathina*   | /(adj)/ having performed the kathina ceremony  *[atthata + kathina]*  /adj, comp/                           |
+| *vo 1.1*           | /(pron)/ you all (subject)   /pron, 2nd nom pl of tvaṁ/                                                    |
+| *kappati*          | /(pr)/ it is suitable (for); it is proper (for); it is fitting (for); it is allowable  *[kappa + ti]*  /pr/ |
+| *anāmantacāra*     | /(masc)/ going (into the village) without permission  *[anāmanta + cāra]*  /masc, comp/                     |
+| *asamādānacāra*    | /(masc)/ going without taking (all three robes)  *[asamādāna + cāra]*  /masc, comp/                         |
+| *gaṇabhojana*      | /(nt)/ group meal; eating in a group  *[gaṇa + bhojana]*  /nt, comp/                                        |
+| *yāvadatthacīvara* | /(nt)/ as much robe-cloth as one needs; *[yāvadattha + cīvara]*  /nt, comp/                                 |
+| *tattha 1*         | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/                                            |
+| *cīvaruppāda*      | /(masc)/ robe which comes up  *[cīvara + uppāda]*  /masc, comp/                                             |
+| *nesaṁ 1*         | /(pron)/ for them; to them  *[[n] + esa + ānaṁ > aṁ]*  /pron, masc & nt dat pl of ta/                      |
+| *bhavissati 2*     | /(fut)/ it belongs (to)  *[bhavissa + ti]*  /fut of bhavati/                                                |
+| *attharitabba*     | /(ptp)/ (of the kathina) should be spread; should be laid out  /ptp of attharati/                           |
+| *byatta*           | /(pp)/ experienced; learned; competent; trained; (comm) with clear understanding                            |
+| *paṭibala*         | /(adj)/ competent (to); qualified (to); able (to)  *[pati + √bal + a]*  /adj, from bala/                    |
+| *ñāpetabba*        | /(ptp)/ should be informed (by)  *[ñāpe + tabba]*  /ptp of ñāpeti/                                          |
+
+#+begin_quote
+‘Suṇātu me, bhante, saṅgho. [...] evametaṁ dhārayāmī’ti. \\
+Evaṁ kho, bhikkhave, atthataṁ hoti kathinaṁ, evaṁ anatthataṁ. \\
+Kathañca pana, bhikkhave, anatthataṁ hoti kathinaṁ? [...] Kathañca, bhikkhave, atthataṁ hoti kathinaṁ? [...] \\
+Kathañca, bhikkhave, ubbhataṁ hoti kathinaṁ? [...]
+#+end_quote
+
+(See the [[https://pali-sutta-readings.github.io/readings/2025-08-12/#sanghakamma-done-in-division-or-in-unity][earlier notes on Sanghakamma]])
+
+| *kathinadussa* | /(nt)/ cloth for kathina  *[kathina + dussa]*  /nt, comp/                              |
+| *uppanna 1*    | /(pp)/ arisen; appeared; come into being (in)  *[ud + √pad + na]*  /pp of uppajjati/   |
+| *itthannāma*   | /(adj)/ called so-and-so; with such-and-such a name  *[itthaṁ + nāma]*  /adj, comp/   |
+| *dadeyya*      | /(opt)/ would give (something to)  *[dadā + eyya]*  /opt of dadāti/                    |
+| *kathina 1*    | /(nt)/ wooden frame for making robes   /nt/                                            |
+| *attharituṁ*  | /(inf)/ to spread; to lay out  *[ā + √thar + ituṁ]*  /inf of attharati/               |
+| *deti 1*       | /(pr)/ gives (to); donates (to); offers (to); hands (to)  *[de + ti]*  /pr/            |
+| *dāna 1.1*     | /(nt)/ giving; offering; charity; generosity  *[√dā + ana]*  /nt, act, from dadāti/    |
+| *dinna 1*      | /(pp)/ given (to); offered (to)  *[√dā > dī + na]*  /pp of dadāti/                     |
+| *kathañca*     | /(sandhi)/ and how?  *[kathaṁ + ca]*  /sandhi, adv + ind, interr/                     |
+| *ubbhata 2*    | /(pp)/ withdrawn; disallowed; suspended  *[ud + √dhar > bhar + ta]*  /pp of uddharati/ |
+
+** Byattena bhikkhunā paṭibalena
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.3.0.0.0.15.0.a&query=byattena&para=2][DPR]]) Translation by Gemini:
+
+#+begin_quote
+Herein, [in the phrase] "by a competent, capable monk":
+
+"Competent" means one who has learned the Vinaya Piṭaka with its commentary by
+heart. In the absence of such a one, even one who has at least well-grasped just
+this formal act ending in the fourth proclamation, who has learned it by heart,
+is also "competent" in this sense.
+
+But one who—because of an illness such as a cough, consumption, or phlegm, or
+because of a defect of the lips, teeth, tongue, etc., or because of a lack of
+practice in the scriptures—is not able to recite the formal act with
+well-rounded words and syllables, who omits a syllable or a word, or says what
+should be said one way in another way, this one is "incapable" (appaṭibalo).
+
+The opposite of that should be understood as "capable" (paṭibalo) in this sense.
+#+end_quote
