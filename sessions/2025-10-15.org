@@ -1,0 +1,217 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-10-15
+** DN 32 Āṭānāṭiyasutta (Vipassissa...)
+
+([[https://suttacentral.net/dn32/pli/ms][SC]], [[https://bhikkhu-manual.github.io/chants/parittas.html#vipassissa][Bhikkhu Manual]])
+
+#+begin_quote
+Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. \\
+Atha kho cattāro mahārājā mahatiyā ca yakkhasenāya ... yena bhagavā tenupasaṅkamiṁsu; \\
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
+
+Ekamantaṁ nisinno kho vessavaṇo mahārājā bhagavantaṁ etadavoca: “Santi hi, bhante, \\
+uḷārā yakkhā bhagavato appasannā.
+#+end_quote
+
+| *gijjha*      | /(masc)/ vulture  *[√gidh + ya]*  /masc, from gijjhati/                                               |
+| *kūṭa 1.2*    | /(masc)/ peak; ridge; summit  *[√kuṭ > kūṭ + &ast;a]*  /masc/                                          |
+| *pabbata 1*   | /(masc)/ rock   /masc/                                                                                |
+| *mahatiyā*    | /(adj)/ with a great; with a large  *[maha + nta + iyā]*  /adj, fem instr sg of mahanta/              |
+| *yakkhasenā*  | /(fem)/ army of daemons  *[yakkha + senā]*  /fem, comp/                                               |
+| *senā*        | /(fem)/ army; military   /fem/                                                                        |
+| *vessavaṇa*   | /(masc)/ name of one of the Four Great Kings  *[visavaṇa + &ast;a]*  /masc, from vissavaṇa/           |
+| *vissavaṇa* | /(nt)/ hearing widely; being famous  *[vi + √su > sav + &ast;aṇa]*  /nt, act/ |
+| *santi 2.1*   | /(pr)/ they are; there are; they exist  *[sa + nti]*  /pr 3rd pl of atthi/                            |
+| *uḷāra 1*     | /(adj)/ excellent; lofty; high; noble  *[ud > uḷ + √ar > ār + &ast;a]*  /adj/                         |
+| *bhagavato 1* | /(masc)/ to the Buddha; for the Buddha  *[bhagavant + to]*  /masc, dat sg of bhagavant/               |
+| *appasanna 1* | /(masc)/ non-believer; who has no faith (in); *[na > a + pa + √sad + na]*  /masc, pp of na pasīdati/  |
+
+#+begin_quote
+... Taṁ kissa hetu? Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṁ deseti, \\
+adinnādānā veramaṇiyā dhammaṁ deseti, kāmesumicchācārā veramaṇiyā dhammaṁ deseti, \\
+musāvādā veramaṇiyā dhammaṁ deseti, surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṁ deseti.
+
+Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā, appaṭiviratā adinnādānā, \\
+appaṭiviratā kāmesumicchācārā, appaṭiviratā musāvādā, appaṭiviratā surāmerayamajjappamādaṭṭhānā. \\
+Tesaṁ taṁ hoti appiyaṁ amanāpaṁ.
+#+end_quote
+
+| *kissa 1*      | /(pron)/ for who?; for what reason?; why?  *[ka > ki + issa]*  /pron, interr, masc & nt dat sg of ka/     |
+| *hetu 2*       | /(masc)/ reason (for); cause (for); *[√hi > he + &ast;tu]*  /masc/                                        |
+| *veramaṇī*     | /(fem)/ abstinence (from); abstention (from)  *[vi > ve + √ram + aṇa + &ast;ī]*  /fem, from viramaṇa/     |
+| *deseti 1*     | /(pr)/ preach (to); teaches (to); explains (to)  *[dese + ti]*  /pr, caus of disati/                      |
+| *yebhuyyena*   | /(ind)/ mostly; generally; for the most part  *[yebhuyya + ena]*  /ind, adv/                              |
+| *appaṭivirata* | /(pp)/ not abstained (from); not given up  *[na > a + pati + vi + √ram + ta]*   |
+| *tesaṁ 1*     | /(pron)/ for them; to them; to those  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt dat pl of ta/             |
+| *appiya 1*     | /(adj)/ not dear (to); unloved (by); disliked (by)  *[na > a + √pī > piy + a]*  /adj, from na piya/       |
+| *amanāpa 1*    | /(adj)/ unpleasant; dislikeable; disagreeable; detestable  *[na > a + manāpa]*  /adj, from na manāpa/     |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti \\
+appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. \\
+Tattha santi uḷārā yakkhā nivāsino, ye imasmiṁ bhagavato pāvacane appasannā.
+
+Tesaṁ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṁ rakkhaṁ bhikkhūnaṁ bhikkhunīnaṁ \\
+upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāyā”ti. \\
+Adhivāsesi bhagavā tuṇhībhāvena.
+
+Atha kho vessavaṇo mahārājā bhagavato adhivāsanaṁ viditvā tāyaṁ velāyaṁ \\
+imaṁ āṭānāṭiyaṁ rakkhaṁ abhāsi:
+#+end_quote
+
+| *panta 1*              | /(adj)/ distant; remote; very far away  *[pa + anta]*  /adj, from anta/                     |
+| *paṭisevati 4*         | /(pr)/ resorts (to); frequents; lives (in)  *[pati + seva + ti]*  /pr/                      |
+| *appasadda 1*          | /(adj)/ quiet; silent; free from noise  *[appa + sadda]*  /adj, comp/                       |
+| *paṭisallāna-sāruppa*  | /(adj)/ suitable for seclusion; ideal for isolation  /adj, comp/                            |
+| *nivāsī*               | /(adj)/ living (in); staying (in); dwelling (in)  *[ni + √vas + ī]*  /from nivasati/        |
+| *ye 1*                 | /(pron)/ whoever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/                     |
+| *imasmiṁ 1*           | /(pron)/ in this  *[ima + smiṁ]*  /pron, masc & nt loc sg of ima/                          |
+| *pāvacana 3*           | /(nt)/ doctrine; religious; religious order  *[pa > pā + √vac + ana]*  /nt, from pavacati/  |
+| *pasāda 1*             | /(masc)/ inspiration; faith; trust; confidence   /masc, from pasīdati/                      |
+| *uggaṇhāti 3*          | /(pr)/ grasps; learns; understands; comprehends  *[ud + gaṇhā + ti]*  /pr/                  |
+| *āṭānāṭiya*             | /(adj)/ from Āṭānāṭā (name of a heavenly city) *[āṭānāṭā + iya]*  /adj, from āṭānāṭā/          |
+| *rakkha*               | /(adj)/ protecting; guarding  *[√rakkh + a]*  /adj, in comps, from rakkhati/                |
+| *gutti*                | /(fem)/ guarding (of); protecting (of); *[√gup + ti]*  /fem, abstr, from gopeti/            |
+| *avihiṁsā*            | /(fem)/ non-violence; non-cruelty; non-harm  *[na > a + vi + hiṁsa + ā]*  /fem, abstr/     |
+| *phāsuvihāra*          | /(masc)/ easy living; living in comfort  *[phāsu + vihāra]*  /masc, comp/                   |
+| *adhivāsesi 1*         | /(aor)/ agreed (to); consented (to); accepted  *[adhi + vāse + si]*  /aor of adhivāseti/    |
+| *tuṇhībhāva*           | /(masc)/ silence; being silent;  *[tuṇhī + bhāva]*  /masc, abstr, comp, from tuṇhībhavati/  |
+| *viditvā 2.1*          | /(abs)/ having known; having perceived; having understood  *[√vid + itvā]*  /abs of vidati/ |
+| *tāyaṁ*               | /(pron)/ in that; on that; at that  *[ta + āyaṁ]*  /pron, fem loc sg of ta/                |
+| *velā 1*               | /(fem)/ time; point in time   /fem/                                                         |
+
+#+begin_quote
+“Vipassissa ca namatthu, / cakkhumantassa sirīmato; \\
+Sikhissapi ca namatthu, sabbabhūtānukampino.
+
+Vessabhussa ca namatthu, / nhātakassa tapassino; \\
+Namatthu kakusandhassa, / mārasenāpamaddino.
+#+end_quote
+
+| *vipassī 1*         | /(masc)/ name of the 6th previous Buddha  *[vi + passa + ī]*  /from vipassati/       |
+| *namatthu*          | /(sandhi)/ homage (to); salutation (to)  *[namo + atthu]*  /sandhi, masc + imp/      |
+| *cakkhumant 1*      | /(adj)/ with eyes; who can see; who has vision; gifted with sight  *[cakkhu + mant]* |
+| *sirīmant 2*        | /(adj)/ glorious; illustrious; eminent; (comm) possessing merit  *[sirī + mant]*     |
+| *sikhī 3*           | /(masc)/ name of the 5th previous Buddha  *[sikhā + ī]*  /masc, from sikhā/          |
+| *sikhā 5*           | /(fem)/ flame   /fem/                                                                |
+| *sabbabhūtānukampī* | /(adj)/ compassionate for all beings *[sabbabhūta + anukampī]*  /adj, comp/          |
+| *vessabhū 1*        | /(masc)/ name of the 4th previous Buddha  *[vessa + bhū]*  /masc, comp/              |
+| *vessa 1.1*         | /(masc)/ man of the merchant and agricultural caste   /masc/                         |
+| *nhātaka 1*         | /(masc)/ who is perfected; who is purified  *[nhāta + ka]*  /masc, from nhāta/       |
+| *tapassī 1*         | /(masc)/ ascetic  *[√tap + as + sī], [tapas + sī]*  /masc, agent, from tapas/        |
+| *kakusandha*        | /(masc)/ name of the 3rd previous Buddha   /masc/                                    |
+| *mārasenāpamaddī*   | /(adj)/ crushing Māra's army  *[mārasenā + pamaddī]*  /adj, comp/                    |
+
+#+begin_quote
+Koṇāgamanassa namatthu, / brāhmaṇassa vusīmato;
+
+Kassapassa ca namatthu, / vippamuttassa sabbadhi.
+
+Aṅgīrasassa namatthu, / sakyaputtassa sirīmato;
+
+Yo imaṁ dhammaṁ desesi, / sabbadukkhāpanūdanaṁ.
+#+end_quote
+
+| *koṇāgamana*          | /(masc)/ name of the 2nd previous Buddha   /masc/                                          |
+| *brāhmaṇa 2*          | /(masc)/ arahant; awakened being; saint; paragon   /masc, from brahma/                     |
+| *vusīmant*            | /(adj)/ who is completed; who is finished; who is perfected; epithet of an arahant         |
+| *kassapa 1*           | /(masc)/ name of the 1st previous Buddha   /masc, patr/                                    |
+| *vippamutta*          | /(pp)/ freed (from); released (from); saved (from)  *[vi + pa + √muc + ta]*                |
+| *sabbadhi*            | /(ind)/ everywhere; in every way; in all respects  *[sabba + dhi]*  /ind, adv, from sabba/ |
+| *aṅgīrasa 1*          | /(masc)/ epithet of the Buddha; (comm) emitting rays from the limbs                        |
+| *sakyaputta 1*        | /(masc)/ young Sakyan  *[sakya + putta]*  /masc, comp/                                     |
+| *imaṁ*               | /(pron)/ this; this person; this thing  *[ima + aṁ]*  /pron, masc fem & nt acc sg of ima/ |
+| *desesi*              | /(aor)/ taught (to); explained (to)  *[dese + si]*  /aor of deseti/                        |
+| *sabbadukkhāpanūdana* | /(adj)/ which dispels all suffering  *[sabbadukkha + apanūdana]*  /adj, comp/              |
+
+#+begin_quote
+Ye cāpi nibbutā loke, / yathābhūtaṁ vipassisuṁ;
+
+Te janā apisuṇātha, / mahantā vītasāradā.
+
+Hitaṁ devamanussānaṁ, / yaṁ namassanti gotamaṁ;
+
+Vijjācaraṇasampannaṁ, / mahantaṁ vītasāradaṁ.
+
+... Vijjācaraṇasampannaṁ, / buddhaṁ vandāma gotaman’ti.
+#+end_quote
+
+| *cāpi*         | /(sandhi)/ or even; and even; as well as  *[ca + api]*  /sandhi, ind + ind/                   |
+| *nibbuta 1*    | /(pp)/ (of mental defilement) quenched; emancipated; cooled  /pp of nibbāti/                  |
+| *loka 1*       | /(masc)/ world; universe; cosmos  *[√lok + a]*  /masc/                                        |
+| *yathābhūtaṁ* | /(ind)/ as it truly is; in reality  *[yathā + bhūta + aṁ], [yathābhūta + aṁ]*                |
+| *vipassi*      | /(aor)/ saw clearly, had intuition  *[vi + passa +]*  /aor of vipassati/                      |
+| *janā*         | /(masc)/ men; people; population  *[√jan + a + ā], [jana + ā]*  /masc pl of jana/             |
+| *apisuṇa*      | /(adj)/ (of speech) not divisive; not malicious  *[na > a + √pis + uṇa]*  /adj/               |
+| *mahanta 1*    | /(adj)/ big; great; large; grand; vast; extensive  *[maha + nta]*  /adj/                      |
+| *vītasārada*   | /(adj)/ confident; self-assured  *[vīta + sārada]*  /adj, comp/                               |
+| *hita 1*       | /(pp)/ beneficial; good; advantageous  *[√dhā > (da)h + ita]*  /pp of dahati/                 |
+| *namassati*    | /(pr)/ worships; venerates; reveres; honours  *[namassa + ti]*  /pr/                          |
+| *vijjā 1*      | /(fem)/ knowledge; wisdom; understanding  *[√vid + yā]*  /fem, abstr/                         |
+| *caraṇa 1.1*   | /(nt)/ behaviour; conduct; (theory and) practice  *[√car + aṇa]*  /nt, in comps, from carati/ |
+| *sampanna 6*   | /(pp)/ perfect; excellent; exquisite (in)  *[saṁ + √pad + na]*  /pp of sampajjati/           |
+| *vandati*      | /(pr)/ honours; pays respect (to); bows down (to)  *[vanda + ti]*  /pr/                       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Ayaṁ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṁ bhikkhunīnaṁ \\
+upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāya.
+
+... Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṁ ādiyanti, \\
+na mahārājānaṁ purisakānaṁ ādiyanti, na mahārājānaṁ purisakānaṁ purisakānaṁ ādiyanti. \\
+Te kho te, mārisa, amanussā mahārājānaṁ avaruddhā nāma vuccanti.
+#+end_quote
+
+| *ayaṁ* | /(pron)/ this; this person; this thing   /pron, masc & fem nom sg of ima/ |
+| *sā* | /(pron)/ she; that; it   /pron, fem nom sg of ta/ |
+| *mārisa* | /(masc)/ venerable; sir   /masc/ |
+| *caṇḍa 1* | /(adj)/ fierce; violent; savage; hostile  *[√caṇḍ + a]*  /adj/ |
+| *ruddha 1.1* | /(adj)/ fierce; wild; savage; violent   /adj/ |
+| *rabhasa* | /(adj)/ violent; aggressive  *[√rabh + as + a], [rabhas + a]*  /adj, from rabhas/ |
+| *neva 1* | /(sandhi)/ neither; not  *[na + eva]*  /sandhi, ind + ind/ |
+| *ādiyati 3* | /(pr)/ obeys; follows; accepts  *[ādiya + ti]*  /pr/ |
+| *purisaka 1* | /(masc)/ man; employee; somebody's man  *[purisa + ka]*  /masc, dimin of purisa/ |
+| *avaruddha* | /(pp)/ put under restraint, besieged, imprisoned  *[ava + √rudh + ta]*  /pp of avarundhati/ |
+| *nāma 2* | /(ind)/ called; means; by the name of; namely   /ind, adv/ |
+| *vuccati* | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/ |
+
+#+begin_quote
+Seyyathāpi, mārisa, rañño māgadhassa vijite mahācorā. \\
+Te neva rañño māgadhassa ādiyanti, na rañño māgadhassa purisakānaṁ ādiyanti, \\
+na rañño māgadhassa purisakānaṁ purisakānaṁ ādiyanti. \\
+Te kho te, mārisa, mahācorā rañño māgadhassa avaruddhā nāma vuccanti.
+#+end_quote
+
+| *rañño 1* | /(masc)/ to a king; for the king  *[√rāj + a + ino]*  /masc, dat sg of rāja, irreg/   |
+| *māgadha* | /(adj)/ of Magadha  *[magadha > māgadha + &ast;a]*  /adj, from magadha/ |
+| *vijita 1* | /(nt)/ kingdom; realm  *[vi + √ji + ta]*  /nt, pp of vijināti/ |
+| *mahācora* | /(masc)/ master thief; criminal mastermind  *[mahā + cora]*  /masc, comp/ |
+
+#+begin_quote
+... Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: \\
+“Imaṁ, bhikkhave, rattiṁ cattāro mahārājā ...
+
+Uggaṇhātha, bhikkhave, āṭānāṭiyaṁ rakkhaṁ. Pariyāpuṇātha, bhikkhave, āṭānāṭiyaṁ rakkhaṁ. \\
+Dhāretha, bhikkhave, āṭānāṭiyaṁ rakkhaṁ. Atthasaṁhitā, bhikkhave, āṭānāṭiyā rakkhā \\
+bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāyā”ti.
+
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+#+end_quote
+
+| *tassā 2*       | /(pron)/ of her; hers; of that  *[ta + ssā]*  /pron, fem gen sg of ta/                         |
+| *ratti*         | /(fem)/ night   /fem, irreg/                                                                   |
+| *accayena 1*    | /(ind)/ after the passing (of);  *[accaya + ena]*  /ind, adv, instr sg of accaya/              |
+| *uggaṇhāti 1*   | /(pr)/ picks up  *[ud + gaṇhā + ti]*  /pr/                                                     |
+| *pariyāpuṇāti*  | /(pr)/ studies well; learns thoroughly; masters  *[pari + [y] + ā + apuṇā + ti]*  /pr/         |
+| *dhāreti 3*     | /(pr)/ bears in mind; keeps in mind; remembers (something about)  *[dhāre + ti]*  /pr/         |
+| *atthasaṁhita* | /(adj)/ profitable; meaningful; beneficial  *[attha + saṁhita]*  /adj, comp/                  |
+| *idamavoca*     | /(sandhi)/ one said this (to)  *[idaṁ + avoca]*  /sandhi, pron + aor/                         |
+| *attamana*      | /(adj)/ pleased; happy; delighted; elated  *[atta + mana]*  /adj, comp/                        |
+| *bhagavato 1*   | /(masc)/ to the Buddha; for the Buddha  *[bhagavant + to]*  /masc, dat sg of bhagavant/        |
+| *bhāsita 1*     | /(nt)/ saying; speech; statement; utterance; talk; words  *[√bhās + ita]*  /nt, pp of bhāsati/ |
+| *abhinandi 1*   | /(aor)/ delighted (in); was pleased (with); *[abhi + √nand + i]*  /aor of abhinandati/         |
