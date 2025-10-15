@@ -215,3 +215,49 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 | *bhagavato 1*   | /(masc)/ to the Buddha; for the Buddha  *[bhagavant + to]*  /masc, dat sg of bhagavant/        |
 | *bhāsita 1*     | /(nt)/ saying; speech; statement; utterance; talk; words  *[√bhās + ita]*  /nt, pp of bhāsati/ |
 | *abhinandi 1*   | /(aor)/ delighted (in); was pleased (with); *[abhi + √nand + i]*  /aor of abhinandati/         |
+
+* Notes :noprint:
+** Mārasenā - the Ten Armies of Māra
+
+Snp 3.2 Padhāna Sutta ([[https://suttacentral.net/snp3.2/pli/ms][SC]])
+
+1. Sensual pleasures (/kāmā/)
+2. Discontent (/arati/)
+3. Hunger and thirst (/khuppipāsā/)
+4. Craving (/taṇhā/)
+5. Sloth and torpor (/thinamiddha/)
+6. Fear (/bhīru/)
+7. Doubt (/vicikicchā/)
+8. Contempt and obstinacy / stubbornness (/makkha, thambha/)
+9. Gain, praise, and honor, misbegotten fame
+10. Self-exaltation and disparaging others
+
+Nāmuci (Māra) approaches the Bodhisatta while he is meditating at the bank of the Nerañja river and tries to distract him.
+
+#+begin_quote
+Sensual passions are your first army. \\
+Your second is called Discontent. \\
+Your third is Hunger & Thirst. \\
+Your fourth is called Craving. \\
+Fifth is Sloth & Torpor. \\
+Sixth is called Cowardice. \\
+Your seventh is Uncertainty. \\
+Hypocrisy & Stubbornness, your eighth. \\
+Gains, Offerings, Fame, & Status \\
+wrongly gained, \\
+and whoever would praise self \\
+& disparage others: \\
+
+That, Nāmuci, is your army, \\
+the Dark One’s commando force. \\
+A coward can’t defeat it, \\
+but one having defeated it \\
+gains bliss.
+
+(Aj Thanissaro's translation)
+#+end_quote
+
+** Letter from Māra by Ajahn Puṇṇadhammo
+
+- [[https://www.urbandharma.org/udharma/maracontent.html][Letter from Mara (urbandharma.org)]]
+- [[https://store.pariyatti.org/letter-from-mara-audiobook][Letter from Māra by Ajahn Puṇṇadhammo (MP3 audiobook) (pariyatti.org)]]
