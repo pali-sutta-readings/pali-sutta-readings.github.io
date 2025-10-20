@@ -1,0 +1,241 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2025-10-22
+** SN 47.19 Sedakasutta
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. \\
+Tatra kho bhagavā bhikkhū āmantesi: “Bhūtapubbaṁ, bhikkhave, caṇḍālavaṁsiko caṇḍālavaṁsaṁ \\
+ussāpetvā medakathālikaṁ antevāsiṁ āmantesi: ‘ehi tvaṁ, samma medakathālike, \\
+caṇḍālavaṁsaṁ abhiruhitvā mama uparikhandhe tiṭṭhāhī’ti.
+#+end_quote
+
+| *sumbhā*          | /(masc)/ name of the people of Sumbha; Sumbhans                           |
+| *nigama 1*        | /(masc)/ town; market town  *[ni + √gam + a]*  /masc, from nigacchati/    |
+| *bhūtapubbaṁ 2*  | /(ind)/ once upon a time; in days of old  *[bhūta + pubba + aṁ]*         |
+| *caṇḍālavaṁsika*  | /(masc)/ acrobat  *[caṇḍāla + vaṁsa + ika]*  /masc, agent, comp/          |
+| *caṇḍāla 2*       | /(nt)/ trick; amusement; entertainment   /nt/                             |
+| *vaṁsa 1*        | /(masc)/ bamboo   /masc/                                                  |
+| *ussāpetvā*       | /(abs)/ having raised up; *[ud + sāpe + tvā]*  /abs of ussāpeti/          |
+| *medakathālikā 1* | /(fem)/ pot of lard; bowl of fat  *[medaka + thāl + ikā]*  /fem, comp/    |
+| *sedakathalikā*   | from Sedaka-hill  *[sedaka + thala + ikā]*              |
+| *medaka*          | /(masc)/ fat; lard; drippings  *[meda + ka]*  /masc, from meda/           |
+| *thālikā*         | /(fem)/ pot; cup; bowl  *[√thal > thāl + i + ikā]*  /fem, dimin of thāli/ |
+| *thala 2*         | /(nt)/ highlands; high ground; plateau  *[√thal + a]*  /nt, from thalati/ |
+| *antevāsī 1*      | /(masc)/ apprentice; assistant  *[ante + vāsī]*                           |
+| *samma 1*         | /(ind)/ friend; brother; sister; term of familiar address;                |
+| *abhiruhitvā 1*   | /(abs)/ having climbed up; *[abhi + √ruh + itvā]*  /abs of abhiruhati/    |
+| *mama 1*          | /(pron)/ to me; for me   /pron, 1st dat sg of ahaṁ/                      |
+| *uparikhandha*    | /(masc)/ upper shoulder  *[upari + khandha]*  /masc, comp/                |
+| *tiṭṭhati 1*      | /(pr)/ stands  *[tiṭṭha + ti]*  /pr/                                      |
+
+(/Medaka-thālikā/ 'pot of lard / frying pan' could be a misspelling of /Sedaka-thalikā/ 'from Sedaka-hill', /thala/ 'high ground; plateau')
+
+#+begin_quote
+‘Evaṁ, ācariyā’ti kho, bhikkhave, medakathālikā antevāsī caṇḍālavaṁsikassa paṭissutvā \\
+caṇḍālavaṁsaṁ abhiruhitvā ācariyassa uparikhandhe aṭṭhāsi.
+
+Atha kho, bhikkhave, caṇḍālavaṁsiko medakathālikaṁ antevāsiṁ etadavoca: \\
+‘Tvaṁ, samma medakathālike, mamaṁ rakkha, ahaṁ taṁ rakkhissāmi. \\
+Evaṁ mayaṁ aññamaññaṁ guttā aññamaññaṁ rakkhitā sippāni ceva dassessāma, \\
+lābhañca lacchāma, sotthinā ca caṇḍālavaṁsā orohissāmā’ti.
+#+end_quote
+
+| *paṭissutvā*  | /(abs)/ having responded in agreement (to) *[pati + √su + tvā]*  /abs of paṭissuṇāti/        |
+| *aṭṭhāsi 1*    | /(aor)/ stood; stayed; remained  *[a + √ṭhā + si]*  /aor of tiṭṭhati/                         |
+| *rakkhati 1*  | /(pr)/ protects; watches over *[rakkha + ti]*  /pr/                                          |
+| *aññamaññaṁ* | /(sandhi)/ one another; each other  *[aññaṁ + aññaṁ]*  /sandhi, pron + pron/                |
+| *gutta*       | /(pp)/ guarded; protected; kept watch (over)  *[√gup + ta]*  /pp of gopeti/                  |
+| *sippa 1*     | /(nt)/ skill; art; craft; branch of knowledge   /nt/                                         |
+| *dasseti*     | /(pr)/ shows; exhibits; *[dasse + ti]*  /pr, caus of passati/                                |
+| *lābha 2*     | /(masc)/ fee; money; profit  *[√labh > lābh + &ast;a]*  /masc, from labhati/                 |
+| *lacchati 1*  | /(fut)/ will get; will obtain  *[laccha + ti]*  /fut of labhati/                             |
+| *sotthinā*    | /(ind)/ safely  *[sotthi + inā]*  /ind, adv, instr sg of sotthi/ |
+| *orohati 2*   | /(pr)/ comes down (from); climbs down (from)  *[ava + roha + ti]*  /pr/                      |
+
+#+begin_quote
+Evaṁ vutte, bhikkhave, medakathālikā antevāsī caṇḍālavaṁsikaṁ etadavoca: \\
+‘Na kho panetaṁ, ācariya, evaṁ bhavissati. Tvaṁ, ācariya, attānaṁ rakkha, \\
+ahaṁ attānaṁ rakkhissāmi. Evaṁ mayaṁ attaguttā attarakkhitā sippāni ceva dassessāma, \\
+lābhañca lacchāma, sotthinā ca caṇḍālavaṁsā orohissāmā’”ti.
+#+end_quote
+
+| *panetaṁ*        | /(sandhi)/ and this; but this  *[pana + etaṁ]*  /sandhi, ind + pron/                                                     |
+| *bhavissati 1*    | /(fut)/ could be; should be  *[bhavissa + ti]*  /fut of bhavati/                                                          |
+| *attānaṁ*        | /(masc)/ self; himself; herself;  *[atta + ānaṁ]*  /masc, acc sg of atta/    |
+| *attagutta 2*     | /(adj)/ protected by oneself; looking after oneself  *[atta + gutta]*  /adj, comp/                                        |
+| *attarakkhita*    | /(adj)/ protected by oneself; guarded by oneself  *[atta + rakkhita]*  /adj, comp/                                        |
+
+#+begin_quote
+“So tattha ñāyo”ti bhagavā etadavoca, “Yathā medakathālikā antevāsī ācariyaṁ avoca. \\
+Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; \\
+paraṁ rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ. Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, \\
+paraṁ rakkhanto attānaṁ rakkhati.
+#+end_quote
+
+| *tattha 1*    | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/                                |
+| *ñāya*        | /(masc)/ way; means; method; system; approach  *[nī > ny > ñ + √i > ay + &ast;a]*  /masc/       |
+| *yathā 1*     | /(ind)/ like; as; as per; according to; how; in whatever way  *[ya + thā]*  /ind, adv, from ya/ |
+| *satipaṭṭhāna* | /(masc)/ attending mindfully; being present with mindfulness  *[sati + upaṭṭhāna]*               |
+| *sevitabba 2* | /(ptp)/ should be practised; should be followed; *[√sev + itabba]*  /ptp of sevati/             |
+| *para 1*      | /(pron)/ other; another (person)   /pron/                                                       |
+
+#+begin_quote
+Kathañca, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati? \\
+Āsevanāya, bhāvanāya, bahulīkammena — evaṁ kho, bhikkhave, \\
+attānaṁ rakkhanto paraṁ rakkhati.
+
+Kathañca, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati? \\
+Khantiyā, avihiṁsāya, mettacittatāya, anudayatāya — evaṁ kho, bhikkhave, \\
+paraṁ rakkhanto attānaṁ rakkhati.
+
+Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; \\
+paraṁ rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ. \\
+Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, \\
+paraṁ rakkhanto attānaṁ rakkhatī”ti.
+#+end_quote
+
+| *kathañca*     | /(sandhi)/ and how?  *[kathaṁ + ca]*  /sandhi, adv + ind, interr/                                    |
+| *āsevana*      | /(nt)/ practising; applying oneself  *[ā + √sev + ana]*  /nt, act, from āsevati/                      |
+| *bhāvanā 1*    | /(fem)/ developing; cultivating; meditating  *[bhāve + anā]*  /fem, abstr, act, from bhāveti/         |
+| *bahulīkamma*  | /(nt)/ frequent practice  *[bahula > bahulī + kamma]*  /nt, comp, from bahulīkaroti/                  |
+| *khanti 1*     | /(fem)/ patience; endurance; tolerance  *[√kham + ti]*  /fem, abstr, from khamati/                    |
+| *avihiṁsā*    | /(fem)/ non-violence; non-cruelty; non-harm  *[na > a + vi + hiṁsa + ā]*                             |
+| *mettacittatā* | /(fem)/ state of being kind; benevolence  *[metta + citta + tā]*  /fem, abstr, comp, from mettacitta/ |
+| *anudayatā*    | /(fem)/ compassion; sympathy  *[anu + √day + ā + tā]*  /fem, abstr, from anudayā/                     |
+
+#+html: <div class="pagebreak"></div>
+
+** SN 47.20 Janapadakalyāṇīsutta
+
+#+begin_quote
+Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. \\
+Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū \\
+bhagavato paccassosuṁ. Bhagavā etadavoca:
+
+“Seyyathāpi, bhikkhave, ‘janapadakalyāṇī, janapadakalyāṇī’ti kho, bhikkhave, mahājanakāyo sannipateyya. \\
+‘Sā kho panassa janapadakalyāṇī paramapāsāvinī nacce, paramapāsāvinī gīte. Janapadakalyāṇī \\
+naccati gāyatī’ti kho, bhikkhave, bhiyyoso mattāya mahājanakāyo sannipateyya.
+#+end_quote
+
+| *seyyathāpi* | /(sandhi)/ just like; as if; imagine if  *[se + yathā + api]*  /sandhi, pron + adv + ind/ |
+| *janapadakalyāṇī* | /(fem)/ beauty queen; beauty of the land  *[janapada + kalyāṇī]*  /fem, comp/ |
+| *mahājanakāya* | /(masc)/ great crowd of people  *[mahā + janakāya]*  /masc, comp/ |
+| *sannipatati* | /(pr)/ gathers together; assembles; throngs  *[saṁ + ni + pata + ti]*  /pr/ |
+| *panassa* | /(sandhi)/ and for him; and his  *[pana + assa]*  /sandhi, ind + pron/ |
+| *paramapāsāvinī* | /(adj)/ bringing forth the very best (in) *[parama + pāsāvī + inī]*  /adj, fem nom sg/  |
+| *nacca* | /(nt)/ dancing; acting  *[nacca + a]*  /nt, from naccati/ |
+| *gīta 1* | /(nt)/ singing  *[√gā > gī + ta]*  /nt, pp of gāyati/ |
+| *bhiyyoso* | /(ind)/ even more (than); even greater (than)  *[bhiyyo + so]*  /ind, adv, abl sg of bhiyyo/ |
+| *matta 1.1* | /(pp)/ amount of; as many as;  *[√mā + ta]*  /pp of mināti, in comps/ |
+
+#+begin_quote
+Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo. Tamenaṁ evaṁ vadeyya: \\
+‘Ayaṁ te, ambho purisa, samatittiko telapatto antarena ca mahāsamajjaṁ antarena ca \\
+janapadakalyāṇiyā pariharitabbo. Puriso ca te ukkhittāsiko piṭṭhito piṭṭhito anubandhissati. \\
+Yattheva naṁ thokampi chaḍḍessati tattheva te siro pātessatī’ti.
+#+end_quote
+
+| *purisa 1*        | /(masc)/ man; male; person   /masc/                                                               |
+| *jīvitukāma*      | /(adj)/ wishing to live; wanting to stay alive  *[jīvituṁ + kāma]*  /adj, comp/                  |
+| *amaritukāma*     | /(adj)/ not wishing to die  *[na > a + marituṁ + kāma]*  /adj, comp/                             |
+| *tamenaṁ*        | /(sandhi)/ that one; him; her; *[taṁ + enaṁ]*  /sandhi, pron + pron/                             |
+| *ayaṁ*           | /(pron)/ this; this person; this thing   /pron, masc & fem nom sg of ima/                         |
+| *ambho*           | /(ind)/ hey!; yo!; look here!  *[haṁ + bho]*  /ind, excl/                                        |
+| *samatittika*     | /(adj)/ full to the top; even with the brim  *[sama + titti + ka]*                                |
+| *telapatta*       | /(masc)/ bowl of oil  *[tela + patta]*  /masc, comp/                                              |
+| *antarena*        | /(ind)/ in-between  *[antara + ena]*  /ind, adv, instr sg of antara/                              |
+| *mahāsamajja*     | /(nt)/ great festival (crowd)  *[mahā + samajja]*  /nt, comp/                                     |
+| *janapadakalyāṇī* | /(fem)/ beauty queen; beauty of the land  *[janapada + kalyāṇī]*  /fem, comp/                     |
+| *pariharitabba 1* | /(ptp)/ should be carried about  *[pari + √har + itabba]*  /ptp of pariharati/                    |
+| *ukkhittāsika*    | /(adj)/ with a raised sword; with weapon drawn  *[ukkhitta + asika]*  /adj, comp/                 |
+| *piṭṭhito 1*      | /(ind)/ behind; at the rear of; just behind  *[pa + √ṭhā + i + to]*  /ind, adv, abl sg of piṭṭhi/ |
+| *anubandhati*     | /(pr)/ follows; trails  *[anu + bandha + ti]*  /pr/                                               |
+| *yattheva*        | /(sandhi)/ wherever; right where  *[yattha + eva]*  /sandhi, adv + ind/                           |
+| *naṁ*            | /(pron)/ him; her; it; one; that  *[ta > na + aṁ]*  /pron, masc fem & nt acc sg of ta/           |
+| *thoka 1*         | /(adj)/ little; tiny; minute   /adj/                                                              |
+| *chaḍḍeti 1*      | /(pr)/ throws away; discards; drops; tosses aside  *[chaḍḍe + ti]*  /pr/                          |
+| *tattheva*        | /(sandhi)/ right there; in that place; on the spot; there and then  *[tattha + eva]*              |
+| *siro 1*          | /(masc)/ head  *[siras + o]*  /masc, nom sg of siras, mano group/                                 |
+| *pāteti 1*        | /(pr)/ chops off  *[pāte + ti]*  /pr, caus of patati/                                             |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Taṁ kiṁ maññatha, bhikkhave, api nu so puriso amuṁ telapattaṁ amanasikaritvā \\
+bahiddhā pamādaṁ āhareyyā”ti? “No hetaṁ, bhante”.
+
+“Upamā kho myāyaṁ, bhikkhave, katā atthassa viññāpanāya. Ayaṁ cevettha attho — \\
+samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
+
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kāyagatā sati no bhāvitā bhavissati bahulīkatā \\
+yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi kho, bhikkhave, sikkhitabban”ti.
+#+end_quote
+
+| *kiṁ 1*         | /(pron)/ who?; what?; which?  *[ka > ki + iṁ]*  /pron, nt nom and acc sg of ka/                      |
+| *maññati 1*      | /(pr)/ thinks; imagines; conceives; presumes; supposes  *[mañña + ti]*  /pr/                          |
+| *amu*            | /(pron)/ (of person or place or thing) that; such; so and so   /pron, base/                           |
+| *amanasikaritvā* | /(abs)/ having not paid attention (to) *[na > a + manasi + karitvā]*                                  |
+| *bahiddhā 1*     | /(ind)/ externally; outwardly  *[√bah + i + dhā], [bahi + dhā]*  /ind, adv, from bahi/                |
+| *pamāda 1*       | /(masc)/ carelessness; negligence; heedlessness  *[pa + √mad > mād + &ast;a]*                         |
+| *āharati 1.1*    | /(pr)/ brings; brings back; fetches;  *[ā + hara + ti]*  /pr/                                         |
+| *upamā*          | /(fem)/ simile; comparison; illustration  *[upa + √mā + ā]*  /fem, abstr, from upameti/               |
+| *myāyaṁ 1*      | /(sandhi)/ by me this  *[me > my + ayaṁ]*  /sandhi, pron + pron/                                     |
+| *attha 1.1*      | /(masc)/ meaning; sense; significance  *[√ar + tha]*  /masc/                                          |
+| *viññāpana 1*    | /(nt)/ teaching (of); instruction (of); *[vi + ñāpe + ana]*  /nt, act, from viññāpeti/                |
+| *cevettha*       | /(sandhi)/ and now here; and in this regard just  *[ca + eva + ettha]*  /sandhi/                      |
+| *kāyagata*       | /(adj)/ immersed in the body; focused within  *[kāya + gata]*  /adj, comp/                            |
+| *sati 1.1*       | /(fem)/ remembering; recollection; keeping in mind  *[√sar + ti]*  /fem, abstr, from sarati/          |
+| *adhivacana*     | /(nt)/ term (for); name (for); expression (for);  *[adhi + √vac + ana]*  /nt/                         |
+| *tasmātiha*      | /(sandhi)/ therefore here; therefore in this regard  *[tasmā + [t] + iha]*  /sandhi, ind + adv/       |
+| *bhāvita 1*      | /(pp)/ cultivated; developed  *[bhāve + ita]*  /pp of bhāveti/                                        |
+| *bhavissati 1*   | /(fut)/ could be; should be  *[bhavissa + ti]*  /fut of bhavati/                                      |
+| *yānīkata*       | /(adj)/ mastered; familiarized  *[yāna > yānī + kata]*  /adj, comp/                                   |
+| *yāna 1*         | /(nt)/ carriage; wagon; vehicle  *[√yā + ana]*  /nt, from yāti/                                       |
+| *vatthukata*     | /(adj)/ made a foundation; made a basis; firmly established  *[vatthu + kata]*  /adj, comp/           |
+| *vatthu 2*       | /(nt)/ site; location; base; grounds  *[√vas + tu]*  /nt, from vasati/                                |
+| *anuṭṭhita 1.1*  | /(pp)/ practised; established; (comm) repeatedly practised  *[anu + √ṭhā + ita]*  /pp of anutiṭṭhati/ |
+| *paricita 1*     | /(pp)/ practised; rehearsed; consolidated; familiarized  *[pari + √ci + ta]*  /pp of paricināti/      |
+| *susamāraddha*   | /(adj)/ resolutely undertaken; fully engaged with; *[su + saṁ + ā + √rabh + ta]*                     |
+
+* Notes :noexport:
+
+Explain the grammar of the term 'satiyā' in the following Pāli passage:
+
+Ayaṁ cevettha attho — samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
+
+** Assistant
+
+*** gemini-2.5-pro
+
+#+begin_src markdown
+-   **Word:** `satiyā`
+-   **Base Noun:** `sati` (mindfulness)
+-   **Gender:** Feminine
+-   **Number:** Singular
+-   **Case:** Genitive
+
+In this context, `satiyā` is in the genitive case, meaning "of mindfulness." It is modified by the adjective `kāyagatāya` ("directed to the body"), which is also in the feminine, genitive, singular form. The phrase `kāyagatāya satiyā` means "of mindfulness directed to the body."
+#+end_src
+
+*** tngtech/deepseek-r1t2-chimera:free (selected)
+
+#+begin_src markdown
+The term `satiyā` is the **genitive singular** form of the feminine noun `sati` ("mindfulness").
+- **Base form**: sati (feminine, -ī stem)
+- **Case/number**: Genitive singular (-yā ending)
+- **Function**: Shows possession/relation ("of mindfulness")
+
+**Grammatical Breakdown**:
+- `kāyagatāya` (dative sg.): "for mindfulness directed to the body"
+- `etaṁ` (nom. sg. n.): "this"
+- `satiyā` (gen. sg.): **"of mindfulness"**
+- `adhivacanaṁ` (nom. sg. n.): "designation/term"
+
+**Translation**:
+> "This, bhikkhus, is a designation **of mindfulness directed to the body**."
+
+**Context**:
+The passage explains that the simile of a bowl filled to the brim with oil (`samatittiko telapatta`) is synonymous (`adhivacanaṁ`) with mindfulness established on the body (`kāyagatā sati`). `Satiyā` specifies what the term belongs to.
+#+end_src
