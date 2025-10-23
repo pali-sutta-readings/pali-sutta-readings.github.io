@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: UiEf48RNguM
 
 * 2025-10-22
 ** SN 47.19 Sedakasutta
@@ -199,43 +199,3 @@ yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi kh
 | *paricita 1*     | /(pp)/ practised; rehearsed; consolidated; familiarized  *[pari + √ci + ta]*  /pp of paricināti/      |
 | *susamāraddha*   | /(adj)/ resolutely undertaken; fully engaged with; *[su + saṁ + ā + √rabh + ta]*                     |
 
-* Notes :noexport:
-
-Explain the grammar of the term 'satiyā' in the following Pāli passage:
-
-Ayaṁ cevettha attho — samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
-
-** Assistant
-
-*** gemini-2.5-pro
-
-#+begin_src markdown
--   **Word:** `satiyā`
--   **Base Noun:** `sati` (mindfulness)
--   **Gender:** Feminine
--   **Number:** Singular
--   **Case:** Genitive
-
-In this context, `satiyā` is in the genitive case, meaning "of mindfulness." It is modified by the adjective `kāyagatāya` ("directed to the body"), which is also in the feminine, genitive, singular form. The phrase `kāyagatāya satiyā` means "of mindfulness directed to the body."
-#+end_src
-
-*** tngtech/deepseek-r1t2-chimera:free (selected)
-
-#+begin_src markdown
-The term `satiyā` is the **genitive singular** form of the feminine noun `sati` ("mindfulness").
-- **Base form**: sati (feminine, -ī stem)
-- **Case/number**: Genitive singular (-yā ending)
-- **Function**: Shows possession/relation ("of mindfulness")
-
-**Grammatical Breakdown**:
-- `kāyagatāya` (dative sg.): "for mindfulness directed to the body"
-- `etaṁ` (nom. sg. n.): "this"
-- `satiyā` (gen. sg.): **"of mindfulness"**
-- `adhivacanaṁ` (nom. sg. n.): "designation/term"
-
-**Translation**:
-> "This, bhikkhus, is a designation **of mindfulness directed to the body**."
-
-**Context**:
-The passage explains that the simile of a bowl filled to the brim with oil (`samatittiko telapatta`) is synonymous (`adhivacanaṁ`) with mindfulness established on the body (`kāyagatā sati`). `Satiyā` specifies what the term belongs to.
-#+end_src
