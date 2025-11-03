@@ -1,0 +1,242 @@
+#+author: gavesako
+#+youtube_id:
+
+* 2025-11-04
+** SN 19.1 Aṭṭhisutta
+
+#+begin_quote
+Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. \\
+Tena kho pana samayena āyasmā ca lakkhaṇo āyasmā ca mahāmoggallāno gijjhakūṭe pabbate viharanti.
+
+Atha kho āyasmā mahāmoggallāno pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yenāyasmā lakkhaṇo \\
+tenupasaṅkami; upasaṅkamitvā āyasmantaṁ lakkhaṇaṁ etadavoca: “āyāmāvuso lakkhaṇa, rājagahaṁ \\
+piṇḍāya pavisissāmā”ti. “Evamāvuso”ti kho āyasmā lakkhaṇo āyasmato mahāmoggallānassa paccassosi.
+#+end_quote
+
+| *lakkhaṇa 1*        | /(nt)/ auspicious sign; birthmark;  *[√lakkh + aṇa]*  /nt, from lakkheti/                |
+| *pubbaṇhasamayaṁ*  | /(ind)/ early in the morning  *[pubba + aṇha + samaya + aṁ]*                            |
+| *nivāsetvā*         | /(abs)/ having dressed up (in); having robed up;  *[ni + vāse + tvā]*  /abs of nivāseti/ |
+| *pattacīvaramādāya* | /(sandhi)/ taking one's bowl and robe  *[pattaṁ + cīvaraṁ + ādāya]*                     |
+| *ādāya 1*           | /(ger)/ taking  *[√ādā + ya]*  /ger of ādiyati/                                          |
+| *āyāmāvuso*         | /(sandhi)/ let us go friend  *[āyāma + āvuso]*  /sandhi, imp + masc/                     |
+| *paccassosi*        | /(aor)/ replied (to); agreed (with); assented (to)  /aor of paṭissuṇāti/                 |
+
+#+begin_quote
+Atha kho āyasmā mahāmoggallāno gijjhakūṭā pabbatā orohanto aññatarasmiṁ padese
+sitaṁ pātvākāsi. Atha kho āyasmā lakkhaṇo āyasmantaṁ mahāmoggallānaṁ etadavoca:
+“ko nu kho, āvuso moggallāna, hetu ko paccayo sitassa pātukammāyā”ti?
+“Akālo kho, āvuso lakkhaṇa, etassa pañhassa. Bhagavato maṁ santike etaṁ pañhaṁ pucchā”ti.
+#+end_quote
+
+| *orohanta*   | /(prp)/ descending (into); going down (into)  *[ava + roha + nta]*  /prp of orohati/          |
+| *aññatara 1* | /(pron)/ a certain; a  *[añña + tara]*  /pron, from añña/                                     |
+| *padesa 1*   | /(masc)/ place; location; region; area  *[pa + √dis > des + &ast;a]*  /masc/                  |
+| *sita 1.1*   | /(nt)/ smile  *[√si + ta]*  /nt/                                                              |
+| *pātvākāsi*  | /(aor)/ displayed; manifested; showed  *[pātu + akāsi]*  /aor of pātukaroti, comp vb/         |
+| *hetu 2*     | /(masc)/ reason (for); cause (for); condition (for); sake (of)                                |
+| *paccaya 1*  | /(masc)/ support; requisite; necessity   /masc, from pacceti/                                 |
+| *pātukamma*  | /(nt)/ appearance; manifestation; showing (of)  *[pātu + kamma]*  /nt, comp, from pātukaroti/ |
+| *akāla 1*    | /(masc)/ inappropriate time (for); unsuitable time (for); not the time (for)                  |
+| *etassa 1*   | /(pron)/ for this; to him  *[eta + ssa]*  /pron, masc & nt dat sg of eta/                     |
+| *pañha 1*    | /(nt)/ question; enquiry  *[√pañh + a]*  /nt/                                                 |
+| *maṁ 1*     | /(pron)/ me (object)  *[amha + aṁ]*  /pron, 1st acc sg of ahaṁ/                              |
+| *santike 1*  | /(ind)/ to; in the presence (of); near (to); nearby; *[sa + antika + e]*  /loc sg of santika/ |
+| *puccha 1.1* | /(imp)/ please enquire!; ask! (somebody about)  *[puccha + a]*  /imp 2nd sg of pucchatu/      |
+
+#+begin_quote
+Atha kho āyasmā ca lakkhaṇo āyasmā ca mahāmoggallāno rājagahe piṇḍāya caritvā
+pacchābhattaṁ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā
+bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā
+lakkhaṇo āyasmantaṁ mahāmoggallānaṁ etadavoca:
+
+“Idhāyasmā mahāmoggallāno gijjhakūṭā pabbatā orohanto aññatarasmiṁ padese sitaṁ
+pātvākāsi. Ko nu kho, āvuso moggallāna, hetu ko paccayo sitassa pātukammāyā”ti?
+#+end_quote
+
+| *caritvā 1.1*    | /(abs)/ having walked; having wandered  *[√car + itvā]*  /abs of carati/            |
+| *pacchābhattaṁ* | /(ind)/ after eating; after the meal;  *[pacchā + bhatta + aṁ]*                    |
+| *paṭikkanta 1*   | /(pp)/ returned (from); come back (from)  *[pati + √kam + ta]*  /pp of paṭikkamati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ aṭṭhikasaṅkhalikaṁ vehāsaṁ gacchantiṁ. \\
+Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā phāsuḷantarikāhi vitudenti vitacchenti virājenti.
+
+Sā sudaṁ aṭṭassaraṁ karoti. Tassa mayhaṁ, āvuso, etadahosi: ‘Acchariyaṁ vata bho, abbhutaṁ vata bho. \\
+Evarūpopi nāma satto bhavissati. Evarūpopi nāma yakkho bhavissati. \\
+Evarūpopi nāma attabhāvapaṭilābho bhavissatī’”ti.
+#+end_quote
+
+| *idhāhaṁ 1* | /(sandhi)/ here I; now I  *[idha + ahaṁ]*  /sandhi, adv + pron/ |
+| *addasaṁ* | /(aor)/ I saw  *[a + dasa + aṁ]*  /aor 1st sg of addasa/ |
+| *aṭṭhikasaṅkhalikā* | /(fem)/ skeleton  *[aṭṭhika + saṅkhalikā]*  /fem, comp/ |
+| *vehāsaṁ* | /(ind)/ in the air; in the sky  *[vih*āya*sa > veh*ā*sa + aṁ]*  /ind, adv, acc sg of vehāsa/ |
+| *gacchanta* | /(prp)/ going; walking; travelling  *[gaccha + nta]*  /prp of gacchati/ |
+| *tamenaṁ* | /(sandhi)/ that one; him; her; that thing; that person  *[taṁ + enaṁ]*  /sandhi, pron + pron/ |
+| *gijjha* | /(masc)/ vulture  *[√gidh + ya]*  /masc, from gijjhati/ |
+| *kāka* | /(masc)/ crow   /masc, onom/ |
+| *kulala* | /(masc)/ bird of prey; eagle; hawk; osprey  *[√kur > kul + ala]*  /masc, onom/ |
+| *anupatitvā* | /(abs)/ having chased; having pursued  *[anu + √pat + itvā]*  /abs of anupatati/ |
+| *phāsuḷantarikā* | /(fem)/ space in-between the ribs  *[phāsuḷī + antarikā]*  /fem, comp/ |
+| *vitudeti* | /(pr)/ pecks; pierces  *[vi + tude + ti]*  /pr, caus of vitudati/ |
+| *vitaccheti 1* | /(pr)/ pecks; claws; scratches  *[vi + tacche + ti]*  /pr, caus of vitacchati/ |
+| *virājeti 2* | /(pr)/ makes discard; causes to drop  *[vi + rāje + ti], [vi + rājeti]*  /pr, caus of na virajjati/ |
+| *sā* | /(pron)/ she; that; it   /pron, fem nom sg of ta/ |
+| *sudaṁ 1* | /(ind)/ indeed; truly; surely   /ind, emph/ |
+| *aṭṭassara* | /(masc)/ cry of distress; cry of pain; moan; mournful sound  *[aṭṭa + sara]*  /masc, comp/ |
+| *karoti 1* | /(pr)/ does; acts; performs  *[karo + ti]*  /pr/ |
+| *tassa 1* | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/ |
+| *mayhaṁ 1* | /(pron)/ to me; for me   /pron, 1st dat sg of ahaṁ/ |
+| *etadahosi* | /(sandhi)/ this (thought) occurred (to)  *[etad + ahosi]*  /sandhi, pron + aor/ |
+| *acchariyaṁ* | /(ind)/ wonderful!; marvellous!; unbelievable!  *[accharā + iya + aṁ]*   |
+| *abbhutaṁ* | /(ind)/ wonderful!; marvellous!; extraordinary!; unbelievable!  *[abbhu + ta + aṁ]*   |
+| *evarūpopi* | /(sandhi)/ just like that; exactly like this  *[evarūpo + api]*  /sandhi, adj + ind/ |
+| *satta 2.1* | /(masc)/ being; living being; creature  *[sa + tta]*  /masc/ |
+| *bhavissati 1* | /(fut)/ could be; should be  *[bhavissa + ti]*  /fut of bhavati/ |
+| *attabhāvapaṭilābha*   | /(masc)/ physical incarnation; individual existence  *[attabhāva + paṭilābha]*  /masc, comp/ |
+
+#+begin_quote
+Atha kho bhagavā bhikkhū āmantesi: “Cakkhubhūtā vata, bhikkhave, sāvakā
+viharanti; ñāṇabhūtā vata, bhikkhave, sāvakā viharanti, yatra hi nāma sāvako
+evarūpaṁ ñassati vā dakkhati vā sakkhiṁ vā karissati.
+#+end_quote
+
+| *cakkhubhūta* | /(adj)/ who sees; who understands  *[cakkhu + bhūta]*  /adj, comp/ |
+| *ñāṇabhūta* | /(adj)/ with understanding; (comm) who has known the causes  *[ñāṇa + bhūta]*  /adj, comp/ |
+| *yatra 1* | /(ind)/ in which case; when  *[ya + tra]*  /ind, adv, from ya/ |
+| *nāma 1* | /(ind)/ certainly; truly; for sure   /ind, emph/ |
+| *evarūpa* | /(adj)/ such; similar kind of; of such quality  *[evaṁ + rūpa]*  /adj, comp/ |
+| *ñassati 1* | /(fut)/ will know; could know  *[√ñā + ssa + ti]*  /fut of jānāti/ |
+| *dakkhati 1* | /(pr)/ sees; finds  *[dakkha + ti]*  /pr/ |
+| *sakkhi 1.1* | /(adj)/ personally experienced; self witnessed  *[sa + √akkh + i]*  /adj, in comps, from akkhi/ |
+| *karissati 1* | /(fut)/ will make  *[karissa + ti]*  /fut of karoti/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Pubbeva me so, bhikkhave, satto diṭṭho ahosi, api cāhaṁ na byākāsiṁ. \\
+Ahañcetaṁ byākareyyaṁ, pare ca me na saddaheyyuṁ. Ye me na saddaheyyuṁ, \\
+tesaṁ taṁ assa dīgharattaṁ ahitāya dukkhāya.
+#+end_quote
+
+| *pubba 1.1* | /(adj)/ previous; earlier; former   /adj, prep/ |
+| *diṭṭha 1.1* | /(pp)/ seen; found; visible  *[√dis + ta]*  /pp of √dis/ |
+| *ahosi* | /(aor)/ was; existed; became  *[a + ho + si]*  /aor of hoti/ |
+| *cāhaṁ 1* | /(sandhi)/ and I; but I  *[ca + ahaṁ]*  /sandhi, ind + pron/ |
+| *byākāsi 2* | /(aor)/ stated; declared; announced  *[vi > vy > by + ā + √kar > kā + si]*  /aor of byākaroti/ |
+| *byākaroti 3* | /(pr)/ states; declares; announces  *[vi > vy > by + ā + karo + ti]*  /pr/ |
+| *para 1* | /(pron)/ other; another (person)   /pron/ |
+| *saddahati* | /(pr)/ believes (in); has faith (in); has confidence (in); has conviction (in)  *[sad + daha + ti]*  /pr/ |
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/ |
+| *tesaṁ 1* | /(pron)/ for them; to them; to those  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt dat pl of ta/ |
+| *assa 3.1* | /(opt)/ may be; could be; should be; would be; could become  *[√as + a]*  /opt of atthi, irreg/ |
+| *dīgharattaṁ* | /(ind)/ for a long time  *[dīgha + ratta + aṁ]*   |
+| *ahita 1* | /(pp)/ not good; unbeneficial; harmful  *[na > a + √dhā > (da)h + ita]*  /pp of na dahati/ |
+
+#+begin_quote
+Eso, bhikkhave, satto imasmiṁyeva rājagahe goghātako ahosi. So tassa kammassa
+vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni
+vassasatasahassāni niraye paccitvā tasseva kammassa vipākāvasesena evarūpaṁ
+attabhāvapaṭilābhaṁ paṭisaṁvedayatī”ti.
+#+end_quote
+
+| *eso*                  | /(pron)/ this; this thing; this person; he; it  *[esa + o]*  /pron, masc nom sg of eta/                           |
+| *imasmiṁyeva*         | /(sandhi)/ in this very; in this exact  *[imasmiṁ + [y] + eva]*  /sandhi, pron + ind/                            |
+| *goghātaka*            | /(masc)/ butcher  *[go + ghātaka]*  /masc, agent, comp/                                                           |
+| *tassa 1*              | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/                         |
+| *kamma 1*              | /(nt)/ action; deed; doing  *[√kar + ma]*  /nt, irreg, from karoti/                                               |
+| *vipāka 1*             | /(masc)/ (of an action) result; outcome; consequence; fruit  *[vi + √pac > pāk + &ast;a]*   |
+| *vassasata*            | /(nt)/ one hundred years; century  *[vassa + sata]*  /nt, comp/                                                   |
+| *niraya*               | /(masc)/ hell; hell realm  *[nir + √i > ay + &ast;a]*  /masc, from aya/                                           |
+| *paccitvā 2*           | /(abs)/ having suffered  *[pacca +]*  /abs of paccati/                                                            |
+| *tasseva 1*            | /(sandhi)/ just for him; even for him; just that alone  *[tassa + eva]*  /sandhi, pron + ind/                     |
+| *vipākāvasesa*         | /(masc)/ residual result; remainder of the consequence  *[vipāka + avasesa]*  /masc, comp/                        |
+| *attabhāvapaṭilābha*   | /(masc)/ physical incarnation; individual existence  *[attabhāva + paṭilābha]*  /masc, comp/                      |
+| *paṭisaṁvedayati*     | /(pr)/ personally experiences; undergoes; feels  *[pati + saṁ + vedaya + ti]*  /pr/                              |
+
+*** More from SN 19 Lakkhaṇasaṁyutta
+
+*SN 19.5*, A pig butcher: a man whose body hairs were swords flying through the air,
+and those swords kept rising up and falling on his body as he screamed in pain.
+
+*SN 19.9*, An informant: a man whose body hairs were needles flying through the air,
+the needles bored into his head and out his mouth, chest, belly, thighs, calves, his feet...
+
+*SN 19.10*, A corrupt village head: a man with testicles big as pots flying through the air.
+When he was walking he had to lift his testicles on to his shoulder.
+And when he sat down, he sat right on them.
+Vultures, crows, and hawks kept chasing him, pecking and clawing
+as he screamed in pain.
+
+*SN 19.17-21*, A bad monk / bad nun / bad trainee nun / bad novice monk / bad
+novice nun: his/her outer robe, bowl, belt, and body were burning, blazing, and
+glowing as he/she screamed in pain.
+
+#+html: <div class="pagebreak"></div>
+
+*** SN 19.1 Commentary
+
+#+begin_quote
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.1.0.0.7.0.0.m|dpr://s.1.0.0.7.0.0.a][DPR]]) Lakkhaṇasaṁyutte yvāyaṁ *āyasmā ca lakkhaṇo* ti lakkhaṇatthero vutto ...
+#+end_quote
+
+#+begin_quote
+In the Lakkhaṇa Saṁyutta, the one who is spoken of as the Elder Lakkhaṇa, the venerable Lakkhaṇa, \\
+should be known as a great disciple who was ordained with the 'come, monk' ordination from among \\
+the thousand matted-hair ascetics and attained arahantship at the conclusion of the Fire Sermon. \\
+And because he was endowed with a personality like a brahmā, complete in all aspects and possessing \\
+the [special] marks, he was therefore known as 'Lakkhaṇa'.
+#+end_quote
+
+- *goghātako ti gāvo vadhitvā* 'a butcher of cows' [means], having killed a cow
+
+- *aṭṭhito maṁsaṁ mocetvā* having cut up and detached the flesh
+
+- *vikkiṇitvā jīvikaṁ kappeti* sells it to make a living
+
+- *satto tasseva kammassa vipākāvasesenā ti* \\
+  that being, "due to the remaining result of that very same kamma"
+
+- *tassa nānācetanāhi āyūhitassa aparāpariyakammassa* \\
+  of that repeated kamma to be experienced in a subsequent existence which was accumulated by various volitions.
+
+- *tatra hi yāya cetanāya narake paṭisandhi janitā* \\
+  there, by whichever volition rebirth in hell was produced
+
+- *tassā vipāke parikkhīṇe* when the result of that (volition) is exhausted
+
+- *avasesekammaṁ vā kammanimittaṁ vā ārammaṇaṁ katvā* \\
+  taking the remaining kamma or kamma-sign (object) as the basis
+
+- *puna petādīsu paṭisandhi nibbattati* \\
+  rebirth again arises among ghosts (petas) and the like
+
+- *tasmā sā paṭisandhi kammasabhāgatāya ārammaṇasabhāgatāya vā* \\
+  thus, that rebirth is associated with kamma or its object
+
+- *“tasseva kammassa vipākāvaseso” ti vuccati* \\
+  is called "the remaining result of that very kamma"
+
+- *ayañca satto evaṁ uppanno* and this being was reborn in such a way
+
+- *tenāha — “tasseva kammassa vipākāvasesenā” ti* \\
+  therefore, it is said: "due to the remaining result of that very kamma"
+
+- *tassa kira narakā cavanakāle* \\
+  at the time of that being’s falling away from hell
+
+- *nimmaṁsakatānaṁ gunnaṁ aṭṭhirāsiyeva nimittaṁ ahosi* \\
+  the sign (kamma-sign) was like a heap of fleshless bones stuck together
+
+- *so paṭicchannampi taṁ kammaṁ viññūnaṁ pākaṭaṁ viya karonto* \\
+  though concealed, he made that kamma manifest as if to the wise
+
+- *so paṭicchannampi taṁ kammaṁ viññūnaṁ pākaṭaṁ viya karonto aṭṭhisaṅkhalikapeto jāto.* \\
+  He, as if making that kamma manifest to the wise even though it was concealed, was born as a skeleton-peta.
+
+(Gemini and Mistral)
+
+*** Related :noprint:
+
+[[https://theconversation.com/whats-the-difference-between-ghosts-and-demons-books-folklore-and-history-reflect-societys-supernatural-beliefs-250997][What’s the difference between ghosts and demons? Books, folklore and history reflect society’s supernatural beliefs]]
