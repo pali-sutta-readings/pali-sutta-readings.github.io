@@ -237,6 +237,66 @@ the [special] marks, he was therefore known as 'Lakkhaṇa'.
 
 (Gemini and Mistral)
 
+#+html: <div class="pagebreak"></div>
+
 *** Related :noprint:
 
 [[https://theconversation.com/whats-the-difference-between-ghosts-and-demons-books-folklore-and-history-reflect-societys-supernatural-beliefs-250997][What’s the difference between ghosts and demons? Books, folklore and history reflect society’s supernatural beliefs]]
+** AN 4.85 Tamotamasutta
+
+#+begin_quote
+“Cattārome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. Katame cattāro? \\
+Tamo tamaparāyaṇo, tamo jotiparāyaṇo, joti tamaparāyaṇo, joti jotiparāyaṇo.
+#+end_quote
+
+| *cattārome*     | /(sandhi)/ these four  *[cattāro + ime]*  /sandhi, adj + pron/                            |
+| *puggala*       | /(masc)/ person; individual   /masc/                                                      |
+| *santo 2*       | /(prp)/ being; existing  *[sa + nta + o]*  /prp, masc nom sg & pl of santa/               |
+| *saṁvijjamāna* | /(prp)/ existing (in); being found (in)  *[saṁ + vijja + māna]*  /prp of saṁvijjati/     |
+| *vijjati 1*     | /(pr)/ exists (in); is found (in); is present (in)  *[vijja + ti]*  /pr, pass of vindati/ |
+| *tamas 1*       | /(masc)/ darkness; gloom   /masc, mano group/                                             |
+| *parāyaṇa 1*    | /(adj)/ destined (for); culminating (in); going towards  *[parā + √i > ay + &ast;aṇa]*    |
+| *joti 1*        | /(fem)/ light  *[√jut > jot + &ast;i]*  /fem, from jotati/                                |
+
+#+begin_quote
+... Kathañca, bhikkhave, puggalo tamo hoti jotiparāyaṇo? Idha, bhikkhave, ekacco puggalo \\
+nīce kule paccājāto hoti — caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā \\
+pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati.
+#+end_quote
+
+| *kathañca*      | /(sandhi)/ and how?  *[kathaṁ + ca]*  /sandhi, adv + ind, interr/                       |
+| *ekacca 1*      | /(pron)/ certain; one of  *[eka + tya]*  /pron, from eka/                                |
+| *nīca 2*        | /(adj)/ poor; inferior; humble; low class   /adj/                                        |
+| *kula 1*        | /(nt)/ family; house; household; respectable family  *[√kul + a]*  /nt/                  |
+| *paccājāta*     | /(pp)/ born again (among); taken birth (in)  *[pati > paty > pacc + ā + √jan > jā + ta]* |
+| *caṇḍālakula 1* | /(nt)/ family of the lowest case  *[caṇḍāla + kula]*  /nt, comp/                         |
+| *dalidda*       | /(adj)/ poor; needy; impoverished   /adj/                                                |
+| *kasiravuttika* | /(adj)/ with a tough life; hard to survive  *[kasira + vuttika]*  /adj, comp/            |
+| *kasira 2*      | /(nt)/ trouble; pain; difficulty  *[√kas + ira]*  /nt/                                   |
+| *yattha*        | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/              |
+| *ghāsacchāda*   | /(masc)/ food and clothing  *[ghāsa + chāda]*  /masc, comp/                              |
+| *labbhati 1*    | /(pr)/ is obtained (among); is acquired (from); *[labbha + ti]*  /pr, pass of labhati/   |
+
+#+begin_quote
+So ca hoti dubbaṇṇo duddasiko okoṭimako bavhābādho kāṇo vā kuṇī vā khañjo vā pakkhahato vā \\
+na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa. \\
+So kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. So kāyena \\
+sucaritaṁ caritvā, vācāya sucaritaṁ caritvā, manasā sucaritaṁ caritvā kāyassa bhedā paraṁ maraṇā \\
+sugatiṁ saggaṁ lokaṁ upapajjati. Evaṁ kho, bhikkhave, puggalo tamo hoti jotiparāyaṇo.
+#+end_quote
+
+| *dubbaṇṇa 1*   | /(adj)/ ugly; unattractive; bad looking  *[dur + √var + na]*  /adj, from vaṇṇa/                   |
+| *kāṇa 1*       | /(adj)/ blind in one eye; one-eyed; half-blind   /adj/                                            |
+| *pakkhahata*   | /(masc)/ paralysed on one side; crippled  *[pakkha + hata]*  /masc, comp/                         |
+| *lābhī*        | /(adj)/ who gains; who gets; who has  *[√labh > lābh + &ast;ī]*  /adj, from labhati/              |
+| *anna*         | /(nt)/ food  *[√ad + na]*  /nt, pp of adati/                                                      |
+| *pāna 1*       | /(nt)/ drink; beverage  *[√pā + ana]*  /nt, from pivati/                                          |
+| *sucarita 2*   | /(nt)/ good conduct (by); good behaviour (by)  *[su + √car + ita]*  /nt, from carita/             |
+| *carati 2.2*   | /(pr)/ lives; leads (one's life); conducts oneself  *[cara + ti]*  /pr/                           |
+| *bheda 1*      | /(masc)/ breakup; dissolution; destruction (of)  *[√bhid > bhed + &ast;a]*  /masc, from bhindati/ |
+| *para 2*       | /(adj)/ next (world); next (life); after (life)   /adj/                                           |
+| *maraṇa*       | /(nt)/ death; dying  *[√mar + aṇa]*  /nt, act, from marati/                                       |
+| *sugati*       | /(fem)/ good destination; happy fate  *[su + √gam + ti]*  /fem, abstr, from gati/                 |
+| *sagga 1.1*    | /(adj)/ heavenly  *[√sar + ga]*  /adj/                                                            |
+| *upapajjati 1* | /(pr)/ is reborn (in); re-arises (in)  *[upa + pajja + ti]*  /pr/                                 |
+
