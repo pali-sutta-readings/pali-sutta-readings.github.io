@@ -241,7 +241,46 @@ the [special] marks, he was therefore known as 'Lakkhaṇa'.
 
 *** Related :noprint:
 
-[[https://theconversation.com/whats-the-difference-between-ghosts-and-demons-books-folklore-and-history-reflect-societys-supernatural-beliefs-250997][What’s the difference between ghosts and demons? Books, folklore and history reflect society’s supernatural beliefs]]
+- *tasseva kammassa vipākāvasesena*
+  - The being's current state arises from the *remaining result* of the /same kamma/ that initially caused rebirth in hell.
+- *tassā vipāke parikkhīṇe*
+  - When the *primary vipāka* (e.g., hell rebirth) is exhausted, *residual kamma* (/avasesekamma/) or its *sign* (/kammanimitta/) triggers further rebirth (e.g., as a /peta/).
+- *yāya cetanāya narake paṭisandhi janitā*
+  - The *volition* (/cetanā/) that generated hell-rebirth determines the *initial vipāka*.
+- *puna petādīsu paṭisandhi nibbattati*
+  - After hell's vipāka ends, *residual kamma* or its *sign* (/nimitta/) conditions rebirth in lower realms (e.g., /petas/).
+- *nimmaṁsakatānaṁ gunnaṁ aṭṭhirāsiyeva nimittaṁ ahosi*
+  - At death in hell, the being's *kamma-sign* manifests as a *heap of fleshless bones* (symbolizing past deeds), shaping the next rebirth.
+
+Terms:
+
+- *Vipākāvasesa:* "Remaining result" of kamma (unexhausted potential for future effects).
+- *Kammanimitta:* "Kamma-sign": A mental or physical symbol of past kamma at death, influencing rebirth.
+- *Avasesekamma:* "Remaining kamma" not yet matured into vipāka.
+- *Paṭisandhi:* "Rebirth-linking" consciousness, conditioned by kamma.
+- *Volition (/cetanā/)* → Generates kamma (e.g., unwholesome deeds).
+- *Primary vipāka* → Rebirth in hell (exhausts first).
+- *Residual kamma (/avasesekamma/)* or *kamma-sign (/nimitta/)* → Triggers next rebirth (e.g., as a /peta/).
+
+Discussed earlier:
+
+- *AN 3.76*, Kamma is the field, consciousness the seed, craving is the moisture
+
+#+begin_quote
+“Iti kho, ānanda, *kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho*. Avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ punabbhavābhinibbatti hoti.
+#+end_quote
+
+- *SN 36.21 Sīvakasutta*, Not everything experienced is the result of kamma, See discussion on [[https://pali-sutta-readings.github.io/readings/2025-04-03/][2025-04-03]]
+
+Depiction of demons:
+
+- [[https://theconversation.com/whats-the-difference-between-ghosts-and-demons-books-folklore-and-history-reflect-societys-supernatural-beliefs-250997][What’s the difference between ghosts and demons? Books, folklore and history reflect society’s supernatural beliefs]]
+
+*** Notes :noexport:
+
+https://ancient-buddhist-texts.net/Textual-Studies/DPPN/DPPN-Complete.pdf
+Lakkhaṇa Thera, p.2145
+
 ** AN 4.85 Tamotamasutta
 
 #+begin_quote
