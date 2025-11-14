@@ -146,11 +146,10 @@ or later he performed fine action that is to be felt as pleasant, or at the time
 of death he adopted & carried out right view. Because of that, with the breakup
 of the body, after death, he reappears in a good destination, a heavenly world.
 But as for the results of taking life… holding wrong view, he will feel them
-either right here & now, or in the next (lifetime), or following that. (Aj
-Thanissaro)
+either right here & now, or in the next (lifetime), or following that. (Aj Thanissaro)
 #+end_quote
 
-** AN 3.100: The result manifests in different strength, but same type
+** AN 3.100: The result may manifest in varying strength, but of the same type
 
 #+begin_quote
 "Suppose a person was to drop a lump of salt into a mug of water. What do you
@@ -209,7 +208,9 @@ Evaṁ sammāvimuttānaṁ kāmabandhoghatārinaṁ;
 Paññāpetuṁ gati natthi pattānaṁ acalaṁ sukhan”ti. ([[https://www.dhammatalks.org/suttas/KN/Ud/ud8_10.html][Ud 8.10]])
 #+end_quote
 
-| *ayoghanahata* | /(adj)/ struck by an iron hammer; beaten with a sledgehammer  *[ayoghana + hata]*  /adj, comp/  |
+| *ayo*          | /(masc)/ iron   /masc, in comps, mano group, from ayas/                                         |
+| *ghana 1.2*    | /(masc)/ mass; lump   /masc/                                                                    |
+| *hata 1*       | /(pp)/ beaten (by); struck (by); thrashed (by)  *[√han + ta]*  /pp of hanati/                   |
 | *jalanta 1*    | /(prp)/ burning; blazing  *[jala + nta]*  /prp of jalati/                                       |
 | *jātavedas*    | /(masc)/ fire  *[jāta + vedas]*  /masc, comp, mano group/                                       |
 | *anupubba*     | /(adj)/ gradual; step-by-step; successive  *[anu + pubba]*  /adj, from pubba/                   |
