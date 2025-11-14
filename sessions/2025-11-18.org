@@ -1,0 +1,245 @@
+#+author: gambhiro
+#+youtube_id:
+#+draft: true
+
+* 2025-11-18
+** MN 98: Kamma is a law of nature, not a convention
+
+/Kamma-niyāma/ is a type of /dhamma-niyāma/, general law of cause and effect. Human-made laws \\
+and social criteria are called /sammati-niyāma/, 'conventional law'.
+
+#+begin_quote
+Kammunā vattati loko, / kammunā vattati pajā; \\
+Kammanibandhanā sattā, / rathassāṇīva yāyato. (MN 98)
+#+end_quote
+
+| *vattati 1*    | /(pr)/ proceeds; continues; goes forward; practices  *[vatta + ti]*  /pr/                       |
+| *pajā 2*       | /(fem)/ people; population; generation; mankind  *[pa + √jan + ā]*  /fem, abstr, from pajāyati/ |
+| *nibandhana 1* | /(nt)/ binding; fastening; tying down  *[ni + bandha + ana]*  /nt, act, from nibandhati/        |
+| *rathassāṇi*   | /(fem)/ lynchpin of a chariot  *[rathassa + āṇi]*  /fem, comp/                                  |
+| *yāyanta*      | /(prp)/ going; moving forward; proceeding; travelling  *[yāya + nta]*  /prp of yāyati/          |
+
+** AN 6.63: Intention is called kamma
+
+#+begin_quote
+Kammaṁ, bhikkhave, veditabbaṁ …pe… kammanirodhagāminī paṭipadā veditabbāti, \\
+iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \\
+Cetayitvā kammaṁ karoti — kāyena vācāya manasā.
+#+end_quote
+
+| *veditabba*   | /(ptp)/ can be known (by); should be understood (by)  *[vede + itabba]*  /ptp of vedeti/ |
+| *panetaṁ* | /(sandhi)/ and this; but this  *[pana + etaṁ]*  /sandhi, ind + pron/ |
+| *vutta 2.1* | /(pp)/ said; told; spoken; mentioned  *[√vac > vuc + ta]*  /pp of vacati/ |
+| *kiñcetaṁ* | /(sandhi)/ and what this?  *[kiṁ + ca + etaṁ]*  /sandhi, pron + ind + pron, interr/ |
+| *paṭicca 1* | /(ger)/ dependent; depending (on); because (of); on account (of); *[pati + √i + tya]*  /ger of pacceti/ |
+| *cetanāhaṁ* | /(sandhi)/ I (say) intention; I (say) volition  *[cetanā + ahaṁ]*  /sandhi, fem + pron/ |
+| *vadāmi* | /(pr)/ I say; I speak; I tell  *[vada + āmi]*  /pr 1st sg of vadati/ |
+| *cetayitvā*   | /(abs)/ having willed; having intended  *[cetaya + itvā]*  /abs of cetayati/ |
+
+#+begin_quote
+Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? Phasso, bhikkhave, kammānaṁ nidānasambhavo. \\
+Katamā ca, bhikkhave, kammānaṁ vemattatā? Atthi, bhikkhave, kammaṁ nirayavedanīyaṁ, \\
+atthi kammaṁ tiracchānayonivedanīyaṁ, atthi kammaṁ pettivisayavedanīyaṁ, \\
+atthi kammaṁ manussalokavedanīyaṁ, atthi kammaṁ devalokavedanīyaṁ. \\
+Ayaṁ vuccati, bhikkhave, kammānaṁ vemattatā.
+#+end_quote
+
+| *katama*         | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/                        |
+| *nidānasambhava* | /(masc)/ primary cause (of); origin of the reason (for)  *[nidāna + sambhava]*   |
+| *vemattatā*      | /(fem)/ difference (between); diversity; spectrum  *[vematta + tā]*  /fem, abstr, from vematta/     |
+| *niraya*         | /(masc)/ hell; hell realm  *[nir + √i > ay + &ast;a]*  /masc, from aya/                             |
+| *vedanīya 1*     | /(ptp)/ could be felt; experienceable; tangible  *[√vid > ved + &ast;anīya]*  /ptp of vedeti/       |
+| *tiracchānayoni* | /(fem)/ animal realm; animal birth  *[tiracchāna + yoni]*  /fem, comp/                              |
+| *pettivisaya*    | /(masc)/ ghost realm; realm of the ancestors  *[petti + visaya]*  /masc, comp/                      |
+| *manussaloka*    | /(masc)/ human world; world of men; human realm  *[manussa + loka]*  /masc, comp/                   |
+| *devaloka*       | /(masc)/ heaven; world of gods; heavenly realm  *[deva + loka]*  /masc, comp/                       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Katamo ca, bhikkhave, kammānaṁ vipāko? Tividhāhaṁ, bhikkhave, kammānaṁ vipākaṁ vadāmi — \\
+diṭṭheva dhamme, upapajje vā, apare vā pariyāye. Ayaṁ vuccati, bhikkhave, kammānaṁ vipāko.
+
+Katamo ca, bhikkhave, kammanirodho? Phassanirodho, bhikkhave, kammanirodho. \\
+Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī paṭipadā, seyyathidaṁ — \\
+sammādiṭṭhi …pe… sammāsamādhi.
+#+end_quote
+
+| *vipāka 1*   | /(masc)/ (of an action) result; outcome; consequence; fruit  *[vi + √pac > pāk + &ast;a]* |
+| *tividha*    | /(adj)/ three kinds of; three-fold; three-way  *[ti + vidha]*  /adj, comp/                |
+| *diṭṭheva*    | /(sandhi)/ in this very  *[diṭṭhe + eva]*  /sandhi, pp + ind/                              |
+| *upapajja 1* | /(adj)/ reborn; re-arisen  *[upa + √pad + ya]*  /adj, from upapajjati/                    |
+| *apara 1*    | /(adj)/ another; after; further; next  *[apa + ra]*  /adj, from apa/                      |
+| *pariyāya*   | /(masc)/ order; succession; course; sequence  *[pari + [y] + √i > āy + &ast;a]*           |
+
+** MN 9: Kusala-akusala, phassa
+
+#+begin_quote
+Katamañcāvuso, akusalamūlaṁ? Lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ. ...\\
+Katamañcāvuso, kusalamūlaṁ? Alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ.
+
+... Cattārome, āvuso, āhārā bhūtānaṁ vā sattānaṁ ṭhitiyā, sambhavesīnaṁ vā anuggahāya. Katame cattāro? \\
+Kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ.
+
+... Saḷāyatanasamudayā phassasamudayo, saḷāyatananirodhā phassanirodho, \\
+ayameva ariyo aṭṭhaṅgiko maggo phassanirodhagāminī paṭipadā ...
+#+end_quote
+
+| *mūla 2* | /(nt)/ source; origin; root  *[√mūl + a]*  /nt/ |
+| *āhāra 1* | /(masc)/ food (for); fuel (for); nutriment (for); *[ā + √har > hār + &ast;a]*   |
+| *bhūta 03* | /(nt)/ being; living being; entity  *[√bhū + ta]*  /nt, pp of bhavati/ |
+| *ṭhitiyā* | /(fem)/ for the continuity (of); for the endurance (of); *[√ṭhā + ti + iyā]*  /fem, dat sg of ṭhiti/ |
+| *sambhavesī* | /(adj)/ who is seeking birth  *[sambhava + esī]*  /adj, comp/ |
+| *anuggaha 2.1* | /(masc)/ support; help; assistance  *[anu + √gah + a]*  /masc, from anuggaṇhāti/ |
+| *kabaḷīkāra* | /(adj)/ (of food) material; physical; edible  *[kabaḷa > kabaḷī + kāra]*  /adj, comp/ |
+| *manosañcetanā* | /(fem)/ mental intention; mental volition; *[mano + sañcetanā]*  /fem, abstr, comp/  |
+
+** MN 57: Dark and bright deeds
+
+#+begin_quote
+Cattārimāni, puṇṇa, kammāni mayā sayaṁ abhiññā sacchikatvā paveditāni. Katamāni cattāri? \\
+Atthi, puṇṇa, kammaṁ kaṇhaṁ kaṇhavipākaṁ; atthi, puṇṇa, kammaṁ sukkaṁ sukkavipākaṁ; \\
+atthi, puṇṇa, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ; \\
+atthi, puṇṇa, kammaṁ akaṇhaṁ asukkaṁ akaṇhaasukkavipākaṁ, kammakkhayāya saṁvattati.
+#+end_quote
+
+| *mayā*        | /(pron)/ by me; with me   /pron, 1st instr sg of ahaṁ/                                 |
+| *sayaṁ*      | /(ind)/ by one's own; oneself; one's own  *[saya + aṁ]*  /ind, adv, from sa/           |
+| *abhiññā 1*   | /(fem)/ direct knowledge; higher understanding; *[abhi + √ñā + ā]*                      |
+| *sacchikatvā* | /(abs)/ having personally experienced; having realized for oneself  *[sacchi + katvā]*  |
+| *pavedita*    | /(pp)/ taught; explained; proclaimed; made known  *[pa + vede + ita]*  /pp of pavedeti/ |
+| *kaṇha 1*     | /(adj)/ dark; black   /adj/                                                             |
+| *sukka 1*     | /(adj)/ pure; bright  *[√suc > suk + ra]*  /adj/                                        |
+| *khaya*       | /(masc)/ wearing away (of); exhaustion (of); destruction (of)  *[√khī > khay + &ast;a]* |
+| *saṁvattati* | /(pr)/ leads (to); results (in); causes  *[saṁ + vatta + ti]*  /pr/                    |
+
+#+begin_quote
+... Katamañca, puṇṇa, kammaṁ akaṇhaṁ asukkaṁ akaṇhaasukkavipākaṁ, kammakkhayāya saṁvattati?
+
+Tatra, puṇṇa, yamidaṁ kammaṁ kaṇhaṁ kaṇhavipākaṁ tassa pahānāya yā cetanā,
+
+yamidaṁ kammaṁ sukkaṁ sukkavipākaṁ tassa pahānāya yā cetanā,
+
+yamidaṁ kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ tassa pahānāya yā cetanā — idaṁ vuccati, puṇṇa,
+
+kammaṁ akaṇhaṁ asukkaṁ akaṇhaasukkavipākaṁ, kammakkhayāya saṁvattatīti.
+#+end_quote
+
+| *tatra 2* | /(ind)/ in that case; in that regard; in this connection  *[ta + tra]*  /ind, adv, from ta/ |
+| *yamidaṁ* | /(sandhi)/ whichever; whatever  *[yaṁ + idaṁ]*  /sandhi, pron + pron/ |
+| *tassa 2* | /(pron)/ of that; his; its  *[ta + ssa]*  /pron, masc & nt gen sg of ta/ |
+| *pahāna* | /(nt)/ giving up (of); letting go (of); abandoning (of)  /nt, act, from pajahati/ |
+| *ya 2.1* | /(pron)/ whoever; whatever; whichever   /pron, base/ |
+| *cetanā* | /(fem)/ intending; willing  *[√cit > cet + &ast;anā]*  /fem, abstr, act, from ceteti/ |
+| *vuccati* | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/ |
+
+** MN 136: The time of results is not deterministic
+
+One might commit unwholesome deeds, but earlier wholesome deeds might ripen sooner.
+However, the result of the unwholesome deeds will also be experienced when they ripen.
+
+#+begin_quote
+“In the case of the person who takes life… & holds wrong view (yet), with the
+breakup of the body, after death, reappears in a good destination, a heavenly
+world: Either earlier he performed fine action that is to be felt as pleasant,
+or later he performed fine action that is to be felt as pleasant, or at the time
+of death he adopted & carried out right view. Because of that, with the breakup
+of the body, after death, he reappears in a good destination, a heavenly world.
+But as for the results of taking life… holding wrong view, he will feel them
+either right here & now, or in the next (lifetime), or following that. (Aj
+Thanissaro)
+#+end_quote
+
+** AN 3.100: The result manifests in different strength, but same type
+
+#+begin_quote
+"Suppose a person was to drop a lump of salt into a mug of water. What do you
+think, mendicants? Would that mug of water become salty and undrinkable?"
+
+"Yes, sir." "Why is that?" "Because there is only a little water in the bowl."
+
+"Suppose a person was to drop a lump of salt into the Ganges river. What do you
+think, mendicants? Would the Ganges river become salty and undrinkable?"
+
+"No, sir." "Why is that?" "Because the Ganges river is a vast mass of water."
+
+"This is how it is in the case of an individual who does a trivial bad deed, but
+it lands them in hell. Meanwhile, another individual does the same trivial bad
+deed, but experiences it in this life, so that not even a little remains, let
+alone a lot." (Aj Sujato)
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
+
+** The arahant makes no new kamma
+
+Kamma is the non-arahant's intentional action, performed with grasping and identification. \\
+Intentional acts performed without grasping (/upādāna/) and I-making (/ahaṁkāra/) produce no new kamma.
+
+ariyo aṭṭhaṅgiko maggo = kammanirodha = phassanirodha = nirupadhi (anupādāya) = bhavanirodha = nibbāna
+
+#+begin_quote
+'Akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo'ti. (SN 56.11)
+
+Bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsū'ti. (SN 22.59)
+
+Khīṇaṁ purāṇaṁ, navaṁ natthi sambhavaṁ, / Virattacittāyatike bhavasmiṁ; (Snp 2.1)
+#+end_quote
+
+| *akuppa 1*     | /(ptp)/ unshakeable; unwavering; unassailable  *[na > a + √kup + ya]*  /ptp of na kuppati/    |
+| *ayamantimā*   | /(sandhi)/ this is the last; this is the final  *[ayaṁ + antimā]*  /sandhi, pron + adj/      |
+| *dāni*         | /(ind)/ now; immediately  *[ima + dāni]*  /ind, adv, from ima/                                |
+| *punabbhava*   | /(masc)/ renewed existence; rebirth; future life  *[puna + bhava]*  /masc, abstr, comp/       |
+| *anupādāya*    | /(ger)/ not holding (onto); not grasping (onto); not taking possession (of)  *[an + upādāya]* |
+| *khīṇa 1*      | /(pp)/ consumed; spent; finished; exhausted; slowly destroyed  *[√khī + na]*  /pp of khīyati/ |
+| *purāṇa 1*     | /(adj)/ previous; former; old  *[pura + aṇa]*  /adj, from pura/                               |
+| *nava 1.1*     | /(adj)/ new; fresh   /adj/                                                                    |
+| *sambhava 1*   | /(masc)/ birth; origin; source (of)  *[saṁ + √bhū > bhav + &ast;a]*  /masc, from sambhavati/ |
+| *ratta 3.1*    | /(pp)/ infatuated (with); enamoured (with); inflamed (with)  *[√raj + ta]*                    |
+| *virattacitta* | /(masc)/ mind free from desire (for); *[viratta + citta]*  /masc, comp/                       |
+| *āyatika 1*    | /(adj)/ upcoming; future  *[āyati + ka]*  /adj, from āyati/                                   |
+
+#+begin_quote
+“Ayoghanahatasseva jalato jātavedaso;
+
+Anupubbūpasantassa yathā na ñāyate gati.
+
+Evaṁ sammāvimuttānaṁ kāmabandhoghatārinaṁ;
+
+Paññāpetuṁ gati natthi pattānaṁ acalaṁ sukhan”ti. ([[https://www.dhammatalks.org/suttas/KN/Ud/ud8_10.html][Ud 8.10]])
+#+end_quote
+
+| *ayoghanahata* | /(adj)/ struck by an iron hammer; beaten with a sledgehammer  *[ayoghana + hata]*  /adj, comp/  |
+| *jalanta 1*    | /(prp)/ burning; blazing  *[jala + nta]*  /prp of jalati/                                       |
+| *jātavedas*    | /(masc)/ fire  *[jāta + vedas]*  /masc, comp, mano group/                                       |
+| *anupubba*     | /(adj)/ gradual; step-by-step; successive  *[anu + pubba]*  /adj, from pubba/                   |
+| *upasanta 1*   | /(pp)/ calmed; cooled; composed; still; calm; at peace; tranquil  *[upa + √sam + ta]*           |
+| *yathā 1*      | /(ind)/ like; as; *[ya + thā]*  /ind, adv, from ya/                                             |
+| *ñāyati 1*     | /(pr)/ is known; is evident; is perceived  *[ñāya + ti]*  /pr, pass of jānāti/                  |
+| *gati 2*       | /(fem)/ path; course; destination; destiny  *[√gam + ti]*  /fem, abstr, from gacchati/          |
+| *sammāvimutta* | /(adj)/ correctly liberated; rightly emancipated  *[sammā + vimutta]*  /adj, comp/              |
+| *kāma 3*       | /(masc)/ sense desire (of); sensual pleasure (of)  *[√kam > kām + &ast;a]*  /masc, from kāmeti/ |
+| *bandha 1*     | /(masc)/ rope; bond; fetter  *[√bandh + a]*  /masc, from bandhati/                              |
+| *ogha 1*       | /(masc)/ (of water) flood; deluge; torrent   /masc/                                             |
+| *oghatara*     | /(adj)/ who has crossed the flood; overcome the torrent  *[ogha + tara]*  /adj, comp/           |
+| *paññāpetuṁ*  | /(inf)/ to define; to delineate; to describe  *[pa + ñāpe + tuṁ]*  /inf of paññāpeti/          |
+| *patta 3.1*    | /(pp)/ reached; attained; gained; accomplished; found  *[pa + √ap + ta]*  /pp of pāpuṇāti/      |
+| *acala 1*      | /(adj)/ unshakeable; immobile; stationary; stable  *[na > a + √cal + a]*  /adj, from na calati/ |
+| *sukha 2*      | /(nt)/ ease; comfort; happiness; pleasure; contentment  *[√sukh + a]*  /nt, abstr/              |
+
+** Further Reading :noprint:
+
+[[https://www.budsas.org/ebud/ebdha057.htm][Questions on Kamma]] (2000) by Bhikkhu Bodhi
+
+#+begin_quote
+The arahant, the liberated one, does not generate any more kamma. He continues
+to act and perform volitional actions, but without clinging. Hence his actions
+no longer constitute kamma. They don't leave any imprints upon the mind. They
+don't have the potency of ripening in the future to bring about rebirth.
+#+end_quote
+
+[[https://buddhadhamma.github.io/law-of-kamma.html][Buddhadhamma - Chapter 5. The Law of Kamma]] (2021) by P. A. Payutto
+
+[[https://its-essential-meaning.github.io/][The Buddha's Teaching - Its Essential Meaning]] (1969) by R.G. de S. Wettimuny, Chapter 5. Kamma
+
+See also [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-19.html][Sermon 19]] and [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-20.html][Sermon 20]]
