@@ -1,4 +1,5 @@
 #+author: gambhiro
+#+tags: pāli-review
 
 * 2025-06-04
 ** Verb forms exercises

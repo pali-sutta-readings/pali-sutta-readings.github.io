@@ -25,6 +25,8 @@ plugins:
       authors: true
       # authors_profiles: true
 
+  - tags
+
   - rss:
       date_from_meta:
         as_creation: "date"

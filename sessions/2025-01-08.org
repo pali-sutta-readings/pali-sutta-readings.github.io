@@ -1,4 +1,5 @@
 #+author: gambhiro
+#+tags: arahants
 
 * 2025-01-08
 ** Declension Cases Overview :noexport:

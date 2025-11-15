@@ -8,10 +8,17 @@ import re
 
 EXPORT_OPTIONS = "#+OPTIONS: tags:nil H:5"
 RE_AUTHORS = re.compile(r'^\#\+authors*:\s*(.*)\s*$', flags=re.MULTILINE)
+RE_TAGS = re.compile(r'^\#\+tags*:\s*(.*)\s*$', flags=re.MULTILINE)
 RE_YOUTUBE_ID = re.compile(r'^\#\+youtube_id:\s*([^\s]+)\s*$', flags=re.MULTILINE)
 
 def extract_authors(org_text: str) -> List[str]:
     m = RE_AUTHORS.search(org_text)
+    if m is None:
+        return []
+    return [i.strip() for i in m.group(1).split(",")]
+
+def extract_tags(org_text: str) -> List[str]:
+    m = RE_TAGS.search(org_text)
     if m is None:
         return []
     return [i.strip() for i in m.group(1).split(",")]
@@ -62,13 +69,16 @@ def pandoc_convert(org_content: str, date: str, md_file: Path, exclude_from_sear
     s = ", ".join(extract_authors(org_content))
     authors_line = f"\nauthors: [{s}]"
 
+    s = ", ".join(extract_tags(org_content))
+    tags_line = f"\ntags: [{s}]"
+
     # Add the YouTube embed html at the top so that it shows up in the index listing.
     if youtube_id:
         youtube_embed_html = f"""\n<iframe width="750" height="420" src="https://www.youtube.com/embed/{youtube_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>\n"""
     else:
         youtube_embed_html = ""
 
-    yaml_header = f"""---{draft_line}{exclude_line}{authors_line}
+    yaml_header = f"""---{draft_line}{exclude_line}{authors_line}{tags_line}
 date: {date}
 ---
 
@@ -125,8 +135,9 @@ def convert_org_to_md(org_file: Path, md_sessions_dir: Path, md_print_dir: Path)
         options = EXPORT_OPTIONS + "\n#+EXCLUDE_TAGS: " + " ".join(exclude_tags) + "\n\n"
 
         print_org_content = options + org_content
-        # Remove the youtube_id for the print page.
+        # Remove the youtube_id and tags for the print page.
         print_org_content = RE_YOUTUBE_ID.sub('', print_org_content)
+        print_org_content = RE_TAGS.sub('', print_org_content)
         pandoc_convert(print_org_content, date, print_md_file, exclude_from_search=True)
 
         print(f"Converted to: {print_md_file}")
