@@ -1,6 +1,6 @@
 #+author: gambhiro
 #+youtube_id:
-#+tags: kamma
+#+tags: kamma, arahants
 
 * 2025-11-18
 ** MN 98: Kamma is a law of nature, not a convention
