@@ -10,7 +10,7 @@ Readings, study and discussions of the Pāli Theravāda suttas.
 
 See the calendar below for which days have a meeting planned.
 
-Generally, meetings are on every **Tuesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Thursday**. The online meetings are intended for monastics.
+Generally, meetings are on every **Tuesday 13:00** (Europe/Lisbon time), for about 1.5hr. When the date falls on *uposatha* days, the meeting is shifted to **Wednesday**. The online meetings are intended for monastics.
 
 Meeting link: <https://meet.google.com/yip-ffjm-reo>
 
