@@ -57,7 +57,7 @@ A 12-shade colour-pencil pack has all the necessary shades:
 <span style="color: #ae3ec9">loc</span>,
 <span style="color: #e085f4">voc</span> and pencil gray for <span style="color: #9fa8b2">verb</span>.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLisbon&title=P%C4%81li%20Readings&src=Y185NTYzYzc3OWJkYTdhYWUyMzY0ZWE0M2QxZmZkMTI3M2JmNDQ0MTk4NTliMGNiZDA5N2M0MjA5YjVjZjRkMWFiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183OTY3NGJjMDcwYzcxNDgwNzFjMzMxNGUxNjVhMjEyY2JiOGYzNTIwMTExYzQyNjQ2ODRkMzhkNTdhNTdjMGU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLisbon&title=P%C4%81li%20Readings&src=Y185NTYzYzc3OWJkYTdhYWUyMzY0ZWE0M2QxZmZkMTI3M2JmNDQ0MTk4NTliMGNiZDA5N2M0MjA5YjVjZjRkMWFiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=bmplaGdsM2J1YThvODV1NjNoNmI5dWM4Y2lwaWZuNjdAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237cb342&color=%230b8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Pāli Lessons
 
