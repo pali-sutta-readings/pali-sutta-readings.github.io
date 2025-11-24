@@ -1,0 +1,273 @@
+#+author: gambhiro
+#+tags: pāli-review
+#+youtube_id:
+
+* 2025-11-26
+** Pāli language review
+
+(See also: [[https://pali-sutta-readings.github.io/assets/docs/pali-cheatsheet.pdf][declension cheatsheet]] and [[https://pali-sutta-readings.github.io/pali-lessons/][Pāli lessons]])
+
+*Word order* in the simplest case is Subject-Object-Verb, but is flexible due to declensions. \\
+The *subject* and *verb* must agree in number. (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.12][Declension Cases Overview]])
+
+#+begin_quote
+Saṅgho uposathaṁ karoti. Sūdo bhattaṁ pacati. Dārakā bhojanīyaṁ bhuñjanti.
+
+Translate: The king goes to the village.
+#+end_quote
+
+| *sūda*          | /(masc)/ cook; chef  *[√sūd + a]*  /masc/                                             |
+| *bhatta 1.1*    | /(nt)/ food; boiled rice  *[√bhaj + ta]*  /nt, pp of bhajati/                         |
+| *pacati*        | /(pr)/ cooks; bakes; boils; roasts  *[paca + ti]*  /pr/                               |
+| *dāraka*        | /(masc)/ boy; young boy  *[dāra + ka]*  /masc, dimin of dāra/                         |
+| *bhojanīya*     | /(nt)/ cooked food; staple food  *[√bhuj > bhoj + anīya]*  /nt, ptp of bhuñjati/      |
+| *bhuñjati 1*    | /(pr)/ eats; consumes  *[bhuñja + ti]*  /pr/                                          |
+| *rāja 1*        | /(masc)/ king; sovereign; lord; ruler  *[√rāj + a]*  /masc, atta group/               |
+| *gāma 1*        | /(masc)/ village; hamlet   /masc/                                                     |
+
+The nominatives may form pairs, read them as equational phrases: /A/ is the /B/, and /C/ is the /D/, etc. \\
+Such a sequence forms a "nominal clause". E.g.: /Dārako samaṇo./
+
+#+begin_quote
+Cetanā, bhikkhave, kammaṁ. Phasso, bhikkhave, kammānaṁ nidānasambhavo.
+#+end_quote
+
+| *cetanā*         | /(fem)/ intending; willing  *[√cit > cet + &ast;anā]*  /fem, abstr, act, from ceteti/             |
+| *kamma 1*        | /(nt)/ action; deed; doing  *[√kar + ma]*  /nt, irreg, from karoti/                               |
+| *phassa 1*       | /(masc)/ sense contact; sense impingement; *[√phus > phass + a]*  /masc, from phusati/            |
+| *nidānasambhava* | /(masc)/ primary cause (of); source of existence (of); *[nidāna + sambhava]*   |
+
+*Verb conjugation: -ati, -āmi, -asi, -atha* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.6][simple present]] and [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.49][future tense]])
+
+#+begin_quote
+Taṁ kiṁ maññatha bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā’ti?
+
+Passatha bhante? Āma āvuso passāmi. Āyatiṁ bhante saṁvareyyātha. Sādhu suṭṭhu āvuso saṁvarissāmi.
+#+end_quote
+
+*Simple past: -i, -iṁsu, -uṁ* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.63][PDF]])
+
+#+begin_quote
+... cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+
+Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti
+
+Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
+#+end_quote
+
+| *cakkhu 1*      | /(nt)/ eye  *[√cakkh + u]*  /nt/                                        |
+| *udapādi 1*     | /(aor)/ arose (for); *[ud + a + √pad + i]*  /aor of upapajjati/         |
+| *āmanteti*      | /(pr)/ invites; calls; summons  *[ā + mante + ti]*  /pr/                |
+| *attamana*      | /(adj)/ pleased; happy; delighted; elated  *[atta + mana]*  /adj, comp/ |
+| *bhāsita 1*     | /(nt)/ saying; speech; statement;  *[√bhās + ita]*  /nt, pp of bhāsati/ |
+| *abhinandati 1* | /(pr)/ delights (in); is pleased (with); *[abhi + nanda + ti]*  /pr/    |
+
+*Locative case: -e, -mhi, -smiṁ* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.53][PDF]])
+
+#+begin_quote
+Ekaṁ samayaṁ (buddho) bhagavā bārāṇasiyaṁ viharati isipatane migadāye.
+
+Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhu-sahassena.
+
+Mettañ'ca sabba-lokasmiṁ / Mānasaṁ bhāvaye aparimāṇaṁ
+
+Aggasmiṁ dānaṁ dadataṁ / aggaṁ puññaṁ pavaḍḍhati
+#+end_quote
+
+| *samaya 1.1*   | /(masc)/ time; occasion  *[saṁ + √i > ay + &ast;a]*  /masc, from sameti/           |
+| *miga 1*       | /(masc)/ deer   /masc/                                                              |
+| *dāya 1.1*     | /(masc)/ wood; grove; park   /masc/                                                 |
+| *gayā 1*       | /(fem)/ name of a village   /fem/                                                   |
+| *sīsa 1*       | /(nt)/ head   /nt/                                                                  |
+| *saddhiṁ*     | /(ind)/ together (with); with   /ind, prep/                                         |
+| *sahassa 1*    | /(card)/ one thousand (1000)   /card, nt sg/                                        |
+| *mānasa 2*     | /(nt)/ mind; heart; mentality; intention  *[manas + &ast;a]*  /nt, from manas/      |
+| *bhāvaye*      | /(opt)/ should cultivate; should develop  *[bhāvaya + e]*  /opt of bhāvayati/       |
+| *aparimāṇa 1*  | /(adj)/ measureless; boundless  *[na > a + pari + √mā + aṇa]*  /adj/                |
+| *agga 1.1*     | /(adj)/ highest; topmost; foremost; supreme; ultimate   /adj/                       |
+| *dāna 1.1*     | /(nt)/ giving; offering; charity; generosity  *[√dā + ana]*  /nt, act, from dadāti/ |
+| *dadāti*       | /(pr)/ gives; offers; donates; grants (something to)  *[dadā + ti]*  /pr/           |
+| *pavaḍḍhati 1* | /(pr)/ increases; develops; grows  *[pa + vaḍḍha + ti]*  /pr/                       |
+
+*Present participle: -ant, -māna* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.68][PDF]])
+
+#+begin_quote
+gacchati → gacchanto, gacchamāma; viharati → viharanto; vediyati → vediyamāna
+
+Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti.
+#+end_quote
+
+*Instrumental case*
+
+#+begin_quote
+Translate: The king goes to the village *with a chariot.*
+
+majjhimā paṭipadā tathāgatena abhisambuddhā
+
+Sabba-buddhānubhāvena, Sadā sotthī bhavantu te
+
+Buddhaṁ me vandamānena...
+
+Ādittaṁ rāgagginā dosagginā mohagginā, ādittaṁ jātiyā jarāmaraṇena
+
+sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.
+
+Natthi me saraṇaṁ aññaṁ buddho me saraṇaṁ varaṁ, / Etena sacca-vajjena sotthi me hotu sabbadā
+#+end_quote
+
+ādāyati (burning) → +ta (past participle) āditta → nt.nom. ādittaṁ
+
+# Ādittaṁ: Neuter singular nominative of āditta (burning, past participle of ādāyati).
+
+# Ādittā: Feminine plural nominative of āditta (burning).
+
+#+html: <div class="pagebreak"></div>
+
+*Absolutive: -tvā* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.50][PDF]])
+
+#+begin_quote
+(AN 5.106) Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā
+
+ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
+
+“Kittāvatā nu kho, bhante, bhikkhu saṅghe viharanto phāsuṁ vihareyyā”ti?
+
+(MN 82) Ādīnavaṁ kāmaguṇesu disvā, Tasmā ahaṁ pabbajitomhi rāja.
+
+(SN 48.11) Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako
+
+vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ –
+
+idaṁ vuccati, bhikkhave, samādhindriyaṁ.
+#+end_quote
+
+| *yena 3*          | /(ind)/ where; wherever; in which direction; to; towards  *[ya + ena]*  /ind, adv, instr sg of ya/  |
+| *upasaṅkamati*    | /(pr)/ approaches; goes (to); visits  *[upa + saṁ + kama + ti]*  /pr/                              |
+| *abhivādetvā*     | /(abs)/ having bowed down (to); having paid high respect (to)  *[abhi + vāde + tvā]*                |
+| *ekamantaṁ 1*    | /(ind)/ to one side; aside  *[ekaṁ + anta + aṁ]*                                                   |
+| *nisīdi 1*        | /(aor)/ sat (on); sat down (in)  *[ni + sīda + i]*  /aor of nisīdati/                               |
+| *nisinna 1*       | /(pp)/ seated (in)  *[ni + sīda + na]*  /pp of nisīdati/                                            |
+| *etadavoca*       | /(aor)/ said this (to)  *[etad + avoca]*  /aor, comp vb/                                            |
+| *kittāvatā*       | /(ind)/ in what way?; to what extent?; in what respect?  *[kittāva + tā]*  /ind, adv, comp, interr/ |
+| *nu*              | /(ind)/ (adds a question mark) surely?; didn't?; wouldn't?; which?   /ind, interr/                  |
+| *phāsuṁ*         | /(ind)/ easily; comfortably  *[√phus > phās + &ast;u + uṁ], [phāsu + uṁ]*                          |
+| *ādīnava 2*       | /(masc)/ disadvantage (of); drawback (of); *[ādīnavant + a]*  /masc, from ādīna/                    |
+| *kāmaguṇa 1*      | /(masc)/ object of sensual pleasure  *[kāma + guṇa]*  /masc, comp/                                  |
+| *disvā*           | /(abs)/ having seen; having understood; having found out  *[√dis + tvā]*  /abs of √dis/             |
+| *tasmā 1*         | /(pron)/ from that  *[ta + smā]*  /pron, masc & nt abl sg of ta/                                    |
+| *ahaṁ*           | /(pron)/ I   /pron/                                                                                 |
+| *pabbajitomhi*    | /(sandhi)/ I am ordained (in); I am a monk (in)  *[pabbajito + amhi]*  /sandhi, pp + pr/            |
+| *katama*          | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/                        |
+| *samādhindriya*   | /(nt)/ power of a collected mind; faculty of mental stability  *[samādhi + indriya]*                |
+| *vossaggārammaṇa* | /(nt)/ foundation of complete relinquishment  *[vossagga + ārammaṇa]*                               |
+| *labhati 1*       | /(pr)/ gets; receives; obtains (something for)  *[labha + ti]*  /pr/                                |
+| *ekaggatā*        | /(fem)/ unification; oneness  *[eka + agga + tā]*  /fem, abstr, comp, from ekagga/                  |
+| *vuccati*         | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/                               |
+
+*Past Participle (-ta, -ita, -na)* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.62][PDF]])
+
+| bhāvita | pp. of bhāveti, √bhū + *e + ita | pamatta | pp. of pamajjati, pa + √mad + ta |
+| vutta   | pp. of vacati,  √vac + ta       | pahīna  | pp. of pajahati, pa + √hā + na   |
+
+#+begin_quote
+Cattāro satipaṭṭhānā bhāvitā bahulīkatā, satta-bojjhaṅge paripūrenti.
+
+Sabbaṁ bhikkhave ādittaṁ.
+
+Cakkhuṁ bhikkhave ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto,
+#+end_quote
+
+| *bhavati 1*    | /(pr)/ is; is being; becomes  *[bhava + ti]*  /pr/                                    |
+| *bhāveti*      | /(pr)/ cultivates; develops  *[bhāve + ti]*  /pr, caus of bhavati/                    |
+| *paripūreti 1* | /(pr)/ fills up; fills out; saturates  *[pari + pūre + ti]*  /pr, caus of paripūrati/ |
+| *paripūreti 3* | /(pr)/ fulfils; completes; accomplishes  *[pari + pūre + ti]*  /pr, caus of paripūrati/ |
+
+#+html: <div class="pagebreak"></div>
+
+*Genitive case* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.33][PDF]])
+
+#+begin_quote
+Buddho dukkhassa ghātā ca vidhātā ca hitassa me
+
+Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
+#+end_quote
+
+| *ghāta 2*  | /(masc)/ killer; executioner; slayer  *[√ghaṭ > ghāṭ + &ast;a]*            |
+| *vidhātar* | /(masc)/ Creator   /masc, agent/                                          |
+| *hita 3*   | /(nt)/ benefit (of); blessing  *[√dhā > (da)h + ita]*  /nt, pp of dahati/ |
+| *etassa 2* | /(pron)/ of this  *[eta + ssa]*  /pron, masc & nt gen sg of eta/          |
+| *kevala 1* | /(adj)/ all; whole lot; altogether; total; entire; complete   /adj/       |
+
+*Dative case* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.31][PDF]])
+
+#+begin_quote
+... upasamāya, abhiññāya, sambodhāya, nibbānāya saṁvattati.
+
+Āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi
+#+end_quote
+
+| *upasama 1*   | /(masc)/ calmness (of); tranquility (of); *[upa + √sam + a]*  /masc, abstr, from upasammati/              |
+| *abhiñña*     | /(adj)/ with direct knowledge; with realization  *[abhiññā + a]*  /adj, in comps, from abhiññā/           |
+| *sambodha*    | /(masc)/ full awakening; perfect understanding *[saṁ + √budh > bodh + &ast;a]*  /masc, from sambujjhati/ |
+| *saṁvattati* | /(pr)/ leads (to); results (in); causes  *[saṁ + vatta + ti]*  /pr/                                      |
+| *viraja*      | /(adj)/ pure; stainless; untainted  *[vi + √raj + a]*  /adj, from virajati/                               |
+| *vītamala*    | /(adj)/ stainless; spotless; without taint; blemish free  *[vīta + mala]*  /adj, comp/                    |
+
+*Locative Absolute:* noun loc. + participle loc.
+
+vacati → vutta → vutte: /Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca .../
+
+| *vutta 2.1* | /(pp)/ said; told; spoken; mentioned  *[√vac > vuc + ta]*  /pp of vacati/ |
+| *aññatara 1* | /(pron)/ a certain; a  *[añña + tara]*  /pron, from añña/ |
+| *etadavoca* | /(aor)/ said this (to)  *[etad + avoca]*  /aor, comp vb/ |
+
+*Future past participle: -tabba* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.36][PDF]])
+
+#+begin_quote
+Kammaṁ, bhikkhave, veditabbaṁ …pe… kammanirodhagāminī paṭipadā veditabbā'ti ...
+
+‘Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan’ti ... pariññātaṁ
+
+Dukkhasamudayaṁ a.s. pahātabbaṁ … pahīnaṁ
+
+Dukkhanirodhaṁ a.s. sacchikātabbaṁ … sacchikataṁ
+
+D.n.gāminī paṭipadā a.s. bhāvetabbaṁ … bhāvitaṁ
+#+end_quote
+
+| *pariññeyya 1* | /(ptp)/ should be fully understood  *[pari + √ñā + eyya]*  /ptp of parijānāti/            |
+| *pahātabba*    | /(ptp)/ should be given up (by)  *[pa + √hā + tabba]*  /ptp of pajahati/                  |
+| *sacchi*       | /(adj)/ personal; witnessing for oneself  *[sa + √akkh + i]*  /adj, in comps, from akkhi/ |
+| *bhāvetabba*   | /(ptp)/ should be cultivated; should be developed  *[bhāve + tabba]*  /ptp of bhāveti/    |
+
+#+html: <div class="pagebreak"></div>
+
+*Optative: -eyya* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.34][PDF]])
+
+The optative generally indicates that the situation is hypothetical. It is often used to imply sense of ‘it would, if’.
+
+#+begin_quote
+evaṁ bhāveyya sattavassāni
+
+na’y’idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ
+#+end_quote
+
+*Infinitive: -tuṁ* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.51][PDF]])
+
+#+begin_quote
+Kāyena vācāya va cetasā vā / Buddhe kukammaṁ pakataṁ mayā yaṁ
+
+Buddho paṭiggaṇhātu accayantaṁ / Kālantare saṁvarituṁ va buddhe
+#+end_quote
+
+| *kāya 1.1* | /(masc)/ body; physical body; physical process  *[√ci > ki > kay + &ast;a]*  /masc, from cināti/ |
+| *vācā 1* | /(fem)/ speech; words; statement; talk  *[√vac > vāc + &ast;ā]*  /fem, from vacati/ |
+| *cetas* | /(masc)/ mind; thought; intention  *[√cit > cet + &ast;as]*  /masc, mano group, from ceteti/ |
+| *ku 1* | /(prefix)/ bad; wrong   /prefix/ |
+| *pakata 1* | /(pp)/ made (by); created (by); produced (by); forged (by)  *[pa + √kar + ta]*  /pp of pakaroti/ |
+| *mayā 1* | /(pron)/ by me; with me   /pron, 1st instr sg of ahaṁ/ |
+| *paṭiggaṇhāti 2* | /(pr)/ (of an apology) accepts  *[pati + gaṇhā + ti]*  /pr/ |
+| *accaya 3* | /(masc)/ fault; offence; transgression  *[ati > aty > acc + √i > ay + &ast;a]*  /masc, from acceti/ |
+| *accayati 1* | /(pr)/ goes beyond; gets past; transcends; surpasses  *[ati > aty > acc + aya + ti]*  /pr/ |
+| *kālantara* | /(nt)/ interval, period   /nt, comp/ |
+| *saṁvarati* | /(pr)/ restrains; controls  *[saṁ + vara + ti]*  /pr/ |Dictionary definitions from DPD:*
