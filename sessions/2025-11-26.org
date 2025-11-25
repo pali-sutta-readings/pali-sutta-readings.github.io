@@ -97,7 +97,7 @@ gacchati → gacchanto, gacchamāma; viharati → viharanto; vediyati → vediya
 Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti.
 #+end_quote
 
-*Instrumental case*
+*Instrumental case: -ena, -inā, -ehi* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.30][PDF]])
 
 #+begin_quote
 Translate: The king goes to the village *with a chariot.*
@@ -164,7 +164,7 @@ idaṁ vuccati, bhikkhave, samādhindriyaṁ.
 | *ekaggatā*        | /(fem)/ unification; oneness  *[eka + agga + tā]*  /fem, abstr, comp, from ekagga/                  |
 | *vuccati*         | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/                               |
 
-*Past Participle (-ta, -ita, -na)* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.62][PDF]])
+*Past Participle: -ta, -ita, -na* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.62][PDF]])
 
 | bhāvita | pp. of bhāveti, √bhū + *e + ita | pamatta | pp. of pamajjati, pa + √mad + ta |
 | vutta   | pp. of vacati,  √vac + ta       | pahīna  | pp. of pajahati, pa + √hā + na   |
@@ -184,12 +184,14 @@ Cakkhuṁ bhikkhave ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ āditta�
 
 #+html: <div class="pagebreak"></div>
 
-*Genitive case* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.33][PDF]])
+*Genitive case: -assa, -naṁ* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.33][PDF]])
 
 #+begin_quote
 Buddho dukkhassa ghātā ca vidhātā ca hitassa me
 
 Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
+
+Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā ... apanidheyya...
 #+end_quote
 
 | *ghāta 2*  | /(masc)/ killer; executioner; slayer  *[√ghaṭ > ghāṭ + &ast;a]*            |
@@ -198,12 +200,16 @@ Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti.
 | *etassa 2* | /(pron)/ of this  *[eta + ssa]*  /pron, masc & nt gen sg of eta/          |
 | *kevala 1* | /(adj)/ all; whole lot; altogether; total; entire; complete   /adj/       |
 
-*Dative case* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.31][PDF]])
+*Dative case: -āya, -assa* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.31][PDF]])
 
 #+begin_quote
 ... upasamāya, abhiññāya, sambodhāya, nibbānāya saṁvattati.
 
 Āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi
+
+Yo pana bhikkhu bhikkhussa sāmaṁ cīvaraṁ datvā...
+
+Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya...
 #+end_quote
 
 | *upasama 1*   | /(masc)/ calmness (of); tranquility (of); *[upa + √sam + a]*  /masc, abstr, from upasammati/              |
@@ -271,3 +277,24 @@ Buddho paṭiggaṇhātu accayantaṁ / Kālantare saṁvarituṁ va buddhe
 | *accayati 1* | /(pr)/ goes beyond; gets past; transcends; surpasses  *[ati > aty > acc + aya + ti]*  /pr/ |
 | *kālantara* | /(nt)/ interval, period   /nt, comp/ |
 | *saṁvarati* | /(pr)/ restrains; controls  *[saṁ + vara + ti]*  /pr/ |Dictionary definitions from DPD:*
+
+# saṁvarituṁ: Verb, infinitive of purpose from the root var (to restrain, to cover) with the prefix saṁ- (together). "To restrain".
+# va: Indeclinable enclitic particle of emphasis, often used to connect an infinitive of purpose to its goal. "so as to", "for the sake of".
+# buddhe: Noun, masculine, locative singular of buddha. The locative indicates the sphere of action or object of restraint. "in regard to the Buddha".
+
+* Notes :noexport:
+
+https://www.grammar-monster.com/glossary/participles.htm
+
+A participle is a verb form that can be used as an adjective, to form verb
+tense, or to form a passive sentence. Here are some examples with the participle
+"polished," which comes from the verb "to polish":
+
+I like the polished surface.
+(Here, the participle is used as an adjective.)
+
+She has polished the car.
+(The participle is used with "has" to form the present perfect tense.)
+
+The car was polished yesterday.
+(The participle is used with "was" to form a passive sentence.)
