@@ -1,6 +1,6 @@
 #+author: gambhiro
 #+tags: pāli-review
-#+youtube_id:
+#+youtube_id: gpXs4idN9PY
 
 * 2025-11-26
 ** Pāli language review
@@ -92,7 +92,7 @@ Aggasmiṁ dānaṁ dadataṁ / aggaṁ puññaṁ pavaḍḍhati
 *Present participle: -ant, -māna* (See [[https://pali-sutta-readings.github.io/assets/docs/pali-lessons.pdf#section*.68][PDF]])
 
 #+begin_quote
-gacchati → gacchanto, gacchamāma; viharati → viharanto; vediyati → vediyamāna
+gacchati → gacchanto, gacchamāna; viharati → viharanto; vediyati → vediyamāna
 
 Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti.
 #+end_quote
