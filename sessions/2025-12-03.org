@@ -1,0 +1,260 @@
+#+author: gambhiro
+#+tags: chanting anatta
+#+youtube_id:
+
+* 2025-12-03
+** Ablative case examples
+
+Tasmā dade appaṭivānacitto, / Yattha dinnaṁ mahapphalaṁ; ([[https://pali-sutta-readings.github.io/readings/2025-09-30/#an-536-kaladanasutta-kale-dadanti-sapanna][2025-09-30]])
+
+Avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho...
+
+Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito
+
+Vuṭṭhahi cāyasmā mahākassapo tamhā ābādhā. ([[https://pali-sutta-readings.github.io/readings/2025-01-15/#sn-4614-pathamagilanasutta][2025-01-15]])
+
+na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. ([[https://pali-sutta-readings.github.io/readings/2025-06-18/#an-340-adhipateyya-sutta][2025-06-18]])
+
+āyasmā mahākassapo pāvāya kusināraṁ addhānamaggappaṭipanno hoti ([[https://pali-sutta-readings.github.io/readings/2025-05-21/#dn-16-mahakassapattheravatthu-excerpt][2025-05-21]])
+
+Suññato lokaṁ avekkhassu, / Mogharāja sadā sato; ([[https://pali-sutta-readings.github.io/readings/2025-09-09/#snp-516-mogharajamanavapuccha][2025-09-09]])
+
+te dhamme aniccato dukkhato ... parato palokato suññato anattato samanupassati. ([[https://pali-sutta-readings.github.io/readings/2025-09-09/#mn-64-mahamalukyasutta][2025-09-09]])
+
+** SN 22.89 Khemakasutta
+
+#+begin_quote
+Ekaṁ samayaṁ sambahulā therā bhikkhū kosambiyaṁ viharanti ghositārāme. Tena kho pana samayena \\
+āyasmā khemako badarikārāme viharati ābādhiko dukkhito bāḷhagilāno.
+
+Atha kho therā bhikkhū sāyanhasamayaṁ paṭisallānā vuṭṭhitā āyasmantaṁ dāsakaṁ āmantesuṁ: \\
+"ehi tvaṁ, āvuso dāsaka, yena khemako bhikkhu tenupasaṅkama; upasaṅkamitvā khemakaṁ bhikkhuṁ evaṁ vadehi: \\
+‘therā taṁ, āvuso khemaka, evamāhaṁsu ..."
+
+(They send Ven. Dāsaka to ask if Ven. Khemaka's pains are decreasing. \\
+Ven. Khemaka responds that no, he is not feeling better.)
+#+end_quote
+
+| *sambahula* | /(adj)/ many; numerous; plenty of  *[saṁ + √bah + u + la], [sambahu + la]*  /adj, from bahula/ |
+| *khemaka 2* | /(adj)/ at peace; who is safe  *[√khi > khe + &ast;ma + ka], [khema + ka]*  /adj, from khema/ |
+| *badarikārāma* | /(masc)/ name of a monastery neat to Kosambī  *[badarikā + ārāma]*  /masc, comp/ |
+| *ābādhika* | /(adj)/ sick; ill  *[ā + √bādh + a + ika], [ābādha + ika]*  /adj, from ābādha/ |
+| *dukkhita 1* | /(pp)/ afflicted (with); suffering (from)  *[√dukkh + ita]*  /pp of √dukkh/ |
+| *bāḷhagilāna* | /(adj)/ extremely ill; very sick; with strong illness  *[bāḷha + gilāna]*  /adj, comp/ |
+| *sāyanhasamayaṁ* | /(ind)/ in the late afternoon; in the early evening  *[sāyanha + samaya + aṁ]*    |
+| *paṭisallāna 1* | /(nt)/ privacy; seclusion; solitude  /nt, from paṭisallīyati/  |
+| *vuṭṭhita 1* | /(pp)/ risen (from); got up (from); emerged (from); *[[v] + ud + √ṭhā + ita]*  |
+| *dāsaka 1* | /(masc)/ young slave; servant-boy   /masc, dimin of dāsa/ |
+| *āmantesi* | /(aor)/ addressed; said (to); advised  *[ā + mante + si]*  /aor of āmanteti/ |
+| *ehi* | /(imp)/ come!  *[e + hi]*  /imp 2nd sg of etu/ |
+| *tvaṁ 1* | /(pron)/ you (subject)  *[tumha + aṁ > tuvaṁ > tvaṁ]*  /pron, 2nd nom sg of tumha/ |
+| *vada 1* | /(adj)/ speaking; who talks  *[√vad + a]*  /adj, from vadati/ |
+| *evamāhaṁsu* | /(sandhi)/ they said this; they spoke thus  *[evaṁ + āhaṁsu]*  /sandhi, ind + perf/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+(Dāsaka carries back the response, the Elders tell him their message) \\
+"... khemakaṁ bhikkhuṁ evaṁ vadehi: 'therā taṁ, āvuso khemaka, evamāhaṁsu — \\
+pañcime, āvuso, upādānakkhandhā vuttā bhagavatā, seyyathidaṁ — rūpupādānakkhandho ... \\
+viññāṇupādānakkhandho. Imesu āyasmā khemako pañcasu upādānakkhandhesu \\
+kiñci attaṁ vā attaniyaṁ vā samanupassatī'"ti?
+#+end_quote
+
+| *pañcasu* | /(card)/ in five; among five  *[pañca + asu]*  /card, x loc pl of pañca/ |
+| *kiñci 1* | /(ind)/ something; anything  *[ka > ki + iṁ + ci]*  /ind, from kaci/ |
+| *attaniya* | /(adj)/ one's own; belonging to oneself; fit to be a self  *[atta + [n] + iya]*  /adj, from atta/ |
+| *samanupassati 2* | /(pr)/ regards; considers; recognises (as); sees (as)  *[saṁ + anu + passa + ti]*  /pr/ |
+
+#+begin_quote
+(Dāsaka carries the message, Khemaka responds that he doesn't assume the aggregates \\
+to be self or belonging to self. Dāsaka carries back the response, the Elders respond)
+
+"... No ce kirāyasmā khemako imesu pañcasu upādānakkhandhesu kiñci attaṁ vā attaniyaṁ vā samanupassati. \\
+Tenahāyasmā khemako arahaṁ khīṇāsavo’”ti.
+#+end_quote
+
+| *kirāyasmā* | /(sandhi)/ we heard the venerable; it is said the venerable  *[kira + āyasmā]*  /sandhi, ind + masc/ |
+| *tenahāyasmā* | /(sandhi)/ therefore venerable; in that case venerable  *[tena + hi + āyasmā]*   |
+| *khīṇāsava* | /(adj)/ who has destroyed the effluents; epithet of an arahant  *[khīṇa + āsava]*  /adj, comp/ |
+
+#+begin_quote
+(Dāsako carries the message, Khemaka responds) \\
+“... Imesu khvāhaṁ, āvuso, pañcasu upādānakkhandhesu na kiñci attaṁ vā attaniyaṁ vā samanupassāmi, \\
+na camhi arahaṁ khīṇāsavo; api ca me, āvuso, pañcasu upādānakkhandhesu ‘asmī’ti adhigataṁ, \\
+‘ayamahamasmī’ti na ca samanupassāmī”ti.
+
+(Dāsako carries back the response, the Elders tell him their message) \\
+“... ‘Therā taṁ, āvuso khemaka, evamāhaṁsu — yametaṁ, āvuso khemaka, asmīti vadesi, kimetaṁ asmīti vadesi? \\
+Rūpaṁ asmīti vadesi, aññatra rūpā asmīti vadesi, vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ asmīti vadesi, \\
+aññatra viññāṇā asmīti vadesi. Yametaṁ, āvuso khemaka, asmīti vadesi. Kimetaṁ asmīti vadesī’”ti?
+#+end_quote
+
+| *khvāhaṁ* | /(sandhi)/ I indeed; I certainly  *[kho > khv + ahaṁ]*  /sandhi, ind + pron/ |
+| *api 1.1*      | /(ind)/ just; only   /ind/                                                |
+| *asmi*         | /(pr)/ I am  *[√as + mi]*  /pr 1st sg of atthi/                           |
+| *adhigata 2*   | /(pp)/ possessed (with regard to); found (in)  *[adhi + √gam + ta]*       |
+| *ayamahamasmi* | /(sandhi)/ I am this  *[ayaṁ + ahaṁ + asmi]*  /sandhi, pron + pron + pr/ |
+| *yametaṁ*     | /(sandhi)/ this; this which  *[yaṁ + etaṁ]*  /sandhi, pron + pron/       |
+| *vadeti 1*     | /(pr)/ say; speaks; calls; describes (as)  *[vade + ti]*  /pr/            |
+| *kimetaṁ*     | /(sandhi)/ what is this?  *[kiṁ + etaṁ]*  /sandhi, pron + pron, interr/  |
+| *aññatra 2*    | /(ind)/ apart (from); aside (from); other (than); *[añña + tra]*          |
+
+#+begin_quote
+(Dāsaka carries the message, Khemaka responds) \\
+“Alaṁ, āvuso dāsaka, kiṁ imāya sandhāvanikāya. Āharāvuso, daṇḍaṁ; ahameva yena therā bhikkhū
+tenupasaṅkamissāmī”ti.
+#+end_quote
+
+| *alaṁ 5* | /(ind)/ that's enough (of)!; stop (with)!   /ind, excl, acc sg of ala/ |
+| *kiṁ 1* | /(pron)/ who?; what?; which?  *[ka > ki + iṁ]*  /pron, nt nom and acc sg of ka/ |
+| *imāya* | /(pron)/ by this; with this; due to this  *[ima + āya]*  /pron, fem instr sg of ima/ |
+| *sandhāvanikā* | /(fem)/ game of running back and forth; going to and fro  *[saṁ + √dhāv + ana + ikā]*   |
+| *āharati 1.1* | /(pr)/ brings; brings back; fetches; procures (something for)  *[ā + hara + ti]*  /pr/ |
+| *daṇḍa 2* | /(masc)/ walking stick; staff   /masc/ |
+| *ahameva* | /(sandhi)/ I am just; I am even  *[ahaṁ + eva]*  /sandhi, pron + ind/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+(Ven. Khemaka meets the Elders, they repeat the question, Khemaka responds)
+
+“... Seyyathāpi, āvuso, uppalassa vā padumassa vā puṇḍarīkassa vā gandho. Yo nu kho evaṁ vadeyya: \\
+‘pattassa gandho’ti vā ‘vaṇṇassa gandho’ti vā ‘kiñjakkhassa gandho’ti vā \\
+sammā nu kho so vadamāno vadeyyā”ti? “No hetaṁ, āvuso”. \\
+“Yathā kathaṁ, panāvuso, sammā byākaramāno byākareyyā”ti? \\
+“‘Pupphassa gandho’ti kho, āvuso, sammā byākaramāno byākareyyā”ti.
+#+end_quote
+
+| *uppala 1* | /(nt)/ blue water lily; (comm) (or) aquatic flower in general   /nt/ |
+| *patta 2.4* | /(nt)/ petal   /nt/ |
+| *vaṇṇa 1.02* | /(masc)/ colour  *[√var + na]*  /masc, pp of √var/ |
+| *kiñjakkha* | /(nt)/ filament; pistil   /nt/ |
+| *sammā 3* | /(ind)/ proper; right; correct; perfect   /ind, in comps/ |
+| *vadamāna* | /(prp)/ speaking; saying  *[vada + māna]*  /prp of vadati/ |
+| *yathā 1* | /(ind)/ like; as; as per; according to; how; in whatever way  *[ya + thā]*  /ind, adv, from ya/ |
+| *kathaṁ 1* | /(ind)/ how?  *[ka + thaṁ]*  /ind, adv, interr, from ka/ |
+| *byākaramāna* | /(prp)/ answering; replying  *[vi > vy > by + ā + karo > kara + māna]*  /prp of byākaroti/ |
+| *puppha 1* | /(nt)/ flower  *[√pupph + a]*  /nt, from pupphati/ |
+
+#+begin_quote
+“Evameva khvāhaṁ, āvuso ... Api ca me, āvuso, pañcasu upādānakkhandhesu ‘asmī’ti adhigataṁ \\
+‘ayamahamasmī’ti na ca samanupassāmi. Kiñcāpi, āvuso, ariyasāvakassa pañcorambhāgiyāni saṁyojanāni \\
+pahīnāni bhavanti, atha khvassa hoti: ‘yo ca pañcasu upādānakkhandhesu anusahagato \\
+asmīti māno, asmīti chando, asmīti anusayo asamūhato.
+
+So aparena samayena pañcasu upādānakkhandhesu udayabbayānupassī viharati — iti rūpaṁ, iti rūpassa samudayo, \\
+iti rūpassa atthaṅgamo; ... iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti.
+
+Tassimesu pañcasu upādānakkhandhesu udayabbayānupassino viharato yopissa hoti pañcasu upādānakkhandhesu \\
+anusahagato ‘asmī’ti, māno ‘asmī’ti, chando ‘asmī’ti anusayo asamūhato, sopi samugghātaṁ gacchati.
+#+end_quote
+
+| *kiñcāpi* | /(sandhi)/ however much; even if; although  *[kiṁ + ca + api]*   |
+| *pañcorambhāgiya* | /(adj)/ five lower  *[pañca + orambhāgiya]*  /adj, comp/ |
+| *pahīna* | /(pp)/ abandoned; removed; given up  *[pa + √hā > hī + na]*  /pp of pajahati/ |
+| *bhavati 1* | /(pr)/ is; is being; becomes  *[bhava + ti]*  /pr/ |
+| *khvassa 1* | /(sandhi)/ for him indeed  *[kho > khv + assa]*  /sandhi, ind + pron/ |
+| *anusahagata* | /(adj)/ tiny residual; slight leftover  *[aṇu > anu + sahagata]*  /adj, comp/ |
+| *anusaya* | /(masc)/ underlying tendency (to); dormant disposition (towards);  *[anu + √sī > say + &ast;a]*   |
+| *asamūhata* | /(pp)/ not removed; not uprooted; not eradicated;  *[na > a + saṁ + ud > ū + √han + ta]*   |
+| *aparena 1* | /(ind)/ later on; afterwards  *[apara + ena]*  /ind, adv, instr sg of apara/ |
+| *udayabbayānupassī* | /(adj)/ seeing the rise and fall (of); following the appearance and disappearance (of); watching the formation and dissolution (of)  *[udayabbaya + anupassī]*  /adj, comp/ |
+| *atthaṅgama 1* | /(masc)/ disappearance (of); vanishing (of); *[atthaṁ + gama]*  /from atthaṁ gacchati/ |
+| *tassimesu* | /(sandhi)/ when he (is seeing rise and fall) in these  *[tassa + imesu]*   |
+| *viharanta* | /(prp)/ living (in); dwelling (in); remaining (in); *[vi + hara + nta]*  /prp of viharati/ |
+| *yopissa* | /(sandhi)/ whatever indeed for him;  *[yo + api + assa]*  /sandhi, pron + ind + pron/ |
+| *sopi* | /(sandhi)/ he too; that also; that even  *[so + api]*  /sandhi, pron + ind/ |
+| *samugghāta 1* | /(masc)/ eradication; extermination; destruction  *[saṁ + ud + √ghaṭ > ghāṭ + &ast;a]*   |
+| *gacchati 2* | /(pr)/ becomes  *[gaccha + ti]*  /pr/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Seyyathāpi, āvuso, vatthaṁ saṅkiliṭṭhaṁ malaggahitaṁ. Tamenaṁ sāmikā rajakassa anupadajjuṁ. \\
+Tamenaṁ rajako ūse vā khāre vā gomaye vā sammadditvā acche udake vikkhāleti.
+
+Kiñcāpi taṁ hoti vatthaṁ parisuddhaṁ pariyodātaṁ, atha khvassa hoti yeva anusahagato ūsagandho vā \\
+khāragandho vā gomayagandho vā asamūhato.
+
+Tamenaṁ rajako sāmikānaṁ deti. Tamenaṁ sāmikā gandhaparibhāvite karaṇḍake nikkhipanti. Yopissa hoti \\
+anusahagato ūsagandho vā khāragandho vā gomayagandho vā asamūhato, sopi samugghātaṁ gacchati.
+#+end_quote
+
+| *vattha 1.1* | /(nt)/ cloth; clothes; robe  *[√vas + ta]*  /nt/ |
+| *saṅkiliṭṭha* | /(pp)/ tarnished; defiled; tainted; corrupted; impure; dirty  *[saṁ + √kilis + ta]*   |
+| *malaggahita 1* | /(adj)/ stained; dirtied  *[mala + gahita]*  /adj, comp/ |
+| *tamenaṁ* | /(sandhi)/ that one; him; her; that thing; that person  *[taṁ + enaṁ]*  /sandhi, pron + pron/ |
+| *sāmika 1* | /(masc)/ owner  *[sāmī + ka]*  /masc, from sāmī/ |
+| *rajaka 2* | /(masc)/ laundryman; dyer  *[√raj + aka]*  /masc, agent, from rajati/ |
+| *anupadajjā* | /(opt)/ would give (to); would hand over (to)  /opt of anuppadāti, irreg/  |
+| *ūsa* | /(masc)/ saline cleaning salt; (comm) potash   /masc/ |
+| *khāra* | /(masc)/ lye; potash; alkaline soda; caustic   /masc/ |
+| *gomaya* | /(nt)/ cowdung; cowpat  *[go + maya]*  /nt, comp/ |
+| *sammadditvā 1* | /(abs)/ having scoured; having scrubbed together; *[saṁ + √madd + itvā]*   |
+| *accha 1.1* | /(adj)/ clean; clear; transparent  *[na > a + √chad + a]*  /adj, from na chādeti/ |
+| *udaka 1.1* | /(nt)/ water  *[√ud + aka]*  /nt/ |
+| *vikkhāleti 1* | /(pr)/ washes off (in); rinses off (in)  *[vi + khāle + ti]*  /pr/ |
+| *parisuddha 1* | /(pp)/ clean; pure; bright; perfect  *[pari + √sudh + ta]*  /pp of parisujjhati/ |
+| *pariyodāta 1* | /(pp)/ pure; clean; shiny; bright  *[pari + [y] + ava + √dā + ta]*  /pp of pariyodāyati/ |
+| *yeva* | /(sandhi)/ only; just; merely; exclusively  *[[y] + eva]*  /sandhi, letter + ind/ |
+| *deti 1* | /(pr)/ gives (to); donates (to); offers (to); hands (to)  *[de + ti]*  /pr/ |
+| *gandhaparibhāvita* | /(adj)/ scent-infused; pervaded with perfume  *[gandha + paribhāvita]*  /adj, comp/ |
+| *karaṇḍaka* | /(masc)/ wicker basket; wicker box  *[karaṇḍa + ka]*  /masc, from karaṇḍa/ |
+| *nikkhipati 3* | /(pr)/ sets aside; lays aside; keeps; saves; stores (something in)  *[ni + khipa + ti]*  /pr/ |
+
+#+begin_quote
+Evameva kho, āvuso, kiñcāpi ariyasāvakassa ... Tassa imesu pañcasu upādānakkhandhesu udayabbayānupassino \\
+viharato yopissa hoti pañcasu upādānakkhandhesu anusahagato ‘asmī’ti, māno ‘asmī’ti, chando ‘asmī’ti anusayo \\
+asamūhato, sopi samugghātaṁ gacchatī”ti.
+
+Evaṁ vutte, therā bhikkhū āyasmantaṁ khemakaṁ etadavocuṁ: “Na kho mayaṁ āyasmantaṁ khemakaṁ \\
+vihesāpekhā pucchimha, api cāyasmā khemako pahosi tassa bhagavato sāsanaṁ \\
+vitthārena ācikkhituṁ desetuṁ paññāpetuṁ paṭṭhapetuṁ vivarituṁ vibhajituṁ uttānīkātuṁ.
+#+end_quote
+
+| *vihesāpekha*   | /(adj)/ wanting to trouble; wishing to annoy; looking to irritate  *[vihesā + apekha]*  /adj, comp/      |
+| *pucchi*        | /(aor)/ asked; enquired; questioned (somebody about)  *[√pucch + i]*  /aor of pucchati/                  |
+| *pahoti 2*      | /(pr)/ is able (to); is capable (of); is qualified (to)  *[pa + ho + ti]*  /pr/                          |
+| *tassa 1*       | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/                |
+| *vitthārena 1*  | /(ind)/ in detail; in full; thoroughly  *[vitthāra + ena]*                                               |
+| *ācikkhituṁ*   | /(inf)/ to explain; to describe; to demonstrate  *[ā + √cikkh + ituṁ]*  /inf of ācikkhati/              |
+| *desetuṁ*      | /(inf)/ to preach (to); to teach (to); to explain (to)  *[dese + tuṁ]*  /inf of deseti/                 |
+| *paññāpetuṁ*   | /(inf)/ to define; to delineate; to describe  *[pa + ñāpe + tuṁ]*  /inf of paññāpeti/                   |
+| *paṭṭhapetuṁ*   | /(inf)/ to exposit; to set forth; to put forward; to lay down  *[pa + ṭhape + tuṁ]*  /inf of paṭṭhapeti/ |
+| *vivarituṁ*    | /(inf)/ to clarify; to clear up; to elucidate  *[vi + √var + ituṁ]*  /inf of vivarati/                  |
+| *vibhajituṁ 2* | /(inf)/ to analyse; to classify; to parse; to dissect  *[vi + √bhaj + ituṁ]*  /inf of vibhajati/        |
+| *uttānīkātuṁ*  | /(inf)/ to reveal; to lay open; to make plain  *[uttāna > uttānī + kātuṁ]*  /inf of uttānīkaroti/       |
+
+#+begin_quote
+Tayidaṁ āyasmatā khemakena tassa bhagavato sāsanaṁ vitthārena ācikkhitaṁ desitaṁ paññāpitaṁ \\
+paṭṭhapitaṁ vivaritaṁ vibhajitaṁ uttānīkatan”ti.
+
+Idamavoca āyasmā khemako. Attamanā therā bhikkhū āyasmato khemakassa bhāsitaṁ abhinanduṁ.
+
+Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne saṭṭhimattānaṁ therānaṁ bhikkhūnaṁ anupādāya \\
+āsavehi cittāni vimucciṁsu, āyasmato khemakassa cāti.
+#+end_quote
+
+| *tayidaṁ*    | /(sandhi)/ that so; that like this; exactly that  *[ta + [y] + idaṁ]*  /sandhi, pron + adv/   |
+| *idamavoca*   | /(sandhi)/ one said this (to)  *[idaṁ + avoca]*  /sandhi, pron + aor/                         |
+| *attamana*    | /(adj)/ pleased; happy; delighted; elated  *[atta + mana]*  /adj, comp/                        |
+| *bhāsita 1*   | /(nt)/ saying; speech; statement; utterance; talk; words  *[√bhās + ita]*  /nt, pp of bhāsati/ |
+| *abhinandi 1* | /(aor)/ delighted (in); was pleased (with); approved (of);   *[abhi + √nand + i]*              |
+| *imasmiñca 2* | /(sandhi)/ and when this  *[imasmiṁ + ca]*  /sandhi, pron + ind/                              |
+| *veyyākaraṇa* | /(nt)/ detailed exposition; one of the nine kinds of suttas  /nt, from vyākaraṇa/              |
+| *bhaññamāna*  | /(prp)/ being spoken; being told; being mentioned  *[bhañña + māna]*  /prp of bhaññati/        |
+| *saṭṭhimatta* | /(adj)/ sixty in number  *[saṭṭhi + matta]*  /adj, comp/                                       |
+| *anupādāya*   | /(ger)/ not holding (onto); not grasping (onto); *[an + upādāya]*  /ger of na upādiyati/       |
+| *āsava 1.2*   | /(masc)/ outflow; effluent; (comm) defilement  *[ā + √su > sav + &ast;a]*                      |
+| *citta 1.1*   | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                           |
+| *vimucci*     | /(aor)/ became free (from); was released (from); was liberated (from)  *[vi + mucca + i]*      |
+
+* Notes :noexport:
+
+examples for ablative
+conditional mood VS optative
+
+From Craving to Liberation, Excursions into the Thought-world of the Pali Discourses
+https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/from-craving.pdf
+
