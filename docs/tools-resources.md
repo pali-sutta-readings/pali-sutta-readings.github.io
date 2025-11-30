@@ -3,7 +3,7 @@
 - [TLTXT](https://pali-sutta-readings.github.io/tltxt/)
   - A tool to add long texts for word-by-word analysis on [tldraw.com](https://www.tldraw.com/) whiteboards
 
-## Resources
+## Applications
 
 - Anki SRS
   - <https://apps.ankiweb.net/>
@@ -30,3 +30,10 @@
 - [ChatGPT - Learn Pali (chatgpt.com)](https://chatgpt.com/g/g-N9C0Wd4To-learn-pali)
 - [Pa-Auk Society Tipitaka translation project with AI translated texts (tipitaka.paauksociety.org)](https://tipitaka.paauksociety.org/index.php)
 
+## Further reading
+
+Presentation About Sīmā
+
+- Discussion on [2025-08-19](https://pali-sutta-readings.github.io/readings/2025-08-19/#simanujanana-the-allowance-of-territories)
+- [Presentation About Sīmā by Ajahn Gavesako](https://tinyurl.com/sima-presentation) (PDF, 2023)
+- [Sima presentation NotebookLM](https://www.dropbox.com/scl/fi/kdcjt0wdojz5et2of62d3/Sima-presentation-NotebookLM.mp4?rlkey=2q8hdu0e767rxmz2pex6bh9vr&e=1&st=k6lp3pp9&dl=0)
