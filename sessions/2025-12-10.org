@@ -1,0 +1,255 @@
+#+author: gavesako
+#+tags: chanting
+#+youtube_id:
+
+* 2025-12-10
+** Iminā puññakammena...
+
+([[https://bhikkhu-manual.github.io/chants/reflections.html#imina-punna][Bhikkhu Manual]])
+
+#+begin_quote
+Iminā puññakammena upajjhāyā guṇuttarā / Ācariyūpakārā ca mātāpitā ca ñātakā
+
+Suriyo candimā rājā guṇavantā narāpi ca / Brahma-mārā ca indā ca lokapālā ca devatā
+
+Yamo mittā manussā ca majjhattā verikāpi ca
+#+end_quote
+
+| *iminā*       | /(pron)/ with this; by this  *[ima + inā]*  /pron, masc & nt instr sg of ima/                 |
+| *puññakamma*  | /(nt)/ meritorious action; good deed  *[puñña + kamma]*  /nt, comp/                           |
+| *guṇa 1.1*    | /(masc)/ quality; virtue; characteristic   /masc/                                             |
+| *uttara 2.01* | /(adj)/ higher (than); superior (to)  *[ud + tara]*  /adj, compar of ud/                      |
+| *upakāra 1*   | /(adj)/ helpful; beneficial; supportive  *[upa + √kar > kār + &ast;a]*  /adj, from upakaroti/ |
+| *ñātaka 1*    | /(masc)/ kinsman; relative; family member  *[√ñā + ta + ka]*  /masc, from ñāta/  |
+| *suriya 1*    | /(masc)/ sun  *[√sur + a + iya]*  /masc, from sūra/                               |
+| *candima 1*   | /(masc)/ moon  *[√cand + ima]*  /masc, atta group/                                            |
+| *rājā*        | /(masc)/ king; sovereign; lord; ruler  *[√rāj + a + ā]*  /masc nom sg of rāja/                |
+| *guṇavant 1*  | /(masc)/ virtuous; having good qualities  *[guṇa + vant]*  /masc, from guṇa/                  |
+| *nara*        | /(masc)/ man; person   /masc/                                                                 |
+| *inda 2*      | /(masc)/ god Inda; king of the gods   /masc/                                                  |
+| *lokapāla*    | /(masc)/ guardian of the world; world-protector  *[loka + pāla]*  /masc, comp/                |
+| *yama*        | /(masc)/ ruler of the underworld; king of death  *[√yam + a]*  /masc, from yamati/            |
+| *mitta 1*     | /(masc)/ friend  *[√mitt + a]*  /masc/                                                        |
+| *manussa*     | /(masc)/ human being; man; person  *[manu + ssa]*  /masc, from manu/                          |
+| *majjhatta 2* | /(adj)/ neutral; indifferent; disinterested  *[majjha + tta]*  /adj, from majjha/             |
+| *verika 1*    | /(adj)/ unfriendly; inimical; hostile  *[√vīr > ver + &ast;a + ika]*  /adj, from vera/        |
+| *api 1.1*     | /(ind)/ just; only   /ind/                                                                    |
+
+#+begin_quote
+Sabbe sattā sukhī hontu puññāni pakatāni me
+
+Sukhañca tividhaṁ dentu khippaṁ pāpetha vomataṁ
+#+end_quote
+
+sukhañca tividhaṁ: manussasukhaṁ, dibbasukhaṁ, nibbānasukhaṁ (Commentary)
+
+| *sabbe*      | /(pron)/ all; every; everything; everyone  *[sabba + e]*  /pron, masc nom pl of sabba/           |
+| *satta 2.1*  | /(masc)/ being; living being; creature  *[sa + tta]*  /masc/                                     |
+| *sukhī 1*    | /(adj)/ at ease; happy; comfortable  *[√sukh + a + ī], [sukha + ī]*  /adj, from sukha/           |
+| *hontu*      | /(imp)/ may they be!; they must be!  *[ho + ntu]*  /imp 3rd pl of hotu/                          |
+| *puñña 1*    | /(nt)/ merit; good deed; spiritual wealth  *[√puṇ + ya]*  /nt/                                   |
+| *pakata 1*   | /(pp)/ made (by); created (by); produced (by); forged (by)  *[pa + √kar + ta]*  /pp of pakaroti/ |
+| *sukha 2*    | /(nt)/ ease; comfort; happiness; pleasure; contentment  *[√sukh + a]*  /nt, abstr/               |
+| *tividha*    | /(adj)/ three kinds of; three-fold; three-way  *[ti + vidha]*  /adj, comp/                       |
+| *deti 1*     | /(pr)/ gives (to); donates (to); offers (to); hands (to)  *[de + ti]*  /pr/                      |
+| *khippaṁ*   | /(ind)/ quickly; rapidly; swiftly; soon  *[√khip + ra + aṁ]*  /ind, adv, acc sg of khippa/      |
+| *pāpeti 1.1* | /(pr)/ helps to reach; brings (to); leads (to)  *[pa + āpe + ti]*  /pr, caus of pāpuṇāti/        |
+| *vo 1.1*     | /(pron)/ you all (subject)   /pron, 2nd nom pl of tvaṁ/                                         |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Iminā puññakammena iminā uddissena ca
+
+Khipp'āhaṁ sulabhe ceva taṇhūpādāna-chedanaṁ
+#+end_quote
+
+| *uddissa 3* | /(nt)/ dedication  *[ud + √dis + ya]*  /nt, abstr, from uddisati/ |
+| *khippa 1* | /(adj)/ quick; fast  *[√khip + ra]*  /adj, from khipati/ |
+| *sulabha* | /(adj)/ easily obtained; easy to get; easy to find  *[su + √labh + a]*  /adj, from labha/ |
+| *ceva 1* | /(sandhi)/ only if; if just  *[ce + eva]*  /sandhi, ind + ind/ |
+| *chedana* | /(nt)/ cutting; severing; mutilating  *[√chid > ched + &ast;ana]*  /nt, act, from chindati/ |
+
+#+begin_quote
+Ye santāne hīnā dhammā yāva nibbānato mamaṁ
+
+Nassantu sabbadā yeva yattha jāto bhave bhave
+#+end_quote
+
+santāne: the continuous life stream, i.e. "in life". Appears in the commentary, e.g. /attano santāne/ "in his own life", /bodhisattasantāne/ "in the Bodhisatta's life".
+
+| *ye 1*       | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/                                       |
+| *santāna 1*  | /(masc)/ continuity; continuance; continuum  *[saṁ + √tan > tān + &ast;a]*  /masc/                                                |
+| *hīna 1*     | /(pp)/ low; inferior; deficient  *[√hā > hī + na]*  /pp of hāyati/                                                                 |
+| *dhammā*     | /(fem)/ name of an arahant nun  *[√dhar + ma + ā], [dhamma + ā]*  /fem, from dhamma/                                               |
+| *yāva 1*     | /(ind)/ as long as; as far as; so much so; up to; until; from … to   /ind, adv/                                                    |
+| *mamaṁ 3*   | /(pron)/ mine; of me  *[[m] + amha + aṁ]*  /pron, 1st gen sg of ahaṁ/                                                             |
+| *nassati 1*  | /(pr)/ perishes; ends; is destroyed  *[nassa + ti]*  /pr/                                                                          |
+| *sabbadā*    | /(ind)/ always; at all times  *[sabba + dā]*  /ind, adv, from sabba/                                                               |
+| *yeva*       | /(sandhi)/ only; just; merely; exclusively  *[[y] + eva]*  /sandhi, letter + ind/                                                  |
+| *yattha*     | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/                                                        |
+| *jāta 1*     | /(pp)/ born; born (in); born (from)  *[√jan > jā + ta]*  /pp of jāyati/                                                            |
+| *bhava 3*    | /(masc)/ state of existence; form of becoming  *[√bhū > bhav + &ast;a]*  /masc, from bhavati/                                      |
+
+#+begin_quote
+Ujucittaṁ satipaññā sallekho viriyamhinā
+
+Mārā labhantu nokāsaṁ kātuñca viriyesu me
+#+end_quote
+
+| *uju 1*      | /(adj)/ straight; upright; erect  *[√uj + u]*  /adj/                                       |
+| *citta 1.1*  | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                       |
+| *satipaññā*  | /(fem)/ mindfulness and wisdom; awareness and understanding  *[sati + paññā]*  /fem, comp/ |
+| *sallekha 1* | /(masc)/ effacing; erasing; slowly grinding away  *[saṁ + √likh > lekh + &ast;a]*         |
+| *viriya*     | /(nt)/ effort; energy; might; power  *[√vīr + iya]*  /nt/                                  |
+| *amhinā*     | /(pron)/ instr. of ahaṁ, "by me"                                                          |
+| *labhati 1*  | /(pr)/ gets; receives; obtains (something for)  *[labha + ti]*  /pr/                       |
+| *okāsa 2*    | /(masc)/ opportunity; chance  *[ava + √kās + a]*  /masc, from okāsati/                     |
+| *kātuṁ 1*   | /(inf)/ to do; to perform  *[√kar + tuṁ]*  /inf of karoti/                                |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Buddhādhipavaro nātho dhammo nātho varuttamo
+
+Nātho paccekabuddho ca saṅgho nāthottaro mamaṁ
+
+Tesottamānubhāvena mārokāsaṁ labhantu mā
+
+[Dasapuññānubhāvena mārokāsaṁ labhantu mā]
+#+end_quote
+
+(Some monasteries include the last line in brackets.)
+
+| *adhipa*        | /(masc)/ ruler; master; person in charge  *[adhi + √pat + i]*  /abbrev of adhipati/                  |
+| *vara 1*        | /(adj)/ excellent; best; foremost  *[√var + a]*  /adj/                                               |
+| *nātha*         | /(masc)/ protector; lord; refuge (of)  *[√nāth + a]*  /masc, agent, from nāthati/                    |
+| *varuttama*     | /(adj)/ foremost ultimate; excellent supreme  *[vara + uttama]*  /adj, comp/                         |
+| *paccekabuddha* | /(masc)/ privately awakened Buddha  *[pacceka + buddha]*  /masc, comp/                               |
+| *uttara 2.01*   | /(adj)/ higher (than); superior (to)  *[ud + tara]*  /adj, compar of ud/                             |
+| *tesaṁ 2*      | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ta/ |
+| *uttama 1*      | /(adj)/ best; highest; ultimate; supreme; top  *[ud + tama]*  /adj, superl of ud/                    |
+| *ānubhāva 2*    | /(masc)/ power; ability  *[anu > ānu + √bhū > bhāv + &ast;a + &ast;a]*                               |
+| *okāsa 2*       | /(masc)/ opportunity; chance  *[ava + √kās + a]*  /masc, from okāsati/                               |
+| *mā 1.1*        | /(ind)/ do not; may one not; don't let   /ind/                                                       |
+
+*** Origin
+
+The origin of the Pāli text is not known but while King Mongkut did compose some chants, contrary to common belief the 'Iminā puññakammena' was not composed by him, and it is probably an older chant.
+
+The Thai translation [[https://suanmokkh-idh.org/idh-downloads.html][was made by Ajahn Buddhadāsa]] at Suan Mokkh, along with the Thai translation of the morning and evening chanting, these translations has spread in Thailand with the Suan Mokkh chanting book.
+
+- [[http://digital.nlt.go.th/dlib/items/show/4871][สวดมนต์พระราชนิพนธ์ในพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รวมครั้งที่๑ · D-Library | National Library of Thailand]]
+
+Chanting compositions by King Mongkut Rama IV (1804-1868) published in 1924, but the abstract doesn't list the Uddissanādhiṭṭhāna-gāthā.
+
+Chantings, the royal compositions of King Rama IV (1924)
+
+#+begin_quote
+Abstract: The Pali language prayers (with translations) currently used by both monks and laity are mostly composed by King Rama IV in the first edition. There are 8 stories: Namokāratthaka, Tirattanapanamakatha, Morning and Evening Prayers, Mokkhupaiyakatha, Ovādapatimokkhadipatha, Trānattyapabhavabhivanakatha, Devatapattidanakatha, Sappapatidanakatha.
+#+end_quote
+
+The /Pirit Potha/ ("The Book of Protection") and /Catubhāṇavārapāḷi/ ("Text of the Four Recitals", 5th century CE, Sri Lanka) also do not contain the 'Iminā puññakammena' chant.
+
+- [[https://www.accesstoinsight.org/lib/authors/piyadassi/protection.html][The Book of Protection: Paritta]]
+- [[https://www.wisdomlib.org/buddhism/essay/catu-bhanavara-pali-critical-study][The Catu-Bhanavara-Pali (critical study)]]
+- [[https://ancient-buddhist-texts.net/Buddhist-Texts/X1-Catubhanavarapali/index.htm][Catubhāṇavārapāḷi (Ven. Ānandajoti's edition)]]
+- [[https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B2%E0%B8%A3][Catubhanavarapali (Thai)]]
+
+#+html: <div class="pagebreak"></div>
+
+** Caṅkama (walking meditation)
+
+#+begin_quote
+(AN 5.29) Pañcime, bhikkhave, caṅkame ānisaṁsā. Katame pañca?
+
+Addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṁ pītaṁ khāyitaṁ
+
+sāyitaṁ sammā pariṇāmaṁ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti.
+
+Ime kho, bhikkhave, pañca caṅkame ānisaṁsā”ti.
+#+end_quote
+
+| *caṅkama 1* | /(masc)/ walking meditation; walking up and down (in meditation)  *[caṅkama + a]*   |
+| *ānisaṁsa 1* | /(masc)/ profit (in); benefit (in); advantage (of); good result (of)  *[ā + ni + √saṁs + a]*  /masc/ |
+| *katama* | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/ |
+| *addhānakkhama* | /(adj)/ able to endure a journey  *[addhāna + khama]*  /adj, comp/ |
+| *padhānakkhama* | /(adj)/ capable of striving; able to make an effort; fit for exertion  *[padhāna + khama]*  /adj, comp/ |
+| *appābādha* | /(adj)/ well; healthy; seldom sick  *[appa + ābādha]*  /adj, comp/ |
+| *asita 1.1* | /(pp)/ eaten  *[√as + ita]*  /pp of asati/ |
+| *pīta 1.1* | /(pp)/ drunk  *[√pā > pī + ta]*  /pp of pivati/ |
+| *khāyita 1* | /(pp)/ chewed (by); bitten (by); gnawed (by)  *[√khād > khāy + ita]*  /pp of khādati/ |
+| *sāyita 1* | /(pp)/ tasted; savoured  *[√sāy + ita]*  /pp of sāyati/ |
+| *sammā 1* | /(ind)/ completely; thoroughly; fully; totally   /ind, adv/ |
+| *pariṇāma 1* | /(masc)/ (of food) digestion  *[pari + ṇāme + a]*  /masc, from pariṇāmeti/ |
+| *caṅkamādhigata* | /(adj)/ achieved by walking meditation; acquired on the walking path  *[caṅkama + adhigata]*  /adj, comp/ |
+| *ciraṭṭhitika* | /(adj)/ long lasting; enduring  *[cira + ṭhitika]*  /adj, comp/ |
+
+#+begin_quote
+(AN 7.61) “Pacalāyasi no tvaṁ, moggallāna, pacalāyasi no tvaṁ, moggallānā”ti? “Evaṁ, bhante”.
+
+... No ce te evaṁ viharato taṁ middhaṁ pahīyetha, tato tvaṁ, moggallāna,
+
+pacchāpuresaññī caṅkamaṁ adhiṭṭhaheyyāsi antogatehi indriyehi abahigatena mānasena.
+
+Ṭhānaṁ kho panetaṁ vijjati yaṁ te evaṁ viharato taṁ middhaṁ pahīyetha.
+#+end_quote
+
+| *pacalāyati* | /(pr)/ nods off; dozes off  *[pa + calāya + ti]*  /pr, deno of pacala/ |
+| *no 1.2* | /(ind)/ (adds a question mark) surely?; didn't?; isn't it?; definitely   /ind, interr/ |
+| *middha 1* | /(nt)/ drowsiness; sluggishness; lethargy   /nt, abstr/ |
+| *pahīyati 1.1* | /(pr)/ is abandoned; is given up  *[pa + hīya + ti]*  /pr, pass of pajahati/ |
+| *tato 1* | /(pron)/ from that; therefrom; from him  *[ta + to]*  /pron, abl sg of ta/ |
+| *pacchāpuresaññī* | /(adj)/ continuously aware; present and mindful  *[pacchā + pure + saññī]*  /adj, comp/ |
+| *adhiṭṭhahati 2* | /(pr)/ determines; resolves; fixes one's attention (on)  *[adhi + ṭhaha + ti]*  /pr/ |
+| *antogata 1* | /(adj)/ internally focused  *[anto + gata]*  /adj, comp/ |
+| *indriya 1* | /(nt)/ sense; mental faculty; power  *[indra + iya]*  /nt, abstr, from indra/ |
+| *abahigata* | /(adj)/ not distracted; not wandering externally  *[na > a + bahi + gata]*  /adj, comp/ |
+| *mānasa 1* | /(adj)/ of such mind; with such a heart; having such intention  *[√man > mān + as + &ast;a]*  |
+| *ṭhānaṁ* | /(ind)/ it is possible; it is likely  *[√ṭhā + ana + aṁ], [ṭhāna + aṁ]*  /ind, adv, acc sg of ṭhāna/ |
+| *panetaṁ* | /(sandhi)/ and this; but this  *[pana + etaṁ]*  /sandhi, ind + pron/ |
+| *vijjati 2* | /(pr)/ is possible; is plausible  *[vijja + ti]*  /pr, pass of vindati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+(SN 35.120) Kathañcāvuso, jāgariyaṁ anuyutto hoti?
+
+Idhāvuso, bhikkhu divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.
+
+Rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.
+
+Rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeti pāde pādaṁ accādhāya sato sampajāno,
+
+uṭṭhānasaññaṁ manasi karitvā.
+
+Rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.
+
+Evaṁ kho, āvuso, jāgariyaṁ anuyutto hoti.
+#+end_quote
+
+| *kathaṁ 1*    | /(ind)/ how?  *[ka + thaṁ]*  /ind, adv, interr, from ka/                                            |
+| *jāgariya*     | /(nt)/ being awake; wakefulness; lucidity  *[√jāgar + iya]*  /nt, abstr, from jāgara/                |
+| *anuyutta 1*   | /(pp)/ devoted (to); applied oneself (to); practised; doing  *[anu + √yuj + ta]*  /pp of anuyuñjati/ |
+| *idhāvuso*     | /(sandhi)/ here friend; now brothers; in this case brethren  *[idha + āvuso]*  /sandhi, adv + masc/  |
+| *divasaṁ*     | /(ind)/ by day; during the day; for a day  *[√div + asa + aṁ]*                                      |
+| *nisajjā 1*    | /(fem)/ sitting; sitting down  *[ni + √sad + ya + ā], [nisajja + ā]*  /fem, from nisajja/            |
+| *āvaraṇīya*    | /(ptp)/ obstructive; impeding; hindering  *[ā + √var + aṇīya]*  /ptp of āvareti/                     |
+| *citta 1.1*    | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                                 |
+| *parisodheti*  | /(pr)/ cleans; purifies (something of)  *[pari + sodhe + ti]*  /pr, caus of parisujjhati/            |
+| *ratti*        | /(fem)/ night   /fem, irreg/                                                                         |
+| *paṭhamaṁ 1*   | /(ind)/ first; firstly; at first; first of all  *[pa + √ṭhā + ma + aṁ]*                              |
+| *yāma 1*       | /(masc)/ watch (of the night); one eighth of the day; about three hours  *[√yam > yām + &ast;a]*     |
+| *dakkhiṇa 1*   | /(adj)/ right (hand side)  *[√dakkh + iṇa]*  /adj/                                                   |
+| *passena*      | /(ind)/ on the side  *[passa + ena]*  /ind, adv, instr sg of passa/                                  |
+| *sīhaseyyā*    | /(fem)/ sleeping posture of a lion  *[sīha + seyyā]*  /fem, comp/                                    |
+| *kappeti 4*    | /(pr)/ (of a sleeping posture or seat) adopts; takes up; lies down (in); sits (on)  *[kappe + ti]*   |
+| *pāda 1*       | /(masc)/ foot  *[√pad > pād + &ast;a]*  /masc, from pajjati/                                         |
+| *accādhāya*    | /(ger)/ overlapping; placing one on top of another  *[ati > aty > acc + ā + √dhā + ya]*              |
+| *sata 1.1*     | /(pp)/ mindful; present; attentive  *[√sar + ta]*  /pp of sarati/                                    |
+| *sampajāna 1*  | /(adj)/ clearly aware; fully knowing; completely comprehending  *[saṁ + pa + jānā + a]*             |
+| *uṭṭhānasaññā* | /(fem)/ notion of waking up; wake up time  *[uṭṭhāna + saññā]*  /fem, abstr, comp/                   |
+| *manasi*       | /(masc)/ in mind  *[√man + as + i], [manas + i]*  /masc, loc sg of manas, mano group/                |
+| *karitvā 1*    | /(abs)/ having done; having performed  *[√kar + itvā]*  /abs of karoti/                              |
+| *pacchima 1*   | /(adj)/ last; final  *[pacchā + ima]*  /adj, superl of pacchā/                                       |
+| *paccuṭṭhāya*  | /(ger)/ rising; getting out of bed  *[pati > paty > pacc + ud + √ṭhā + ya]*  /ger of paccuṭṭhāti/    |
