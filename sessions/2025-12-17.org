@@ -235,8 +235,7 @@ eye with its force of intoxication with form and so forth, because the origin
 has been abandoned;
 
 #+begin_quote
-(SN 45.171) Cattārome, bhikkhave, oghā. Katame cattāro? Kāmogho, bhavogho, diṭṭhogho, avijjogho.
-
+(SN 45.171) Cattārome, bhikkhave, oghā. Katame cattāro? Kāmogho, bhavogho, diṭṭhogho, avijjogho. \\
 Related: kāmāsava, bhavāsava, diṭṭhāsava, avijjāsa
 #+end_quote
 
@@ -248,7 +247,5 @@ Related: kāmāsava, bhavāsava, diṭṭhāsava, avijjāsa
 Dhammapada verse by bringing in the simile of the firm post at the city gate:
 
 #+begin_quote
-(Dhp 95) Indakhīlūpamo tādi subbato
-
-who is steadfast and well conducted like the pillar at the city gate.
+(Dhp 95) Indakhīlūpamo tādi subbato: who is steadfast and well conducted like the pillar at the city gate.
 #+end_quote
