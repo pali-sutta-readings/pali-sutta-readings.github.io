@@ -4,80 +4,245 @@
 * 2025-12-17
 ** Snp 1.12 Munisutta
 
-Santhavāto bhayaṁ jātaṁ,
-niketā jāyate rajo;
-Aniketamasanthavaṁ,
-etaṁ ve munidassanaṁ.
+([[https://suttacentral.net/snp1.12/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.4.0.0.0.0.11.m|dpr://k.4.0.0.1.11.0.a.][Comm]])
 
-Yo jātamucchijja na ropayeyya,
-Jāyantamassa nānuppavecche;
-Tamāhu ekaṁ muninaṁ carantaṁ,
-Addakkhi so santipadaṁ mahesi.
+#+begin_quote
+Santhavāto bhayaṁ jātaṁ, / niketā jāyate rajo;
 
-Saṅkhāya vatthūni pamāya bījaṁ,
-Sinehamassa nānuppavecche;
-Sa ve munī jātikhayantadassī,
-Takkaṁ pahāya na upeti saṅkhaṁ.
+Aniketamasanthavaṁ, / etaṁ ve munidassanaṁ.
+#+end_quote
 
-Aññāya sabbāni nivesanāni,
-Anikāmayaṁ aññatarampi tesaṁ;
-Sa ve munī vītagedho agiddho,
-Nāyūhatī pāragato hi hoti.
+| *santhavāto*  | /(nt)/ from intimacy; due to close association  *[santhava + to]*  /nt abl sg of santhava/ |
+| *bhaya 3*     | /(nt)/ danger (of; from); peril (of; from)  *[√bhī > bhay + &ast;a]*  /nt, from bhāyati/   |
+| *niketa*      | /(nt)/ home; house  *[ni + √kit > ket + &ast;a]*  /nt/                                     |
+| *jāyate*      | /(pr)/ is born (in); comes into being (from)  *[jāya + te]*  /pr, reflx 3rd sg of jāyati/  |
+| *rajas 2*     | /(masc)/ dust; dirt  *[√raj + as]*  /masc, mano group, from rajati/                        |
+| *aniketa*     | /(adj)/ homeless  *[na > an + ni + √kit > ket + &ast;a]*  /adj, from na keta/              |
+| *ve*          | /(ind)/ indeed; truly; really   /ind, emph/                                                |
+| *munidassana* | /(nt)/ insight of the sage; realization of the Buddha  *[muni + dassana]*  /nt, comp/      |
 
-Sabbābhibhuṁ sabbaviduṁ sumedhaṁ,
-Sabbesu dhammesu anūpalittaṁ;
-Sabbañjahaṁ taṇhakkhaye vimuttaṁ,
-Taṁ vāpi dhīrā muni vedayanti.
+(Commentary) Origin story: a mother and son ordained together after losing the
+father. The mother, obtaining something, would bring it to her son, and the son
+likewise to his mother, this way they met frequently and became very intimate.
 
-Paññābalaṁ sīlavatūpapannaṁ,
-Samāhitaṁ jhānarataṁ satīmaṁ;
-Saṅgā pamuttaṁ akhilaṁ anāsavaṁ,
-Taṁ vāpi dhīrā muni vedayanti.
+Their minds were overcome with passion, the perception of being renunciants and
+the perception of mother and son disappeared. They engaged in immoral conduct,
+and having fallen away from the state of honor, they lived together in a household.
 
-Ekaṁ carantaṁ munimappamattaṁ,
-Nindāpasaṁsāsu avedhamānaṁ;
-Sīhaṁva saddesu asantasantaṁ,
-Vātaṁva jālamhi asajjamānaṁ;
-Padmaṁva toyena alippamānaṁ,
-Netāramaññesamanaññaneyyaṁ;
-Taṁ vāpi dhīrā muni vedayanti.
+Tattha *santhavo* taṇhādiṭṭhimittabhedena tividhoti pubbe vutto. Idha taṇhādiṭṭhisanthavo adhippeto.
+*Jāyate rajo'ti* rāgadosamoharajo jāyate.
 
-Yo ogahaṇe thambhorivābhijāyati,
-Yasmiṁ pare vācāpariyantaṁ vadanti;
-Taṁ vītarāgaṁ susamāhitindriyaṁ,
-Taṁ vāpi dhīrā muni vedayanti.
+Therein, *'intimacy'* is of three types according to the division into craving,
+views, and friendship, as was stated before. Here, intimacy of craving and views
+is intended. *'Dust is born/arises*' means: the dust of greed, hatred, and
+delusion arises.
 
-Yo ve ṭhitatto tasaraṁva ujju,
-Jigucchati kammehi pāpakehi;
-Vīmaṁsamāno visamaṁ samañca,
-Taṁ vāpi dhīrā muni vedayanti.
+#+begin_quote
+Yo jātamucchijja na ropayeyya, / Jāyantamassa nānuppavecche;
 
-Yo saññatatto na karoti pāpaṁ,
-Daharo majjhimo ca muni yatatto;
-Arosaneyyo na so roseti kañci,
-Taṁ vāpi dhīrā muni vedayanti.
+Tamāhu ekaṁ muninaṁ carantaṁ, / Addakkhi so santipadaṁ mahesi.
+#+end_quote
 
-Yadaggato majjhato sesato vā,
-Piṇḍaṁ labhetha paradattūpajīvī;
-Nālaṁ thutuṁ nopi nipaccavādī,
-Taṁ vāpi dhīrā muni vedayanti.
+| *ucchijja*       | /(ger)/ cutting off; hacking up; destroying  *[ud + √chid + ya]*  /ger of ucchindati/ |
+| *ropayati*       | /(pr)/ plants; grows; cultivates  *[ropaya + ti]*  /pr, caus of ruhati/               |
+| *assa 4.1*       | /(pron)/ to him; for him  *[ima + ssa]*  /pron, masc & nt dat sg of ima/              |
+| *anuppavecchati* | /(pr)/ gives; bestows; offers support  *[anu + pa + veccha + ti]*  /pr/               |
+| *tamāhu*         | /(sandhi)/ they call that  *[taṁ + āhu]*  /sandhi, pron + perf/                      |
+| *caranta 1*      | /(prp)/ walking; wandering; roaming about  *[cara + nta]*  /prp of carati/            |
+| *addakkhi*       | /(aor)/ saw  *[a + dakkha + i]*  /aor of dakkhati/                                    |
+| *santipada*      | /(nt)/ state of peace; tranquillity; epithet of Nibbāna  *[santi + pada]*  /nt, comp/ |
+| *mahesi*         | /(masc)/ great sage; mighty seer  *[mahā + isi]*  /masc, comp/                        |
 
-Muniṁ carantaṁ virataṁ methunasmā,
-Yo yobbane nopanibajjhate kvaci;
-Madappamādā virataṁ vippamuttaṁ,
-Taṁ vāpi dhīrā muni vedayanti.
+#+html: <div class="pagebreak"></div>
 
-Aññāya lokaṁ paramatthadassiṁ,
-Oghaṁ samuddaṁ atitariya tādiṁ;
-Taṁ chinnaganthaṁ asitaṁ anāsavaṁ,
-Taṁ vāpi dhīrā muni vedayanti.
+#+begin_quote
+Saṅkhāya vatthūni pamāya bījaṁ, / Sinehamassa nānuppavecche;
 
-Asamā ubho dūravihāravuttino,
-Gihī dāraposī amamo ca subbato;
-Parapāṇarodhāya gihī asaññato,
-Niccaṁ munī rakkhati pāṇine yato.
+Sa ve munī jātikhayantadassī, / Takkaṁ pahāya na upeti saṅkhaṁ.
+#+end_quote
 
-Sikhī yathā nīlagīvo vihaṅgamo,
-Haṁsassa nopeti javaṁ kudācanaṁ;
-Evaṁ gihī nānukaroti bhikkhuno,
-Munino vivittassa vanamhi jhāyatoti.
+| *saṅkhāya 1* | /(ger)/ understanding; comprehending; reckoning  *[saṁ + √khā + ya]*  /ger of saṅkhāyati/   |
+| *vatthu 2*   | /(nt)/ site; location; base; grounds  *[√vas + tu]*  /nt, from vasati/                       |
+| *pamāya*     | /(ger)/ measuring; evaluating; appraising  *[pa + √mā + ya]*  /ger of pamiṇāti/              |
+| *pamaddati*  | /(pr)/ crushes down, defeats, overcomes  *[pa + madda +]*  /pr/                              |
+| *bīja 1*     | /(nt)/ seed; germ   /nt/                                                                     |
+| *sineha 1*   | /(masc)/ moisture; fluid; wetness  *[√snih > sineh + &ast;a]*  /masc/                        |
+| *khayanta 1* | /(masc)/ wearing away and ending  *[khaya + anta]*  /masc, comp/                             |
+| *dassī 1*    | /(adj)/ seeing; perceiving; knowing *[dassa + ī]*  /adj, in comps/                           |
+| *takka 1.1*  | /(masc)/ thought; reasoning; conjecture  *[√takk + a]*  /masc, from takketi/                 |
+| *pahāya 1*   | /(ger)/ leaving behind; giving up; abandoning  *[pa + √hā + ya]*  /ger of pajahati/          |
+| *upeti 2*    | /(pr)/ enters; gets involved (with); engages (in)  *[upa + e + ti]*  /pr/                    |
+| *saṅkhā 2*   | /(fem)/ definition; classification; concept *[saṁ + √khā + ā]*  /fem, abstr, from saṅkhāti/ |
+
+(See also: [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-09.html][Sermon 9]])
+
+*Vatthūnī'ti* yesu evamayaṁ loko sajjati, tāni khandh'āyatana'dhātu'bhedāni kilesa'ṭṭhānāni.
+
+*'Ground'*: those foundations of defilement, divided into aggregates,
+sense-bases, and elements, to which this world clings.
+
+*Pamāya bījan'ti* yaṁ tesaṁ vatthūnaṁ bījaṁ abhisaṅkhāraviññāṇaṁ, taṁ pamāya
+hiṁsitvā, bādhitvā, samucchedappahānena pajahitvāti attho.
+
+*'Crushing the seed'* means: that seed of those foundations - namely, the
+volitional consciousness - having crushed it, having oppressed it, having
+abandoned it through abandonment by cutting off.
+
+#+begin_quote
+(AN 3.76) kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho
+#+end_quote
+
+Kamma is the field, consciousness the seed, craving is the moisture
+
+#+begin_quote
+(Snp 2.1) Te khīṇabījā avirūḷhichandā, / Nibbanti dhīrā yathāyaṁ padīpo;
+#+end_quote
+
+They, with no seed, no desire for growth, enlightened, go out like this flame.
+
+#+begin_quote
+(SN 22.54) Rūpupayaṁ, bhikkhave, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ
+rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya.
+#+end_quote
+
+“Should consciousness, when standing, stand attached to (a physical) form,
+supported by form (as its object), landing on form, watered with delight, it
+would exhibit growth, increase, & proliferation.
+
+| *rūpupaya*      | /(adj)/ attached to form; attracted to form; engaged with matter  *[rūpa + upaya]*  /adj, comp/ |
+| *tiṭṭhamāna*     | /(prp)/ standing; remaining  *[tiṭṭha + māna]*  /prp of tiṭṭhati/                                 |
+| *tiṭṭheyya*      | /(opt)/ should remain; should persist; should continue  *[tiṭṭha + eyya]*  /opt of tiṭṭhati/      |
+| *rūpārammaṇa*   | /(adj)/ based on form; founded on the material  *[rūpa + ārammaṇa]*  /adj, comp/                |
+| *rūpappatiṭṭha*  | /(adj)/ with form as a support; establish on matter  *[rūpa + patiṭṭha]*  /adj, comp/            |
+| *nandūpasecana* | /(adj)/ sprinkled with delight; nourished by enjoyment  *[nandi + upasecana]*  /adj, comp/      |
+| *vuddhi 1*      | /(fem)/ growth (of); increase (of); development (of)  *[√vaddh > vuddh + ti]*                   |
+| *virūḷhi*       | /(fem)/ growth; increase; sprouting; development;  /fem, abstr, from virūhati/                  |
+| *vepulla 1*     | /(nt)/ expansion; full development; maturity  *[vi > ve + √pul + a + &ast;ya]*                  |
+| *āpajjati 2*    | /(pr)/ arouses; exhibits; produces; brings into being  *[ā + pajja + ti]*  /pr/                 |
+
+#+html: <div class="pagebreak"></div>
+
+*Sinehamassa nānuppavecche'ti* yena taṇhādiṭṭhisinehena sinehitaṁ taṁ bījaṁ āyatiṁ \\
+paṭisandhivasena taṁ yathāvuttaṁ vatthusassaṁ viruheyya...
+
+*'He wouldn't nurture them with moisture'* means: [lest] that seed, moistened by \\
+the moisture of craving and views, should grow in the future through rebirth...
+
+*Takkaṁ pahāya na upeti saṅkhaṁ:* "Lets go of logic and comes not within reckoning."
+
+Here the reckoning is to be understood in terms of the four propositions of the tetralemma. \\
+Such reckonings are based on a total misconception of the phenomenon of fire. (Ñāṇananda)
+
+#+begin_quote
+Aññāya sabbāni nivesanāni, / Anikāmayaṁ aññatarampi tesaṁ;
+
+Sa ve munī vītagedho agiddho, / Nāyūhatī pāragato hi hoti.
+#+end_quote
+
+| *aññāya 1* | /(ger)/ knowing; understanding; comprehending  *[ā + √ñā + ya]*  /ger of ājānāti/ |
+| *nivesana 1* | /(nt)/ house; home  *[ni + √vis > ves + &ast;ana]*  /nt, from niveseti/ |
+| *anikāmayanta* | /(prp)/ not desiring; not craving; not attracted (to);  *[na > a + ni + kāmaya + nta]*   |
+| *aññatara 3* | /(pron)/ another; further; next  *[añña + tara]*  /pron, from añña/ |
+| *tesaṁ 2* | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ta/ |
+| *vītagedha* | /(adj)/ without greed; without craving  *[vīta + gedha]*  /adj, comp/ |
+| *agiddha* | /(pp)/ without greed; without desire  *[na > a + √gidh + ta]*  /pp of na gijjhati/ |
+| *nāyūhatī* | /(pr)/ one does not strive; one does not strain; *[na + ā + yūha + ti > nāyūhatī]*   |
+| *pāragata* | /(adj)/ gone beyond; reached the far shore; crossed over; epithet of an arahant  *[pāra + gata]*  |
+
+*Nivesanānī'ti* kāmabhavādike bhave. nivasanti hi tesu sattā, tasmā “nivesanānī”ti vuccanti.
+
+*'Dwellings/abodes'* means: in existences such as the sensual realm and the realm of form. For beings dwell in these, therefore they are called 'dwellings'.
+
+#+begin_quote
+(Snp 4.3) Diṭṭhīnivesā na hi svātivattā "Because entrenchments in views aren't easily overcome"
+#+end_quote
+
+*Nāyūhatī'ti* tassa tassa nivesanassa nibbattakaṁ kusalaṁ vā akusalaṁ vā na karoti.
+
+*'Doesn't struggle'* means: he does not perform either wholesome or unwholesome
+[kamma] that produces this or that dwelling.
+
+#+begin_quote
+... Yo ve ṭhitatto tasaraṁva ujju, / Jigucchati kammehi pāpakehi;
+
+Vīmaṁsamāno visamaṁ samañca, / Taṁ vāpi dhīrā muni vedayanti.
+#+end_quote
+
+Origin story: a merchant's daughter in Sāvatthī gained insight by contemplating
+a weaver's shuttle as a symbol of straightness/honesty, "May all beings, be
+straight in mind like the shuttle!"
+
+| *ṭhitatta 1.1* | /(adj)/ who is stable; with a stable mind; self-controlled  *[ṭhita + atta]*  /adj, comp/         |
+| *tasara*       | /(nt)/ shuttle; spindle   /nt/                                                                    |
+| *ujju 1*       | /(adj)/ straight running; straight-up; well-trained; (comm) not going crooked  *[√uj + u]*  /adj/ |
+| *jigucchati 1* | /(pr)/ detests; is disgusted (by); gets sick (of); *[jiguccha + ti]*                              |
+| *vīmaṁsamāna* | /(prp)/ investigating; examining; testing; scrutinizing  *[vīmaṁsa + māna]*                      |
+| *visama 3*     | /(adj)/ (morally) unsuitable; wrong; out of tune  *[vi + sama]*  /adj, from sama/                 |
+| *sama 1.1*     | /(adj)/ level; even; balanced   /adj/                                                             |
+| *vāpi 1*       | /(sandhi)/ or even  *[vā + api]*  /sandhi, ind + ind/                                             |
+| *dhīra 2.2*    | /(masc)/ wise man; sage; intelligent person  *[√dhī + ra]*  /masc/                                |
+| *vedayati 2*   | /(pr)/ informs; points out; makes known  *[vedaya + ti]*  /pr/                                    |
+
+#+html: <div class="pagebreak"></div>
+
+*tasaraṁva uju*, hirottappasampannattā. Straight as a shuttle = who has conscience and concern. \\
+Aj Thanissaro: having a mind unprejudiced by desire, aversion, delusion, or fear.
+
+#+begin_quote
+(AN 4.19) Cattārimāni, bhikkhave, nāgatigamanāni. Katamāni cattāri? Na chandāgatiṁ gacchati, \\
+na dosāgatiṁ gacchati, na mohāgatiṁ gacchati, na bhayāgatiṁ gacchati.
+#+end_quote
+
+| *nāgatigamana* | /(nt)/ not acting wrongly  *[na + agati + gamana]*  /nt, act, comp/ |
+
+*visamaṁ samaṁ:* uneven and even, out-of-tune and in-tune (AN 6.55) Ven. Soṇa and the lute strings
+
+#+begin_quote
+... Aññāya lokaṁ paramatthadassiṁ, / Oghaṁ samuddaṁ atitariya tādiṁ;
+
+Taṁ chinnaganthaṁ asitaṁ anāsavaṁ, / Taṁ vāpi dhīrā muni vedayanti.
+#+end_quote
+
+| *paramatthadassī* | /(adj)/ seeing the ultimate goal; understanding the highest truth  *[paramattha + dassī]*  |
+| *ogha 1* | /(masc)/ (of water) flood; deluge; torrent   /masc/ |
+| *samudda* | /(masc)/ sea; ocean  *[saṁ + √ud + ra]*  /masc, from samuddati/ |
+| *atitariya* | /(ger)/ crossing over; going beyond; surpassing  *[ati + √tar + iya]*  /ger of atitarati/ |
+| *tādi* | /(adj)/ such; of such character; of such quality; like; kind of  *[taṁ > tā + disa + i]*  /adj, comp/   |
+| *chinnagantha* | /(adj)/ who has cut the tie; who has severed the knot  *[chinna + gantha]*  /adj, comp/ |
+| *asita 1.1* | /(pp)/ eaten  *[√as + ita]*  /pp of asati/ |
+
+Origin: The story with Nanda (Ud 3.2), “Do you see, Nanda, these five hundred celestial dove-footed nymphs?”
+
+Dukkhasaccavavatthānakaraṇena khandhādi *lokaṁ aññāya* jānitvā vavatthapetvā
+nirodhasaccasacchikiriyāya *paramatthadassiṁ*
+
+*'Aññāya lokaṁ'* - having known, having determined the world of aggregates and
+so forth through establishing the truth of suffering;
+
+*'paraṁ atthadassiṁ'* - one who has seen the ultimate goal through realizing the truth of cessation;
+
+Samudayappahānena catubbidhampi *oghaṁ,* pahīnasamudayattā
+rūpamadādivegasahanena cakkhādiāyatana-*samuddañca* *atitariya* atitaritvā
+atikkamitvā maggabhāvanāya.
+
+Having *crossed over*, having transcended through abandoning the origin [of
+suffering] the *fourfold flood*, and *the ocean* of the six sense bases such as the
+eye with its force of intoxication with form and so forth, because the origin
+has been abandoned;
+
+#+begin_quote
+(SN 45.171) Cattārome, bhikkhave, oghā. Katame cattāro? Kāmogho, bhavogho, diṭṭhogho, avijjogho.
+#+end_quote
+
+*'Atitariya'* - having crossed over through the development of the path
+
+*Tādiṁ*: Such Unchanging; unaffected by anything, while at the same time undefined.
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-22.html][Sermon 22]]) The steadfastness associated with the epithet *tādī* is reinforced in one
+Dhammapada verse by bringing in the simile of the firm post at the city gate:
+
+#+begin_quote
+(Dhp 95) Indakhīlūpamo tādi subbato
+
+who is steadfast and well conducted like the pillar at the city gate.
+#+end_quote
