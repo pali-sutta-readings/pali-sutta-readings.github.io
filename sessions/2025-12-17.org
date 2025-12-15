@@ -30,12 +30,13 @@ the perception of mother and son disappeared. They engaged in immoral conduct,
 and having fallen away from the state of honor, they lived together in a household.
 
 Tattha *santhavo* taṇhādiṭṭhimittabhedena tividhoti pubbe vutto. Idha taṇhādiṭṭhisanthavo adhippeto.
+
 *Jāyate rajo'ti* rāgadosamoharajo jāyate.
 
-Therein, *'intimacy'* is of three types according to the division into craving,
-views, and friendship, as was stated before. Here, intimacy of craving and views
-is intended. *'Dust is born/arises*' means: the dust of greed, hatred, and
-delusion arises.
+Therein, *'intimacy'* is of three types according to the division into craving, views, and friendship, as was stated before. \\
+Here, intimacy of craving and views is intended.
+
+*'Dust is born/arises*' means: the dust of greed, hatred, and delusion arises.
 
 #+begin_quote
 Yo jātamucchijja na ropayeyya, / Jāyantamassa nānuppavecche;
@@ -98,7 +99,7 @@ Kamma is the field, consciousness the seed, craving is the moisture
 (Snp 2.1) Te khīṇabījā avirūḷhichandā, / Nibbanti dhīrā yathāyaṁ padīpo;
 #+end_quote
 
-They, with no seed, no desire for growth, enlightened, go out like this flame.
+They, destroyed the seed, have no desire for growth, the wise go out like this flame.
 
 #+begin_quote
 (SN 22.54) Rūpupayaṁ, bhikkhave, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ
@@ -193,7 +194,10 @@ Aj Thanissaro: having a mind unprejudiced by desire, aversion, delusion, or fear
 na dosāgatiṁ gacchati, na mohāgatiṁ gacchati, na bhayāgatiṁ gacchati.
 #+end_quote
 
-| *nāgatigamana* | /(nt)/ not acting wrongly  *[na + agati + gamana]*  /nt, act, comp/ |
+| *nāgatigamana* | /(nt)/ not acting wrongly  *[na + agati + gamana]*  /nt, act, comp/                        |
+| *agati 3*      | /(fem)/ incorrect course; wrong behaviour  *[na > a + √gam + ti]*                          |
+| *agati 4*      | /(fem)/ prejudice  *[na > a + √gam + ti]*  /fem, abstr, from na gacchati/                  |
+| *chandāgati*   | /(fem)/ wrongdoing due to desire; action based on impulse  *[chanda + agati]*  /fem, comp/ |
 
 *visamaṁ samaṁ:* uneven and even, out-of-tune and in-tune (AN 6.55) Ven. Soṇa and the lute strings
 
@@ -232,6 +236,8 @@ has been abandoned;
 
 #+begin_quote
 (SN 45.171) Cattārome, bhikkhave, oghā. Katame cattāro? Kāmogho, bhavogho, diṭṭhogho, avijjogho.
+
+Related: kāmāsava, bhavāsava, diṭṭhāsava, avijjāsa
 #+end_quote
 
 *'Atitariya'* - having crossed over through the development of the path
