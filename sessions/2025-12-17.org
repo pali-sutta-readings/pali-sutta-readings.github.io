@@ -7,7 +7,7 @@
 ([[https://suttacentral.net/snp1.12/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.4.0.0.0.0.11.m|dpr://k.4.0.0.1.11.0.a.][Comm]])
 
 #+begin_quote
-Santhavāto bhayaṁ jātaṁ, / niketā jāyate rajo;
+(209.) Santhavāto bhayaṁ jātaṁ, / niketā jāyate rajo;
 
 Aniketamasanthavaṁ, / etaṁ ve munidassanaṁ.
 #+end_quote
@@ -36,10 +36,10 @@ Tattha *santhavo* taṇhādiṭṭhimittabhedena tividhoti pubbe vutto. Idha ta�
 Therein, *'intimacy'* is of three types according to the division into craving, views, and friendship, as was stated before. \\
 Here, intimacy of craving and views is intended.
 
-*'Dust is born/arises*' means: the dust of greed, hatred, and delusion arises.
+*'Dust is born/arises'* means: the dust of greed, hatred, and delusion arises.
 
 #+begin_quote
-Yo jātamucchijja na ropayeyya, / Jāyantamassa nānuppavecche;
+(210.) Yo jātamucchijja na ropayeyya, / Jāyantamassa nānuppavecche;
 
 Tamāhu ekaṁ muninaṁ carantaṁ, / Addakkhi so santipadaṁ mahesi.
 #+end_quote
@@ -57,7 +57,7 @@ Tamāhu ekaṁ muninaṁ carantaṁ, / Addakkhi so santipadaṁ mahesi.
 #+html: <div class="pagebreak"></div>
 
 #+begin_quote
-Saṅkhāya vatthūni pamāya bījaṁ, / Sinehamassa nānuppavecche;
+(211.) Saṅkhāya vatthūni pamāya bījaṁ, / Sinehamassa nānuppavecche;
 
 Sa ve munī jātikhayantadassī, / Takkaṁ pahāya na upeti saṅkhaṁ.
 #+end_quote
@@ -135,7 +135,7 @@ Here the reckoning is to be understood in terms of the four propositions of the 
 Such reckonings are based on a total misconception of the phenomenon of fire. (Ñāṇananda)
 
 #+begin_quote
-Aññāya sabbāni nivesanāni, / Anikāmayaṁ aññatarampi tesaṁ;
+(212.) Aññāya sabbāni nivesanāni, / Anikāmayaṁ aññatarampi tesaṁ;
 
 Sa ve munī vītagedho agiddho, / Nāyūhatī pāragato hi hoti.
 #+end_quote
@@ -164,7 +164,7 @@ Sa ve munī vītagedho agiddho, / Nāyūhatī pāragato hi hoti.
 [kamma] that produces this or that dwelling.
 
 #+begin_quote
-... Yo ve ṭhitatto tasaraṁva ujju, / Jigucchati kammehi pāpakehi;
+... (217.) Yo ve ṭhitatto tasaraṁva ujju, / Jigucchati kammehi pāpakehi;
 
 Vīmaṁsamāno visamaṁ samañca, / Taṁ vāpi dhīrā muni vedayanti.
 #+end_quote
@@ -202,7 +202,7 @@ na dosāgatiṁ gacchati, na mohāgatiṁ gacchati, na bhayāgatiṁ gacchati.
 *visamaṁ samaṁ:* uneven and even, out-of-tune and in-tune (AN 6.55) Ven. Soṇa and the lute strings
 
 #+begin_quote
-... Aññāya lokaṁ paramatthadassiṁ, / Oghaṁ samuddaṁ atitariya tādiṁ;
+... (221.) Aññāya lokaṁ paramatthadassiṁ, / Oghaṁ samuddaṁ atitariya tādiṁ;
 
 Taṁ chinnaganthaṁ asitaṁ anāsavaṁ, / Taṁ vāpi dhīrā muni vedayanti.
 #+end_quote
