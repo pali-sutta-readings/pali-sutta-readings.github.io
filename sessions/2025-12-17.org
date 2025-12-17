@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: zNiLI6FWGqg
 
 * 2025-12-17
 ** Snp 1.12 Munisutta
