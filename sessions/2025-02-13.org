@@ -292,9 +292,25 @@ samathavipassanāhi kusalaṁ sampādetvā arahattaphalena cittaṁ pariyodāpet
 etaṁ buddhānaṁ sāsanaṁ ovādo anusiṭṭhī ti.
 #+end_quote
 
+- cittajotanaṁ: The 'illumination' or 'brightening' of the mind. The radiant
+mind (/pabhassara citta/) is obscured by defilements; purification restores its
+natural clarity.
+
+AN 5.23
+
+#+begin_quote
+Yato ca kho, bhikkhave, cittaṁ imehi pañcahi upakkilesehi vimuttaṁ hoti, taṁ hoti cittaṁ mudu ca kammaniyañca pabhassarañca na ca pabhaṅgu sammā samādhiyati āsavānaṁ khayāya.
+
+But when the mind is free of these five corruptions it’s pliable, workable, and radiant. It’s not brittle, and is rightly immersed in samādhi for the ending of defilements.
+#+end_quote
+
+#+begin_quote
+(DHPa) sacittapariyodapanan'ti pañcahi nīvaraṇehi attano cittassa vodāpanaṁ.
+#+end_quote
+
 **** adhicitte ca āyogo
 
-AN 3.89 ([[https://suttacentral.net/an3.89/pli/ms][SC]], [[http://localhost:4848/suttas/an3.89/pli/ms?window_type=Sutta+Study][SSP]]): adhisīla, adhicitta and adhipaññā
+AN 3.89 ([[https://suttacentral.net/an3.89/pli/ms][SC]], [[http://localhost:4848/suttas/an3.89/pli/ms?window_type=Sutta+Study][SSP]]): adhisīla, adhicitta (samādhi), adhipaññā
 
 #+begin_quote
 Katamā ca, bhikkhave, adhicittasikkhā? Idha, bhikkhave, bhikkhu
@@ -364,7 +380,9 @@ https://www.palikanon.com/english/pali_names/pa/patimokkha.htm
 #+begin_quote
 The word pātimokkha is variously explained, the oldest explanation being that
 the observance of the rules is the face (mukham), the chief (pamukham) of good
-qualities. The Sanskritised form of the word being prātimoksa, this led to a
+qualities.
+
+The Sanskritised form of the word being prātimoksa, this led to a
 change in its significance, the completion of the recital being evidence that
 all those who have taken part are pure in respect of the specified offences -
 pātimokkha thus meaning acquittal, deliverance or discharge. But in most
@@ -373,3 +391,15 @@ the Order.
 #+end_quote
 
 [[https://discourse.suttacentral.net/t/literal-meaning-of-patimokkha/18512][Literal meaning of Pātimokkha - Q & A - Discuss & Discover]]
+
+(masc.) (vinaya) 227 precepts for Buddhist monastics [pa + ati + √mokkh + \*a]
+pa- (prefix) forward; towards \
+mokkha: (masc.) release; freedom; √mokkh (be freed)
+
+(VIN) pātimokkhan'ti ādim'etaṁ mukham'etaṁ pamukham'etaṁ kusalānaṁ dhammānaṁ. tena vuccati pātimokkhan'ti.
+
+"Pātimokkha" means: it is the beginning, it is the entrance, it is the foremost
+of all wholesome qualities. For that reason, it is called the Pātimokkha.
+
+mukha: (nt) mouth; entrance; (adj) front; facing; foremost \
+pamukha: (adj) headed by; lead by; at the head
