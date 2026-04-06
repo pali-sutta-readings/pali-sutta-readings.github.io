@@ -1,0 +1,308 @@
+#+author: gambhiro
+
+* 2026-04-08
+** Snp 1.8 Mettasutta
+
+([[https://suttacentral.net/snp1.8/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.4.0.0.0.0.7.m|dpr://k.4.0.0.1.7.0.a.][Comm]], [[https://bhikkhu-manual.github.io/chants/parittas.html#karaniyam-attha][Bhikkhu Manual]])
+
+*Origin:* The Buddha could have composed it in 5th c. BCE, and its metrical form was later refined into \\
+a form common for the 4th c. BCE period. (See [[https://www.chantpali.org/popups/history_metta.html][Dating the Metta Sutta]]) \\
+The Pāli commentaries were written down approx. 5th-10th c. AD.
+
+*Commentary story:* A large group of monks find a beautiful forest and settle there for the Vassa. \\
+The local tree devas leave their trees out of respect to not be above the monks, but as the monks \\
+keep staying, the devas grow resentful and terrorize them with horrifying apparitions, dreadful sounds, \\
+and foul smells, causing the monks to become ill. The monks go to the Buddha at Sāvatthī to ask \\
+for a different lodging, but the Buddha tells them that they should return to the same forest. \\
+He gives them meditation practises they should follow and teaches them the Metta Sutta.
+
+#+begin_quote
+Evaṁ bhagavā pariharaṇaṁ ācikkhitvā tesaṁ bhikkhūnaṁ mettatthañca parittatthañca
+vipassanāpādakajhānatthañca imaṁ suttaṁ abhāsīti.
+
+Having thus explained the practices to be maintained, the Blessed One spoke this
+sutta for those monks for the purpose of loving-kindness, for the purpose of
+protection, and for the purpose of jhāna as a foundation for insight.
+#+end_quote
+
+metta-atthaṁ-ca paritta-atthaṁ-ca vipassanā-pādaka-jhāna-atthaṁ-ca
+
+| *attha 1.3*   | /(masc)/ purpose; use; function; goal  *[√ar + tha]*  /masc/                      |
+| *paritta 2.1* | /(nt)/ protection (against);  *[pari + √tā + a]*  /nt/                            |
+| *pādaka 2*    | /(adj)/ serving as a support; based on  *[√pad > pād + &ast;a + ka]*  /from pāda/ |
+
+*Snp 1.8 Karaṇīya-metta-sutta*
+
+(Divisions as suggested by Ven. Buddharakkhita)
+
+#+begin_quote
+*(Lines 3-10: Day-to-day conduct and self-restraint)*
+
+Karaṇīyam-attha-kusalena / Yan-taṁ santaṁ padaṁ abhisamecca \\
+Sakko ujū ca suhujū ca / Suvaco c’assa mudu anatimānī
+#+end_quote
+
+| *karaṇīyamatthi* | /(pr)/ there is something to be done (by) *[karaṇīyaṁ + atthi]*  /pr, comp vb/                  |
+| *kusala 2*       | /(adj)/ skilled (in); clever; competent (in); expert (in); adept (in)   /adj/                   |
+| *yantaṁ*         | (sandhi) whoever; lit. whatever this [yaṁ + taṁ]                                                |
+| *santa*          | /(pp)/ still; calm; at peace; tranquil  *[√sam + ta]*  /pp of sammati/                          |
+| *pada*           | /(nt)/ path; track; way  *[√pad + a]*  /nt, from pajjati/                                       |
+| *abhisamecca*    | /(ger)/ realising; completely understanding  *[abhi + saṁ + e + tya]*  /ger of abhisameti/      |
+| *sakka*          | /(ptp)/ able; capable; proficient  *[√sak + ya]*  /ptp of sakkoti/                              |
+| *uju*            | /(adj)/ straight; upright; erect  *[√uj + u]*  /adj/                                            |
+| *suhuju*         | /(adj)/ very straight; very upright  *[su + [h] + √uj + u]*  /adj, from uju/                    |
+| *suvaca*         | /(adj)/ easy to instruct; obedient; compliant  *[su + √vac + a]*  /adj, from vacas/             |
+| *assa 3.1*       | /(opt)/ may be; could be; should be; would be; could become  *[√as + a]*  /opt of atthi, irreg/ |
+| *mudu*           | /(adj)/ soft; mild  *[√mud + u]*  /adj, from modati/                                            |
+| *anatimānī*      | /(adj)/ who is not conceited; who is not arrogant; who is humble                                |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Santussako ca subharo ca / Appakicco ca sallahuka-vutti
+
+Sant’indriyo ca nipako ca / Appagabbho kulesu ananugiddho
+
+Na ca khuddaṁ samācare kiñci / Yena viññū pare upavadeyyuṁ
+#+end_quote
+
+| *santussaka*  | /(adj)/ who is satisfied; who is content  *[saṁ + tussa + aka]*  /adj, from santussati/      |
+| *subhara*     | /(adj)/ easy to support; low maintenance  *[su + √bhar + a]*  /adj, from bhara/              |
+| *appakicca*   | /(adj)/ with few obligations; with few duties; with little work *[appa + kicca]*             |
+| *sallahuka*   | /(adj)/ frugal; light  *[saṁ + lahu + ka]*  /adj, from lahu/                                 |
+| *vutti*       | /(fem)/ livelihood; way of life; behaviour  *[√vatt > vutt + i]*  /fem, abstr, from vattati/ |
+| *santindriya* | /(adj)/ calm; at peace  *[santa + indriya]*  /adj, comp/                                     |
+| *nipaka*      | /(adj)/ intelligent; wise; discerning  *[nipa + ka]*  /adj, from sk nipa/                    |
+| *appagabbha*  | /(adj)/ not cheeky; courteous; respectful; modest  *[na > a + pa + √gabbh + a]*  /adj/       |
+| *kula*        | /(nt)/ family; house; household  *[√kul + a]*  /nt/                                          |
+| *ananugiddha* | /(pp)/ not greedy; without desire (among)  *[na > an + anu + √gidh + ta]*                    |
+| *khudda*      | /(adj)/ small; minute; tiny   /adj/                                                          |
+| *samācare*    | /(opt)/ could perform; would do  *[saṁ + ā + cara + e]*  /opt 3rd sg of samācarati/          |
+| *kiñci*       | /(ind)/ something; anything  *[ka > ki + iṁ + ci]*  /ind, from kaci/                         |
+| *yena*        | /(pron)/ by which; with whichever  *[ya + ena]*  /pron, masc & nt instr sg of ya/            |
+| *viññū*       | /(adj)/ wise; intelligent; knowledgeable  *[vi + √ñā + ū]*  /adj, from vijānāti/             |
+| *pare*        | /(pron)/ others; other people  *[para + e]*  /pron, masc nom pl of para/                     |
+| *upavadati*   | /(pr)/ blames; criticizes; finds fault (with)  *[upa + vada + ti]*  /pr/                     |
+
+#+begin_quote
+*(Lines 11-20: Metta for developing the mind and supporting samādhi)*
+
+Sukhino vā khemino hontu / Sabbe sattā bhavantu sukhit’attā
+
+Ye keci pāṇa-bhūt’atthi / Tasā vā thāvarā vā anavasesā
+
+Dīghā vā ye mahantā vā / Majjhimā rassakā aṇuka-thūlā
+#+end_quote
+
+| *sukhī*      | /(adj)/ at ease; happy; comfortable  *[√sukh + a + ī]*  /adj, from sukha/    |
+| *khemī*      | /(adj)/ at peace; safe; secure  *[√khi > khe + &ast;ma + ī]*  /from khema/   |
+| *hontu*      | /(imp)/ may they be!; they must be!  *[ho + ntu]*  /imp 3rd pl of hotu/      |
+| *sabbe*      | /(pron)/ all; every; everything  *[sabba + e]*  /pron, masc nom pl of sabba/ |
+| *satta 2.1*  | /(masc)/ being; living being; creature  *[sa + tta]*  /masc/                 |
+| *bhavati 1*  | /(pr)/ is; is being; becomes  *[bhava + ti]*  /pr/                           |
+| *sukhitatta* | /(adj)/ happy; easy going; (comm) with pleased mind  *[sukhita + atta]*      |
+| *ye keci*    | /(pron)/ whoever; whatever; those who                                        |
+| *pāṇa 3*     | /(masc)/ being; living being  *[pa + √an + a]*  /masc/                       |
+| *bhūta*      | /(pp)/ existing; born; living  *[√bhū + ta]*  /pp of bhavati/                |
+| *atthi*      | /(pr)/ there is; there exists  *[√as + ti > atthi]*  /pr/                    |
+| *tasanta*    | /(prp)/ trembling  *[tasa +]*  /prp of tasati/                               |
+| *thāvara*    | /(adj)/ long-lasting; enduring  *[√ṭhā + [v] + ara]*  /adj, from tiṭṭhati/   |
+| *anavasesa*  | /(adj)/ all; without exception                                               |
+| *dīgha*      | /(adj)/ long; tall; deep   /adj/                                             |
+| *mahanta*    | /(adj)/ big; great; large; grand; vast; extensive  *[maha + nta]*  /adj/     |
+| *majjhima*   | /(adj)/ middle; medium; medium-sized  *[majjha + ima]*  /adj, from majjha/   |
+| *rassaka*    | /(adj)/ short  *[rassa + ka]*  /adj, from rassa/                             |
+| *aṇukathūla* | /(adj)/ tiny and substantial  *[aṇuka + thūla]*  /adj, comp/                 |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Diṭṭhā vā ye ca adiṭṭhā / Ye ca dūre vasanti avidūre
+
+Bhūtā vā sambhavesī vā / Sabbe sattā bhavantu sukhit’attā
+#+end_quote
+
+| *diṭṭha*     | /(pp)/ seen; found; visible  *[√dis + ta]*  /pp of √dis/                     |
+| *dūre*       | /(ind)/ at a distance; from afar   /ind, adv, loc sg of dūra/                |
+| *vasati*     | /(pr)/ lives; stays; resides (in)  *[vasa + ti]*  /pr/                       |
+| *avidūre*    | /(ind)/ near (to); not far (from)  *[na > a + vi + √dū + ra + e]*  /loc sg/  |
+| *sambhavesī* | /(adj)/ who is seeking birth  *[sambhava + esī]*  /adj, comp/                |
+| *sukhita*    | /(pp)/ pleased; comforted; happy  *[√sukh + ita]*  /pp of sukheti/           |
+| *atta 1.1*   | /(masc)/ self; soul; spirit; essence   /masc, atta group/                    |
+
+#+begin_quote
+*(Lines 20-40: Commitment to metta through body, speech and mind)*
+
+Na paro paraṁ nikubbetha / Nātimaññetha katthaci naṁ kiñci
+
+Byārosanā paṭighasaññā / Nāññam-aññassa dukkham-iccheyya
+#+end_quote
+
+| *para 1*        | /(pron)/ other; another (person)   /pron/                                                  |
+| *nikubbetha*    | /(opt)/ should cheat; should swindle *[ni + kubba + etha]*  /opt, reflx/                   |
+| *nātimaññati*   | /(pr)/ does not despise; does not scorn; does not look down (on) *[na + ati + mañña + ti]* |
+| *katthaci*      | /(ind)/ somewhere; anywhere  *[kattha + ci]*                                               |
+| *naṁ*           | /(pron)/ him; her; it; one; that  *[ta > na + aṁ]*  /pron, masc fem & nt acc sg of ta/     |
+| *byārosanā*     | /(fem)/ causing anger; infuriating  *[vi > vy > by + ā + rose + anā]*                      |
+| *paṭighasaññā*  | /(fem)/ aversion; dislike; ill-will  *[paṭigha + saññā]*                                   |
+| *nāññamaññassa* | /(sandhi)/ not one to another; not mutually  *[na + aññaṁ + aññassa]*                      |
+| *añña 1.1*      | /(pron)/ another; other; different; someone else; not oneself   /pron/                     |
+| *dukkhaṁ*       | /(ind)/ badly; with difficulty; uncomfortably  /ind, adv, acc sg of dukkha/                |
+| *icchati*       | /(pr)/ wishes; wants; desires (to)  *[iccha + ti]*  /pr/                                   |
+
+#+begin_quote
+Mātā yathā niyaṁ puttaṁ / Āyusā eka-puttam-anurakkhe
+
+Evam’pi sabba-bhūtesu / Mānasam-bhāvaye aparimāṇaṁ
+#+end_quote
+
+| *mātar*         | /(fem)/ mother   /fem/                                                                     |
+| *yathā*         | /(ind)/ like; as; how; in whatever way  *[ya + thā]*  /ind, adv, from ya/                  |
+| *niya*          | /(adj)/ one's own; his own; her own  *[ni + √jan + ya]*  /adj, from nija/                  |
+| *putta*         | /(masc)/ son; child   /masc/                                                               |
+| *āyusā*         | /(nt)/ with one's life  *[āyu + sā]*  /nt, instr sg of āyu/                                |
+| *ekaputta*      | /(masc)/ only son  *[eka + putta]*  /masc, comp/                                           |
+| *anurakkhati*   | /(pr)/ looks after; guards; protects  *[anu + rakkha + ti]*  /pr/                          |
+| *mānasa*        | /(adj)/ of such mind; with such a heart *[manas + &ast;a]*                                 |
+| *bhāvaye*       | /(opt)/ should cultivate; should develop  *[bhāvaya + e]*  /opt of bhāvayati/              |
+| *aparimāṇa*     | /(adj)/ measureless; boundless  *[na > a + pari + √mā + aṇa]*  /adj/                       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Mettañ-ca sabba-lokasmiṁ / Mānasam-bhāvaye aparimāṇaṁ
+
+Uddhaṁ adho ca tiriyañ-ca / Asambādhaṁ averaṁ asapattaṁ
+#+end_quote
+
+| *metta*       | /(adj)/ friendly; benevolent; kind  *[√mitt > mett + &ast;a]*  /adj, from mitta/ |
+| *uddhaṁ*      | /(ind)/ above; up; on top  *[uddha + aṁ]*  /ind, prep, acc sg of uddha/          |
+| *adho*        | /(ind)/ below; under   /ind, prep/                                               |
+| *tiriyañca*   | /(sandhi)/ and across; and horizontally  *[tiriyaṁ + ca]*  /sandhi, adv + ind/   |
+| *asambādha*   | /(adj)/ unobstructed; unhindered; unrestricted  /adj, from na sambādheti/        |
+| *avera*       | /(adj)/ kind; friendly; peaceful; free of ill-will /adj, from na vera/           |
+| *asapatta*    | /(adj)/ peaceful; without hostility  /adj, from na sapatta/                      |
+
+#+begin_quote
+Tiṭṭhañ-caraṁ nisinno vā / Sayāno vā yāvat’assa vigata-middho
+
+Etaṁ satiṁ adhiṭṭheyya / Brahmam-etaṁ vihāraṁ idham-āhu
+#+end_quote
+
+| *tiṭṭhanta*   | /(prp)/ standing (in); standing still  *[tiṭṭha + nta]*  /prp of tiṭṭhati/       |
+| *caraṁ*       | /(prp)/ walking; travelling  *[cara + nta + aṁ]*  /nom sg of caranta/            |
+| *nisinna*     | /(pp)/ seated (in)  *[ni + sīda + na]*  /pp of nisīdati/                         |
+| *sayāna*      | /(prp)/ lying down  *[saya + āna]*  /prp of sayati/                              |
+| *yāvatā*      | /(ind)/ as long as; to the extent that  *[yāva + tā]*  /abl sg of yāva/          |
+| *assa 3.1*    | /(opt)/ may be; could be; should be; *[√as + a]*  /opt of atthi, irreg/          |
+| *vigata*      | /(pp)/ without; free from; devoid of  *[vi + √gam + ta]*  /pp of vigacchati/     |
+| *middha*      | /(adj)/ with drowsiness; having sluggishness; with lethargy                      |
+| *sati 1.1*    | /(fem)/ memory; remembering; recollection; keeping in mind  /abstr, from sarati/ |
+| *adhiṭṭheyya* | /(opt)/ should concentrate (on); should focus (on); *[adhi + √ṭhā + eyya]*       |
+| *brahma 4*    | /(adj)/ divine; holy; (comm) highest; distinguished                              |
+| *vihāra*      | /(masc)/ dwelling; residence  /masc, from viharati/                              |
+| *idhaloka*    | /(masc)/ this world; present life  *[idha + loka]*                               |
+| *āhu*         | /(perf)/ they say  *[a + aha + u]*  /perf 3rd pl of āha/                         |
+
+#+begin_quote
+Diṭṭhiñca anupagamma / Sīlavā dassanena sampanno
+
+Kāmesu vineyya gedhaṁ / Na hi jātu gabbha-seyyaṁ punaretī’ti
+#+end_quote
+
+| *diṭṭhi*       | /(fem)/ view; belief; opinion;  *[√dis + ti]*  /fem, abstr/                    |
+| *anupagamma*  | /(ger)/ not adopting; not embracing  /ger of na upagacchati/                   |
+| *sīlavant*    | /(adj)/ virtuous; ethical; moral  *[sīla + vant]*  /adj, from sīla/            |
+| *dassana 3*   | /(nt)/ insight; realization; spiritual vision  *[dassa + ana]*  /nt/           |
+| *sampanna*    | /(pp)/ accomplished (in); fulfilled (regarding); /pp of sampajjati/            |
+| *kāma 3*      | /(masc)/ sense desire (of); sensual pleasure (of)   /masc, from kāmeti/        |
+| *vineyya*     | /(ger)/ removing; getting rid (of); putting aside  /ger of vineti/             |
+| *gedha*       | /(masc)/ greed (for); desire (for); yearning (for)  /masc, from gijjhati/      |
+| *jātu*        | /(ind)/ ever; at all; at any time; (comm) certainly; undoubtedly   /ind, emph/ |
+| *gabbhaseyyā* | /(fem)/ conception in a womb  *[gabbha + seyyā]*  /fem, comp/                  |
+| *punareti*    | /(pr)/ comes again (to); comes back (to); returns (to)                         |
+ 
+#+html: <div class="pagebreak"></div>
+
+** Related
+*** DN 33 Saṅgītisutta
+
+#+begin_quote
+Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya
+yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. Atha ca panassa
+byāpādo cittaṁ pariyādāya ṭhassati, netaṁ ṭhānaṁ vijjati. Nissaraṇaṁ hetaṁ,
+āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.
+
+It’s impossible, there is no way that — when goodwill has been developed,
+pursued, handed the reins, taken as a basis, steadied, consolidated, &
+well-undertaken as an awareness-release—ill will would still keep overpowering
+the mind. That possibility doesn’t exist, for this is the escape from ill will:
+goodwill as an awareness-release.’ (Aj Thanissaro)
+#+end_quote
+
+*** SN 46.54 Mettāsahagatasutta
+
+#+begin_quote
+(Aj Thanissaro) “There is the case where a monk develops mindfulness as a factor for awakening
+accompanied by goodwill ...
+
+If he wants, he remains percipient of unloathsomeness in the presence of what is
+loathsome & what is not. If he wants — in the presence of what is loathsome &
+what is not—cutting himself off from both, he remains equanimous, alert, &
+mindful. Or he may enter & remain in the beautiful liberation.
+
+*Subhaparamāhaṁ, bhikkhave, mettācetovimuttiṁ vadāmi, idhapaññassa bhikkhuno uttarivimuttiṁ appaṭivijjhato.*
+
+I tell you, monks, awareness-release through goodwill has the beautiful as its
+excellence — in the case of one who has penetrated to no higher release.
+
+(The “beautiful” (subha) is a state of concentration that plays a role
+equivalent to that of the fourth jhāna in leading to the formless jhānas.)
+#+end_quote
+
+#+begin_quote
+... etesu mettādīsu brahmavihāratā veditabbā, itarakammaṭṭhānāni
+attahitapaṭipattimattāni. Imāni pana 'sabbe sattā sukhitā hontū'tiādinā
+parahitapaṭipattibhūtāni.
+
+*Tasmā sattesu sammā paṭipattibhāvena seṭṭhā ete vihārā*.
+
+... among these [meditations] beginning with loving-kindness, their nature as
+Divine Abidings (brahmavihāra) should be understood [as follows]: the other
+meditation subjects are merely practices for one's own benefit. But these,
+through [the aspiration] "May all beings be happy" and so on, constitute
+practice for the benefit of others.
+
+*Therefore, by virtue of being right practice toward beings, these abidings are
+the highest (seṭṭha).*
+#+end_quote
+
+*** AN 5.162 Dutiya-āghāta-paṭivinaya-sutta
+
+The Subduing of Hatred (2), Ven. Sāriputta:
+
+#+begin_quote
+(Aj Thanissaro) ... how should one subdue hatred for him? Just as when there is
+a little puddle in a cow’s footprint, and a person comes along, burning with
+heat, covered with sweat, exhausted, trembling, & thirsty.
+#+end_quote
+
+*** Mettā: The Philosophy and Practice of Universal Love by Ācariya Buddharakkhita 
+
+([[https://bps.lk/olib/bp/bp524s_Buddharakkhita_Metta.pdf][PDF]])
+
+** Notes :noexport:
+
+(See: [[https://www.chantpali.org/popups/history_metta.html][Dating the Metta Sutta]])
+
+The Buddha could have composed it in 5th c. BCE, and its metrical form was later refined into a form common for the 4th c. BCE period.
+
+The Pali commentaries were written down approx. 5th-10th c. AD.
+
+#+begin_quote
+Based on an analysis of the Metta Sutta's poetic meter and the current understanding of the historical development of Pali and Sanskrit meters, Pali prosody scholar A.K. Warder writes:
+
+    All the poems quoted so far seem to belong to the earliest phase represented in the extant Buddhist literature. The [Metta Sutta] is possibly as much as a century later, and may be dated to about 400 B.C. Here the ethical and social teaching of the Buddha is put into metrical form, and the poem is certainly for circulation in society, not merely for private recitation by monks....[7] 
+
+In addition, Warder asserts that, given its meter, the sutta's final verse is likely "a later addition."[8] Bhikkhu Bodhi, while implicitly accepting Warder's stratification of Pali metrical development, has indicated that the presumed time between the evolution of different metrical forms is only hypothetical. Moreover, of course, the extant text's metrical sophistication might simply reflect an embellishment of actual statements by the historical Buddha. 
+#+end_quote

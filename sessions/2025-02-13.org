@@ -392,8 +392,8 @@ the Order.
 
 [[https://discourse.suttacentral.net/t/literal-meaning-of-patimokkha/18512][Literal meaning of Pātimokkha - Q & A - Discuss & Discover]]
 
-(masc.) (vinaya) 227 precepts for Buddhist monastics [pa + ati + √mokkh + \*a]
-pa- (prefix) forward; towards \
+(masc.) (vinaya) 227 precepts for Buddhist monastics =[pa + ati + √mokkh + *a]= \\
+pa- (prefix) forward; towards \\
 mokkha: (masc.) release; freedom; √mokkh (be freed)
 
 (VIN) pātimokkhan'ti ādim'etaṁ mukham'etaṁ pamukham'etaṁ kusalānaṁ dhammānaṁ. tena vuccati pātimokkhan'ti.
@@ -401,5 +401,5 @@ mokkha: (masc.) release; freedom; √mokkh (be freed)
 "Pātimokkha" means: it is the beginning, it is the entrance, it is the foremost
 of all wholesome qualities. For that reason, it is called the Pātimokkha.
 
-mukha: (nt) mouth; entrance; (adj) front; facing; foremost \
+mukha: (nt) mouth; entrance; (adj) front; facing; foremost \\
 pamukha: (adj) headed by; lead by; at the head
