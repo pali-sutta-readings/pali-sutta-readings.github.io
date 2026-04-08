@@ -228,16 +228,14 @@ Kāmesu vineyya gedhaṁ / Na hi jātu gabbha-seyyaṁ punaretī’ti
 *** DN 33 Saṅgītisutta
 
 #+begin_quote
-Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya
-yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. Atha ca panassa
-byāpādo cittaṁ pariyādāya ṭhassati, netaṁ ṭhānaṁ vijjati. Nissaraṇaṁ hetaṁ,
-āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.
+Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya \\
+anuṭṭhitāya paricitāya susamāraddhāya. Atha ca panassa byāpādo cittaṁ pariyādāya ṭhassati, \\
+netaṁ ṭhānaṁ vijjati. Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.
 
-It’s impossible, there is no way that — when goodwill has been developed,
-pursued, handed the reins, taken as a basis, steadied, consolidated, &
-well-undertaken as an awareness-release—ill will would still keep overpowering
-the mind. That possibility doesn’t exist, for this is the escape from ill will:
-goodwill as an awareness-release.’ (Aj Thanissaro)
+It’s impossible, there is no way that — when goodwill has been developed, pursued, handed the reins, \\
+taken as a basis, steadied, consolidated, & well-undertaken as an awareness-release — \\
+ill will would still keep overpowering the mind. That possibility doesn’t exist, \\ 
+for this is the escape from ill will: goodwill as an awareness-release.’ (Aj Thanissaro)
 #+end_quote
 
 *** SN 46.54 Mettāsahagatasutta
@@ -289,24 +287,24 @@ a little puddle in a cow’s footprint, and a person comes along, burning with
 heat, covered with sweat, exhausted, trembling, & thirsty.
 #+end_quote
 
-*** Mettā: The Philosophy and Practice of Universal Love by Ācariya Buddharakkhita 
+#+html: <div class="pagebreak"></div>
+
+*** Mettā: The Philosophy and Practice of Universal Love by Ācariya Buddharakkhita
 
 ([[https://bps.lk/olib/bp/bp524s_Buddharakkhita_Metta.pdf][PDF]])
 
 Three Aspects of Mettā:
 
-The Mettā Sutta consists of three parts, each of which focuses on a distinct
-aspect of mettā. The first part (lines 3 to 10) covers that aspect which
-requires a thorough and systematic application of loving kindness in one’s
-day-to-day conduct.
+The Mettā Sutta consists of three parts, each of which focuses on a distinct aspect of mettā. \\
+The first part (lines 3 to 10) covers that aspect which requires a thorough and systematic application \\
+of loving kindness in one’s day-to-day conduct.
 
-The second part (lines 11 to 20) expresses loving kindness as a distinct
-technique of meditation or culture of mind leading to samādhi — higher
-consciousness induced by absorption.
+The second part (lines 11 to 20) expresses loving kindness as a distinct technique of meditation \\
+or culture of mind leading to samādhi — higher consciousness induced by absorption.
 
-And the third part (lines 21 to 40) underlines a total commitment to the
-philosophy of universal love and its personal, social and empirical extensions —
-loving kindness through all bodily, verbal and mental activities.
+And the third part (lines 21 to 40) underlines a total commitment to the philosophy of universal love \\
+and its personal, social and empirical extensions — loving kindness through all bodily, \\
+verbal and mental activities.
 
 Mettā has been identified as that specific factor which "ripens" the accumulated
 merit (puñña) acquired by the ten ways for the acquisition of merit
