@@ -42,19 +42,19 @@ Karaṇīyam-attha-kusalena / Yan-taṁ santaṁ padaṁ abhisamecca \\
 Sakko ujū ca suhujū ca / Suvaco c’assa mudu anatimānī
 #+end_quote
 
-| *karaṇīyamatthi* | /(pr)/ there is something to be done (by) *[karaṇīyaṁ + atthi]*  /pr, comp vb/                  |
-| *kusala 2*       | /(adj)/ skilled (in); clever; competent (in); expert (in); adept (in)   /adj/                   |
-| *yantaṁ*         | (sandhi) whoever; lit. whatever this [yaṁ + taṁ]                                                |
-| *santa*          | /(pp)/ still; calm; at peace; tranquil  *[√sam + ta]*  /pp of sammati/                          |
-| *pada*           | /(nt)/ path; track; way  *[√pad + a]*  /nt, from pajjati/                                       |
-| *abhisamecca*    | /(ger)/ realising; completely understanding  *[abhi + saṁ + e + tya]*  /ger of abhisameti/      |
-| *sakka*          | /(ptp)/ able; capable; proficient  *[√sak + ya]*  /ptp of sakkoti/                              |
-| *uju*            | /(adj)/ straight; upright; erect  *[√uj + u]*  /adj/                                            |
-| *suhuju*         | /(adj)/ very straight; very upright  *[su + [h] + √uj + u]*  /adj, from uju/                    |
-| *suvaca*         | /(adj)/ easy to instruct; obedient; compliant  *[su + √vac + a]*  /adj, from vacas/             |
-| *assa 3.1*       | /(opt)/ may be; could be; should be; would be; could become  *[√as + a]*  /opt of atthi, irreg/ |
-| *mudu*           | /(adj)/ soft; mild  *[√mud + u]*  /adj, from modati/                                            |
-| *anatimānī*      | /(adj)/ who is not conceited; who is not arrogant; who is humble                                |
+| *karaṇīya*    | /(ptp)/ should be done; ought to be made; lit. to be done *[√kar + aṇīya]* /ptp of karoti/      |
+| *atthakusala* | /(adj)/ skilled in understanding the meaning *[attha + kusala]*                                 |
+| *yantaṁ*      | (sandhi) whoever; lit. whatever this [yaṁ + taṁ]                                                |
+| *santa*       | /(pp)/ still; calm; at peace; tranquil  *[√sam + ta]*  /pp of sammati/                          |
+| *pada*        | /(nt)/ path; track; way  *[√pad + a]*  /nt, from pajjati/                                       |
+| *abhisamecca* | /(ger)/ realising; completely understanding  *[abhi + saṁ + e + tya]*  /ger of abhisameti/      |
+| *sakka*       | /(ptp)/ able; capable; proficient  *[√sak + ya]*  /ptp of sakkoti/                              |
+| *uju*         | /(adj)/ straight; upright; erect  *[√uj + u]*  /adj/                                            |
+| *suhuju*      | /(adj)/ very straight; very upright  *[su + [h] + √uj + u]*  /adj, from uju/                    |
+| *suvaca*      | /(adj)/ easy to instruct; obedient; compliant  *[su + √vac + a]*  /adj, from vacas/             |
+| *assa 3.1*    | /(opt)/ may be; could be; should be; would be; could become  *[√as + a]*  /opt of atthi, irreg/ |
+| *mudu*        | /(adj)/ soft; mild  *[√mud + u]*  /adj, from modati/                                            |
+| *anatimānī*   | /(adj)/ who is not conceited; who is not arrogant; who is humble                                |
 
 #+html: <div class="pagebreak"></div>
 
