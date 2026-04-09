@@ -1,4 +1,6 @@
 #+author: gambhiro
+#+tags: chanting
+#+youtube_id: w0Eox9qqCQ4
 
 * 2026-04-08
 ** Snp 1.8 Mettasutta
