@@ -1,0 +1,252 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-04-15
+** AN 10.107 Dhovanasutta
+
+#+begin_quote
+Atthi, bhikkhave, dakkhiṇesu janapadesu dhovanaṁ nāma. Tattha hoti annampi pānampi khajjampi \\
+bhojjampi leyyampi peyyampi naccampi gītampi vāditampi.
+
+Atthetaṁ, bhikkhave, dhovanaṁ; ‘netaṁ natthī’ti vadāmi. Tañca kho etaṁ, bhikkhave, dhovanaṁ \\
+hīnaṁ gammaṁ pothujjanikaṁ anariyaṁ anatthasaṁhitaṁ na nibbidāya na virāgāya na nirodhāya \\
+na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati.
+#+end_quote
+
+| *dakkhiṇa 2*     | /(adj)/ south; southern  *[√dakkh + iṇa]*  /adj/                                                       |
+| *janapada*       | /(masc)/ country; province; land; area; location  *[jana + pada]*  /masc, comp/                        |
+| *dhovana 1*      | /(nt)/ washing; cleaning; rinsing  *[√dhov + ana]*  /nt, act, from dhovati/                            |
+| *nāma 2*         | /(ind)/ called; means; by the name of; namely   /ind, adv/                                             |
+| *tattha 1*       | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/                                       |
+| *anna*           | /(nt)/ food  *[√ad + na]*  /nt, pp of adati/                                                           |
+| *pāna 1*         | /(nt)/ drink; beverage  *[√pā + ana]*  /nt, from pivati/                                               |
+| *gamma 1.1*      | /(adj)/ vulgar; common  *[gāma + ya]*  /adj, from gāma/                                                |
+| *pothujjanika*   | /(adj)/ common; ordinary; coarse  *[puthujjana + &ast;ika]*                                            |
+| *puthu* + *jana* | (MNa) so hi puthūnaṁ nānappakārānaṁ kilesādīnaṁ jananādīhi kāraṇehi, *puthujjano*.                     |
+| *anattha 2*      | /(masc)/ what is useless; what is unbeneficial; what is meaningless /masc, from na attha/              |
+| *saṁhita*        | /(pp)/ connected (with); concerning; having  *[saṁ + √dhā > (da)h + ita]*  /pp of sandahati, in comps/ |
+
+#+begin_quote
+Ahañca kho, bhikkhave, ariyaṁ dhovanaṁ desessāmi, yaṁ dhovanaṁ ekantanibbidāya ... saṁvattati,
+yaṁ dhovanaṁ āgamma jāti- jarā- maraṇadhammā sattā maraṇena parimuccanti. ...
+Katamañca taṁ, bhikkhave, ariyaṁ dhovanaṁ ... ?
+
+Sammādiṭṭhikassa, bhikkhave, micchādiṭṭhi niddhotā hoti; \\
+ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa niddhotā \\
+honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṁ gacchanti.
+#+end_quote
+
+| *deseti 1* | /(pr)/ preach (to); teaches (to); explains (to)  *[dese + ti]*  /pr, caus of disati/ |
+| *ekantanibbidā* | /(fem)/ complete dis-enchantment; total disinterest; absolute dispassion   |
+| *katama* | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/ |
+| *parimuccati* | /(pr)/ is completely freed (from); is totally liberated (from); *[pari + mucca + ti]*   |
+| *niddhota 1* | /(pp)/ washed, cleansed  *[nī + √dhov + ta]*  /pp of niddhovati/ |
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/ |
+| *micchādiṭṭhipaccayā* | /(ind)/ dependent on wrong view; due to incorrect belief  |
+| *aneka* | /(adj)/ many; various; countless  *[na > an + eka]*  /adj, from na eka/ |
+| *sambhavati 1* | /(pr)/ comes to be; happens; occurs; takes place  *[saṁ + bhava + ti]*  /pr/ |
+| *cassa 3* | /(sandhi)/ and for him  *[ca + assa]*  /sandhi, ind + pron/ |
+| *bhāvanā 1* | /(fem)/ developing; cultivating; meditating  *[bhāve + anā]*  /fem, abstr, act, from bhāveti/ |
+| *pāripūri 1* | /(fem)/ fulfilment (of); completion (of); maturity (of)  *[pari + √pūr + i]*  |
+
+#+begin_quote
+Sammāsaṅkappassa, bhikkhave, micchāsaṅkappo niddhoto hoti ... sammāsatissa, bhikkhave, micchāsati niddhotā hoti .. \\
+sammāsamādhissa, bhikkhave, micchāsamādhi niddhoto hoti ... Sammāñāṇissa, bhikkhave, micchāñāṇaṁ niddhotaṁ hoti ...
+Sammāvimuttissa, bhikkhave, micchāvimutti niddhotā hoti; ye ca micchāvimuttipaccayā aneke pāpakā
+akusalā dhammā sambhavanti te cassa niddhotā honti;
+sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṁ gacchanti. Idaṁ kho taṁ, bhikkhave, ariyaṁ dhovanaṁ.
+#+end_quote
+
+*** Commentary :noprint:
+
+#+begin_quote
+Sattame dhovananti aṭṭhidhovanaṁ.
+Tasmiñhi janapade manussā ñātake mate na jhāpenti, āvāṭaṁ pana khaṇitvā bhūmiyaṁ
+nidahanti. Atha nesaṁ pūtibhūtānaṁ aṭṭhīni nīharitvā dhovitvā paṭipāṭiyā
+ussāpetvā gandhamālehi pūjetvā ṭhapenti. Nakkhatte patte tāni aṭṭhīni gahetvā
+rodanti paridevanti, tato nakkhattaṁ kīḷanti.
+
+In the seventh (sutta), 'washing' is 'bone-washing'.
+In that region, the people do not cremate their deceased relatives, but rather
+dig a pit and inter them in the ground. Then, after the bodies have decomposed,
+they remove the bones, wash them, arrange them in order, honor them with
+fragrant garlands, and set them in place. When the auspicious occasion arrives,
+they take up those bones, weep and lament, and then celebrate the festival. (Claude AI)
+#+end_quote
+
+*Bone washing rituals* are practiced in various cultures, including the
+*Toraja people of Indonesia*, who exhume and clean their deceased relatives
+every three years as part of the *Ma’Nene ceremony*. Similar practices are also
+found among certain communities in *southern India* and among the *Cantonese* in
+East Asia, where bones are collected and cleaned after a period of burial.
+
+** Snp 4.3 Duṭṭhaṭṭhakasutta
+
+#+begin_quote
+Dhonassa hi natthi kuhiñci loke, Pakappitā diṭṭhi bhavābhavesu; \\
+Māyañca mānañca pahāya dhono, Sa kena gaccheyya anūpayo so.
+
+#+end_quote
+
+| *dhona 1*     | /(masc)/ pure one; purified being  *[√dhov + na]*  /masc, pp of dhovati/                       |
+| *kuhiñci*     | /(ind)/ somewhere; anywhere; wherever  *[kuhiṁ + ci]*  /ind, adv, from kuhiṁ/                  |
+| *pakappita*   | /(pp)/ (of an idea or opinion) imagined; fabricated; devised  *[pa + √kapp + ita]*             |
+| *bhavābhava*  | /(masc)/ any state of existence; repeated existence  *[bhava + ā + bhava]*                     |
+| *māyā 1*      | /(fem)/ fraud; deceit; hypocrisy; lit. illusion                                                |
+| *māna 1.1*    | /(masc)/ pride; conceit; egotism; superiority; comparing oneself /masc, from maññati/          |
+| *pahāya 1*    | /(ger)/ leaving behind; giving up; abandoning  *[pa + √hā + ya]*  /ger of pajahati/            |
+| *kena 1*      | /(pron)/ by what?; by who?; with what?; how?  *[ka + ena]*  /pron, interr, instr sg of ka/     |
+| *gaccheyya*   | /(opt)/ could go; would move; would walk  *[gaccha + eyya]*  /opt of gacchati/                 |
+
+#+begin_quote
+Upayo hi dhammesu upeti vādaṁ, Anūpayaṁ kena kathaṁ vadeyya; \\
+Attā nirattā na hi tassa atthi, Adhosi so diṭṭhimidheva sabbanti.
+#+end_quote
+
+| *anūpaya*     | /(adj)/ not attracted (to); unengaged (with); disinterested (in); /adj, from na upeti/         |
+| *upaya 1*     | /(masc)/ approach; engagement  *[upa + √i > ay + &ast;a]*  /masc, from upeti/                  |
+| *upeti 2*     | /(pr)/ enters; gets involved (with); engages (in)  *[upa + e + ti]*  /pr/                      |
+| *vāda 3*      | /(masc)/ debate; argument; disputation  *[√vad > vād + &ast;a]*  /masc, from vadati/           |
+| *kathaṁ 1*    | /(ind)/ how?  *[ka + thaṁ]*  /ind, adv, interr, from ka/                                       |
+| *vadeyya*     | /(opt)/ would say; could speak; could tell  *[vada + eyya]*  /opt 3rd sg of vadati/            |
+| *atta 2.1*    | /(nt)/ taking up; accepting; seizing; grasping  *[√ādā > ad + ta]*  /nt, pp of ādadāti/        |
+| *niratta 2.1* | /(nt)/ rejecting; throwing away; casting aside  *[nī > nir + √as + ta]*  /nt, pp of nirassati/ |
+| *tassa 1*     | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/      |
+| *atthi 1.1*   | /(pr)/ there is; there exists  *[√as + ti > atthi]*  /pr/                                      |
+| *adhosi*      | /(aor)/ shaken off; tossed off  *[a + √dhū > dho + asi]*  /aor of dhunāti/                     |
+
+*** Mahāniddesa 3
+
+(The Mahāniddesa, the first part of the Niddesa of the Khuddaka Nikāya, is a commentary, attributed to Ven. Sāriputta, on the Aṭṭhakavagga of the Sutta Nipāta.)
+
+#+begin_quote
+Dhonā vuccati paññā ... Kiṅkāraṇā dhonā vuccati paññā? Tāya paññāya kāyaduccaritaṁ dhutañca dhotañca \\
+sandhotañca niddhotañca; vacīduccaritaṁ ... manoduccaritaṁ dhutañca ... sabbe kilesā, sabbe duccaritā, \\
+sabbe darathā, sabbe pariḷāhā, sabbe santāpā, sabbākusalābhisaṅkhārā dhutā ... \\
+Atha vā sammādiṭṭhiyā micchādiṭṭhi dhutā ...
+#+end_quote
+
+| *vuccati*       | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/                     |
+| *kiṅkāraṇā*     | /(ind)/ for what reason?; because of what?; why?  *[kiṁ + kāraṇa + ā]*                    |
+| *tāya 2*        | /(ind)/ on account of that; because of that  *[ta + āya]*  /ind, adv, fem instr sg of ta/ |
+| *paññāya 1*     | /(ger)/ knowing; understanding  *[pa + √ñā + ya]*  /ger of pajānāti/                      |
+| *kāyaduccarita* | /(nt)/ physical misconduct; bodily misbehaviour  *[kāya + duccarita]*  /nt, comp/         |
+| *dhuta 2*       | /(pp)/ shaken off; removed  *[√dhū + ta]*  /pp of dhunāti/                                |
+| *dhota 1*       | /(pp)/ washed; cleaned; rinsed  *[√dhov + ta]*  /pp of dhovati/                           |
+| *niddhota 1*    | /(pp)/ washed, cleansed  *[nī + √dhov + ta]*  /pp of niddhovati/                          |
+| *daratha*       | /(masc)/ stress; anxiety; anxiousness; uneasiness; angst  *[dara + tha]*                  |
+| *pariḷāha 2*    | /(masc)/ fever (for); burning passion (for); strong desire (for)  /masc, from pariḍahati/ |
+| *santāpa 1*     | /(masc)/ torment; torture; agony; anguish  *[saṁ + tāpe + a]*  /masc, from santāpeti/     |
+| *abhisaṅkhāra*  | /(masc)/ thought; mental formation; /masc, from abhisaṅkharoti/                           |
+
+#+begin_quote
+Mānoti ekavidhena māno -- yā cittassa unnati. Duvidhena māno -- attukkaṁsanamāno, paravambhanamāno. \\
+Tividhena ... Yo evarūpo māno maññanā maññitattaṁ unnati unnāmo dhajo sampaggāho ketukamyatā \\
+cittassa -- ayaṁ vuccati māno. Māyañca mānañca pahāya dhono'ti.
+#+end_quote
+
+| *māna 1.1* | /(masc)/ pride; conceit; egotism; superiority; comparing oneself /masc, from maññati/ |
+| *ekavidha* | /(adj)/ of one kind, similar   /adj, comp/ |
+| *citta 1.1* | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/ |
+| *unnati* | /(fem)/ rising, elevation, increase   /fem/ |
+| *attukkaṁsanā* | /(fem)/ praising oneself; elevating oneself  *[atta + ukkaṁsanā]*  /fem, act, comp/ |
+| *paravambhana* | /(nt)/ despising others; disparaging others; holding others in contempt  *[para + vambhana]*  |
+| *maññanā 2* | /(fem)/ conceit, conceiving  *[mañña +]*  /fem/ |
+| *unnāma* | /(adj)/ (of a field) with mounds;  lit. bending up  /adj, from unnamati/ |
+| *dhaja 1* | /(masc)/ flag; banner  *[√dhaj + a]*  /masc/ |
+| *sampaggāha* | /(masc)/ arrogance  *[saṁ + pa + √gah > gāh + &ast;a]*  /masc/ |
+| *ketukamyatā* | /(fem)/ vainglory, desire for prominence   /fem, abstr, comp/ |
+
+**** Ways of conceit :noprint:
+
+*Conceit in one way* — conceit is the exaltation of the mind.
+
+*In two ways* — conceit of self-exaltation, and conceit of disparaging others.
+
+*In three ways* — the conceit "I am superior," the conceit "I am equal," and the conceit "I am inferior."
+
+*In four ways* — one generates conceit through gain, through fame, through praise, and through pleasure.
+
+*In five ways* — one generates conceit thinking "I obtain agreeable forms," "I obtain agreeable sounds … odors … tastes … tactile objects."
+
+*In six ways* — one generates conceit through the endowment of the eye, through the endowment of the ear … of the nose … of the tongue … of the body … of the mind.
+
+*In seven ways* — conceit (*māna*), excessive conceit (*atimāna*), conceit upon conceit (*mānātimāna*), self-deprecating conceit (*omāna*), overestimating conceit (*adhimāna*), the conceit "I am" (*asmimāna*), and wrong conceit (*micchāmāna*).
+
+*In eight ways* — one generates conceit through gain, self-deprecating conceit through loss; conceit through fame, self-deprecating conceit through disgrace; conceit through praise, self-deprecating conceit through blame; conceit through pleasure, self-deprecating conceit through pain.
+
+*In nine ways* — toward one who is superior, the conceit "I am superior," "I am equal," or "I am inferior"; toward one who is equal, the conceit "I am superior," "I am equal," or "I am inferior"; toward one who is inferior, the conceit "I am superior," "I am equal," or "I am inferior."
+
+*In ten ways* — here someone generates conceit on account of birth, clan, status as a son of a good family, beauty of complexion, wealth, learning, sphere of work, sphere of craft, field of knowledge, scriptural learning, quick-wittedness, or on account of some other basis.
+
+Whatever such conceit, conceiving, the state of having conceived, exaltation, haughtiness, the holding up of a flag, the desire for a banner of the mind — this is called conceit.
+
+"*Having abandoned deceit and conceit, the Purified One*" — the Purified One, having abandoned, having given up, having removed, having made an end of, having brought to non-existence deceit and conceit — this is the meaning of "having abandoned deceit and conceit, the Purified One."
+
+(Claude AI)
+
+** Snp 4.6 Jarāsutta
+
+#+begin_quote
+Udabindu yathāpi pokkhare, Padume vāri yathā na limpati; \\
+Evaṁ muni nopalimpati, Yadidaṁ diṭṭhasutaṁ mutesu vā.
+
+Dhono na hi tena maññati, Yadidaṁ diṭṭhasutaṁ mutesu vā; \\
+Nāññena visuddhimicchati, Na hi so rajjati no virajjatīti.
+#+end_quote
+
+| *udabindu* | /(nt)/ drop of water  *[uda + bindu]*  /nt, comp/ |
+| *yathāpi* | /(sandhi)/ just like; just as  *[yathā + api]*  /sandhi, adv + ind/ |
+| *pokkhara 1* | /(nt)/ blue water lily; Nymphaea nouchali   /nt/ |
+| *paduma 1* | /(nt)/ lotus;  |
+| *vāri 1.1* | /(nt)/ water   /nt/ |
+| *limpati 1* | /(pr)/ smears; stains; sticks (to)  *[limpa + ti]*  /pr/ |
+| *muni 1* | /(masc)/ monk; sage; seer; hermit; silent sage  *[√mun + i]*  /masc, from munāti/ |
+| *yadidaṁ* | /(sandhi)/ namely; that is  *[yad + idaṁ]*  /sandhi, pron + pron/ |
+| *diṭṭhasuta* | /(nt)/ what is seen and heard  *[diṭṭha + suta]*  /nt, comp/ |
+| *muta 2* | /(nt)/ what is sensed; what is perceived; (or) what is thought  *[√mun + ta]*  /nt, pp of munāti/ |
+| *maññati 1* | /(pr)/ thinks; imagines; conceives; presumes; supposes  *[mañña + ti]*  /pr/ |
+| *nāñña 1* | /(pron)/ not another; not different; not someone else; not somewhere else  *[na + añña]*  |
+| *icchati 1.1* | /(pr)/ wishes; wants; desires (to)  *[iccha + ti]*  /pr/ |
+| *rajjati 1.1* | /(pr)/ finds pleasure (in); is enamoured (with); is infatuated (with); is attached (to) |
+| *virajjati 1* | /(pr)/ becomes detached (from); becomes dispassionate (towards); *[vi + rajja + ti]*  |
+
+*** Mahāniddesa 6
+
+#+begin_quote
+Nāññena visuddhimicchatīti. Dhono aññena asuddhimaggena micchāpaṭipadāya
+aniyyānikapathena aññatra satipaṭṭhānehi aññatra sammappadhānehi aññatra
+iddhipādehi aññatra indriyehi aññatra balehi aññatra bojjhaṅgehi aññatra ariyā
+aṭṭhaṅgikā maggā suddhiṁ visuddhiṁ parisuddhiṁ muttiṁ vimuttiṁ parimuttiṁ na
+icchati na sādiyati na pattheti na piheti nābhijappatīti -- nāññena
+visuddhimicchati.
+#+end_quote
+
+| *asuddhi*        | /(fem)/ impurity; defilement; unholiness  /fem, abstr, from na sujjhati/             |
+| *micchāpaṭipadā* | /(fem)/ wrong course; wrong path of action  *[micchā + paṭipadā]*  /fem, abstr, comp/ |
+| *aniyyānika*     | /(adj)/ not emancipating; not leading to deliverance /adj, from na niyyāna/          |
+| *patha 1*        | /(masc)/ path; road; way  *[√path + a]*  /masc/                                      |
+
+* Notes :noexport:
+
+dhova
+dhona
+
+The cleansed one has no formulated view
+Dhonassa hi natthi kuhiñci loke,
+
+ritually bathed
+09:36 Snp 4.3
+[[/run/media/gambhiro/G-001/storage/Videos/Recordings/Sutta Readings with Ven Bodhirasa/2023-04-16 anatta 04/gambhiro/2023-04-16 māna.mkv]]
+
+mahāniddesa: mānoti ekavidhena māno ...
+
+27:42
+Yo evarūpo māno maññanā maññitattaṁ
+ unnati unnāmo -- bent up
+dhajo -- flag, arrogance
+ sampaggāho ketukamyatā cittassa 
+— ayaṁ vuccati māno. Māyañca mānañca pahāya dhonoti.
+
+45:24
+Yadattani...
