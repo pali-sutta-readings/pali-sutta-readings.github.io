@@ -1,0 +1,184 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-04-22
+** Dhammapada: Sāmāvatīvatthu (Dhp 21-23)
+
+#+begin_quote
+Appamādo amatapadaṁ, / pamādo maccuno padaṁ;
+
+Appamattā na mīyanti, / ye pamattā yathā matā.
+#+end_quote
+
+| *appamāda*  | /(masc)/ alertness; care; carefulness; diligence; heedfulness  *[na > a + pa + √mad > mād + &ast;a]* |
+| *pamāda 1*  | /(masc)/ carelessness; negligence; heedlessness  *[pa + √mad > mād + &ast;a]*  /from pamajjati/      |
+| *majja 1*   | /(nt)/ intoxicant; drug; alcohol  *[√mad + ya]*  /nt, from majjati/                                  |
+| *amatapada* | /(nt)/ immortality; deathless state; epithet of Nibbāna  *[na > a + mata + pada]*                    |
+| *maccu*     | /(masc)/ death; Death  *[√mar + tyu]*  /masc/                                                        |
+| *pada 02*   | /(nt)/ path; track; way  *[√pad + a]*  /from pajjati/                                                |
+| *pada 05*   | /(nt)/ place; position; state  *[√pad + a]*  /from pajjati/                                          |
+| *mīyati*    | /(pr)/ is killed; dies  *[mīya + ti]*  /pr, pass of marati/                                          |
+| *ye 1*      | /(pron)/ whoever; whatever; those who  /pron, masc & nt nom pl of ya/                                |
+| *pamatta 1* | /(pp)/ careless; heedless; negligent; inattentive  *[pa + √mad + ta]*                                |
+| *mata 1.1*  | /(pp)/ dead; deceased; departed  *[√mar + ta]*  /pp of marati/                                       |
+
+#+begin_quote
+Evaṁ visesato ñatvā, / appamādamhi paṇḍitā;
+
+Appamāde pamodanti, / ariyānaṁ gocare ratā.
+#+end_quote
+
+| *visesato*  | /(ind)/ distinctly; clearly  *[visesa + to]*  /abl sg of visesa/                     |
+| *ñatvā*     | /(abs)/ having known; having understood  *[√ñā + tvā]*  /abs of jānāti/              |
+| *paṇḍita 2* | /(masc)/ sage; intelligent person; wise man; smart person   /masc/                   |
+| *pamodati*  | /(pr)/ is delighted (with); is very happy (with); *[pa + moda + ti]*  /pr/           |
+| *gocara 3*  | /(masc)/ sphere; domain; field; range;  *[go + cara]*                                |
+| *go*        | /(masc)/ cow; cattle   /masc, irreg/                                                 |
+| *cara 1*    | /(adj)/ walking; going; roaming; living  *[√car + a]*  /from carati/                 |
+| *rata*      | /(pp)/ delighted (with); devoted (to); pleased (with); *[√ram + ta]*  /pp of ramati/ |
+
+#+begin_quote
+Te jhāyino sātatikā, / niccaṁ daḷhaparakkamā;
+
+Phusanti dhīrā nibbānaṁ, / yogakkhemaṁ anuttaraṁ.
+#+end_quote
+
+| *jhāyī 2*   | /(adj)/ meditating; contemplating  *[√jhā + [y] + ī]*  /adj, from jhāyati/                      |
+| *sātatika*  | /(adj)/ diligent; persevering; consistent  *[satata + &ast;ika]*                                |
+| *niccaṁ 1*  | /(ind)/ continuously; always; permanently  *[nicca + aṁ]*  /acc sg of nicca/                    |
+| *daḷha 1*   | /(pp)/ strong; firm; steady  *[√dah + ta > daḍha > daḷha]*                                      |
+| *parakkama* | /(masc)/ continued effort; striving; perseverance; persistence  *[parā + √kam + a]*             |
+| *phusati 1* | /(pr)/ touches; contacts; feels; experiences  *[phusa + ti]*  /pr/                              |
+| *dhīra 2.2* | /(masc)/ wise man; sage; intelligent person  *[√dhī + ra]*  /masc/                              |
+| *yoga 1*    | /(masc)/ yoke; bond; attachment (to);  *[yoje > yoge + a]*                                      |
+| *khema 2*   | /(masc)/ safety; security; sanctuary; peace; rest; epithet of Nibbāna  *[√khi > khe + &ast;ma]* |
+| *anuttara*  | /(adj)/ highest (of); unsurpassed (by);   *[na > an + ud + tara]*                               |
+
+#+html: <div class="pagebreak"></div>
+
+** SN 48.56 Patiṭṭhitasutta
+
+#+begin_quote
+Ekadhamme patiṭṭhitassa, bhikkhave, bhikkhuno pañcindriyāni bhāvitāni honti subhāvitāni. \\
+Katamasmiṁ ekadhamme? Appamāde. Katamo ca bhikkhave, appamādo? Idha, bhikkhave, \\
+bhikkhu cittaṁ rakkhati āsavesu ca sāsavesu ca dhammesu.
+
+Tassa cittaṁ rakkhato āsavesu ca sāsavesu ca dhammesu saddhindriyampi bhāvanāpāripūriṁ gacchati. \\
+Vīriyindriyampi ... Satindriyampi ... Samādhindriyampi ... Paññindriyampi bhāvanāpāripūriṁ gacchati. \\
+Evampi kho, bhikkhave, ekadhamme patiṭṭhitassa bhikkhuno pañcindriyāni bhāvitāni honti subhāvitānī”ti.
+#+end_quote
+
+| *patiṭṭhita 1* | /(pp)/ firmly grounded (in); well established (in)  *[pati + √ṭhā + ita]*              |
+| *indriya 1*    | /(nt)/ sense; mental faculty; power  *[indra + iya]*  /nt, abstr, from indra/          |
+| *bhāvita 1*    | /(pp)/ cultivated; developed  *[bhāve + ita]*  /pp of bhāveti/                         |
+| *katama*       | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/           |
+| *citta 1.1*    | /(nt)/ mind; heart  *[√cit + ta]*  /nt, from ceteti/                                   |
+| *rakkhati 1*   | /(pr)/ protects; watches over; guards (something against)  *[rakkha + ti]*  /pr/       |
+| *āsava 1.2*    | /(masc)/ discharge; outflow; effluent; (comm) defilement  *[ā + √su > sav + &ast;a]*   |
+| *sāsava*       | /(adj)/ defiled; polluted; tainted  *[sa + ā + √su > sav + &ast;a]*  /adj, from āsava/ |
+| *bhāvanā 1*    | /(fem)/ developing; cultivating; meditating  *[bhāve + anā]*  /from bhāveti/           |
+| *pāripūri 1*   | /(fem)/ fulfilment (of); culmination (of); maturity (of)  *[pari + √pūr + i]*          |
+
+** Thag 6.5 Mālukyaputtattheragāthā
+
+#+begin_quote
+“Manujassa pamattacārino, / Taṇhā vaḍḍhati māluvā viya;
+
+So plavatī hurā huraṁ, / Phalamicchaṁva vanasmi vānaro.
+#+end_quote
+
+| *manuja*      | /(masc)/ human being; person  *[manu + ja]*                                          |
+| *pamattacārī* | /(adj)/ behaving negligently; going around carelessly  *[pamatta + cārī]*            |
+| *vaḍḍhati*    | /(pr)/ increases (in); grows (in); develops (in)  *[vaḍḍha + ti]*  /pr/              |
+| *māluvā*      | /(fem)/ name of a parasitic creeper; Camel's Foot Creeper; Bauhinia vahlii   /fem/   |
+| *viya*        | /(ind)/ like; as  *[iva > via > viya]*  /ind/                                        |
+| *plavatī*     | /(pr)/ springs; jumps; swings  *[plava + ti > plavatī]*  /pr/                        |
+| *hurā*        | /(ind)/ from here; from this world; from this life   /ind, adv/                      |
+| *huraṁ*       | /(ind)/ there; in another world   /ind, adv/                                         |
+| *phala*       | /(nt)/ fruit; nut; berry  *[√phal + a]*  /nt, from phalati/                          |
+| *iccha*       | /(adj)/ wishing (for); desiring; wanting  *[iccha + a]*                              |
+| *vanasmi*     | /(nt)/ in the wood; in a forest  *[vana + asmiṁ > asmi]*  /nt loc sg of vana, irreg/ |
+| *vānara*      | /(masc)/ monkey  *[vana > vāna + &ast;ara]*  /masc, from vana/                       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Yaṁ esā sahate jammī, / taṇhā loke visattikā;
+
+Sokā tassa pavaḍḍhanti, / abhivaṭṭhaṁva bīraṇaṁ. 
+
+Yo cetaṁ sahate jammiṁ, / taṇhaṁ loke duraccayaṁ;
+
+Sokā tamhā papatanti, / udabindūva pokkharā.
+#+end_quote
+
+| *esā*         | /(pron)/ she; this; *[eta + sā]*  /pron, fem nom sg of eta/                          |
+| *sahati*      | /(pr)/ overpowers; overcomes; conquers; defeats  *[saha + ti]*  /pr/                 |
+| *jammi*       | /(adj)/ wretched; despicable; awful  *[jamma + i]*  /adj/                            |
+| *visattika*   | /(adj)/ sticky; entangling; ensnaring  *[visatta + ika]*  /adj, from visatta/        |
+| *soka*        | /(masc)/ grief; sorrow; sadness (over)  *[√suc > suk > sok + &ast;a]*                |
+| *tassa 1*     | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /masc & nt dat sg of ta/  |
+| *pavaḍḍhati*  | /(pr)/ increases; develops; grows  *[pa + vaḍḍha + ti]*  /pr/                        |
+| *abhivaṭṭha*  | /(pp)/ rained on; rain-soaked  *[abhi + √vass + ta]*  /pp of abhivassati/            |
+| *bīraṇa*      | /(nt)/ vetiver; fragrant grass   /nt/                                                |
+| *accaya 4*    | /(adj)/ escaping; overcoming; getting past  *[ati > aty > acc + √i > ay + &ast;a]*   |
+| *tamhā*       | /(pron)/ from that  *[ta + mhā]*  /masc & nt abl sg of ta/                           |
+| *papatati*    | /(pr)/ falls (from); falls away (from); falls off  *[pa + pata + ti]*  /pr/          |
+| *udabindu*    | /(nt)/ drop of water  *[uda + bindu]*  /nt, comp/                                    |
+| *pokkhara*    | /(nt)/ blue water lily; Nymphaea nouchali   /nt/                                     |
+
+The rain-soaked seed:
+
+#+begin_quote
+(AN 3.76) kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho
+#+end_quote
+
+Kamma is the field, consciousness the seed, craving is the moisture
+
+#+begin_quote
+(Snp 2.1) Te khīṇabījā avirūḷhichandā, / Nibbanti dhīrā yathāyaṁ padīpo;
+#+end_quote
+
+They, destroyed the seed, have no desire for growth, the wise go out like this flame.
+
+#+begin_quote
+(SN 22.54) Rūpupayaṁ, bhikkhave, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ
+rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya.
+#+end_quote
+
+“Should consciousness, when standing, stand attached to (a physical) form,
+supported by form (as its object), landing on form, watered with delight, it
+would exhibit growth, increase, & proliferation.
+
+** AN 10.15 Appamādasutta
+
+#+begin_quote
+Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā \\
+saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho; \\
+evamevaṁ kho, bhikkhave, ye keci kusalā dhammā, sabbe te appamādamūlakā appamādasamosaraṇā. \\
+Appamādo tesaṁ aggamakkhāyati.
+#+end_quote
+
+| *tesaṁ 2*    | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ > esaṁ]*  /masc & nt gen pl of ta/ |
+| *agga 1.1*   | /(adj)/ highest; topmost; foremost; supreme; ultimate   /adj/                                 |
+| *akkhāyati*  | /(pr)/ is considered; is said to be  *[ā + khāya + ti]*  /pr, pass of akkhāti/                |
+| *ye 1*       | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /masc & nt nom pl of ya/        |
+| *keci 1*     | /(pron)/ whoever; whatever; whichever; some; any  *[ka + e + ci]*  /masc nom pl of kaci/      |
+| *mūlaka 1*   | /(adj)/ rooted in; originating in; stemming from  *[mūla + ka]*                               |
+| *samosaraṇa* | /(nt)/ converging; coming together; uniting; connecting (in)  *[saṁ + ava + √sar + aṇa]*      |
+
+- Just as the footprints of all legged animals are encompassed by *the footprint of the elephant* ...
+- *the rafters* in a peak-roofed house all go to the roof-peak ...
+- of all root fragrances, *black aloes-root* is reckoned the foremost ...
+- of all wood fragrances, *red sandalwood* is reckoned the foremost ...
+- of all flower fragrances, *jasmine* is reckoned the foremost ...
+- all wattle-and-daub-town princes fall subject to a *wheel-turning emperor* ...
+- all the light of the stars does not equal one sixteenth of *the light of the moon* ...
+- in the last month of the rains, in autumn, when the sky is clear & cloudless, *the sun*, on ascending the sky, \\
+  overpowers the space immersed in darkness, shines, blazes, & dazzles ...
+
+Just as the great rivers -- such as the Ganges, the Yamunā, the Aciravatī, the Sarabhū, & the Mahī -- \\
+all go to *the ocean*, incline to the ocean, slope to the ocean, tend toward the ocean, \\
+and the ocean is reckoned the foremost among them; in the same way, all skillful qualities \\
+are rooted in heedfulness, converge in heedfulness, and heedfulness is reckoned the foremost among them.
+
