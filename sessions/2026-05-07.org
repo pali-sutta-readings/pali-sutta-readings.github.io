@@ -1,0 +1,284 @@
+#+author: gavesako
+#+youtube_id: 
+
+* 2026-05-07
+** AN 6.12 Dutiyasāraṇīyasutta
+
+#+begin_quote
+Chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā \\
+ekībhāvāya saṁvattanti. Katame cha?
+
+Idha, bhikkhave, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu \\
+āvi ceva raho ca, ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya \\
+sāmaggiyā ekībhāvāya saṁvattati.
+#+end_quote
+
+| *sāraṇīya 1.1* | /(ptp)/ polite; pleasant; charming; *[saṁ > sā + √raj + aṇīya]*  /ptp of sārajjati/ |
+| *piyakaraṇa* | /(adj)/ which create affection; creating friendship; *[piya + karaṇa]*  /adj, comp/  |
+| *garukaraṇa* | /(adj)/ which creates respect; which makes one revered  *[garu + karaṇa]*  /adj, comp/ |
+| *saṅgaha 3* | /(masc)/ maintaining relationships; support  *[saṁ + √gah + a]*  /masc, from saṅgaṇhāti/ |
+| *avivāda* | /(masc)/ not quarrelling; no argument; harmony   /masc, from na vivadati/ |
+| *sāmaggī 1* | /(fem)/ concord; unity; peace; harmony  *[saṁ > sām + agga + &ast;ī]*  /fem, from agga/ |
+| *ekībhāva 1* | /(masc)/ unity; harmony; becoming one  *[eka > ekī + bhāva]*  /masc, abstr, comp/ |
+| *saṁvattati 1* | /(pr)/ leads (to); results (in); causes  *[saṁ + vatta + ti]*  /pr/ |
+| *katama* | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/ |
+| *paccupaṭṭhita 2* | /(pp)/ in attendance; serving; waiting on  *[pati > paty > pacc + upa + √ṭhā + ita]*   |
+| *sabrahmacāri* | /(masc)/ fellow monk; spiritual companion  *[sa + brahmacāri]*   |
+| *āvi* | /(ind)/ openly; publicly; in full view; face to face   /ind, adv/ |
+| *raho 1* | /(ind)/ privately; secretly; in seclusion; alone  *[√rah + as + o]*   |
+
+#+begin_quote
+Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ vacīkammaṁ ... mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti ...
+
+Puna caparaṁ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso patta-pariyāpanna-mattampi \\
+tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī, \\
+ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.
+#+end_quote
+
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /masc & nt nom pl of ya/   |
+| *lābha 1* | /(masc)/ gain; acquisition; benefit; profit  *[√labh > lābh + &ast;a]*  /masc, from labhati/ |
+| *dhammika 1* | /(adj)/ legal; legitimate; lawful  *[√dhar + ma + ika], [dhamma + ika]*  |
+| *laddha 1* | /(pp)/ obtained; gained; won; acquired  *[√labh > ladh + ta]*  /pp of labhati/ |
+| *antamaso 1* | /(ind)/ even so much as; with as little as  *[antama + so]*  /ind, adv, abl sg of antama/ |
+| *pattapariyāpannamatta* | /(nt)/ mere contents of one's bowl  *[patta + pariyāpanna + matta]*  /nt, comp/ |
+| *tathārūpa 1* | /(adj)/ such; such kind; of such quality; so formed  *[tathā + rūpa]*  /adj, comp/ |
+| *lābha 1* | /(masc)/ gain; acquisition; benefit; profit  *[√labh > lābh + &ast;a]*  /masc, from labhati/ |
+| *appaṭivibhatta* | /(pp)/ shared without reserve (with); given indiscriminately (to)   |
+| *bhogī 1.4* | /(adj)/ eating; consuming  *[√bhuj > bhoj > bhog + &ast;a + ī]*  /adj, in comps, from bhoga/ |
+| *sīlavant* | /(adj)/ virtuous; ethical; moral  *[sīla + vant]*  /adj, from sīla/ |
+| *sādhāraṇabhogī* | /(adj)/ using in common; enjoying mutually (with)  *[sādhāraṇa + bhogī]*  /adj, comp/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Puna caparaṁ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni \\
+akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpehi \\
+sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo \\
+piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.
+#+end_quote
+
+| *yāni*                | /(pron)/ whichever (things)  *[ya + āni]*  /pron, nt nom & acc pl of ya/                      |
+| *tāni 1*              | /(pron)/ they; those; those things  *[ta + āni]*  /pron, nt nom pl of ta/                     |
+| *akhaṇḍa*             | /(adj)/ unbroken; unfragmented; whole  *[na > a + √khaṇḍ + a]*  /adj, from na khaṇḍeti/       |
+| *acchidda 1*          | /(pp)/ unbroken; flawless; without cracks  *[na > a + √chid + ta]*  /pp of na chindati/       |
+| *asabala*             | /(adj)/ unspotted; not mottled; not patchy  *[na > a + sabala]*  /adj, from na sabala/        |
+| *akammāsa*            | /(adj)/ unblemished; spotless; pure  *[na > a + kammāsa]*  /adj, from na kammāsa/             |
+| *bhujissa 1*          | /(adj)/ cleansing; freeing; liberating   /adj/                                                |
+| *viññuppasattha*      | /(adj)/ praised by the wise; commended by the discerning  *[viññū + pasattha]*  /adj, comp/   |
+| *aparāmaṭṭha*         | /(pp)/ not grasped; not clung to; (comm) irreproachable  *[na > a + parā + √mas + ta]*        |
+| *samādhisaṁvattanika* | /(adj)/ leading to samadhi; conducive to meditative composure  *[samādhi + saṁvattanika]*     |
+| *sīlasāmaññagata*     | /(adj)/ with virtue in common; with ethical conduct in harmony (with)  *[sīla + sāmaññagata]* |
+
+#+begin_quote
+Puna caparaṁ, bhikkhave, bhikkhu yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya \\
+tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo \\
+piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.
+
+Ime kho, bhikkhave, cha dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā \\
+ekībhāvāya saṁvattantī”ti.
+#+end_quote
+
+| *yāyaṁ 1*           | /(sandhi)/ whatever; whichever; that which  *[yā + ayaṁ]*  /sandhi, pron + pron/       |
+| *niyyānika*         | /(adj)/ emancipating; redemptive; leading to deliverance  *[niyyāna + ika]*            |
+| *niyyāti 1*         | /(pr)/ goes out; exits (from); leaves  *[nī + yā + ti]*  /pr/                          |
+| *takkara 1*         | /(adj)/ who does that; doing that; acting accordingly  *[tad + kara]*                  |
+| *sammā 1*           | /(ind)/ completely; thoroughly; fully; totally   /ind, adv/                            |
+| *dukkhakkhaya*      | /(masc)/ wearing away of suffering; extinction of stress; *[dukkha + khaya]*           |
+| *diṭṭhisāmaññagata* | /(adj)/ with views in common; with beliefs in harmony (with)  *[diṭṭhi + sāmaññagata]* |
+
+** Ud 4.1 Meghiyasutta
+
+(Same as AN 9.3 without the verse)
+
+#+begin_quote
+Evaṁ me sutaṁ -- ekaṁ samayaṁ bhagavā cālikāyaṁ viharati cālike pabbate. Tena kho pana samayena \\
+āyasmā meghiyo bhagavato upaṭṭhāko hoti. \\
+... Sace maṁ, bhante, bhagavā anujānāti, gaccheyyāhaṁ taṁ ambavanaṁ padhānāyā'ti.
+#+end_quote
+
+| *samaya 1.1* | /(masc)/ time; occasion  *[saṁ + √i > ay + &ast;a]*  /masc, from sameti/ |
+| *cālikā* | /(fem)/ name of a town  *[√cal > cāl + a + &ast;ikā]*    |
+| *pabbata 3* | /(nt)/ mountain; hill   /nt/ |
+| *meghiya* | /(masc)/ name of an arahant monk; attendant of the Buddha  *[megha + iya]*  |
+| *upaṭṭhāka*   | /(masc)/ attendant; assistant  *[upa + √ṭhā + aka]*  /masc, agent, from upaṭṭhahati/ |
+| *anujānāti 1* | /(pr)/ allows; permits; grants permission (to)  *[anu + jānā + ti]*  /pr/ |
+| *ambavana* | /(nt)/ mango grove; mango orchard  *[amba + vana]*  /nt, comp/ |
+| *padhāna 1* | /(nt)/ making effort; exerting; striving; trying (to)  *[pa + √dhā + ana]*  /nt, act, from padahati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Evaṁ vutte, bhagavā āyasmantaṁ meghiyaṁ etadavoca: “Āgamehi tāva, meghiya, ekakamhi tāva, \\
+yāva aññopi koci bhikkhu āgacchatī”ti. \\
+Dutiyampi ... tatiyampi ...
+
+“Padhānanti kho, meghiya, vadamānaṁ kinti vadeyyāma? Yassadāni tvaṁ, meghiya, kālaṁ maññasī”ti.
+#+end_quote
+
+| *vutta 2.1* | /(pp)/ said; told; spoken; mentioned  *[√vac > vuc + ta]*  /pp of vacati/ |
+| *etadavoca* | /(aor)/ said this (to)  *[etad + avoca]*  /aor, comp vb/ |
+| *āgamehi* | /(imp)/ wait!; hang on!; hold on!  *[āgame + hi]*  /imp 2nd sg of āgameti/ |
+| *tāva 1* | /(ind)/ until then; that long   /ind, adv/ |
+| *ekaka 1* | /(adj)/ alone; solitary  *[eka + ka]*  /adj, from eka/ |
+| *yāva 1* | /(ind)/ as long as; as far as; so much so; up to; until; from… to   /ind, adv/ |
+| *añña 1.1* | /(pron)/ another; other; different; someone else; not oneself   /pron/ |
+| *koci 1* | /(pron)/ someone; something; anyone; anything; whoever  *[ko + ci]*  /pron, masc nom sg of kaci/ |
+| *vadamāna* | /(prp)/ speaking; saying  *[vada + māna]*  /prp of vadati/ |
+| *kinti 1* | /(sandhi)/ how then?; what then?; in what way?  *[kiṁ + iti]*  /sandhi, ind + ind, interr/ |
+| *vadati 1* | /(pr)/ says; speaks; tells (to)  *[vada + ti]*  /pr/ |
+| *yassadāni* | /(sandhi)/ now for whatever; now of whichever  *[yassa + dāni]*  /sandhi, pron + adv/ |
+| *tvaṁ 1* | /(pron)/ you (subject)  *[tumha + aṁ > tuvaṁ > tvaṁ]*  /pron, 2nd nom sg of tumha/ |
+| *kāla 1.1* | /(masc)/ time; occasion (for)  *[√kal > kāl + &ast;a]*  /masc/ |
+| *maññati 3* | /(pr)/ considers (to be); takes as; regards as; views as; deems as  *[mañña + ti]*  /pr/ |
+
+#+begin_quote
+... Āyasmā meghiyo bhagavantaṁ etadavoca: “idha mayhaṁ, bhante, tasmiṁ ambavane viharantassa \\
+yebhuyyena tayo pāpakā akusalā vitakkā samudācaranti, seyyathidaṁ -- \\
+kāmavitakko, byāpādavitakko, vihiṁsāvitakko.
+#+end_quote
+
+| *tasmiṁ 1* | /(pron)/ in that; in that person  *[ta + asmiṁ]*  /pron, masc & nt loc sg of ta/ |
+| *viharanta* | /(prp)/ living (in); dwelling (in); staying (at); /prp of viharati/ |
+| *yebhuyyena 1* | /(ind)/ mostly; almost all; by and large; for the most part  /ind, adv, comp, instr sg of yebhuyya/     |
+| *vitakka 1* | /(masc)/ thought; reflection; pondering  *[vi + √takk + a]*  /masc, from vitakketi/ |
+| *samudācarati 2.1* | /(pr)/ overwhelms; assails; assaults; (comm) occurs  *[saṁ + ud + ā + cara + ti]*  /pr/ |
+
+#+begin_quote
+Tassa mayhaṁ, bhante, etadahosi: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. \\
+Saddhāya ca vatamhā agārasmā anagāriyaṁ pabbajitā. Atha ca panimehi tīhi pāpakehi \\ 
+akusalehi vitakkehi anvāsattā, seyyathidaṁ -- kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena’”.
+#+end_quote
+
+| *tassa 2* | /(pron)/ of that; his; its  *[ta + ssa]*  /pron, masc & nt gen sg of ta/ |
+| *etadahosi* | /(sandhi)/ this (thought) occurred (to)  *[etad + ahosi]*  /sandhi, pron + aor/ |
+| *acchariyaṁ* | /(ind)/ wonderful!; marvellous!; unbelievable!  /ind, excl, acc sg of acchariya/     |
+| *vata 1.1* | /(ind)/ oh!; oh no!; oh dear!; wow!   /ind, excl/ |
+| *bho* | /(masc)/ (respectful address) sir; sirs; master;  *[√bhū + o]*   |
+| *abbhutaṁ* | /(ind)/ wonderful!; marvellous!; extraordinary!; unbelievable! |
+| *agāra 1* | /(nt)/ dwelling; building; house; home; hut   /nt/ |
+| *anagāriya 1* | /(nt)/ homelessness; homeless state  *[na > an + agāra + iya]*  /nt, abstr, from na agāra/ |
+| *panimehi* | /(sandhi)/ but with these  *[pana + imehi]*  /sandhi, ind + pron/ |
+| *tīhi* | /(card)/ by three; with three  *[ti + īhi]*  /card, masc fem & nt instr pl of ti/ |
+| *anvāsatta* | /(adj)/ ensnared, entwined (by)   /adj/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+“Aparipakkāya, meghiya, cetovimuttiyā pañca dhammā paripākāya saṁvattanti. Katame pañca?
+
+(1) Idha, meghiya, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko. \\
+Aparipakkāya, meghiya, cetovimuttiyā ayaṁ paṭhamo dhammo paripākāya saṁvattati.
+#+end_quote
+
+| *aparipakka 2* | /(pp)/ unripened; not matured; not developed  *[na > a + pari + √pac > pak + ta]*   |
+| *cetovimutti 1* | /(fem)/ mental liberation; emancipation of heart *[ceto + vimutti]*  /fem, abstr, comp/  |
+| *paripāka 3* | /(masc)/ maturation; development  *[pari + √pac > pāc > pāk + &ast;a]*  /masc/ |
+| *saṁvattati 1* | /(pr)/ leads (to); results (in); causes  *[saṁ + vatta + ti]*  /pr/ |
+| *katama* | /(pron)/ what?; which (of the many)?  *[ka + tama]*  /pron, interr, from ka/ |
+| *kalyāṇasahāya* | /(adj)/ with good companions; having good friends  *[kalyāṇa + sahāya]*  /adj, comp/ |
+| *kalyāṇasampavaṅka* | /(adj)/ with good associates; having good companions  *[kalyāṇa + sampavaṅka]*   |
+
+#+begin_quote
+(2) Puna caparaṁ, meghiya, bhikkhu sīlavā hoti, pātimokkha-saṁvara-saṁvuto viharati \\
+ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. ...
+#+end_quote
+
+| *sīlava* | /(masc)/ name of an arahant monk  *[√sīl + a + vant + a]*  /masc, from sīlavant/  |
+| *saṁvarasaṁvuta* | /(adj)/ controlled by restraint  *[saṁvara + saṁvuta]*  /adj, comp/ |
+| *ācāragocara* | /(masc)/ conduct and a suitable environment  *[ācāra + gocara]*  /masc, comp/ |
+| *sampanna 1* | /(pp)/ (of crops & fruit) fully grown; ripe  *[saṁ + √pad + na]*  /pp of sampajjati/ |
+| *aṇumatta* | /(adj)/ tiniest; smallest  *[aṇu + matta]*  /adj, comp/ |
+| *vajja 2.1* | /(nt)/ fault; error; mistake (of)  *[√vajj + ya > vajja]*  /nt, ptp of vajjeti/ |
+| *bhayadassāvī* | /(adj)/ seeing the danger (of); aware of the danger (in)  *[bhaya + dassāvī]*   |
+| *samādāya 2* | /(ger)/ undertaking; taking up; accepting  *[saṁ + √ādā + ya]*  /ger of samādāti/ |
+| *sikkhati 1* | /(pr)/ learns; trains (in); practices  *[sikkha + ti]*  /pr/ |
+| *sikkhāpada* | /(nt)/ precept; instruction; training rule  *[sikkhā + pada]*  /nt, comp/ |
+
+#+begin_quote
+(3) Puna caparaṁ, meghiya, bhikkhu yāyaṁ kathā abhisallekhikā cetovivaraṇasappāyā ekantanibbidāya \\
+virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati, seyyathidaṁ -- \\
+appicchakathā, santuṭṭhikathā, pavivekakathā, asaṁsaggakathā, vīriyārambhakathā, sīlakathā, \\
+samādhikathā, paññākathā, vimuttikathā, vimuttiñāṇadassanakathā. ...
+#+end_quote
+
+| *yāyaṁ 1*                 | /(sandhi)/ whatever; whichever; that which  *[yā + ayaṁ]*  /sandhi, pron + pron/       |
+| *kathā 1*                 | /(fem)/ talk; speech; conversation; discussion  *[√kath + ā]*  /fem, from katheti/     |
+| *abhisallekhika*          | /(adj)/ very stern; sobering;  /adj, from sallekha/                                    |
+| *cetovivaraṇasappāya*     | /(adj)/ conducive to opening the heart; beneficial for revealing the mind              |
+|                           | *[ceto + vivaraṇa + sappāya]*                                                          |
+| *ekantanibbidā*           | /(fem)/ complete dis-enchantment; absolute dispassion *[ekanta + nibbidā]*             |
+| *appicchakathā*           | /(fem)/ talk about desiring little and modesty  *[appa + icchā + kathā]* |
+| *santuṭṭhikathā*          | /(fem)/ talk about satisfaction and contentment  *[santuṭṭhi + kathā]*                 |
+| *pavivekakathā*           | /(fem)/ talk on solitude and seclusion  *[paviveka + kathā]*                           |
+| *asaṁsaggakathā*          | /(fem)/ talk about detachment and disengagement  *[na > a + saṁsagga + kathā]*         |
+| *vīriyārambhakathā*       | /(fem)/ talk on arousing energy and effort  *[vīriya + ārambha + kathā]*     |
+| *sīlakathā*               | /(fem)/ talk on ethical conduct and correct behaviour  *[sīla + kathā]*                |
+| *samādhikathā*            | /(fem)/ talk about stability of mind and meditative composure      |
+| *paññākathā*              | /(fem)/ talk on understanding and insight  *[paññā + kathā]*                           |
+| *vimuttikathā*            | /(fem)/ talk on liberation and release  *[vimutti + kathā]*                            |
+| *vimuttiñāṇadassanakathā* | /(fem)/ talk about understanding and insight into liberation                           |
+|                           | *[vimutti + ñāṇa + dassana + kathā]*                                                   |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+(4) Puna caparaṁ, meghiya, bhikkhu āraddhavīriyo viharati, akusalānaṁ dhammānaṁ pahānāya, \\
+kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. ...
+
+(5) Puna caparaṁ, meghiya, bhikkhu paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya \\
+nibbedhikāya sammā dukkhakkhayagāminiyā. ...
+
+Kalyāṇamittassetaṁ, meghiya, bhikkhuno pāṭikaṅkhaṁ kalyāṇasahāyassa kalyāṇasampavaṅkassa \\
+yaṁ sīlavā bhavissati ...
+#+end_quote
+
+| *āraddhavīriya*   | /(adj)/ energetic (in); making an effort (to)  *[āraddha + vīriya]* |
+| *pahāna* | /(nt)/ giving up; letting go; removing; abandoning (of)  /nt, act, from pajahati/ |
+| *upasampadā 1* | /(fem)/ undertaking; taking up (of)  *[upa + saṁ + √pad + ā]*   |
+| *thāmavant* | /(adj)/ having stamina; strong; powerful; firm  *[√ṭhā + [m] + as + vant]*  |
+| *daḷhaparakkama* | /(adj)/ having persistent effort; making continuous effort; *[daḷha + parakkama]*   |
+| *anikkhittadhura 1* | /(adj)/ taking responsibility (for); not shirking one's duty (towards)   |
+| *udayatthagāmī* | /(adj)/ which discerns appearance and disappearance; related to rising and falling  |
+| *paññāya 1* | /(ger)/ knowing; understanding  *[pa + √ñā + ya]*  /ger of pajānāti/ |
+| *samannāgata* | /(pp)/ possessing; endowed (with); having  *[saṁ + anu > ann + ā + √gam + ta]*  |
+| *nibbedhika* | /(adj)/ penetrating; piercing; incisive; discriminating; sharp  *[nibbedha + ika]*   |
+| *sammā 1* | /(ind)/ completely; thoroughly; fully; totally   /ind, adv/ |
+| *dukkhakkhayagāmī* | /(adj)/ leading to the destruction of suffering  *[dukkha + khaya + gāmī]*  |
+| *kalyāṇamittassetaṁ* | /(sandhi)/ for (a monk) having good friends this  *[kalyāṇamittassa + etaṁ]*  |
+| *bhikkhuno 1* | /(masc)/ for a monk; to the monastic  *[bhikkhu + uno]*  /masc, dat sg of bhikkhu/ |
+| *pāṭikaṅkha* | /(ptp)/ to be expected; can be anticipated  *[pati > pāṭi + √kaṅkh + &ast;ya]*   |
+| *kalyāṇasahāya* | /(adj)/ with good companions; having good friends  *[kalyāṇa + sahāya]*  |
+| *kalyāṇasampavaṅka* | /(adj)/ with good associates; having good companions  *[kalyāṇa + sampavaṅka]*  |
+| *bhavissati 3* | /(fut)/ will happen; will occur  *[bhavissa + ti]*  /fut of bhavati/ |
+
+** See Also
+
+*Thag 1.66 Meghiyattheragāthā* (Meghiya's verse on his enlightenment)
+
+#+begin_quote
+He counseled me, the great hero, / the one who has gone beyond all things. \\
+When I heard his teaching / I stayed close by him, mindful. \\
+I’ve attained the three knowledges / and fulfilled the Buddha’s instructions.
+#+end_quote
+
+*AN 7.36, AN 7.37 Mittasutta* (Seven qualities of a good friend)
+
+#+begin_quote
+(AN 7.36, Aj Thanissaro) Monks, a friend endowed with seven qualities is worth
+associating with. Which seven?
+
+He gives what is hard to give. He does what is hard to do. He endures what is
+hard to endure. He reveals his secrets to you. He keeps your secrets. When
+misfortunes strike, he doesn’t abandon you. When you’re down & out, he doesn’t
+look down on you.
+#+end_quote
+
+#+begin_quote
+(AN 7.36, Aj Sujato) Mendicants, when a friend has seven qualities you should associate with,
+accompany, and attend them, even if they drive you away. What seven?
+
+They’re likable, agreeable, respected, and admired. They admonish you and they
+accept admonishment. They speak on deep matters. And they don’t urge you to do
+bad things.
+#+end_quote
+
