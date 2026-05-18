@@ -1,0 +1,221 @@
+#+author: gambhiro
+#+youtube_id:
+#+tags: chanting
+
+* 2026-05-20
+** The Authenticity of the Early Buddhist Texts
+
+The Authenticity of the Early Buddhist Texts by Bhikkhu Sujato, Bhikkhu Brahmali ([[https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf][PDF]]) \\
+*p.70, Section 4.2.2,* example of the development of sutta vocabulary over time: \\
+Sutta form → early Abhidhamma analysis → full Abhidhamma analysis
+
+*MN 10 / DN 22:*
+
+#+begin_quote
+Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, \\
+vineyya loke abhijjhādomanassaṁ.
+#+end_quote
+
+| *kāya 1.1*          | /(masc)/ body; physical body; physical process                                   |
+| *kāyānupassī*       | /(adj)/ observing the body; who watches the body  *[kāya + anupassī]*            |
+| *vineyya 1*         | /(ger)/ removing; putting aside  *[vi + √nī > ne + &ast;ya]*  /ger of vineti/    |
+| *abhijjhādomanassa* | /(masc)/ wanting and unhappiness; craving and aversion; *[abhijjhā + domanassa]* |
+
+The tone is direct, and practical.
+The vocabulary is plain: *ātāpī* (ardent), *sampajāno* (fully aware), *satimā* (mindful).
+The sentence is structured to be heard, recited, and applied.
+
+*Suttanta-bhājanīya (“Sutta analysis”) of the Vibhaṅga:*
+
+#+begin_quote
+Idha bhikkhu ajjhattaṁ kāye kāyānupassī viharati \\
+bahiddhā kāye kāyānupassī viharati \\
+ajjhattabahiddhā kāye kāyānupassī viharati \\
+ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ.
+#+end_quote
+
+The core formula is identical, but an analytical expansion has been inserted due to an effort to systematize.
+
+*Abhidhamma-bhājanīya (“Abhidhamma analysis”) of the Vibhaṅga:*
+
+#+begin_quote
+*Idha bhikkhu* yasmiṁ samaye
+lokuttaraṁ jhānaṁ bhāveti niyyānikaṁ apacayagāmiṁ diṭṭhigatānaṁ
+pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati
+dukkhapaṭipadaṁ dandhābhiññaṁ
+*kāye kāyānupassī,*
+yā tasmiṁ samaye sati anussati sammāsati
+satisambojjhaṅgo maggaṅgaṁ maggapariyāpannaṁ
+— idaṁ vuccati “satipaṭṭhānaṁ”.
+Avasesā dhammā satipaṭṭhānasampayuttā.
+#+end_quote
+
+The instruction has been converted to a definition. A monk practising mindfulness has been replaced by an abstract analytical schema:
+
+#+begin_quote
+On the occasion when (/yasmiṁ samaye/) a monk develops supramundane jhāna
+(/lokuttaraṁ jhānaṁ/) that is emancipating, leading to dismantling, for the
+abandoning of views, for the attainment of the first stage...
+This is called satipaṭṭhāna. The remaining dhammas are associated with satipaṭṭhāna.
+#+end_quote
+
+Vocabulary that is either unknown to the EBTs or used in a new sense:
+
+*yasmiṁ samaye:* "on the occasion when" (the Abhidhamma's signature framing device) \\
+*lokuttaraṁ jhānaṁ:* "supramundane jhāna" (an Abhidhammic category absent from the suttas) \\
+*paṭhamāya bhūmiyā:* "the first stage" (in the technical Abhidhamma sense) \\
+*avasesā dhammā satipaṭṭhānasampayuttā:* "the remaining dhammas associated with satipaṭṭhāna"
+
+#+html: <div class="pagebreak"></div>
+
+** One Who Sees the Dhamma
+
+#+begin_quote
+(Iti 92) Saṅghāṭikaṇṇe cepi, bhikkhave, bhikkhu gahetvā piṭṭhito piṭṭhito anubandho \\ 
+assa pāde pādaṁ nikkhipanto, so ca hoti abhijjhālu kāmesu tibbasārāgo byāpannacitto \\
+paduṭṭhamanasaṅkappo muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo; \\
+atha kho so ārakāva mayhaṁ, ahañca tassa. Taṁ kissa hetu? Dhammañhi so, bhikkhave, \\
+bhikkhu na passati. Dhammaṁ apassanto na maṁ passati.
+#+end_quote
+
+| *saṅghāṭikaṇṇa*        | /(masc)/ edge of an outer robe; corner of a double robe  *[saṅghāṭi + kaṇṇa]*   |
+| *cepi*                 | /(sandhi)/ even if  *[ce + api]*  /sandhi, ind + ind/                           |
+| *gahetvā 1*            | /(abs)/ having taken; having held  *[gahe + tvā]*  /abs of gaṇhāti/             |
+| *piṭṭhito 1*           | /(ind)/ behind; at the rear of; just behind  *[piṭṭhi + to]*                    |
+| *anubandha 1*          | /(adj)/ following after; following behind; trailing  *[anu + √bandh + a]*       |
+| *assa 3.1*             | /(opt)/ may be; could be; would be  *[√as + a]*  /opt of atthi, irreg/          |
+| *pāda 1*               | /(masc)/ foot  *[√pad > pād + &ast;a]*  /masc, from pajjati/                    |
+| *nikkhipanta 1*        | /(prp)/ (of feet) placing down; stepping  *[ni + khipa + nta]*                  |
+| *abhijjhālu*           | /(adj)/ covetous; avaricious; greedy  *[abhijjhā + ālu]*                        |
+| *tibbasārāga*          | /(adj)/ with strong desire; with intense lust (for)  *[tibba + sārāga]*         |
+| *byāpannacitta*        | /(adj)/ with a malicious mind; hateful; full of ill-will  *[byāpanna + citta]*  |
+| *paduṭṭhamanasaṅkappa* | /(adj)/ with malevolent intention; with bad purpose in mind                     |
+| *muṭṭhassatī*          | /(adj)/ unmindful; forgetful; muddle-minded  *[muṭṭha + sati + ī]*  /adj, comp/ |
+| *asampajāna*           | /(adj)/ not clearly aware; inattentive; unmindful  /adj, from na sampajānāti/   |
+| *asamāhita*            | /(pp)/ not meditatively composed; scattered; distracted; unsteady               |
+| *vibbhantacitta*       | /(adj)/ with a wandering mind; with runaway thoughts; mentally out of control   |
+| *pākatindriya*         | /(adj)/ having a vulgar mind; (comm) with an uncontrolled mind                  |
+| *āraka*                | /(adj)/ distant; away from; far from  *[āra + ka]*  /adj, from āra/             |
+| *mayhaṁ 1*             | /(pron)/ to me; for me   /pron, 1st dat sg of ahaṁ/                             |
+| *ahañca*               | /(sandhi)/ and I  *[ahaṁ + ca]*  /sandhi, pron + ind/                           |
+| *tassa 1*              | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*                       |
+| *kissa 1*              | /(pron)/ for who?; for what reason?; why?  *[ka > ki + issa]*                   |
+| *hetu 1*               | /(adj)/ because; by virtue (of)  *[√hi > he + &ast;tu]*  /adj, in comps/        |
+| *passati 1*            | /(pr)/ sees  *[passa + ti]*  /pr/                                               |
+| *apassanta*            | /(prp)/ not seeing; not noticing; not aware  *[na > a + passa + nta]*           |
+| *maṁ 1*                | /(pron)/ me (object)  *[amha + aṁ]*  /pron, 1st acc sg of ahaṁ/                 |
+
+#+begin_quote
+(SN 22.87) Alaṁ, vakkali, kiṁ te iminā pūtikāyena diṭṭhena? Yo kho, vakkali,
+dhammaṁ passati so maṁ passati; yo maṁ passati so dhammaṁ passati. Dhammañhi,
+vakkali, passanto maṁ passati; maṁ passanto dhammaṁ passati.
+Taṁ kiṁ maññasi, vakkali, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”.
+#+end_quote
+
+| *alaṁ 5*     | /(ind)/ that's enough (of)!; stop (with)!   /ind, excl, acc sg of ala/                         |
+| *kiṁ 1*      | /(pron)/ who?; what?; which?  *[ka > ki + iṁ]*  /pron, nt nom and acc sg of ka/                |
+| *iminā*      | /(pron)/ with this; by this  *[ima + inā]*  /pron, masc & nt instr sg of ima/                  |
+| *pūtikāya*   | /(masc)/ putrid body; disgusting body; stinking body; foul mass  *[pūti + kāya]*  /masc, comp/ |
+| *diṭṭha 1.3* | /(nt)/ sight; seeing; vision  *[√dis + ta]*  /nt, pp of √dis/                                  |
+| *passati 1*  | /(pr)/ sees  *[passa + ti]*  /pr/                                                              |
+| *maṁ 1*      | /(pron)/ me (object)  *[amha + aṁ]*  /pron, 1st acc sg of ahaṁ/                                |
+| *passanta 1* | /(prp)/ seeing  *[passa + nta]*  /prp of passati/                                              |
+
+#+begin_quote
+(MN 28) Yo paṭiccasamuppādaṁ passati so dhammaṁ passati; yo dhammaṁ passati so
+paṭiccasamuppādaṁ passatī”ti. Paṭiccasamuppannā kho panime yadidaṁ
+pañcupādānakkhandhā.
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
+
+** Yo cakkhumā...
+
+([[https://bhikkhu-manual.github.io/chants/parittas.html#yo-cakkhuma][Bhikkhu Manual]])
+
+#+begin_quote
+Yo cakkhumā moha-malā-pakaṭṭho / Sāmaṁ va buddho sugato vimutto
+
+Mārassa pāsā vinimocayanto / Pāpesi khemaṁ janataṁ vineyyaṁ
+
+Buddhaṁ varan-taṁ sirasā namāmi / Lokassa nāthañ-ca vināyakañ-ca
+
+Tan-tejasā te jaya-siddhi hotu / Sabb’antarāyā ca vināsamentu
+#+end_quote
+
+| *cakkhumant*    | /(adj)/ with eyes; who can see; who has vision *[cakkhu + mant]*  /adj, from cakkhu/ |
+| *mala*          | /(nt)/ dirt; impurity; stain; tarnish; *[√mal + a]*  /nt/                            |
+| *pakaṭṭha 2*    | /(adj)/ distant   /adj/                                                              |
+| *sāmaṁ*         | /(ind)/ oneself; by oneself; for oneself  *[sa + āmaṁ]*  /ind, adv, acc sg of sa/    |
+| *vimutta*       | /(pp)/ freed; liberated; released  *[vi + √muc + ta]*  /pp of vimuccati/             |
+| *pāsa 2.1*      | /(masc)/ snare; trap; sling  *[√pas > pās + &ast;a]*  /masc/                         |
+| *vinimocayanta* | /(prp)/ freeing (oneself) (from); releasing oneself (from) /prp of vinimuccati/      |
+| *pāpesi 2*      | /(aor)/ helped; brought; led (to)  *[pa + āpe + si]*  /aor of pāpeti/                |
+| *khemaṁ*        | /(ind)/ safely; securely   /ind, adv, acc sg of khema/                               |
+| *janatā*        | /(fem)/ people; populace; population  *[jana + tā]*  /fem, abstr, from jana/         |
+| *vineyya 3*     | /(ptp)/ fit to be trained; tamable  *[vi + √nī > ne + &ast;ya]*  /ptp of vineti/     |
+| *vineti*        | /(pr)/ (1) trains; instructs; educates (2) curbs; controls                           |
+|                 | (3) guides, leads to (4) removes; gets rid of                                        |
+| *vara*          | /(adj)/ excellent; best; foremost  *[√var + a]*  /adj/                               |
+| *sirasā*        | /(masc)/ with the head  *[siras + ā]*  /masc, instr sg of siras, mano group/         |
+| *namati 2*      | /(pr)/ bows down; pays respect; worships (someone with)  *[nama + ti]*  /pr/         |
+| *nātha*         | /(masc)/ protector; lord; refuge (of)  *[√nāth + a]*                                 |
+| *vināyaka*      | /(masc)/ leader; guide; teacher  *[vi + √nī > nāy + &ast;aka]*  /agent, from vineti/ |
+| *tejas 2*       | /(masc)/ radiance; glory; splendour; power  *[√tij > tej + &ast;as]*                 |
+| *jaya*          | /(nt)/ victory; conquest; winning  *[√ji > jay + &ast;a]*  /nt, from jayati/         |
+| *siddhi*        | /(fem)/ accomplishment; achivement; success  *[√sidh + ti]*                          |
+| *antarāya*      | /(masc)/ obstacle; danger (for)  *[antara + aya]*  /masc, comp/                      |
+| *vināsa*        | /(masc)/ destruction; ruin; loss  *[vi + √nas > nās + &ast;a]*  /from vinassati/     |
+| *eti*           | /(pr)/ comes (to)  *[e + ti]*  /pr/                                                  |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Dhammo dhajo yo viya tassa satthu / Dassesi lokassa visuddhi-maggaṁ
+
+Niyyāniko dhamma-dharassa dhārī / Sāt’āvaho santi-karo suciṇṇo
+
+Dhammaṁ varan-taṁ sirasā namāmi / Mohappadālaṁ upasanta-dāhaṁ
+
+Tan-tejasā te jaya-siddhi hotu / Sabb’antarāyā ca vināsamentu
+#+end_quote
+
+| *dhaja*     | /(masc)/ flag; banner  *[√dhaj + a]*  /masc/                                         |
+| *viya*      | /(ind)/ like; as  *[iva > via > viya]*  /ind/                                        |
+| *tassa*     | /(pron)/ to him; for him; *[ta + ssa]*  /pron, masc & nt dat sg of ta/               |
+| *satthu*    | /(masc)/ to the teacher; to the master  *[satthar + u]*                              |
+| *dassesi*   | /(aor)/ showed; exhibited; revealed; presented  *[dasse + si]*  /aor of dasseti/     |
+| *visuddhi*  | /(fem)/ purity; purification (of); holiness  *[vi + √sudh + ti]*                     |
+| *niyyānika* | /(adj)/ emancipating; redemptive; leading to deliverance  *[niyyāna + ika]*          |
+| *dhara 2.1* | /(adj)/ remembering; keeping in mind  *[√dhar + a]*  /from dharati/                  |
+| *dhārī 2.1* | /(adj)/ holding; keeping; upholding; knowing by heart  /from dharati/                |
+| *sāta 2*    | /(nt)/ pleasure; happiness; delight; comfort  *[√san > sā + ta]*  /nt/               |
+| *āvaha*     | /(adj)/ bringing; conferring (to); causing  *[ā + √vah + a]*  /from āvahati/         |
+| *santi 1.1* | /(fem)/ peace; calm; tranquillity  *[√sam + ti]*  /fem, abstr, from sammati/         |
+| *kara 1*    | /(adj)/ doing; making  *[√kar + a]*  /adj, in comps, from karoti/                    |
+| *suciṇṇa*   | /(adj)/ well practised; well performed; done correctly  *[su + √car > cir + na]*     |
+| *padāla*    | /(adj)/ breaking; destroying; splitting; tearing  *[pa + √dal > dāl + &ast;a]*       |
+| *upasanta*  | /(pp)/ calmed; cooled; still; calm; at peace *[upa + √sam + ta]*  /pp of upasammati/ |
+| *dāha 2*    | /(masc)/ fire; burning; fever *[√ḍah > dah > dāh + &ast;a]*  /masc, from ḍahati/     |
+
+#+begin_quote
+Saddhamma-senā sugatānugo yo / Lokassa pāpūpakilesa-jetā
+
+Santo sayaṁ santi-niyojako ca / Svākkhāta-dhammaṁ viditaṁ karoti
+
+Saṅghaṁ varan-taṁ sirasā namāmi / Buddhānubuddhaṁ sama-sīla-diṭṭhiṁ
+
+Tan-tejasā te jaya-siddhi hotu / Sabb’antarāyā ca vināsamentu
+#+end_quote
+
+| *senā*           | /(fem)/ army; military   /fem/                                                 |
+| *anuga*          | /(adj)/ following; going after  *[anu + √gam + a]*  /adj, from anugacchati/    |
+| *pāpa*           | /(adj)/ evil; criminal; wrong; bad; vicious   /adj/                            |
+| *upakilesa*      | /(masc)/ impurity; imperfection; corruption  *[upa + √kilis > kiles + &ast;a]* |
+| *jenta*          | /(prp)/ conquering  *[je + nta]*  /prp of jeti/                                |
+| *santa 2.1*      | /(pp)/ still; calm; at peace; tranquil  *[√sam + ta]*  /pp of sammati/         |
+| *sayaṁ*          | /(ind)/ by one's own; oneself; one's own  *[saya + aṁ]*  /ind, adv, from sa/   |
+| *niyojaka*       | /(masc)/ instigator; who encourages (one to do)  *[ni + yoje + aka]*           |
+| *vidita*         | /(pp)/ known; understood; experienced  *[√vid + ita]*  /pp of vidati/          |
+| *buddhānubuddha* | /(adj)/ awakened following the Buddha; *[buddha + anubuddha]*  /adj, comp/     |
+| *sama 1.2*       | /(adj)/ like; equal (to); same (as); identical (to)   /adj/                    |
