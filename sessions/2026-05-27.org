@@ -1,0 +1,261 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-05-27
+** Ud 4.1 Meghiyasutta
+
+See Ud 4.1 discussed at [[https://pali-sutta-readings.github.io/readings/2026-05-07/][2026-05-07]] (spiritual companions) and [[https://pali-sutta-readings.github.io/readings/2025-07-29/][2025-07-29]] (jhāna practice).
+
+#+begin_quote
+“Khuddā vitakkā sukhumā vitakkā, / Anugatā manaso uppilāvā;
+
+Ete avidvā manaso vitakke, / Hurā huraṁ dhāvati bhantacitto.
+
+Ete ca vidvā manaso vitakke, / Ātāpiyo saṁvaratī satīmā;
+
+Anugate manaso uppilāve, / Asesamete pajahāsi buddho”ti.
+#+end_quote
+
+| *khudda 2*    | /(adj)/ inferior; base   /adj/                                                                    |
+| *vitakka 1*   | /(masc)/ thought; reflection; pondering  *[vi + √takk + a]*  /masc, from vitakketi/               |
+| *sukhuma 1*   | /(adj)/ fine; subtle; refined   /adj/                                                             |
+| *anugata 2*   | /(pp)/ followed; conforming (to)  *[anu + √gam + ta]*  /pp of anugacchati/                        |
+| *manas*       | /(masc)/ mind; mental faculty; intellect  *[√man + as]*  /masc, mano group, from maññati/         |
+| *uppilāva*    | /(masc)/ (something which causes) excitement; stirring up (of)  *[ud + pilava > pilāva + &ast;a]* |
+| *avidita*     | /(pp)/ unknown; not realised *[na + √vid + ita]*, /pp of na vedeti/                               |
+| *avidvant*    | /(masc)/ fool; who is ignorant; ignoramus  *[na > a + √vid + vant]*                               |
+| *hurā*        | /(ind)/ from here; from this world; from this life   /ind, adv/                                   |
+| *huraṁ*       | /(ind)/ there; in another world   /ind, adv/                                                      |
+| *dhāvati*     | /(pr)/ runs; races; sprints; flies (to)  *[dhāva + ti]*  /pr/                                     |
+| *bhantacitta* | /(adj)/ with a wandering mind; with runaway thoughts; mentally out of control                     |
+| *ātāpiya*     | /(adj)/ energetic; zealous; exerting oneself   /adj/                                              |
+| *saṁvaratī*   | /(pr)/ restrains; controls  *[saṁ + vara + ti > saṁvaratī]*  /pr, irreg form of saṁvarati/        |
+| *satīmant*    | /(adj)/ mindful; fully present; attentive  *[sati + mant]*  /adj, from sati/                      |
+| *asesa*       | /(adj)/ complete; without remainder  *[na > a + √sis > ses + &ast;a]*  /adj, from na sissati/     |
+| *pajahāsi*    | /(aor)/ gave up; left; abandoned; let go (of)  *[pa + jaha + āsi]*  /aor of pajahati/             |
+
+** Definition of name-and-form and contact
+
+#+begin_quote
+(MN 9) Vedanā, saññā, cetanā, phasso, manasikāro — idaṁ vuccatāvuso, nāmaṁ; \\
+cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ upādāyarūpaṁ — idaṁ vuccatāvuso, rūpaṁ. \\
+Iti idañca nāmaṁ idañca rūpaṁ — idaṁ vuccatāvuso, nāmarūpaṁ.
+
+Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho, ayameva ariyo aṭṭhaṅgiko maggo \\
+nāmarūpanirodhagāminī paṭipadā, seyyathidaṁ — sammādiṭṭhi ... sammāsamādhi.
+#+end_quote
+
+| *cetanā*      | /(fem)/ intending; willing  *[√cit > cet + &ast;anā]*  /fem, abstr, act, from ceteti/ |
+| *phusati*     | /(pr)/ touches; contacts; feels; experiences *[√phus + a + ti]*                       |
+| *phassa*      | /(masc)/ sense contact; sense impingement; sense impression  *[√phus > phass + a]*    |
+| *manasikāra*  | /(masc)/ attention (to); bringing-to-mind; noticing  *[manasi + kāra]*                |
+| *vuccati*     | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/                 |
+| *mahābhūta*   | /(nt)/ four great elements  *[mahā + bhūta]*  /nt, comp/                              |
+| *upādāyarūpa* | /(nt)/ derived materiality (of)  *[upādāya + rūpa]*  /nt, comp/                       |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+(MN 18) Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso ...
+
+Manañcāvuso, paṭicca dhamme ca uppajjati manoviññāṇaṁ, tiṇṇaṁ saṅgati phasso, \\
+phassapaccayā vedanā, yaṁ vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vitakketi, \\
+yaṁ vitakketi taṁ papañceti, yaṁ papañceti \\
+tatonidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti \\
+atītānāgatapaccuppannesu manoviññeyyesu dhammesu.
+#+end_quote
+
+| *paṭicca 1*              | /(ger)/ dependent; depending (on); because (of); *[pati + √i + tya]*  /ger of pacceti/  |
+| *uppajjati 1*            | /(pr)/ appears; arises; occurs; takes place (for or in)  *[ud + pajja + ti]*  /pr/      |
+| *tiṇṇaṁ*                 | /(card)/ of three  *[ti + ānaṁ]*  /card, masc & nt gen pl of ti/                        |
+| *saṅgati 1*              | /(fem)/ union; coming together; meeting (of)  *[saṁ + √gam + ti]*                       |
+| *vedeti 1*               | /(pr)/ feels; experiences; senses  *[vede + ti]*  /pr/                                  |
+| *sañjānāti*              | /(pr)/ knows; knows as; perceives; conceives; recognizes  *[saṁ + jānā + ti]*  /pr/     |
+| *vitakketi*              | /(pr)/ thinks (about); reflects (on); ponders (over)  *[vi + takke + ti]*  /pr/         |
+| *papañceti*              | /(pr)/ proliferates; forms various opinions (about)  *[pa + pañce + ti]*  /pr/          |
+| *tatonidānaṁ*            | /(ind)/ because of that; for that reason  *[tato + nidāna + aṁ]*                        |
+| *purisa 1*               | /(masc)/ man; male; person   /masc/                                                     |
+| *papañcasaññāsaṅkhā*     | /(fem)/ proliferation of opinions, concepts and constructs;                             |
+| *papañca*                | /(masc)/ various opinions; proliferation; endless conceptualization;                    |
+|                          | lit. expanding; spreading                                                               |
+| *samudācarati 2.1*       | /(pr)/ overwhelms; assails; assaults; (comm) occurs  *[saṁ + ud + ā + cara + ti]*  /pr/ |
+| *atītānāgatapaccuppanna* | /(adj)/ in the past, the future and the present  *[atīta + anāgata + paccuppanna]*      |
+| *manoviññeyya*           | /(adj)/ knowable; known by the mind  *[mano + viññeyya]*  /adj, comp/                   |
+
+(See further in the discussion at [[https://pali-sutta-readings.github.io/readings/2025-03-05/][2025-03-05]])
+
+** DN 11 Kevaṭṭasutta
+
+#+begin_quote
+Atha kho so, kevaṭṭa, bhikkhu maṁ abhivādetvā ekamantaṁ nisīdi, ekamantaṁ nisinno kho, kevaṭṭa, \\
+so bhikkhu maṁ etadavoca: ‘kattha nu kho, bhante, ime cattāro mahābhūtā aparisesā nirujjhanti, \\
+seyyathidaṁ — pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti?
+#+end_quote
+
+| *maṁ 1*        | /(pron)/ me (object)  *[amha + aṁ]*  /pron, 1st acc sg of ahaṁ/              |
+| *abhivādetvā*  | /(abs)/ having bowed down; having paid high respect (to) /abs of abhivādeti/ |
+| *ekamantaṁ 1*  | /(ind)/ to one side; aside  *[ekaṁ + anta + aṁ]*                             |
+| *nisīdi 1*     | /(aor)/ sat (on); sat down (in)  *[ni + sīda + i]*  /aor of nisīdati/        |
+| *etadavoca*    | /(aor)/ said this (to)  *[etad + avoca]*  /aor, comp vb/                     |
+| *kattha 1.1*   | /(ind)/ where?  *[ka + ttha]*  /ind, adv, interr, from ka/                   |
+| *nu*           | /(ind)/ (adds a question mark) surely?; didn't?; wouldn't?; which?           |
+| *mahābhūtā*    | /(masc)/ primary states; great elements; *[mahā + bhūta + ā]*                |
+| *dhātu*        | /(fem)/ state; property; condition; element *[√dhā + tu]*                    |
+| *√dhā*         | place, support                                                               |
+| *aparisesa*    | /(adj)/ without remainder; complete  /adj, from na sesa/                     |
+| *nirujjhati*   | /(pr)/ dissolves; finishes; stops; ceases; vanishes  *[ni + rujjha + ti]*    |
+| *pathavīdhātu* | /(fem)/ solids; solid state; earth element  *[pathavī + dhātu]*              |
+| *āpodhātu*     | /(fem)/ liquids; liquid state; (comm) element of cohesion  *[āpo + dhātu]*   |
+| *tejodhātu*    | /(fem)/ fiery state  *[tejo + dhātu]*                                        |
+| *vāyodhātu*    | /(fem)/ gas; gaseous state  *[vāyo + dhātu]*                                 |
+
+Dhātu: modes of behaviour. See Wettimuny, Ch 1. Grasping <https://its-essential-meaning.github.io/>
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+... sāmuddikā vāṇijā tīradassiṁ sakuṇaṁ gahetvā ... Evameva kho tvaṁ, bhikkhu, \\
+yato yāva brahmalokā pariyesamāno imassa pañhassa veyyākaraṇaṁ nājjhagā, \\
+atha mamaññeva santike paccāgato. Na kho eso, bhikkhu, pañho evaṁ pucchitabbo: \\
+‘kattha nu kho, bhante, ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathidaṁ — \\
+pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti?
+#+end_quote
+
+| *sāmuddika*    | /(adj)/ seafaring; ocean-going *[samudda + &ast;ika]*  /adj, from samudda/                     |
+| *vāṇija*       | /(masc)/ trader; dealer; merchant  *[vaṇija > vāṇija + &ast;a]*  /masc, from vaṇija/           |
+| *tīradassī 2*  | /(adj)/ shore-spotting; land-sighting  *[tīra + dassī]*  /adj, comp/                           |
+| *sakuṇa*       | /(masc)/ bird   /masc/                                                                         |
+| *gahetvā 1*    | /(abs)/ having taken; having held  *[gahe + tvā]*  /abs of gaṇhāti/                            |
+| *evameva*      | /(sandhi)/ similarly; in the same way; so too; just so  *[evaṁ + eva]*  /sandhi, adv + ind/    |
+| *tvaṁ 1*       | /(pron)/ you (subject)  *[tumha + aṁ > tuvaṁ > tvaṁ]*  /pron, 2nd nom sg of tumha/             |
+| *yato 1*       | /(ind)/ from where; from which; wherever  *[ya + to]*  /ind, adv, abl sg of ya/                |
+| *yāva 1*       | /(ind)/ as long as; as far as; so much so; up to; until; from… to   /ind, adv/                 |
+| *pariyesamāna* | /(prp)/ searching; seeking; looking (for)  *[pari + [y] + esa + māna]*  /prp of pariyesati/    |
+| *imassa 1*     | /(pron)/ for this; for him  *[ima + ssa]*  /pron, masc dat sg of ima/                          |
+| *pañha 1*      | /(nt)/ question; enquiry  *[√pañh + a]*  /nt/                                                  |
+| *veyyākaraṇa*  | /(nt)/ answer; reply  *[vi > vy > veyy + ā + √kar + aṇa + &ast;a]*                             |
+| *nājjhagā*     | /(imperf)/ did not get; did not obtain; did not find; /imperf of na adhigacchati/              |
+| *mamaññeva*    | /(sandhi)/ just me  *[mamaṁ + eva]*  /sandhi, pron + ind/                                      |
+| *santike 1*    | /(ind)/ to; in the presence (of); near (to); nearby; *[santika + e]*                           |
+| *paccāgata 1*  | /(pp)/ returned; went back (to)  *[pati > paty > pacc + ā + √gam + ta]*  /pp of paccāgacchati/ |
+| *eso*          | /(pron)/ this; this thing; this person; he; it  *[esa + o]*  /pron, masc nom sg of eta/        |
+| *pucchitabba*  | /(ptp)/ should be asked; could be asked  *[√pucch + itabba]*  /ptp of pucchati/                |
+
+#+begin_quote
+Evañca kho eso, bhikkhu, pañho pucchitabbo:
+
+‘Kattha āpo ca pathavī, / tejo vāyo na gādhati; \\
+Kattha dīghañca rassañca, / aṇuṁ thūlaṁ subhāsubhaṁ; \\
+Kattha nāmañca rūpañca, / asesaṁ uparujjhatī’ti.
+#+end_quote
+
+| *gādhati*     | /(pr)/ finds a footing; is well grounded; finds a support  *[gādha + ti]*  /pr/            |
+| *dīgha 1*     | /(adj)/ long (in space or time); tall; deep   /adj/                                        |
+| *rassa 1*     | /(adj)/ short; small   /adj/                                                               |
+| *aṇu 1*       | /(adj)/ small; tiny; minute; minuscule   /adj/                                             |
+| *thūla 1*     | /(adj)/ massive; large  *[√thūl + a]*  /adj/                                               |
+| *subhāsubha*  | /(adj)/ beautiful and ugly; attractive and repulsive  *[subha + asubha]*  /adj, comp/      |
+| *asesaṁ*      | /(ind)/ completely; entirely; totally; without remnant /ind, adv, acc sg of na sesa/       |
+| *uparujjhati* | /(pr)/ is stopped; is ended; is finished  *[upa + rujjha + ti]*  /pr, pass of uparundhati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Tatra veyyākaraṇaṁ bhavati:
+
+‘Viññāṇaṁ anidassanaṁ, / anantaṁ sabbatopabhaṁ;
+
+Ettha āpo ca pathavī, / tejo vāyo na gādhati. \\
+Ettha dīghañca rassañca, / aṇuṁ thūlaṁ subhāsubhaṁ;
+
+Ettha nāmañca rūpañca, / asesaṁ uparujjhati; \\
+Viññāṇassa nirodhena, / etthetaṁ uparujjhatī’”ti.
+#+end_quote
+
+| *tatra 1*      | /(ind)/ there; in that place  *[ta + tra]*  /ind, adv, from ta/                                                                                               |
+| *bhavati 2*    | /(pr)/ exists (for)  *[bhava + ti]*  /pr/                                                                                                                     |
+| *anidassana*   | /(adj)/ attribute-less; non-manifesting; sign-less; featureless; invisible; epithet of Nibbāna                                                                |
+|                | *[na > a + ni + dassa + ana]*                                                                                                                                 |
+| *ananta*       | /(adj)/ infinite; endless; boundless; without limit  *[na > an + anta]*  /adj, from na anta/                                                                  |
+| *sabbatopabha* | /(adj)/ radiant in every direction; luminous all around;  *[sabbato + pabha]*  /adj, comp/                             |
+| *ettha 1*      | /(ind)/ here; in this place; in this case; in this regard  *[ima + ttha]*                                                                |
+| *etaṁ 1*       | /(pron)/ this; this thing (subject)  *[eta + aṁ]*  /pron, nt nom sg of eta/                                                                                   |
+
+Different assumptions in the question:
+
+What exists? (tetralemma) VS How does it arise and cease? (dependent origination). See also: [[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-15.html][Sermon 15]]
+
+*MN 1 Mūlapariyāyasutta*: Difference in understanding of experience in the case of the /puthujjana/, /sekha/, and the /arahant/
+
+** Ud 1.10 Bāhiyasutta
+
+#+begin_quote
+Tasmātiha te, bāhiya, evaṁ sikkhitabbaṁ: ‘diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissatī’ti. 
+
+... Yato tvaṁ, bāhiya, na tattha, tato tvaṁ, bāhiya, nevidha na huraṁ na ubhayamantarena. Esevanto dukkhassā'ti.
+#+end_quote
+
+(Ñāṇananda) Well then, Bāhiya, you had better train yourself thus. In the seen
+there will be just the seen, in the heard there will be just the heard, in the
+sensed there will be just the sensed, in the cognized there will be just the
+cognized.
+
+... And when to you, Bāhiya, there will be in the seen just the seen, in the
+heard just the heard, in the sensed just the sensed, in the cognized just the
+cognized, then, Bāhiya, you are not by it. And when you are not by it, you are
+not in it. And when, Bāhiya, you are not in it, then, Bāhiya, you are neither
+here, nor there, nor in between. This itself is the end of suffering.
+
+#+begin_quote
+“Yattha āpo ca pathavī, / tejo vāyo na gādhati ...
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
+
+** Na saññasaññī ...
+
+(See further in the discussion at [[https://pali-sutta-readings.github.io/readings/2025-03-05/][2025-03-05]])
+
+Translation by Bhikkhu K. Ñāṇananda in Nibbāna Sermon 27:
+
+*Snp 4.11 ([[https://suttacentral.net/snp4.11/pli/ms][SC]], [[http://localhost:4848/suttas/snp4.11/pli/ms?quote=Na%2520sa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB%2520na%2520visa%25C3%25B1%25C3%25B1asa%25C3%25B1%25C3%25B1%25C4%25AB&window_type=Sutta+Study][SSP]]) Kalahavivādasutta*
+
+#+begin_quote
+/Na saññasaññī na visaññasaññī,/ \\
+/Nopi asaññī na vibhūtasaññī;/ \\
+/Evaṁ sametassa vibhoti rūpaṁ,/ \\
+/Saññānidānā hi papañcasaṅkhā./
+
+He is not conscious of normal perception, \\
+@@html:<span class="vin"></span>@@ nor is he unconscious, \\
+He is not devoid of perception, \\
+@@html:<span class="vin"></span>@@ nor has he rescinded perception, \\
+It is to one thus constituted \\
+@@html:<span class="vin"></span>@@ that form ceases to exist, \\
+For reckonings through prolificity \\
+@@html:<span class="vin"></span>@@ have perception as their source.
+#+end_quote
+
+Here the last line states a crucial fact. Reckonings, designations and the like,
+born of prolificity, are traceable to perception in the last analysis. That is
+to say, all that is due to perception.
+
+Another reason why form has received special attention here, is the fact that it
+is a precondition for contact. When there is form, there is the notion of
+resistance. That is already implicit in the question that comes in a verse at
+the beginning of the /Kalahavivādasutta/:
+
+#+begin_quote
+/Kismiṁ vibhūte na phusanti phassā,/
+
+when what is not there, do touches not touch?
+#+end_quote
+
+The answer to that query is:
+
+#+begin_quote
+/Rūpe vibhūte na phusanti phassā,/
+
+when form is not there, touches do not touch.
+#+end_quote
+
