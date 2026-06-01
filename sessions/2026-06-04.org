@@ -1,0 +1,209 @@
+#+author: gambhiro
+#+youtube_id:
+#+tags: contact
+
+* 2026-06-04
+** Review of contact (phassa)
+
+Following the discussion on [[https://pali-sutta-readings.github.io/readings/2026-05-27/][2026-05-27]]
+
+- Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho...
+- Cakkhuñcāvuso, paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso...
+
+[[https://buddhadhamma.github.io/six-sense-spheres.html][Buddhadhamma, Ch 2. Six Sense Spheres]], see Cognitive Process (two diagrams), and Pathways of Cognition
+
+#+begin_quote
+’Contact’ (phassa) is the source of knowledge: all forms of understanding arise as a result of contact, \\
+or they arise at the point of contact.
+#+end_quote
+
+*** Snp 4.13 Mahābyūhasutta
+
+#+begin_quote
+Passaṁ naro dakkhati nāmarūpaṁ, / Disvāna vā ñassati tānimeva;
+
+Kāmaṁ bahuṁ passatu appakaṁ vā, / Na hi tena suddhiṁ kusalā vadanti.
+#+end_quote
+
+| *passaṁ* | /(prp)/ seeing  *[passa + nta + aṁ]*  /prp, masc & nt nom sg of passanta/ |
+| *nara* | /(masc)/ man; person   /masc/ |
+| *dakkhati 1* | /(pr)/ sees; finds  *[dakkha + ti]*  /pr/ |
+| *disvāna* | /(abs)/ having seen  *[√dis + tvāna]*  /abs of √dis/ |
+| *ñassati 1* | /(fut)/ will know; could know  *[√ñā + ssa + ti]*  /fut of jānāti/ |
+| *tāni 1* | /(pron)/ they; those; those things  *[ta + āni]*  /pron, nt nom pl of ta/ |
+| *kāmaṁ 1* | /(ind)/ freely; according to one's wishes; *[kāma + aṁ]*   |
+| *bahu* | /(adj)/ many; much; lots; a lot (of); great; large  *[√bah + u]*  /adj/ |
+| *appaka 1* | /(adj)/ small; few; little  *[appa + ka]*  /adj, from appa/ |
+| *suddhi* | /(fem)/ purity; purification; holiness;  *[√sudh + ti]*   |
+| *kusalā* | /(masc)/ masters; 'masters'; experts; 'experts'  *[kusala + ā]*  |
+
+([[https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-09.html][Sermon 9]]) The man who claims to see with those higher knowledges is seeing only name-and-form, /passaṁ naro dakkhiti nāmarūpaṁ/. Having seen, he takes whatever he sees as real knowledge, /disvāna vā ñassati tānim eva/.
+
+Just as someone inside a closed room with tinted window panes sees only what is reflected on those dark panes, and not beyond, even so, those ‘seers' got enmeshed in name-and-form when they proceeded to speculate on what they saw as their past lives. They took name-and-form itself to be real.
+
+*[[https://terebess.hu/english/gateless.html][Mumonkan]] Case 4:* (13th cent.)
+
+#+begin_quote
+Wakuan, looking at Bodhidharma's picture, complained, 'Why does the Barbarian from the West have no beard?'
+#+end_quote
+
+ *[[https://en.wikisource.org/wiki/Translation:Longer_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_H%E1%B9%9Bdaya_S%C5%ABtra][Heart Sūtra]] (Prajñāpāramitā):* (7th cent.)
+
+#+begin_quote
+Form itself is emptiness, and emptiness itself is form. [...] \\
+There are no eyes, ears, nose, tongue, body, or thoughts. \\
+There are no forms, sounds, scents, tastes, sensations, or phenomena. \\
+There is no field of vision and there is no realm of thoughts. \\
+There is no ignorance nor elimination of ignorance, even up to and including no old age and death, nor elimination of old age and death. 
+#+end_quote
+
+*** DN 1 Brahmajālasutta
+
+#+begin_quote
+Tatra, bhikkhave, ye te samaṇabrāhmaṇā sassatavādā \\
+sassataṁ attānañca lokañca paññapenti catūhi vatthūhi, tadapi phassapaccayā.
+#+end_quote
+
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who   |
+| *sassata* | /(adj)/ eternal; everlasting; endless; perpetual; *[sassati + a]*  /adj/ |
+| *paññapeti 1* | /(pr)/ teaches; preaches; proclaims  *[pa + ñape + ti]*  /pr, caus of pajānāti/ |
+| *catūhi 1* | /(card)/ with four; by four  *[catu + ūhi]*  |
+| *vatthu 6* | /(nt)/ basis; grounds (for)  *[√vas + tu]*  /nt, from vasati/ |
+| *tadapi* | /(sandhi)/ that itself; just that  *[tad + api]*  |
+
+*** SN 12.26 Upavāṇasutta
+
+#+begin_quote
+Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā. Kiṁ paṭicca? Phassaṁ paṭicca.
+
+... Tatra, upavāṇa, ye te samaṇabrāhmaṇā sayaṅkataṁ dukkhaṁ paññapenti, tadapi phassapaccayā.
+#+end_quote
+
+| *mayā 1* | /(pron)/ by me; with me   /pron, 1st instr sg of ahaṁ/ |
+| *paṭicca 1* | /(ger)/ dependent; depending (on); because (of); grounded (on)  *[pati + √i + tya]*   |
+| *sayaṅkata* | /(adj)/ self-made; self-created  *[sayaṁ + kata]*  /adj, comp/ |
+
+*** SN 35.232 Koṭṭhikasutta
+
+#+begin_quote
+Āyasmā Mahākoṭṭhiko Āyasmantaṁ Sāriputtaṁ etadavoca:
+
+“Kiṁ nu kho, āvuso sāriputta, cakkhu rūpānaṁ saṁyojanaṁ, rūpā cakkhussa saṁyojanaṁ ...
+
+mano dhammānaṁ saṁyojanaṁ, dhammā manassa saṁyojanan”ti?
+
+“Na kho, āvuso koṭṭhika, cakkhu rūpānaṁ saṁyojanaṁ, na rūpā cakkhussa saṁyojanaṁ.
+
+Yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanaṁ.
+
+(simile of the two tied oxen)
+
+Suppose there was a black ox and a white ox yoked by a single harness or yoke ...
+
+Saṁvijjati kho, āvuso, bhagavato cakkhu. Passati bhagavā cakkhunā rūpaṁ.
+
+Chandarāgo bhagavato natthi. Suvimuttacitto bhagavā.
+
+... Saṁvijjati kho, āvuso, bhagavato mano. Vijānāti bhagavā manasā dhammaṁ.
+
+Chandarāgo bhagavato natthi. Suvimuttacitto bhagavā.
+#+end_quote
+
+| *saṁyojana 1*    | /(nt)/ fetter; chain; bond; thing which binds  *[saṁ + yoje + ana]*                    |
+| *saṁvijjati 1.1* | /(pr)/ exists; is present; is found (in)  *[saṁ + vijja + ti]*  /pr/                   |
+| *bhagavato 2*    | /(masc)/ of the Buddha  *[√bhaj > bhag + a + vant + to], [bhagavant + to]*             |
+| *chandarāga*     | /(masc)/ interest and passion; desire and lust  *[chanda + rāga]*  /masc, comp/        |
+| *suvimuttacitta* | /(adj)/ with well liberated mind; with completely free heart  *[su + vimutta + citta]* |
+| *vijānāti 1*     | /(pr)/ comprehends; recognises; distinguishes; is aware (of)  *[vi + jānā + ti]*  /pr/ |
+| *manasā*         | /(masc)/ by mind; with mind; mentally  *[manas + ā]*  /masc, instr sg of manas/        |
+
+*** Experiental Blindness :noexport:
+
+Not to be confused with *inattentional / perceptual blindness* (gorilla walking through a scene), or *illusions* (optical or ambiguous), or *Rorschach / inkblot test* (free association), which are describing different parts of the process of cognition.
+
+[[https://fortelabs.com/blog/how-emotions-are-made/][How Emotions Are Made: The Theory of Constructed Emotion - Forte Labs]]
+
+#+begin_quote
+"experiential blindness” – the inability to perceive what you don’t already have
+a concept for. Remember that we are not experiencing the world directly; we are
+experiencing our mental simulation of it. And *without a concept for something,
+we can’t incorporate it into our simulation.*
+#+end_quote
+
+[[https://www.youtube.com/watch?v=NbdRIVCBqNI][Lisa Feldman Barrett: Counterintuitive Ideas About How the Brain Works | Lex Fridman Podcast #129 - YouTube]]
+
+[[https://www.youtube.com/watch?v=NbdRIVCBqNI&t=3911s][1:05:11]] Emotions are human-constructed concepts
+
+* Notes :noexport:
+
+slides
+what allows seeing the object?
+what kind of contact?
+
+name and form → cognizing 'snake' → name and form
+definition → concept → experience
+knowing it as empty
+believing perceptions to be real or knowing them as empty
+sute mute viññāte
+
+koan: Bodhidharma has no beard
+Heart Sutra: no eyes
+
+SN 4.19 Kassakasutta
+
+Yours, Evil One, is the mind, yours are the mind-objects and yours the sphere of mind-contact, but where there is no mind, no mind-objects and no sphere of mind-contact, there you cannot go, Evil One.“
+https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-24.html
+
+upādānakkhadhā
+
+koans, gateless barrier: there is no tongue and taste
+
+DN 1 - due to contact
+
+tadapi phassapaccayā
+
+SN 12.24 views of dukkha
+
+SN 12.26
+
+Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā.
+Kiṁ paṭicca?
+Phassaṁ paṭicca.
+
+
+** Prompts
+
+I want to understand the connection between the process of buddhist epistemology of contact 'phassa' and the grasping aggregates (upādānakkhandhā), specifically where phassa is said to cease with insight, and the grasping agregates become simply aggregates without grasping with insight. Research the answer in the two epub files in this folder ./Buddhadhamma.epub and ./Nibbana-The-Mind-Stilled.epub and understand the connections and sutta references used by their authors.
+
+khandha vs. upādānakkhandha distinction in terms of phassa (with the SN 22.48, SN 22.121, SN 35.107/35.232, MN 18 references from Payutto and the upādāya asmīti
+
+https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-10.html
+
+It is with dependence, friend Ānanda, that the notion ‘am’ occurs, not without dependence. 
+
+SN 22.83
+
+The absolutive upādāya, though akin to upādāna, has a deeper significance. It is a word suggestive of a relationship. It does not merely mean a holding on, but also a certain necessary relationship arising out of that holding on.
+
+Just as the looking into a mirror or a bowl of water gives rise to a facial image as a reflection, here too the relationship calls forth the deluded reflection “here I am”. Given the notion “here I am”, there follows the corollary “things that are mine”.
+
+Rūpaṁ attato samanupassati...
+
+’The Blessed One has an eye, the Blessed One sees forms with the eye, yet there is no desire and lust in the Blessed One; the Blessed One is well liberated in mind. The Blessed One has an ear … nose … tongue … body … mind, yet there is no desire and lust in the Blessed One; the Blessed One is well liberated in mind.’
+
+SN 35.232 / S iv 162-5, Koṭṭhika Sutta
+
+In the Brahmajālasutta itself we find some views advanced by those who had higher knowledges. With the help of those higher knowledges, which were still of the mundane type, they would see into their past, sometimes hundreds of thousands of their past lives, and drawing also from their ability to read others’ minds, they would construct various views. Many such views are recorded in the Brahmajālasutta, only to be rejected and invalidated. Why so? The reason is given here in this verse.
+
+The man who claims to see with those higher knowledges is seeing only name-and-form, passaṁ naro dakkhiti nāmarūpaṁ. Having seen, he takes whatever he sees as real knowledge, disvāna vā ñassati tānim eva.
+
+...
+
+    tadapi phassapaccayā, tadapi phassapaccayā,41
+
+    and that too is due to contact, and that too is due to contact.
+
+So from this we can see that contact is the mesh of this net.
+
+The medley of wrong views, current among those of other sects, is the product of the six sense-bases dependent on contact. The Buddha’s vision, on the other hand, seems to be an all-encompassing lustre of wisdom, born of the cessation of the six sense-bases, which in effect, is the vision of Nibbāna.
+
