@@ -117,7 +117,15 @@ Chandarāgo bhagavato natthi. Suvimuttacitto bhagavā.
 | *vijānāti 1*     | /(pr)/ comprehends; recognises; distinguishes; is aware (of)  *[vi + jānā + ti]*  /pr/ |
 | *manasā*         | /(masc)/ by mind; with mind; mentally  *[manas + ā]*  /masc, instr sg of manas/        |
 
-*** Experiental Blindness :noexport:
+*** Cognition of the Worldling and the Arahant
+
+*Contact (phassa) and the Upādāna-kkhandhā*
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/cognition-of-the-worldling.png"></p>
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/cognition-of-the-arahant.png"></p>
+
+*** Experiental Blindness
 
 Not to be confused with *inattentional / perceptual blindness* (gorilla walking through a scene), or *illusions* (optical or ambiguous), or *Rorschach / inkblot test* (free association), which are describing different parts of the process of cognition.
 
@@ -170,40 +178,4 @@ Paṭiccasamuppannaṁ kho, upavāṇa, dukkhaṁ vuttaṁ mayā.
 Kiṁ paṭicca?
 Phassaṁ paṭicca.
 
-
-** Prompts
-
-I want to understand the connection between the process of buddhist epistemology of contact 'phassa' and the grasping aggregates (upādānakkhandhā), specifically where phassa is said to cease with insight, and the grasping agregates become simply aggregates without grasping with insight. Research the answer in the two epub files in this folder ./Buddhadhamma.epub and ./Nibbana-The-Mind-Stilled.epub and understand the connections and sutta references used by their authors.
-
-khandha vs. upādānakkhandha distinction in terms of phassa (with the SN 22.48, SN 22.121, SN 35.107/35.232, MN 18 references from Payutto and the upādāya asmīti
-
-https://seeingthroughthenet.github.io/nibbana-the-mind-stilled/sermon-10.html
-
-It is with dependence, friend Ānanda, that the notion ‘am’ occurs, not without dependence. 
-
-SN 22.83
-
-The absolutive upādāya, though akin to upādāna, has a deeper significance. It is a word suggestive of a relationship. It does not merely mean a holding on, but also a certain necessary relationship arising out of that holding on.
-
-Just as the looking into a mirror or a bowl of water gives rise to a facial image as a reflection, here too the relationship calls forth the deluded reflection “here I am”. Given the notion “here I am”, there follows the corollary “things that are mine”.
-
-Rūpaṁ attato samanupassati...
-
-’The Blessed One has an eye, the Blessed One sees forms with the eye, yet there is no desire and lust in the Blessed One; the Blessed One is well liberated in mind. The Blessed One has an ear … nose … tongue … body … mind, yet there is no desire and lust in the Blessed One; the Blessed One is well liberated in mind.’
-
-SN 35.232 / S iv 162-5, Koṭṭhika Sutta
-
-In the Brahmajālasutta itself we find some views advanced by those who had higher knowledges. With the help of those higher knowledges, which were still of the mundane type, they would see into their past, sometimes hundreds of thousands of their past lives, and drawing also from their ability to read others’ minds, they would construct various views. Many such views are recorded in the Brahmajālasutta, only to be rejected and invalidated. Why so? The reason is given here in this verse.
-
-The man who claims to see with those higher knowledges is seeing only name-and-form, passaṁ naro dakkhiti nāmarūpaṁ. Having seen, he takes whatever he sees as real knowledge, disvāna vā ñassati tānim eva.
-
-...
-
-    tadapi phassapaccayā, tadapi phassapaccayā,41
-
-    and that too is due to contact, and that too is due to contact.
-
-So from this we can see that contact is the mesh of this net.
-
-The medley of wrong views, current among those of other sects, is the product of the six sense-bases dependent on contact. The Buddha’s vision, on the other hand, seems to be an all-encompassing lustre of wisdom, born of the cessation of the six sense-bases, which in effect, is the vision of Nibbāna.
 
