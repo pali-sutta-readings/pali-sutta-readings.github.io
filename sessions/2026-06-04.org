@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: ZLbmBtbRXPQ
 #+tags: contact
 
 * 2026-06-04
@@ -16,6 +16,10 @@ Following the discussion on [[https://pali-sutta-readings.github.io/readings/202
 ’Contact’ (phassa) is the source of knowledge: all forms of understanding arise as a result of contact, \\
 or they arise at the point of contact.
 #+end_quote
+
+*** Nāma-rūpa and viññāṇa without verbal expression
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/nama-rupa-vinnana-toddler-rubber-ball.png"></p>
 
 *** Snp 4.13 Mahābyūhasutta
 
