@@ -1,0 +1,231 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-06-10
+** AN 3.8x Samaṇa Vagga: Adhisīla, Adhicitta, Adhipaññā
+
+*AN 3.81 Samaṇasutta -- Three Duties*
+
+#+begin_quote
+“Tīṇimāni, bhikkhave, samaṇassa samaṇiyāni samaṇakaraṇīyāni. Katamāni tīṇi? \\
+Adhisīlasikkhāsamādānaṁ, adhicittasikkhāsamādānaṁ, adhipaññāsikkhāsamādānaṁ — \\
+imāni kho, bhikkhave, tīṇi samaṇassa samaṇiyāni samaṇakaraṇīyāni.
+
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘tibbo no chando bhavissati \\
+adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādāne, \\
+tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
+#+end_quote
+
+| *samaṇiya*     | /(adj)/ related to an ascetic; regarding a monk  *[samaṇa + iya]*                      |
+| *karaṇīya 1*   | /(nt)/ duty; obligation; something to be done  *[√kar + aṇīya]*  /nt, ptp of karoti/   |
+| *samādāna*     | /(nt)/ undertaking (of); taking upon oneself;  *[saṁ + √ādā + ana]*  /from samādiyati/ |
+| *tasmātiha*    | /(sandhi)/ therefore here; therefore in this regard  *[tasmā + [t] + iha]*             |
+| *sikkhitabba*  | /(ptp)/ should be practised; should be trained (by)  *[√sikkh + itabba]*               |
+| *tibba 2*      | /(pp)/ intense; keen; acute  *[√tij > tib + ta]*  /pp of √tij/                         |
+| *no 2.4*       | /(pron)/ our   /pron, 1st gen pl of ahaṁ/                                              |
+| *bhavissati 3* | /(fut)/ will happen; will occur  *[bhavissa + ti]*  /fut of bhavati/                   |
+| *vo 1.1*       | /(pron)/ you all (subject)   /pron, 2nd nom pl of tvaṁ/                                |
+
+*AN 3.82 Gadrabhasutta -- Donkey*
+
+Suppose, mendicants, a donkey followed behind a herd of cattle, thinking: ‘I can moo too! I can moo too!’
+But it doesn’t look like a cow, or sound like a cow, or leave a footprint like a cow.
+
+#+begin_quote
+Evamevaṁ kho, bhikkhave, idhekacco bhikkhu bhikkhusaṅghaṁ piṭṭhito piṭṭhito anubandho hoti: \\
+‘ahampi bhikkhu, ahampi bhikkhū’ti.
+
+Tassa na tādiso chando hoti adhisīlasikkhāsamādāne seyyathāpi aññesaṁ bhikkhūnaṁ, \\
+na tādiso chando hoti adhicittasikkhāsamādāne seyyathāpi aññesaṁ bhikkhūnaṁ, \\
+na tādiso chando hoti adhipaññāsikkhāsamādāne seyyathāpi aññesaṁ bhikkhūnaṁ.
+
+So bhikkhusaṅghaṁyeva piṭṭhito piṭṭhito anubandho hoti: ‘ahampi bhikkhu, ahampi bhikkhū’ti. \\
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: 'tibbo no chando bhavissati ...'
+#+end_quote
+
+| *idhekacca*   | /(pron)/ here a certain; in this case some; *[idha + ekacca]*  /pron, comp/                      |
+| *piṭṭhito 1*  | /(ind)/ behind; at the rear of; just behind  *[pa + √ṭhā + i + to]*                              |
+| *anubandha 1* | /(adj)/ following after; following behind; *[anu + √bandh + a]*                                  |
+| *tassa 1*     | /(pron)/ to him; for him; to that; for that  *[ta + ssa]*  /pron, masc & nt dat sg of ta/        |
+| *tādisa*      | /(adj)/ such; like that; of such quality;  *[taṁ > tā + disa]*  /adj, comp/                      |
+| *aññesaṁ 1*   | /(pron)/ to others; for other people  *[añña + esānaṁ > esaṁ]*  /pron, masc & nt dat pl of añña/ |
+
+*AN 3.83 Khettasutta -- Fields*
+
+A farmer has three primary duties related to his field, a bhikkhu has three primary duties related to his training.
+
+#+html: <div class="pagebreak"></div>
+
+*AN 3.84 Vajjiputtasutta -- Too Many Rules*
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho aññataro vajjiputtako \\
+bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. \\
+Ekamantaṁ nisinno kho so vajjiputtako bhikkhu bhagavantaṁ etadavoca:
+
+“Sādhikamidaṁ, bhante, diyaḍḍha-sikkhāpada-sataṁ anvaddhamāsaṁ uddesaṁ āgacchati. \\
+Nāhaṁ, bhante, ettha sakkomi sikkhitun”ti.
+#+end_quote
+
+| *mahāvana 1*     | /(nt)/ name of a forest outside Vesālī  *[mahā + vana]*  /nt, comp/       |
+| *kūṭāgārasālā 1* | /(fem)/ hall with a peaked roof  *[kūṭāgāra + sālā]*  /fem, comp/         |
+| *aññatara 1*     | /(pron)/ a certain; a  *[añña + tara]*  /pron, from añña/                 |
+| *vajjiputtaka 1* | /(masc)/ young Vajjian man;  *[vajjī + putta + ka]*  /masc, comp/         |
+| *diyaḍḍha*       | /(adj)/ one and a half  *[dvi > di + [y] + aḍḍha]*  /adj, comp/           |
+| *sikkhāpada*     | /(nt)/ precept; instruction; training rule  *[sikkhā + pada]*  /nt, comp/ |
+| *sata 2.1*       | /(card)/ one hundred (100)   /card, nt sg/                                |
+| *anvaddhamāsaṁ*  | /(ind)/ every fortnight; after half a month  *[anu + addha + māsa + aṁ]*  |
+| *sakkoti*        | /(pr)/ is able (to)  *[sakko + ti]*  /pr/                                 |
+| *sikkhituṁ* | /(inf)/ to practice; to train  *[√sikkh + ituṁ]*  /inf of sikkhati/ |
+
+#+begin_quote
+“Sakkhissasi pana tvaṁ, bhikkhu, tīsu sikkhāsu sikkhituṁ — adhisīlasikkhāya, adhicittasikkhāya adhipaññāsikkhāyā”ti?
+
+“Sakkomahaṁ, bhante, tīsu sikkhāsu sikkhituṁ — adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāyā”ti.
+
+“Tasmātiha tvaṁ, bhikkhu, tīsu sikkhāsu sikkhassu — adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya.
+
+Yato kho tvaṁ, bhikkhu, adhisīlampi sikkhissasi, adhicittampi sikkhissasi, adhipaññampi sikkhissasi, \\
+tassa tuyhaṁ bhikkhu adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyissati, \\
+doso pahīyissati, moho pahīyissati. So tvaṁ rāgassa pahānā dosassa pahānā mohassa pahānā \\
+yaṁ akusalaṁ na taṁ karissasi, yaṁ pāpaṁ na taṁ sevissasī”ti.
+
+Atha kho so bhikkhu ... yaṁ akusalaṁ taṁ nākāsi, yaṁ pāpaṁ taṁ na sevī'ti.
+#+end_quote
+
+| *yato 2* | /(ind)/ since; because; due to the fact that  *[ya + to]*  /ind, adv, abl sg of ya/ |
+| *tuyhaṁ 1* | /(pron)/ for you; to you   /pron, 2nd dat sg of tvaṁ/ |
+| *pahīyati 1.1* | /(pr)/ is abandoned; is given up  *[pa + hīya + ti]*  /pr, pass of pajahati/ |
+| *sevati 2* | /(pr)/ practices; pursues; engages (in); cultivates  *[seva + ti]*  /pr/ |
+
+*AN 3.85 Sekkhasutta -- Why is one called a 'trainee'?*
+
+*AN 3.86 Paṭhamasikkhāsutta*
+
+#+begin_quote
+Sādhikamidaṁ, bhikkhave, diyaḍḍhasikkhāpadasataṁ anvaddhamāsaṁ uddesaṁ āgacchati, \\
+yattha attakāmā kulaputtā sikkhanti. Tisso imā, bhikkhave, sikkhā \\
+yatthetaṁ sabbaṁ samodhānaṁ gacchati. Katamā tisso? Adhisīlasikkhā, adhicittasikkhā adhipaññāsikkhā — \\
+imā kho, bhikkhave, tisso sikkhā, yatthetaṁ sabbaṁ samodhānaṁ gacchati.
+#+end_quote
+
+| *yattha* | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/ |
+| *attakāma 1* | /(adj)/ desiring one's own good; wanting self-liberation  *[atta + kāma]*  /adj, comp/ |
+| *kulaputta* | /(masc)/ son of a good family; young gentleman  *[kula + putta]*  /masc, comp/ |
+| *yatthetaṁ* | /(sandhi)/ in which this; where this  *[yattha + etaṁ]*  /sandhi, adv + pn/ |
+| *samodhāna 1* | /(nt)/ combining; fitting together (in); inclusion  *[saṁ + ava + √dhā + ana]*  /nt, act/ |
+
+#+begin_quote
+Idha, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī paññāya mattaso kārī.
+
+So yāni tāni khuddānukhuddakāni sikkhāpadāni tāni āpajjatipi vuṭṭhātipi. Taṁ kissa hetu? \\
+Na hi mettha, bhikkhave, abhabbatā vuttā.
+
+Yāni ca kho tāni sikkhāpadāni ādibrahmacariyakāni brahmacariyasāruppāni, \\
+tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu.
+
+So tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo.
+#+end_quote
+
+| *paripūrakārī* | /(adj)/ who completely fulfils; who is complete (wrt); who practices fully  |
+| *mattaso* | /(ind)/ moderately; to a moderate degree  *[matta + so]*  /ind, adv, abl sg of mattā/ |
+| *khuddānukhuddaka* | /(adj)/ lesser and minor; small and less important  *[khudda + anukhudda + ka]*  |
+| *āpajjati 4* | /(pr)/ (of an offence) commits; falls into  *[ā + pajja + ti]*  /pr/ |
+| *vuṭṭhāti 3* | /(pr)/ (of an offence) rehabilitates; re-emerges; reinstitutes  *[[v] + ud + ṭhā + ti]*  /pr/ |
+| *mettha* | /(sandhi)/ by me in this regard  *[me + ettha]*  /sandhi, pron + adv/ |
+| *abhabbatā* | /(fem)/ impossibility; something incapable of happening (for)  *[abhabba + tā]*  |
+| *vutta 2.1* | /(pp)/ said; told; spoken; mentioned  *[√vac > vuc + ta]*  /pp of vacati/ |
+| *ādibrahmacariyaka* | /(adj)/ fundamental to the holy life; *[ādi + brahma + cariya + ka]*    |
+| *brahmacariyasāruppa* | /(adj)/ in conformity with the spiritual path; *[brahma + cariya + sāruppa]*    |
+| *dhuvasīla* | /(adj)/ stable in conduct; with firm ethics  *[dhuva + sīla]*  /adj, comp/ |
+| *ṭhitasīla* | /(adj)/ firmly ethical; steadfast in behaviour  *[ṭhita + sīla]*  /adj, comp/ |
+| *samādāya 2* | /(ger)/ undertaking; taking up; accepting  *[saṁ + √ādā + ya]*  /ger of samādāti/ |
+| *parikkhaya* | /(masc)/ exhaustion; destruction; depletion (of)  *[pari + √khī > khay + &ast;a]*  /masc/   |
+| *niyata 2* | /(pp)/ certain; decided; invariable; unavoidable; of fixed destiny  *[ni + √yam + ta]*   |
+| *sambodhiparāyaṇa* | /(adj)/ destined for full awakening; culminating in enlightenment   |
+
+#+begin_quote
+... sakadāgāmī hoti ... anāvattidhammo ... Idha pana, bhikkhave, bhikkhu sīlesu paripūrakārī hoti samādhismiṁ \\
+paripūrakārī paññāya paripūrakārī. So yāni tāni khuddānukhuddakāni sikkhāpadāni tāni āpajjatipi vuṭṭhātipi. \\
+Taṁ kissa hetu? Na hi mettha, bhikkhave, abhabbatā vuttā.
+
+... tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu. So āsavānaṁ khayā \\
+anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+
+Iti kho, bhikkhave, padesaṁ padesakārī ārādheti paripūraṁ paripūrakārī. \\
+Avañjhāni tvevāhaṁ, bhikkhave, sikkhāpadāni vadāmī”ti.
+#+end_quote
+
+| *padesaṁ*      | /(ind)/ in part; partially; to a degree  *[pa + √dis > des + &ast;a + aṁ]*                    |
+| *padesakārī*   | /(adj)/ who partly does; who does a portion of the work; who practices partially              |
+| *ārādheti 2*   | /(pr)/ wins; obtains; accomplishes; succeeds (in);  *[ā + rādhe + ti]*  /pr, caus of ā √rādh/ |
+| *paripūraṁ*    | /(ind)/ completely; in full; fully  *[pari + √pūr + a + aṁ]*                                  |
+| *paripūrakārī* | /(adj)/ who completely fulfils; who is complete (wrt); who practices fully                    |
+| *avañjha*      | /(adj)/ productive; profitable; successful  *[na > a + vañjha]*                               |
+| *vañjha*       | /(adj)/ barren; fruitless; sterile; unproductive   /adj/                                      |
+
+*AN 3.87, AN 3.88 -- Results in terms of number and realms of rebirth*
+
+#+html: <div class="pagebreak"></div>
+
+*AN 3.89 -- Definitions*
+
+#+begin_quote
+“Tisso imā, bhikkhave, sikkhā. Katamā tisso? Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā.
+
+Katamā ca, bhikkhave, adhisīlasikkhā? Idha, bhikkhave, bhikkhu sīlavā hoti ... \\
+samādāya sikkhati sikkhāpadesu. Ayaṁ vuccati, bhikkhave, adhisīlasikkhā.
+
+Katamā ca, bhikkhave, adhicittasikkhā? Idha, bhikkhave, bhikkhu vivicceva kāmehi ... \\
+catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhicittasikkhā.
+
+Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti ... \\
+‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. \\
+Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā. Imā kho, bhikkhave, tisso sikkhā”ti.
+#+end_quote
+
+*AN 3.90 -- Lamp going out*
+
+#+begin_quote
+Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu āsavānaṁ khayā \\
+anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā \\
+upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā.
+
+... Viññāṇassa nirodhena, / taṇhākkhayavimuttino; / Pajjotasseva nibbānaṁ, / vimokkho hoti cetaso”ti.
+#+end_quote
+
+*AN 3.91 Saṅkavāsutta -- Wanting to train* 
+
+The Buddha praises only those senior and junior bhikkhus who want to train (/bhikkhu hoti sikkhākāmo sikkhāsamādānassa vaṇṇavādī/), so that others may follow their examples.
+
+*AN 3.92 Accāyikasutta -- The training will have result*
+
+A farmer has three urgent duties: to plough, plant and irrigate.
+That farmer has no special power or ability to say:
+
+‘Let the crops germinate today! Let them flower tomorrow! Let them ripen the day after!’
+But there comes a time when that farmer’s crops germinate, flower, and ripen as the seasons change.
+
+#+begin_quote
+Evamevaṁ kho, bhikkhave, tīṇimāni bhikkhussa accāyikāni karaṇīyāni. Katamāni tīṇi? Adhisīlasikkhāsamādānaṁ, adhicittasikkhāsamādānaṁ, adhipaññāsikkhāsamādānaṁ — imāni kho, bhikkhave, tīṇi bhikkhussa accāyikāni karaṇīyāni.
+
+Tassa kho taṁ, bhikkhave, bhikkhuno natthi sā iddhi vā ānubhāvo vā: ‘ajjeva me anupādāya āsavehi cittaṁ vimuccatu sve vā uttarasve vā’ti.
+
+Atha kho, bhikkhave, hoti so samayo yaṁ tassa bhikkhuno adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato anupādāya āsavehi cittaṁ vimuccati.
+
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘tibbo no chando bhavissati ...'
+#+end_quote
+
+| *accāyika* | /(adj)/ urgent; pressing; extraordinary  *[accaya + &ast;ika]*  /adj, from accaya/ |
+| *sā* | /(pron)/ she; that; it   /pron, fem nom sg of ta/ |
+| *iddhi 1* | /(fem)/ psychic power; supernormal ability  *[√idh + ti]*  /fem, abstr, from ijjhati/ |
+| *ānubhāva 2* | /(masc)/ power; ability  *[anu > ānu + √bhū > bhāv + &ast;a + &ast;a]*   |
+| *ajjeva* | /(sandhi)/ this very day; just today; right now  *[ajja + eva]*  /sandhi, adv + ind/ |
+| *anupādāya* | /(ger)/ not holding (onto); not grasping (onto);  *[an + upādāya]*  /ger of na upādiyati/ |
+| *sve* | /(ind)/ tomorrow   /ind, adv/ |
+| *uttarasve* | /(ind)/ day after tomorrow; next day  *[uttara + sve]*  /ind, adv, comp/ |
+
+* Notes :noexport:
+
+Life of the Buddha, p.164, higher virtue, higher consciousness, higher understanding
+
