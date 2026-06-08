@@ -16,6 +16,8 @@ adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādān
 tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 #+end_quote
 
+See also the discussion of jhāna practice on [[https://pali-sutta-readings.github.io/readings/2025-07-29/][2025-07-29]]
+
 | *samaṇiya*     | /(adj)/ related to an ascetic; regarding a monk  *[samaṇa + iya]*                      |
 | *karaṇīya 1*   | /(nt)/ duty; obligation; something to be done  *[√kar + aṇīya]*  /nt, ptp of karoti/   |
 | *samādāna*     | /(nt)/ undertaking (of); taking upon oneself;  *[saṁ + √ādā + ana]*  /from samādiyati/ |
