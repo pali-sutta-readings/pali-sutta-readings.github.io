@@ -16,8 +16,6 @@ adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādān
 tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 #+end_quote
 
-See also the discussion of jhāna practice on [[https://pali-sutta-readings.github.io/readings/2025-07-29/][2025-07-29]]
-
 | *samaṇiya*     | /(adj)/ related to an ascetic; regarding a monk  *[samaṇa + iya]*                      |
 | *karaṇīya 1*   | /(nt)/ duty; obligation; something to be done  *[√kar + aṇīya]*  /nt, ptp of karoti/   |
 | *samādāna*     | /(nt)/ undertaking (of); taking upon oneself;  *[saṁ + √ādā + ana]*  /from samādiyati/ |
@@ -27,6 +25,40 @@ See also the discussion of jhāna practice on [[https://pali-sutta-readings.gith
 | *no 2.4*       | /(pron)/ our   /pron, 1st gen pl of ahaṁ/                                              |
 | *bhavissati 3* | /(fut)/ will happen; will occur  *[bhavissa + ti]*  /fut of bhavati/                   |
 | *vo 1.1*       | /(pron)/ you all (subject)   /pron, 2nd nom pl of tvaṁ/                                |
+
+Bringing the definitions forward:
+
+*AN 3.89 -- Definitions*
+
+#+begin_quote
+“Tisso imā, bhikkhave, sikkhā. Katamā tisso? Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā.
+
+Katamā ca, bhikkhave, adhisīlasikkhā? Idha, bhikkhave, bhikkhu sīlavā hoti ... \\
+samādāya sikkhati sikkhāpadesu. Ayaṁ vuccati, bhikkhave, adhisīlasikkhā.
+
+Katamā ca, bhikkhave, adhicittasikkhā? Idha, bhikkhave, bhikkhu vivicceva kāmehi ... \\
+catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhicittasikkhā.
+
+Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti ... \\
+‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. \\
+Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā. Imā kho, bhikkhave, tisso sikkhā”ti.
+#+end_quote
+
+# Expansion: bhikkhu sīlavā hoti, pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.
+
+See also the discussion of jhāna practice on [[https://pali-sutta-readings.github.io/readings/2025-07-29/][2025-07-29]]
+
+*AN 3.90 -- Lamp going out*
+
+#+begin_quote
+Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu āsavānaṁ khayā \\
+anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā \\
+upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā.
+
+... Viññāṇassa nirodhena, / taṇhākkhayavimuttino; / Pajjotasseva nibbānaṁ, / vimokkho hoti cetaso”ti.
+#+end_quote
+
+#+html: <div class="pagebreak"></div>
 
 *AN 3.82 Gadrabhasutta -- Donkey*
 
@@ -55,8 +87,6 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: 'tibbo no chando bhavissati ...'
 *AN 3.83 Khettasutta -- Fields*
 
 A farmer has three primary duties related to his field, a bhikkhu has three primary duties related to his training.
-
-#+html: <div class="pagebreak"></div>
 
 *AN 3.84 Vajjiputtasutta -- Too Many Rules*
 
@@ -168,33 +198,7 @@ Avañjhāni tvevāhaṁ, bhikkhave, sikkhāpadāni vadāmī”ti.
 
 *AN 3.87, AN 3.88 -- Results in terms of number and realms of rebirth*
 
-#+html: <div class="pagebreak"></div>
-
-*AN 3.89 -- Definitions*
-
-#+begin_quote
-“Tisso imā, bhikkhave, sikkhā. Katamā tisso? Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā.
-
-Katamā ca, bhikkhave, adhisīlasikkhā? Idha, bhikkhave, bhikkhu sīlavā hoti ... \\
-samādāya sikkhati sikkhāpadesu. Ayaṁ vuccati, bhikkhave, adhisīlasikkhā.
-
-Katamā ca, bhikkhave, adhicittasikkhā? Idha, bhikkhave, bhikkhu vivicceva kāmehi ... \\
-catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhicittasikkhā.
-
-Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti ... \\
-‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. \\
-Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā. Imā kho, bhikkhave, tisso sikkhā”ti.
-#+end_quote
-
-*AN 3.90 -- Lamp going out*
-
-#+begin_quote
-Katamā ca, bhikkhave, adhipaññāsikkhā? Idha, bhikkhave, bhikkhu āsavānaṁ khayā \\
-anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā \\
-upasampajja viharati. Ayaṁ vuccati, bhikkhave, adhipaññāsikkhā.
-
-... Viññāṇassa nirodhena, / taṇhākkhayavimuttino; / Pajjotasseva nibbānaṁ, / vimokkho hoti cetaso”ti.
-#+end_quote
+*AN 3.89, AN 3.90 -- Definitions, see above*
 
 *AN 3.91 Saṅkavāsutta -- Wanting to train* 
 
