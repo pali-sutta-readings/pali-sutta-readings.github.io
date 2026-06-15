@@ -1,0 +1,129 @@
+#+author: gavesako
+#+youtube_id:
+
+* 2026-06-17
+** AN 5.200 Nissāraṇīyasutta
+
+#+begin_quote
+“Pañcimā, bhikkhave, nissāraṇīyā dhātuyo. Katamā pañca?
+
+Idha, bhikkhave, bhikkhuno kāmaṁ manasikaroto \\
+kāmesu cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati. \\
+Nekkhammaṁ kho panassa manasikaroto nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati.
+
+Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ suvisaṁyuttaṁ kāmehi; \\
+ye ca kāmapaccayā uppajjanti āsavā vighātapariḷāhā, mutto so tehi, na so taṁ vedanaṁ vediyati. \\
+Idamakkhātaṁ kāmānaṁ nissaraṇaṁ.
+
+bhikkhuno byāpādaṁ manasikaroto ... abyāpādaṁ kho panassa manasikaroto ... byāpādassa nissaraṇaṁ. \\
+bhikkhuno vihesaṁ manasikaroto ... avihesaṁ kho panassa manasikaroto ...  vihesāya nissaraṇaṁ. \\
+bhikkhuno rūpaṁ manasikaroto ... arūpaṁ kho panassa manasikaroto ... rūpānaṁ nissaraṇaṁ. \\
+bhikkhuno sakkāyaṁ manasikaroto ... sakkāyanirodhaṁ kho panassa manasikaroto ... sakkāyassa nissaraṇaṁ.
+#+end_quote
+
+| *nissaraṇa*         | /(nt)/ escape (from); exit (from); exodus (from); way out (of)  *[nī + √sar + aṇa]*                              |
+| *manasikaronta*     | /(prp)/ paying attention  *[manasi + karonta]*  /prp of manasikaroti, comp vb/                                   |
+| *pakkhandati 3*     | /(pr)/ leaps forth  *[pa + khanda + ti]*  /pr/                                                                   |
+| *nappasīdati*       | /(pr)/ does not gain confidence; distrusts  *[na + pasīdati]*                                                    |
+| *santiṭṭhati 1*     | /(pr)/ remains still; stands still; settles down  *[saṁ + tiṭṭha + ti]*  /pr/                                    |
+| *pasīdati 2*        | /(pr)/ gains confidence; is inspired  *[pa + sīda + ti]*  /pr/                                                   |
+| *vuṭṭhita 1*        | /(pp)/ risen (from); got up (from); emerged (from); come out (of)  *[[v] + ud + √ṭhā + ita]*   |
+| *suvisaṁyutta*      | /(adj)/ well detached; properly disengaged (from)  *[su + vi + saṁ + √yuj + ta]*          |
+| *vighātapariḷāha*   | /(masc)/ trouble and affliction; annoyance and distress  *[vighāta + pariḷāha]*                     |
+| *tehi 2*            | /(pron)/ than them; from them  *[ta + ehi]*  /pron, masc & nt abl pl of ta/                                      |
+| *akkhāta*           | /(pp)/ said; told; declared; announced (by)  *[ā + √khā + ta]*  /pp of akkhāti/                                  |
+| *vihesā 2*          | /(fem)/ harm; cruelty; viciousness; brutality  *[vi + √his > hes + &ast;ā]*  /fem, abstr, from vihiṁsati/        |
+
+#+begin_quote
+Tassa kāmanandīpi nānuseti, byāpādanandīpi nānuseti, vihesānandīpi nānuseti, \\
+rūpanandīpi nānuseti, sakkāyanandīpi nānuseti
+
+so kāmanandiyāpi ananusayā, byāpādanandiyāpi ananusayā, vihesānandiyāpi ananusayā, \\
+rūpanandiyāpi ananusayā, sakkāyanandiyāpi ananusayā.
+
+Ayaṁ vuccati, bhikkhave, bhikkhu niranusayo, acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, \\
+sammā mānābhisamayā antamakāsi dukkhassa. Imā kho, bhikkhave, pañca nissāraṇīyā dhātuyo”ti.
+#+end_quote
+
+| *nānuseti 2* | /(pr)/ (of a person) is not pre-occupied (with); has no inclination (towards)  *[na + anuseti]*  |
+| *ananusaya* | /(masc)/ lack of inherence, lack of propensity   /masc/ |
+| *niranusaya* | /(adj)/ without underlying tendencies; without dormant dispositions    |
+| *acchecchi* | /(aor)/ completely cut out; totally destroyed  *[ā + checcha + i]*  /aor of āchindati/ |
+| *vivattayi* | /(aor)/ untied; unravelled; (comm) torn out  *[vi + vattaya + i]*  /aor of vivattayati/ |
+| *saṁyojana 1* | /(nt)/ fetter; chain; bond; thing which binds  *[saṁ + yoje + ana]*  /nt, from saṁyojeti/ |
+| *mānābhisamaya* | /(masc)/ complete comprehension of conceit;  *[māna + abhisamaya]*   |
+| *antamakāsi* | /(aor)/ made an end (of); finished (with)  *[antaṁ + akāsi]*  /aor of antaṁ karoti/ |
+
+#+html: <div class="pagebreak"></div>
+
+** AN 6.63 Nibbedhikasutta
+
+#+begin_quote
+Pañcime, bhikkhave, kāmaguṇā ... Api ca kho, bhikkhave, \\
+nete kāmā kāmaguṇā nāmete ariyassa vinaye vuccanti -- Saṅkapparāgo purisassa kāmo. [...]
+
+Katamo ca, bhikkhave, kāmānaṁ nidānasambhavo? Phasso, bhikkhave, kāmānaṁ nidānasambhavo. ... \\
+Katamo ca, bhikkhave, kāmanirodho? Phassanirodho, bhikkhave, kāmanirodho. \\
+Ayameva ariyo aṭṭhaṅgiko maggo kāmanirodhagāminī paṭipadā, seyyathidaṁ -- sammādiṭṭhi ...
+#+end_quote
+
+| *guṇa 1.6* | /(nt)/ cord; rope; bond   /nt/ |
+| *nete* | /(pron)/ these not; they (are) not  *[na + ete]*  /pron, masc nom & acc pl of na eta/ |
+| *nāmete* | /(sandhi)/ these are called  *[nāma + ete]*  /sandhi, ind + pron/ |
+| *saṅkapparāga* | /(masc)/ lustful intention; passionate purpose; thought of desire  *[saṅkappa + rāga]*  /masc, comp/ |
+| *purisa 1* | /(masc)/ man; male; person   /masc/ |
+
+** AN 5.201 Kimilasutta
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā kimilāyaṁ viharati veḷuvane. \\
+Atha kho āyasmā kimilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. \\
+Ekamantaṁ nisinno kho āyasmā kimilo bhagavantaṁ etadavoca:
+
+“Ko nu kho, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti?
+
+“Idha, kimila, tathāgate parinibbute bhikkhū bhikkhuniyo upāsakā upāsikāyo
+
+satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā,
+
+sikkhāya agāravā viharanti appatissā, aññamaññaṁ agāravā viharanti appatissā.
+
+Ayaṁ kho, kimila, hetu ayaṁ paccayo, yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hotī”ti.
+
+“Ko pana, bhante, hetu ko paccayo, yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti?
+
+... satthari sagāravā ... dhamme sagāravā ... saṅghe sagāravā ... sikkhāya sagāravā ... aññamaññaṁ sagāravā ...
+#+end_quote
+
+| *ko* | /(pron)/ who?; what?; which?  *[ka + o]*  /pron, interr, masc nom sg of ka/ |
+| *nu* | /(ind)/ (adds a question mark) surely?; didn't?; wouldn't?; which?   /ind, interr/ |
+| *hetu 2* | /(masc)/ reason (for); cause (for); condition (for); sake (of)  *[√hi > he + &ast;tu]*  /masc/ |
+| *paccaya 1* | /(masc)/ support; requisite; necessity  *[pati > paty > pacc + √i > ay + &ast;a]*  /masc, from pacceti/ |
+| *yena 1* | /(pron)/ by which; with whichever  *[ya + ena]*  /pron, masc & nt instr sg of ya/ |
+| *ciraṭṭhitika* | /(adj)/ long lasting; enduring  *[cira + ṭhitika]*  /adj, comp/ |
+| *agārava* | /(adj)/ disrespectful (to); irreverent; without esteem (for)  /adj, from na garu/ |
+| *appatissa* | /(adj)/ not agreeable; disrespectful; not polite; not obedient  *[na > a + pati + √su + a]*  |
+| *aññamaññaṁ* | /(sandhi)/ one another; each other  *[aññaṁ + aññaṁ]*  /sandhi, pron + pron/ |
+
+#+html: <div class="pagebreak"></div>
+
+** AN 5.202 Dhammassavanasutta
+
+#+begin_quote
+Pañcime, bhikkhave, ānisaṁsā dhammassavane. Katame pañca?
+
+Assutaṁ suṇāti, sutaṁ pariyodāpeti, kaṅkhaṁ vitarati, diṭṭhiṁ ujuṁ karoti, cittamassa pasīdati.
+
+Ime kho, bhikkhave, pañca ānisaṁsā dhammassavane”ti.
+#+end_quote
+
+| *ānisaṁsa 1*    | /(masc)/ profit (in); benefit (in); advantage (of); good result (of)   /masc/                            |
+| *dhammassavana* | /(nt)/ hearing a sermon; listening to the Dhamma  *[dhamma + savana]*                                    |
+| *assuta*        | /(pp)/ unheard; not listened to  *[na > a + √su + ta]*  /pp of na suṇāti/                                |
+| *suṇāti 1*      | /(pr)/ hears  *[suṇā + ti]*  /pr/                                                                        |
+| *pariyodāpeti*  | /(pr)/ clarifies; refines; purifies (from)  *[pari + [y] + ava + dāpe + ti]*  /pr, caus of pariyodāyati/ |
+| *kaṅkhā*        | /(fem)/ doubt (about); uncertainty (about); perplexity (regarding)  *[√kaṅkh + ā]*                       |
+| *vitarati 2*    | /(pr)/ (of doubt) removes; overcomes; dispels  *[vi + tara + ti]*  /pr/                                  |
+| *uju 1*         | /(adj)/ straight; upright; erect  *[√uj + u]*  /adj/                                                     |
+| *cittamassa*    | /(sandhi)/ his mind  *[citta + assa]*  /sandhi, nt + pron/                                               |
+| *pasīdati 2*    | /(pr)/ gains confidence; is inspired  *[pa + sīda + ti]*  /pr/                                           |
