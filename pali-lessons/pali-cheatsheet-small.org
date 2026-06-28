@@ -1,0 +1,59 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+TITLE: Pāli Cheatsheet (Small)
+#+AUTHOR: The Bhikkhu Saṅgha
+#+LATEX_CLASS: memoir
+#+LATEX_HEADER: \setstocksize{297mm}{100mm} \settrimmedsize{\stockheight}{\stockwidth}{*} \setlrmarginsandblock{5mm}{5mm}{*} \setulmarginsandblock{5mm}{5mm}{*} \setheaderspaces{*}{0pt}{*} \setlength{\footskip}{0pt} \checkandfixthelayout
+#+LATEX_HEADER: \input{./vocabulary-preamble.tex}
+#+BIND: org-latex-tables-centered nil
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t title:nil num:2 ^:{} creator:nil timestamp:nil html-postamble:nil
+#+HTML_HEAD_EXTRA: <style> h1, h2, h3, h4, h5, h6 { font-family: 'Spectral'; font-weight: normal; margin-top: 0em; margin-bottom: 0.5em; } h2, h3 { font-size: 1.2em; text-decoration: underline; } table { border-color: white; } </style>
+
+* Tenses and Pronouns
+
+| _Present_   | *sg.*       | *pl.*            |
+| *1st*       | -mi         | -ma              |
+| *2nd*       | -si         | -tha             |
+| *3rd*       | -ti         | -(a)nti          |
+|-------------+-------------+------------------|
+| _Future_    | *sg.*       | *pl.*            |
+| *1st*       | -issāmi     | -issāma          |
+| *2nd*       | -issasi     | -issatha         |
+| *3rd*       | -issati     | -issanti         |
+|-------------+-------------+------------------|
+| _Past_      | *sg.*       | *pl.*            |
+| *1st*       | -iṁ         | -(i)mhā, -(i)mha |
+| *2nd*       | -o, -i      | -(i)ttha         |
+| *3rd*       | -i          | -(i)ṁsu, -uṁ     |
+|-------------+-------------+------------------|
+| _P.Nom._    | *sg.*       | *pl.*            |
+| *1st*       | ahaṁ        | amhe, mayaṁ, no  |
+| *2nd*       | tuvaṁ, tvaṁ | tumhe, vo        |
+| *3rd.masc.* | so, sa      | te               |
+| *3rd.nt.*   | taṁ, tad    | tāni             |
+| *3rd.fem.*  | sā          | tā, tāyo         |
+|-------------+-------------+------------------|
+| _P.Gen._    | *sg.*       | *pl.*            |
+| *1st*       | mama, me    | amhākaṁ, no      |
+|             | mayhaṁ      | amhākaṁ, no      |
+| *2nd*       | tava, te    | tumhākam         |
+|             | tuyhaṁ      |                  |
+| *3rd.masc.* | tassa       | tesaṁ            |
+| *3rd.nt.*   | tassa       | tesaṁ            |
+| *3rd.fem.*  | tassā       | tāsaṁ            |
+
+| ta → | /(nom.sg.)/ so / taṁ / sā         |
+|      | /(nom.pl.)/ te / tāni / tā, tāyo  |
+|      | /(acc.sg.)/ taṁ                   |
+|      | /(acc.pl.)/  te / tāni / tā, tāyo |
+
+*\uline{Interrogatives:}*
+
+| ko     | [ka + o]    | who? what? which?      |
+| kiṁ    | [ka + iṁ]   | who? what? which? why? |
+| katama | [ka + tama] | what? which (of many)? |
+| kuhiṁ  | [ka + hiṁ]  | where is? where to?    |
+| kattha | [ka + ttha] | where at?              |
+| kuto   | [ka + to]   | where from?            |
+| kacci  | [ka + ci]   | I hope...?             |
+| kati   | [ka + ti]   | how many?              |
+| kinti  | [kiṁ + iti] | how then? in what way? |

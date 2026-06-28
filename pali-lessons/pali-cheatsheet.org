@@ -439,7 +439,7 @@ Possessive pronouns (genitive)
 | ta → | /(nom.sg.)/ so / taṁ / sā | /(nom.pl.)/ te / tāni / tā, tāyo  |
 |      | /(acc.sg.)/ taṁ           | /(acc.pl.)/  te / tāni / tā, tāyo |
 
-** Interrogatives and Other Indeclinables                          :noexport:
+** Interrogatives and Other Indeclinables :noexport:
 
 #+latex: \begin{multicols}{2}
 

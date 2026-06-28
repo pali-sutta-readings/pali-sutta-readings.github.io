@@ -3,6 +3,7 @@
 
 (setq org-export-with-toc nil)
 (setq org-export-with-smart-quotes t)
+(setq org-export-allow-bind-keywords t)
 
 (add-to-list 'org-export-smart-quotes-alist '("en_GB"
      (primary-opening :utf-8 "‘" :html "&lsquo;" :latex "`" :texinfo "`")
