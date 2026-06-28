@@ -1,0 +1,287 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-07-01
+** Language Review
+
+Pronouns: nominative, genitive
+
+ahaṁ; tvaṁ; so, sā \\
+mayaṁ, no; tumhe; te \\
+me; te; tassa \\
+
+Interrogatives: ko; kiṁ; katama; kuhiṁ; kattha; kuto; kacci; kati; kinti
+
+Present → Future → Past (Aorist)
+
+√dhāv → dhāvāmi → dhāvissāmi → adhāviṁ; dhāvati → dhāvissati → adhāvi \\
+√des → desemi → desissāmi → desesiṁ; deseti → desissati → desesi
+
+√hū → hoti → (bhavissati) → ahosi (irreg.) \\
+√as → atthi → (bhavissati) → āsi (irreg.) \\
+√kar → karoti → karissati → akāsi (irreg.)
+
+** Notes :noexport:
+
+*Pronouns*
+
+ahaṁ / tvaṁ / so, sā
+mayaṁ, no / tumhe / te
+
+me / te / tassa
+
+ta → so, sā, taṁ (nom.sg) / te, tā, tāni (nom.pl)
+ta → taṁ (acc.sg) / te, tā, tāni (acc.pl)
+
+Relative Pronouns:
+yo ... so ...
+ye ... te ...
+yaṁ ... taṁ ...
+yassa ... tassa ...
+yena ... tena ...
+
+kiṁ / ko / kacci / kati / kuto / tato
+
+ahaṁ odanaṁ (m.) bhuñjāmi
+
+What are you doing?
+What are you eating?
+How are you?
+
+katamañca
+
+kiṁ - ka + iṁ
+kiñca = kiṁ + ca
+kiñca vedeti?
+
+kiñci - ka + iṁ + ci → something
+ci = some (ind.)
+māyasmanto etaṁ bhikkhuṁ kiñci avacuttha
+
+kuhiṁ
+
+Where is the fruit? 
+How many fruits in the bowl?
+
+somewhere in the world
+kuhiñci loke
+
+What is in the bowl?
+
+Kiṁmūlakā, āvuso, sabbe dhammā?
+
+Ko muccati?
+Ko nu kho, āvuso ānanda, hetu, ko paccayo?
+Ko cāhāro avijjāya?
+
+What (from the many) are there? katamaṁ
+Katamo nu kho, bhante, bhavo?
+
+Where is the fruit? kattha
+To where are you going? kuhiṁ
+From where are you coming? kuto
+From where did you come? kuto
+
+How many roots are there of the Monastic Law, Which were laid down by the Buddha?
+Vinayassa kati mūlāni, yāni buddhena paññattā?
+Vinayassa dve mūlāni.
+
+vinayassa dve mūlāni – kāyo ca vācā ca; sammāsambuddhena hi sabbāpattiyo imesuyeva dvīsu dvāresu paññattā, manodvāre āpattipaññapanaṁ nāma natthi. (Abh.att.)
+
+kacci te, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ?
+Kacci dukkhā vedanā paṭikkamanti no abhikkamanti?
+
+*past participle: -ta*
+
+odano madhuro hoti
+atthi odano me patte
+
+What did you do?
+What did you eat?
+
+tvaṁ bhattaṁ (nt.) bhuñjasi
+bhattaṁ paṇītaṁ hoti
+
+tvaṁ phalāni bhuñjasi
+ambaphalaṁ madhuraṁ
+
+odana
+
+√as → atthi (3rd.sg.) → asi (2nd.sg) / si (shortened) → amhi, asmi (1st.sg)
+
+santi (3rd.pl.)
+
+bhante, āvuso → indeclinable
+
+kinti
+kinti me bhoge neva rājāno hareyyuṁ, na corā hareyyuṁ...
+
+** Greetings
+
+(J - junior, S - senior)
+
+#+begin_quote
+J: Suppabhātaṁ bhante.
+
+S: Kiṁ nāmo si? J: Ahaṁ bhante ... nāma.
+
+S: Ko nāma te upajjhāyo? J: Upajjhāyo me bhante āyasmā ... nāma.
+
+J: Kacci te bhante khamanīyaṁ, kacci yāpanīyaṁ?
+
+S: (Ahaṁ) Khamanīyaṁ, āvuso, yāpanīyaṁ. / Na me, āvuso, khamanīyaṁ.
+
+S: Kativasso'si tvaṁ? J: Ahaṁ pañca-vasso'mhi.
+
+J: Bhante idha āgacchatha, idha nisīdatha.
+
+J: Sace bhante icchatha, tattha nisīdeyyātha. (S: Sace tvaṁ icchasi, tattha nisīdeyyāsi.)
+
+Passive: Ākaṅkhamānena, tattha nisīditabbaṁ.
+
+J: Kuto ca bhante āgacchatha? (S: Kuto tvaṁ āgacchasi?)
+
+J: Bhante kuto āgacchatha? Kattha vasatha / viharatha? Kattha tumhākaṁ vihāro?
+
+S: Atthi, āvuso, Portugal-dese Sumedhārāma-vihāro nāma. Tato ahaṁ, āvuso, āgacchāmi.
+
+Kacci te utu phāsu? Kacci devo vassati?
+
+Ajja uṇhaṁ. Ajja uṇho utu samayo. Ajja sītaṁ. Ajja sīto utu samayo.
+
+Ajja vāto vāyati. Ajja vātavā utu.
+
+J: Handa dāni mayaṁ gacchāma.
+
+S: Kuhiṁ āvuso gacchasi?
+
+J: Suve pubbaṇhasamayaṁ Ericeira-nagaraṁ / -nigamaṁ piṇḍāya pavisissāmi.
+
+S: Evaṁ āvuso. Yassadāni tvaṁ kālaṁ maññasi. J: Suve suve.
+#+end_quote
+
+*Ud 5.6 Soṇasutta*
+
+#+begin_quote
+“Kacci, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ, kaccisi appakilamathena addhānaṁ āgato, na ca piṇḍakena kilantosī”ti?
+#+end_quote
+
+
+| Good morning (daybreak) Ven. Sir!                 | Suppabhātaṁ bhante.                       |
+| Good morning everyone.                            | Suppabhātaṁ sabbesaṁ.                     |
+| Thank you.                                        | Anumodāmi.                                |
+| (See you) tomorrow.                               | Suve.                                     |
+| (Sorry,) I'll make amends.                        | Paṭikarissāmi.                             |
+| remorse; regret; lit. remembering back negatively | vippaṭisāra (m.)                           |
+| (Sorry, I have) regret.                           | Vippaṭisāraṁ.                             |
+| (I feel) sorry. (for your situation)              | Kāruññaṁ.                                 |
+| Yes.                                              | Āma / Evaṁ bhante.                        |
+| No.                                               | No hetaṁ, bhante.                         |
+| Never mind (leave it aside).                      | Tiṭṭhatu, bhante.                          |
+| It is hot today.                                  | Ajj'āccuṇhaṁ. [ajja (ind.) + ati  + uṇha] |
+| It is cold today.                                 | Ajj'ātisītaṁ.                             |
+| Excuse me!                                        | Okāsa, bhante.                            |
+| Welcome here.                                     | Svāgataṁ.                                 |
+| Please sit.                                       | Nisīdatha.                                |
+| Wait (stay) here.                                 | Ettheva tiṭṭha.                            |
+| Why is that? Of what cause?                       | Taṁ kissa hetu?                           |
+| How?                                              | kinti (ind.)                              |
+| I (we) must go.                                   | Handa dāni mayaṁ gacchāma.                |
+| Go at your convenience.                           | Yassadāni tvaṁ kālaṁ maññasi.             |
+
+** Daily Routine
+
+# (abbhokāse caṅkamiṁ)
+
+# nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā
+
+#+begin_quote
+Ahaṁ rattiyā paccūsasamayaṁ paccuṭṭhāya nisinno ahosiṁ cittaṁ upaṭṭhapesiṁ. \\
+Atha kho nivāsetvā pattacīvaramādāya Ericeira-nagaraṁ piṇḍāya pāvisiṁ.
+#+end_quote
+
+# I, having got up at the crack of dawn,
+# I was seated, exerting the mind.
+# Then, having dressed, taking the bowl and robe, entered Ericeira town for alms.
+
+| *ratti*             | /(fem)/ night   /fem, irreg/                                                    |
+| *paccūsasamayaṁ*    | /(ind)/ before dawn; early in the morning                                       |
+| *paccuṭṭhāya*       | /(ger)/ rising; getting out of bed  /ger of paccuṭṭhāti/                        |
+| *upaṭṭhapesi*       | /(aor)/ prepared; set up; readied; stationed  /aor of upaṭṭhapeti/              |
+| *nivāsetvā*         | /(abs)/ having dressed up (in); having robed up; /abs of nivāseti/              |
+| *pattacīvaramādāya* | /(sandhi)/ taking one's bowl and robe  *[pattaṁ + cīvaraṁ + ādāya]*             |
+| *nagara 1*          | /(nt)/ town; city   /nt/                                                        |
+| *pāvisi*            | /(aor)/ entered; went (somewhere for)  *[pa + a + √vis + i]*  /aor of pavisati/ |
+
+#+html: <div class="pagebreak"></div>
+
+#+begin_quote
+Ericeira-nagare piṇḍāya caritvā, khādanīyaṁ bhojanīyaṁ sahatthā paṭiggahetvā, \\
+piṇḍapātapaṭikkanto, taṁ bhattaṁ bhikkhūhi / saṅghena saddhiṁ saṁvibhajiṁ.
+#+end_quote
+
+# Having wandered in Ericeira for alms,
+# having received by hand staple and non-staple (food),
+# returning from alms-round,
+# that food with the bhikkhus / Sangha I shared.
+
+| *caritvā 1.1*    | /(abs)/ having walked; having wandered  *[√car + itvā]*  /abs of carati/     |
+| *sahatthā*       | /(ind)/ with one's own hand; by oneself  *[sa + hattha + ā]*                 |
+| *paṭiggahetvā 1* | /(abs)/ having taken  *[pati + gahe + tvā]*  /abs of paṭiggaṇhāti/           |
+| *paṭikkanta 1*   | /(pp)/ returned; come back (from)  *[pati + √kam + ta]*  /pp of paṭikkamati/ |
+| *saṁvibhaji*     | /(aor)/ divided; distributed; shared; apportioned  *[saṁ + vi + √bhaj + i]*  |
+
+#+begin_quote
+Upāsakā upāsikāyo ārāme gantvā, paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā \\
+saṅghassa kālaṁ ārocāpesuṁ: "Kālo, bhante, niṭṭhitaṁ bhattan"ti.
+#+end_quote
+
+# Male and female lay supporters, having gone to the monastery,
+# having prepared fine staple and non-staple (food),
+# to the Sangha (they) announced the time:
+# "It's time, Sir(s), the meal is ready."
+
+| *gantvā 1*      | /(abs)/ having gone; having travelled (to)  *[√gam + tvā]*                           |
+| *paṇīta 1*      | /(pp)/ (of food) fine; delicious; excellent  *[pa + √nī + ta]*                       |
+| *paṭiyādāpetvā* | /(abs)/ having organised; having had prepared  *[pati + yādāpe + tvā]*               |
+| *kāla 1.1*      | /(masc)/ time; occasion (for)  *[√kal > kāl + &ast;a]*                               |
+| *ārocāpesi 1*   | /(aor)/ had (something) announced (to); had (something) told (to) /aor of ārocāpeti/ |
+| *niṭṭhita 1*    | /(pp)/ finished; completed; accomplished  *[ni + √ṭhā + ita]*                        |
+
+#+begin_quote
+Atha kho upāsakā upāsikāyo saṅghaṁ paṇītena khādanīyena bhojanīyena \\
+sahatthā santappesuṁ sampavāresuṁ. (aor.3rd.sg.: santappesi sampavāresi)
+#+end_quote
+
+| *santappesi*  | /(aor)/ pleased; satisfied; satiated; fulfilled  *[saṁ + tappe + si]* |
+| *sampavāresi* | /(aor)/ satisfied; satiated; fulfilled  *[saṁ + pa + vāre + si]*      |
+
+# Then male and female lay supporters,
+# to the Sangha, with fine staple and non-staple (food),
+# by hand (they) served and satisfied.
+
+#+begin_quote
+Pacchābhattaṁ bhuttāviṁ onītapattapāṇiṁ uṭṭhāyāsanā pakkāmiṁ. \\
+Dantakaṭṭhaṁ khāditvā, yena nadī tenupasaṅkamiṁ gattāni parisiñcituṁ. \\
+Parisiñcitvā, kuṭiṁ paccāgacchiṁ divāvihārāya.
+#+end_quote
+
+# After the meal, eaten,
+# removed (my) hand from the bowl (rinsed the bowls and hands),
+# I got up from the seat and left.
+# Having chewed a tooth-stick,
+# I approached the river to bathe the limbs.
+# Having bathed, I went to the kuti for the day's abiding.
+
+| *pacchābhattaṁ* | /(ind)/ after eating; after the meal; *[pacchā + bhatta + aṁ]*           |
+| *bhuttāvī 1*    | /(adj)/ who has eaten; after the meal  /adj, app of bhuñjati/            |
+| *onīta*         | /(pp)/ removed; taken down; lowered  *[ava + √nī + ta]*  /pp of ava √nī/ |
+| *pāṇi 1*        | /(masc)/ hand; palm   /masc/                                             |
+| *uṭṭhāyāsanā*   | /(ger)/ rising from one's seat  *[uṭṭhāya + āsanā]*                      |
+| *pakkāmi 1*     | /(aor)/ left; set off; went away (from)  /aor of pakkamati/              |
+| *dantakaṭṭha*   | /(nt)/ tooth stick  *[danta + kaṭṭha]*                                   |
+| *khāditvā*      | /(abs)/ having chewed; having eaten  *[√khād + itvā]*  /abs of khādati/  |
+| *nadī 1*        | /(fem)/ river  *[√nad + ī]*                                              |
+| *gatta 1*       | /(nt)/ (of the body) limb  *[√gam + tta]*  /nt, from gacchati/           |
+| *parisiñcituṁ*  | /(inf)/ to bathe; to soak  *[pari + siñca + ituṁ]*  /inf of parisiñcati/ |
+| *divāvihāra 1*  | /(masc)/ meditation place for the day  *[divā + vihāra]*                 |
