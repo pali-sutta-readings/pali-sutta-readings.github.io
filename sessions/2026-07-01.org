@@ -1,8 +1,11 @@
 #+author: gambhiro
+#+tags: pāli-review
 #+youtube_id:
 
 * 2026-07-01
-** Language Review
+** Pāli language review
+
+[[https://pali-sutta-readings.github.io/assets/docs/pali-cheatsheet-small.pdf][pali-cheatsheet-small.pdf]]
 
 Pronouns: nominative, genitive
 
@@ -30,8 +33,11 @@ mayaṁ, no / tumhe / te
 
 me / te / tassa
 
-ta → so, sā, taṁ (nom.sg) / te, tā, tāni (nom.pl)
-ta → taṁ (acc.sg) / te, tā, tāni (acc.pl)
+ta → so, sā, taṁ (nom.sg)
+ta → te, tā, tāni (nom.pl)
+
+ta → taṁ (acc.sg)
+ta → te, tā, tāni (acc.pl)
 
 Relative Pronouns:
 yo ... so ...
@@ -45,34 +51,33 @@ kiṁ / ko / kacci / kati / kuto / tato
 ahaṁ odanaṁ (m.) bhuñjāmi
 
 What are you doing?
+
 What are you eating?
-How are you?
-
-katamañca
-
-kiṁ - ka + iṁ
-kiñca = kiṁ + ca
-kiñca vedeti?
-
-kiñci - ka + iṁ + ci → something
-ci = some (ind.)
-māyasmanto etaṁ bhikkhuṁ kiñci avacuttha
+Kiṁ bhuñjasi?
 
 kuhiṁ
 
 Where is the fruit? 
 How many fruits in the bowl?
 
-somewhere in the world
+katamañca = katamaṁ + ca
+
+kiṁ = ka + iṁ
+kiñca = kiṁ + ca
+
+Kiñca vedeti?
+
+kiñci = ka + iṁ + ci → something
+ci = some (ind.)
+
+Māyasmanto etaṁ bhikkhuṁ kiñci avacuttha
+
+kuhiñci = kuhiṁ + ci
+
+Somewhere in the world
 kuhiñci loke
 
 What is in the bowl?
-
-Kiṁmūlakā, āvuso, sabbe dhammā?
-
-Ko muccati?
-Ko nu kho, āvuso ānanda, hetu, ko paccayo?
-Ko cāhāro avijjāya?
 
 What (from the many) are there? katamaṁ
 Katamo nu kho, bhante, bhavo?
@@ -81,6 +86,11 @@ Where is the fruit? kattha
 To where are you going? kuhiṁ
 From where are you coming? kuto
 From where did you come? kuto
+
+Kiṁmūlakā, āvuso, sabbe dhammā?
+Ko muccati?
+Ko nu kho, āvuso ānanda, hetu, ko paccayo?
+Ko cāhāro avijjāya?
 
 How many roots are there of the Monastic Law, Which were laid down by the Buddha?
 Vinayassa kati mūlāni, yāni buddhena paññattā?
@@ -95,6 +105,7 @@ Kacci dukkhā vedanā paṭikkamanti no abhikkamanti?
 
 odano madhuro hoti
 atthi odano me patte
+ambaphalaṁ madhuraṁ
 
 What did you do?
 What did you eat?
@@ -107,9 +118,11 @@ ambaphalaṁ madhuraṁ
 
 odana
 
-√as → atthi (3rd.sg.) → asi (2nd.sg) / si (shortened) → amhi, asmi (1st.sg)
-
-santi (3rd.pl.)
+√as
+→ atthi (3rd.sg.)
+→ santi (3rd.pl.)
+→ asi / si (2nd.sg)
+→ amhi, asmi (1st.sg)
 
 bhante, āvuso → indeclinable
 
@@ -166,25 +179,25 @@ S: Evaṁ āvuso. Yassadāni tvaṁ kālaṁ maññasi. J: Suve suve.
 “Kacci, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ, kaccisi appakilamathena addhānaṁ āgato, na ca piṇḍakena kilantosī”ti?
 #+end_quote
 
-
 | Good morning (daybreak) Ven. Sir!                 | Suppabhātaṁ bhante.                       |
 | Good morning everyone.                            | Suppabhātaṁ sabbesaṁ.                     |
 | Thank you.                                        | Anumodāmi.                                |
 | (See you) tomorrow.                               | Suve.                                     |
-| (Sorry,) I'll make amends.                        | Paṭikarissāmi.                             |
-| remorse; regret; lit. remembering back negatively | vippaṭisāra (m.)                           |
+| (Sorry,) I'll make amends.                        | Paṭikarissāmi.                            |
+| remorse; regret; lit. remembering back negatively | vippaṭisāra (m.)                          |
 | (Sorry, I have) regret.                           | Vippaṭisāraṁ.                             |
 | (I feel) sorry. (for your situation)              | Kāruññaṁ.                                 |
 | Yes.                                              | Āma / Evaṁ bhante.                        |
 | No.                                               | No hetaṁ, bhante.                         |
-| Never mind (leave it aside).                      | Tiṭṭhatu, bhante.                          |
+| Never mind (leave it aside).                      | Tiṭṭhatu, bhante.                         |
 | It is hot today.                                  | Ajj'āccuṇhaṁ. [ajja (ind.) + ati  + uṇha] |
 | It is cold today.                                 | Ajj'ātisītaṁ.                             |
 | Excuse me!                                        | Okāsa, bhante.                            |
 | Welcome here.                                     | Svāgataṁ.                                 |
 | Please sit.                                       | Nisīdatha.                                |
-| Wait (stay) here.                                 | Ettheva tiṭṭha.                            |
+| Wait (stay) here.                                 | Ettheva tiṭṭha.                           |
 | Why is that? Of what cause?                       | Taṁ kissa hetu?                           |
+| On (your) birthday, may you be happy!             | Jātadivase sukhī hohi!                    |
 | How?                                              | kinti (ind.)                              |
 | I (we) must go.                                   | Handa dāni mayaṁ gacchāma.                |
 | Go at your convenience.                           | Yassadāni tvaṁ kālaṁ maññasi.             |
