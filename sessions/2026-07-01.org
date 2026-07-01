@@ -1,6 +1,6 @@
 #+author: gambhiro
 #+tags: pāli-review
-#+youtube_id:
+#+youtube_id: 4KsZgaIN6yA
 
 * 2026-07-01
 ** Pāli language review
@@ -129,6 +129,29 @@ bhante, āvuso → indeclinable
 kinti
 kinti me bhoge neva rājāno hareyyuṁ, na corā hareyyuṁ...
 
+Kasmā tvaṁ cirassa āgacchasi?
+Why do you come late?
+Why do you come after a long time?
+
+#+begin_quote
+Jayanto bodhiyā mūle
+[...]
+sunakkhattaṁ sumaṅgalaṁ,
+suppabhātaṁ suvuṭṭhitaṁ,
+sukhaṇo sumuhutto ca,
+suyiṭṭhaṁ brahmacārisu.
+
+(from AN 3.155 Pubbaṇhasuttaṁ)
+#+end_quote
+
+| Good morning (daybreak) Ven. Sir! | Suppabhātaṁ bhante.                      |
+| good midday                       | sumajjhanhika [su + majjha + anha + ika] |
+| good evening                      | susāyanha [su + sāya + anha]             |
+| sunrise, daybreak                 | pabhāta (nt.) [pa + √bhā + ta]           |
+| morning-time                      | pubbaṇhasamaya (m.)                      |
+| day-time                          | majjhanhikasamaya (m.)                   |
+| evening-time                      | sāyanhasamaya (m.)                       |
+
 ** Greetings
 
 (J - junior, S - senior)
@@ -181,6 +204,11 @@ S: Evaṁ āvuso. Yassadāni tvaṁ kālaṁ maññasi. J: Suve suve.
 
 | Good morning (daybreak) Ven. Sir!                 | Suppabhātaṁ bhante.                       |
 | Good morning everyone.                            | Suppabhātaṁ sabbesaṁ.                     |
+| good midday                                       | sumajjhanhika [su + majjha + anha + ika]  |
+| good evening                                      | susāyanha [su + sāya + anha]              |
+| morning-time                                      | pubbaṇhasamaya (m.)                       |
+| day-time                                          | majjhanhikasamaya (m.)                    |
+| evening-time                                      | sāyanhasamaya (m.)                        |
 | Thank you.                                        | Anumodāmi.                                |
 | (See you) tomorrow.                               | Suve.                                     |
 | (Sorry,) I'll make amends.                        | Paṭikarissāmi.                            |
