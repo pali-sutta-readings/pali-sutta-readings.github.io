@@ -1,5 +1,5 @@
 #+author: gavesako
-#+youtube_id:
+#+youtube_id: WJKcjzxzbQI
 
 * 2026-07-08
 ** AN 10.93 Kiṁdiṭṭhikasutta
@@ -111,3 +111,4 @@ so, bhikkhave, bhikkhu vassasatupasampanno imasmiṁ dhammavinaye, sopi evameva�
 aññatitthiye paribbājake sahadhammena suniggahitaṁ niggaṇheyya yathā taṁ
 anāthapiṇḍikena gahapatinā niggahitā”ti.
 #+end_quote
+
