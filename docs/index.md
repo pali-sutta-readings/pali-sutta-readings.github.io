@@ -24,7 +24,7 @@ Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readi
 
 [youtube-readings]: https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
 
-The PDF is updated the day before the meeting to allow printing.
+The [pali-readings.pdf][readings-pdf] is updated the day before the meeting to allow printing. Exercises are in [pali-exercises.pdf][exercises-pdf].
 
 <div style="display: flex; gap: 0.5em; text-align: center;">
 <div style="width: 50%;">
@@ -38,6 +38,8 @@ The PDF is updated the day before the meeting to allow printing.
 </div>
 
 [readings-pdf]: https://drive.google.com/file/d/1py0_AieipKvLVj8aeZK-1flKajpjAbxi/view?usp=sharing
+
+[exercises-pdf]: https://drive.google.com/file/d/1YkxwAKmMdE0uA4IaJ6KCqMx26FsjBZ1J/view?usp=sharing
 
 [readings-anki]: https://drive.google.com/drive/folders/1hC36BKmLSJv1rp5oNvw-h7mE2oA0TVcv?usp=sharing
 
