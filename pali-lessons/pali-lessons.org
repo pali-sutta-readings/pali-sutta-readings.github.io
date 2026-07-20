@@ -782,7 +782,7 @@ The Buddha is wandering in the land of the Kosalans...
 | 4. Dative       | indirect object, recipient, purpose | To whom? For what?            |
 | 5. Ablative     | motion/separation from, comparison  | From where? Better than what? |
 | 6. Genitive     | possession, relationship            | Whose?                        |
-| 7. Locative     | location, time                      | Where?                        |
+| 7. Locative     | location, time                      | Where? When?                  |
 | 8. Vocative     | direct address                      | Form, bhikkhus, is not-self.  |
 
 #+latex: \bigskip {\centering

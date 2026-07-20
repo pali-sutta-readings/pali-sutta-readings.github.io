@@ -1,0 +1,307 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-07-22
+** Dhp 367 Pañcaggadāyakabrāhmaṇavatthu
+
+#+begin_quote
+(367.) "Sabbaso nāmarūpasmiṁ, yassa natthi mamāyitaṁ; Asatā ca na socati, sa ve bhikkhū'ti vuccatī"ti.
+#+end_quote
+
+Dhammapada-aṭṭhakathā:
+
+#+begin_quote
+*Sabbaso*'ti imaṁ dhammadesanaṁ satthā jetavane viharanto pañcaggadāyakaṁ nāma
+brāhmaṇaṁ ārabbha kathesi.
+
+So kira sasse khette ṭhitakāleyeva khettaggaṁ nāma deti, khalakāle khalaggaṁ nāma deti, \\
+khalabhaṇḍakāle khalabhaṇḍaggaṁ nāma deti, ukkhalikakāle kumbhaggaṁ nāma deti, \\
+pātiyaṁ vaḍḍhitakāle pātaggaṁ nāma detī'ti
+
+imāni pañca aggadānāni deti, sampattassa adatvā nāma na bhuñjati. Tenassa *pañcaggadāyako*'tveva nāmaṁ
+ahosi. Satthā tassa ca brāhmaṇiyā cassa tiṇṇaṁ phalānaṁ upanissayaṁ disvā
+brāhmaṇassa bhojanavelāyaṁ gantvā dvāre aṭṭhāsi.
+#+end_quote
+
+# He, it is said, gave the first-fruits of the field while the crop was still
+# standing in the field; he gave the first-fruits of the threshing floor at the
+# time of threshing; he gave the first-fruits of the heap when the grain was
+# piled; he gave the first-fruits of the pot at the time of cooking; and he gave
+# the first-fruits of the bowl when the food was served.
+#
+# He gives these five first-fruit offerings; he never eats without first giving
+# to whoever has arrived. Because of that, his name was "Giver of Five
+# First-fruits." The Teacher, seeing the potential for the three fruits [of the
+# path] in him and his wife, went at the brahmin's mealtime and stood at the
+# door.
+
+| *sabbaso 1*    | /(ind)/ in every way; entirely; completely; altogether  *[sabba + so]*  /ind, adv, abl sg of sabba/    |
+| *ārabbha 2*    | /(ind)/ concerning; referring (to); regarding; at the expense (of); owing to  *[ā + √rabh + ya]*       |
+| *kathesi*      | /(aor)/ spoke; told; related  *[kathe + si]*  /aor of katheti/                                         |
+| *kira 2*       | /(ind)/ it is said; allegedly; apparently; one would think; I have heard; people say   /ind, adv/      |
+| *sassa 1*      | /(nt)/ corn; grain; crop; harvest   /nt/                                                               |
+| *ṭhitakāla 1*  | /(masc)/ time when stood still; when not moving  *[ṭhita + kāla]*  /masc, comp/                        |
+| *khetta 1*     | /(nt)/ field; plot of land  *[√khi > khe + &ast;tta]*  /nt/                                            |
+| *agga 1.4*     | /(nt)/ chief (among); best (of); highest (of); ultimate   /nt/                                         |
+| *deti 1*       | /(pr)/ gives; donates; offers; hands (to)  *[de + ti]*  /pr/                                           |
+| *aggadāna*     | /(nt)/ gift of the best; highest offering   /nt, comp/                                                 |
+| *sampatta 1*   | /(pp)/ reached; arrived; is here  *[saṁ + pa + √ap + ta]*  /pp of sampāpuṇāti/                         |
+| *adatvā 1*     | /(abs)/ having not given; having not offered  *[na + datvā]*  /abs of na dadāti/ |
+| *bhuñjati 1*   | /(pr)/ eats; consumes  *[bhuñja + ti]*  /pr/                                                           |
+| *upanissaya 2* | /(masc)/ supporting condition; sufficient condition  *[upa + ni + √si > say + &ast;a]*                 |
+| *disvā*        | /(abs)/ having seen; having understood; having found out  *[√dis + tvā]*  /abs of √dis/                |
+| *bhojana 1*    | /(nt)/ food; meal  *[√bhuj > bhoj + &ast;ana]*  /nt, from bhuñjati/                                    |
+| *velā 1*       | /(fem)/ time; point in time   /fem/                                                                    |
+| *gantvā 1*     | /(abs)/ having gone; having travelled (to)  *[√gam + tvā]*  /abs of gacchati/                          |
+| *dvāra 1*      | /(nt)/ door; entrance; gate; gateway  *[√dvar > dvār + &ast;a]*  /nt/                                  |
+| *aṭṭhāsi 1*    | /(aor)/ stood; stayed; remained  *[a + √ṭhā + si]*  /aor of tiṭṭhati/                                  |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Sopi dvārapamukhe antogehābhimukho nisīditvā bhuñjati, satthāraṁ dvāre ṭhitaṁ na passati. \\
+Brāhmaṇī pana taṁ parivisamānā satthāraṁ disvā cintesi – "ayaṁ brāhmaṇo pañcasu
+ṭhānesu aggaṁ datvā bhuñjati, idāni ca samaṇo gotamo āgantvā dvāre ṭhito.
+Sace brāhmaṇo etaṁ disvā attano bhattaṁ haritvā dassati, punapāhaṁ pacituṁ na sakkhissāmī"ti.
+#+end_quote
+
+| *pamukhe*     | /(ind)/ in front (of); before; opposite (to)  *[pa + mukha + e]*  /ind, adv, loc sg of pamukha/     |
+| *antogeha*    | /(nt)/ inside the house; within the home  *[anto + geha]*  /nt, comp/                               |
+| *abhimukha 1* | /(adj)/ facing; directed (towards)  *[abhi + mukha]*  /adj, in comps, from mukha/                   |
+| *parivisanta* | /(prp)/ (of food) serving (to); offering  *[pari + visa + nta]*  /prp of parivisati/                |
+| *cintesi*     | /(aor)/ thought (about); reflected (on)  *[cinte + si]*  /aor of cinteti/                           |
+| *ṭhāna 1*     | /(nt)/ (physical) place  *[√ṭhā + ana]*  /nt, from tiṭṭhati/                                        |
+| *attano 2*    | /(masc)/ of self; of oneself; one's own; my own  *[atta + no]*  /masc, gen sg of atta, atta group/  |
+| *bhatta 1.1*  | /(nt)/ food; boiled rice  *[√bhaj + ta]*  /nt, pp of bhajati/                                       |
+| *haritvā 2*   | /(abs)/ having taken away  *[√har + itvā]*  /abs of harati/                                         |
+| *dassati 1.1* | /(fut)/ will give (something to)  *[dassa + ti]*  /fut of dadāti/                                   |
+| *puna*        | /(ind)/ again; once more   /ind, adv/                                                               |
+| *pacituṁ 1*   | /(inf)/ to cook; to reheat  *[√pac + ituṁ]*  /inf of pacati/                                        |
+| *sakkhissati* | /(fut)/ will be able (to)  *[sakkha + ti]*  /fut of sakkoti/                                        |
+
+#+begin_quote
+Sā "evaṁ ayaṁ samaṇaṁ gotamaṁ na passissatī"ti satthu piṭṭhiṁ datvā; \\
+tassa pacchato taṁ paṭicchādentī onamitvā; puṇṇacandaṁ pāṇinā paṭicchādentī viya aṭṭhāsi. \\
+Tathā ṭhitā eva ca pana "gato nu kho no"ti satthāraṁ aḍḍhakkhikena olokesi. Satthā tattheva aṭṭhāsi.
+#+end_quote
+
+| *piṭṭhi 1*        | /(fem)/ back  *[pa + √ṭhā + i]*  /fem, from patiṭṭhati/                                |
+| *pacchato 2*      | /(ind)/ behind; backwards  *[pacchā + to]*  /ind, prep, abl sg of pacchā/              |
+| *paṭicchādenta 1* | /(prp)/ covering; concealing; hiding  *[pati + chāde + nta]*  /prp of paṭicchādeti/    |
+| *onamitvā*        | /(abs)/ having bent down, having stooped   /abs of onamati/                            |
+| *puṇṇacanda*      | /(masc)/ full moon  *[puṇṇa + canda]*  /masc, comp/                                    |
+| *pāṇinā*          | /(masc)/ with a hand; by the palm  *[pāṇi + inā]*  /masc, instr sg of pāṇi/            |
+| *viya*            | /(ind)/ like; as  *[iva > via > viya]*  /ind/                                          |
+| *gata 1*          | /(pp)/ gone (to); went (for)  *[√gam + ta]*  /pp of gacchati/                          |
+| *aḍḍha 1.1*       | /(adj)/ half   /adj, in comps/                                                         |
+| *akkhika*         | /(adj)/ related to eyes  *[√akkh + i + ka]*  /adj, in comps, from akkhi/               |
+| *olokesi*         | /(aor)/ looked (at); observed; checked  *[ava + loke + si]*  /aor of oloketi/          |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Brāhmaṇassa pana savanabhayena "aticchathā"ti na vadeti, osakkitvā pana saṇikameva "aticchathā"ti āha. \\
+Satthā "na gamissāmī"ti sīsaṁ cālesi. Lokagarunā buddhena "na gamissāmī"ti sīse cālite \\
+sā sandhāretuṁ asakkontī mahāhasitaṁ hasi.
+#+end_quote
+
+| *savana 1.2*    | /(nt)/ hearing (of); listening (to)  *[√su > sav + &ast;ana]*  /nt, act, from suṇāti/  |
+| *bhaya 2*       | /(nt)/ fear; terror (of); fright; dismay  *[√bhī > bhay + &ast;a]*  /nt, from bhāyati/ |
+| *aticchati*     | /(pr)/ moves on; goes on; continues past  *[ati + iccha + ti]*  /pr/                   |
+| *osakkitvā*     | /(abs)/ having retreated or moved aside  *[ava + √sakk +]*  /abs of osakkati/          |
+| *saṇikaṁ*       | /(ind)/ slowly; gradually  *[saṇiṁ + ka + aṁ]*  /ind, adv, from saniṁ/                 |
+| *sīsa 1*        | /(nt)/ head   /nt/                                                                     |
+| *cālesi*        | /(aor)/ shook; waved; moved about  *[cāle + si]*  /aor of cāleti/                      |
+| *lokagaru*      | /(masc)/ world renowned teacher; world famous guru  *[loka + garu]*  /masc, comp/      |
+| *sandhāretuṁ 1* | /(inf)/ to hold back; to restrain  *[saṁ + dhāre + tuṁ]*  /inf of sandhāreti/          |
+| *asakkonta*     | /(prp)/ unable (to)  *[na > a + sakko + nta]*  /prp of na sakkoti/                     |
+| *mahāhasita*    | /(nt)/ laughing out loud; roar of laughter  *[mahā + hasita]*  /nt, comp/              |
+| *hasi 2*        | /(aor)/ laughed   /aor of hasati/                                                      |
+
+#+begin_quote
+Tasmiṁ khaṇe satthā gehābhimukhaṁ obhāsaṁ muñci. Brāhmaṇopi piṭṭhiṁ datvā nisinnoyeva brāhmaṇiyā \\
+hasitasaddaṁ sutvā chabbaṇṇānañca rasmīnaṁ obhāsaṁ oloketvā satthāraṁ addasa. \\
+Buddhā hi nāma gāme vā araññe vā hetusampannānaṁ attānaṁ adassetvā na pakkamanti.
+#+end_quote
+
+| *tasmiṁ 1*    | /(pron)/ in that; in that person  *[ta + asmiṁ]*  /pron, masc & nt loc sg of ta/               |
+| *khaṇa*       | /(masc)/ moment; instant; point in time; opportunity   /masc/                                  |
+| *abhimukhaṁ*  | /(ind)/ towards; facing; in the direction of  *[abhi + mukha + aṁ]*                            |
+| *obhāsa 1.1*  | /(masc)/ light; radiance; aura; splendour  *[ava + √bhās + a]*  /masc, from obhāsati/          |
+| *muñci*       | /(aor)/ released; let escape; set free  *[muñca + i]*  /aor of muñcati/                        |
+| *chabbaṇṇa*   | /(adj)/ consisting of six colours   /adj, comp/                                                |
+| *rasmi 1*     | /(fem)/ (of light) ray; beam   /fem/                                                           |
+| *oloketvā*    | /(abs)/ having looked; having noticed  *[ava + loke + tvā]*  /abs of oloketi/                  |
+| *addasa 1*    | /(aor)/ saw  *[a + dasa + a]*  /aor of √dis/                                                   |
+| *hetu 2*      | /(masc)/ reason (for); cause (for); condition (for); sake (of)  *[√hi > he + &ast;tu]*  /masc/ |
+| *sampanna 3*  | /(pp)/ endowed (with); possessing; full (of); *[saṁ + √pad + na]*  /pp of sampajjati/          |
+| *attānaṁ*     | /(masc)/ self; himself; herself; oneself (object)  *[atta + ānaṁ]*  /masc, acc sg of atta/     |
+| *adassetvā*   | /(abs)/ having not shown; having not pointed out  *[na > a + dasse + tvā]*  /abs of dasseti/   |
+| *pakkamati 1* | /(pr)/ goes; goes away; leaves (from)  *[pa + kama + ti]*  /pr/                                |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Brāhmaṇopi satthāraṁ disvā, "bhoti nāsitomhi tayā, rājaputtaṁ āgantvā dvāre ṭhitaṁ mayhaṁ anācikkhantiyā, \\
+bhāriyaṁ te kammaṁ kata"nti vatvā; aḍḍhabhuttaṁ bhojanapātiṁ ādāya satthu santikaṁ gantvā, \\
+"bho gotama, ahaṁ pañcasu ṭhānesu aggaṁ datvāva bhuñjāmi, ito ca me majjhe bhinditvā \\
+ekova bhattakoṭṭhāso bhutto, eko koṭṭhāso avasiṭṭho; paṭiggaṇhissasi me idaṁ bhatta"nti.
+#+end_quote
+
+# "Master Gotama, I eat only after having given the choice portion in five
+# places. And having divided this in the middle, only one portion of the food
+# has been eaten by me, and one portion remains. Will you accept this food from
+# me?"
+
+| *bhoti 1*          | /(fem)/ madam; dear  *[bho + ti]*  /fem of bhavant/                                                                                      |
+| *nāsita 3*         | /(pp)/ killed; destroyed  *[nāse + ita]*  /pp of nāseti/                                                                                 |
+| *tayā 1*           | /(pron)/ by you; with you  *[tvaṁ + ayā]*  /pron, 2nd instr sg of tvaṁ/                                                                  |
+| *ācikkhanta*       | /(prp)/ telling; informing; *[ā + cikkha + nta]*  /prp of ācikkhati/                                          |
+| *bhāriya 1*        | /(adj)/ heavy; serious; grave  *[√bhar > bhār + &ast;a + iya], [bhāra + iya]*  /adj, from bhāra/                                         |
+| *bhutta 1*         | /(pp)/ eaten; finished eating  *[√bhuj + ta]*  /pp of bhuñjati/                                                                          |
+| *pāti 1.1*         | /(fem)/ cup; drinking bowl  *[√pā + ti]*  /fem, from pivati/                                                                             |
+| *ādāya 1*          | /(ger)/ taking  *[√ādā + ya]*  /ger of ādiyati/                                                                                          |
+| *santikaṁ*         | /(ind)/ into the presence (of); towards; near (to); *[santika + aṁ]*  /ind, prep, acc sg of santika/   |
+| *majjhe 1*         | /(ind)/ in the middle; in the midst (of)  *[majjha + e]*  /ind, adv, loc sg of majjha/                                                   |
+| *bhinditvā*        | /(abs)/ having broken; having shattered; having split up  *[bhinda + itvā]*  /abs of bhindati/                                           |
+| *ekova*            | /(sandhi)/ alone  *[eko + eva]*  /sandhi, adj + ind/                                                                                     |
+| *koṭṭhāsa 2*       | /(masc)/ part; portion; component (of)  *[koṭṭha + ??]*  /masc, comp/                                                                    |
+| *bhutta 1*         | /(pp)/ eaten; finished eating  *[√bhuj + ta]*  /pp of bhuñjati/                                                                          |
+| *koṭṭhāsa 2*       | /(masc)/ part; portion; component (of)  *[koṭṭha + ??]*  /masc, comp/                                                                    |
+| *avasiṭṭha*        | /(pp)/ left over; remaining  *[ava + √sis + ta]*  /pp of ava √sis/                                                                       |
+| *paṭiggaṇhāti 1*   | /(pr)/ takes; accepts; receives  *[pati + gaṇhā + ti]*  /pr/                                                                             |
+
+#+begin_quote
+Satthā "na me tava ucchiṭṭhabhattena attho"ti avatvā, "brāhmaṇa, aggampi mayhameva anucchavikaṁ, \\
+majjhe bhinditvā aḍḍhabhuttabhattampi, carimakabhattapiṇḍopi mayhameva anucchaviko. \\
+Mayañhi, brāhmaṇa, paradattūpajīvipetasadisā"ti vatvā imaṁ gāthamāha –
+#+end_quote
+
+| *ucchiṭṭha 1*       | /(pp)/ rejected; leftover  *[ud + √sis + ta]*  /pp of ud √sis/                                                   |
+| *attha 2.1*         | /(masc)/ need; want (for)  *[√atth + a]*  /masc/                                                                 |
+| *avatvā 1*          | /(abs)/ having not said; having not spoken (about)  *[na + vatvā]*  /abs of na vadati/                           |
+| *anucchavika*       | /(adj)/ suitable; proper; right; appropriate (to)  *[anu + chavi + ka]*                                          |
+| *carimaka*          | /(adj)/ last; final  *[√car + a + ima + ka]*  /adj, from carima/                                                 |
+| *bhattapiṇḍa*       | /(masc)/ lump of food  *[bhatta + piṇḍa]*  /masc, comp/                                                          |
+| *paradattūpajīvī 1* | /(adj)/ living on what is given by others *[paradatta + upajīvī]*  /adj, comp/                                   |
+| *peta 3*            | /(masc)/ afflicted spirit, hungry ghost  *[pa + e + ta]*  /masc/                                                 |
+| *sadisa 1*          | /(adj)/ similar (to); same (as); resembling; like  *[sa + √dis + a]*  /adj, from disa/                           |
+
+#+begin_quote
+"Yadaggato majjhato sesato vā, / Piṇḍaṁ labhetha paradattūpajīvī; \\
+Nālaṁ thutuṁ nopi nipaccavādī, / Taṁ vāpi dhīrā muni vedayantī"ti.
+#+end_quote
+
+| *yadagga*    | /(nt)/ whatever is best; the cream of the crop  *[yad + agga]*  /nt, comp/                     |
+| *majjhato*   | /(ind)/ amidst; in the middle (of)  *[majjha + to]*  /ind, adv, abl sg of majjha/              |
+| *sesa 2*     | /(masc)/ leftovers; remains; remainder; remnant  *[√sis > ses + &ast;a]*  /masc, from sissati/ |
+| *nālaṁ 1*    | /(ind)/ not suitable (for); not worth  *[na + alaṁ]*  /ind, comp/                              |
+| *thutuṁ*     | /(inf)/ to praise; to commend  *[√thu + tuṁ]*  /inf of thunāti/                                |
+| *nopi*       | /(sandhi)/ nor; nor even  *[no + api]*  /sandhi, ind + ind/                                    |
+| *nipacca*    | /(ger)/ falling down; bowing down (at)  *[ni + √pat + ya]*  /ger of nipatati, in comps/        |
+| *vāpi 1*     | /(sandhi)/ or even  *[vā + api]*  /sandhi, ind + ind/                                          |
+| *dhīra 2.2*  | /(masc)/ wise man; sage; intelligent person  *[√dhī + ra]*  /masc/                             |
+| *muni 1*     | /(masc)/ monk; sage; seer; hermit; silent sage  *[√mun + i]*  /masc, from munāti/              |
+| *vedayati 2* | /(pr)/ informs; points out; makes known  *[vedaya + ti]*  /pr/                                 |
+
+#+begin_quote
+Brāhmaṇo taṁ sutvāva pasannacitto hutvā "aho acchariyaṁ, dīpasāmiko nāma rājaputto \\
+‘na me tava ucchiṭṭhabhattena attho’ti avatvā evaṁ vakkhatī"ti; dvāre ṭhitakova satthāraṁ pañhaṁ pucchi – \\
+"bho gotama, tumhe attano sāvake bhikkhū'ti vadatha, kittāvatā bhikkhu nāma hotī"ti.
+#+end_quote
+
+| *pasannacitta* | /(adj)/ full of devotion; mentally full of confidence (in)  *[pasanna + citta]*  /adj, comp/                               |
+| *hutvā 2*      | /(abs)/ having become  *[√hū + tvā]*  /abs of hoti/                                                                        |
+| *aho 2.1*      | /(ind)/ (expressing pleasure, surprise or disbelief) oh!; wow!   /ind, excl/                                               |
+| *acchariyaṁ*   | /(ind)/ wonderful!; marvellous!; unbelievable!  *[accharā + iya + aṁ]*  /ind, excl/ |
+| *dīpa 2.1*     | /(masc)/ land; island; continent; peninsula  *[dvi > di + āpa]*  /masc, comp/                                              |
+| *sāmika 3*     | /(masc)/ master; lord  *[sāmī + ka]*  /masc, from sāmī/                                                                    |
+| *vakkhati 1*   | /(fut)/ will say; will tell; will speak  *[vakkha + ti]*  /fut of vacati/                                                  |
+| *ṭhitaka*      | /(adj)/ standing; upright  *[√ṭhā + ita + ka], [ṭhita + ka]*  /adj, from ṭhita/                                            |
+| *pañha 2*      | /(masc)/ question; enquiry  *[√pañh + a]*  /masc/                                                                          |
+| *pucchi*       | /(aor)/ asked; enquired; questioned (somebody about)  *[√pucch + i]*  /aor of pucchati/                                    |
+| *kittāvatā*    | /(ind)/ in what way?; to what extent?; in what respect?  *[kittāva + tā]*  /ind, adv, interr/   |
+
+#+begin_quote
+Satthā "kathaṁrūpā nu kho imassa dhammadesanā sappāyā"ti upadhārento "ime dvepi janā kassapabuddhakāle \\
+‘nāmarūpa’nti vadantānaṁ kathaṁ suṇiṁsu, nāmarūpaṁ avissajjitvāva nesaṁ dhammaṁ desetuṁ vaṭṭatī"ti, \\
+"brāhmaṇa, nāme ca rūpe ca arajjanto asajjanto asocanto bhikkhu nāma hotī"ti vatvā imaṁ gāthamāha –
+
+(367.) "Sabbaso nāmarūpasmiṁ, yassa natthi mamāyitaṁ; \\
+Asatā ca na socati, sa ve bhikkhū'ti vuccatī"ti.
+#+end_quote
+
+# The Teacher, considering "what kind of Dhamma-teaching would be suitable for
+# this one?", [reflected]: "These two people, in the time of the Buddha Kassapa,
+# heard talk of those who spoke of 'name-and-form'; it is fitting to teach them
+# the Dhamma without setting aside name-and-form." Having said, "Brahmin, a
+# bhikkhu is one who, in regard to name and form, does not lust, does not cling,
+# does not grieve," he spoke this verse —
+
+| *kathaṁrūpa*  | /(adj)/ what kind?  *[kathaṁ + rūpa]*  /adj, interr, comp/                                                              |
+| *sappāya 1*   | /(adj)/ beneficial (for); wholesome (for); healthy (for); supportive (of)  *[saṁ + pa + √i > ay + &ast;a]*              |
+| *upadhārenta* | /(prp)/ investigating; exploring; considering  *[upa + dhāre + nta]*  /prp of upadhāreti/                               |
+| *jana 1*      | /(masc)/ man; person; fellow  *[√jan + a]*  /masc, agent, from jāyati/                                                  |
+| *vadanta*     | /(prp)/ speaking; saying  *[vada + nta]*  /prp of vadati/                                                               |
+| *kathā 1*     | /(fem)/ talk; speech; conversation; discussion  *[√kath + ā]*  /fem, from katheti/                                      |
+| *suṇi*        | /(aor)/ heard  *[suṇā + i]*  /aor of suṇāti/                                                                            |
+| *vissajjitvā* | /(abs)/ having relinquished; having given up  *[vi + √sajj + itvā]*  /abs of vissajjati/                                |
+| *nesaṁ 1*     | /(pron)/ for them; to them  *[[n] + esa + ānaṁ > aṁ]*  /pron, masc & nt dat pl of ta/                                   |
+| *desetuṁ*     | /(inf)/ to preach; to teach; to explain (to)  *[dese + tuṁ]*  /inf of deseti/                                           |
+| *vaṭṭati 1*   | /(pr)/ it is suitable; it is right (to)  *[vaṭṭa + ti]*  /pr/                                                           |
+| *arajjanta*   | /(prp)/ not finding pleasure (in); not being attracted (to)   /prp/                                                     |
+| *asajjanta*   | /(prp)/ not being attached; not being enmeshed; not being entangled  *[na > a + sajja + nta]*                           |
+| *asocanta*    | /(prp)/ not sorrowing; not grieving  *[na > a + soca + nta]*  /prp of na socati/                                        |
+| *yassa 2*     | /(pron)/ of whoever; of whichever; whose  *[ya + ssa]*  /pron, masc & nt gen sg of ya/                                  |
+| *mamāyita 1*  | /(nt)/ (something) taken as mine; made mine; possessed; treasured; cherished  *[mama + āya + ita]*                      |
+| *asatā 2*     | /(prp)/ from nonexistence; because of the absence  *[asanta + tā]*  /prp, abl sg of na santa/ |
+| *socati*      | /(pr)/ sorrows; suffers (over); grieves (about); mourns (over)  *[soca + ti]*  /pr/                                     |
+| *ve*          | /(ind)/ indeed; truly; really   /ind, emph/                                                                             |
+| *vuccati*     | /(pr)/ is said to be; is called  *[vucca + ti]*  /pr, pass of vacati/                                                   |
+
+#+begin_quote
+Tattha *sabbaso*'ti sabbasmimpi vedanādīnaṁ catunnaṁ, rūpakkhandhassa cāti
+pañcannaṁ khandhānaṁ vasena pavatte nāmarūpe.
+
+*Mamāyita*'nti yassa ahanti vā mamanti vā gāho natthi. *Asatā ca na socatī*'ti
+tasmiñca nāmarūpe khayavayaṁ patte "mama rūpaṁ khīṇaṁ ... mama viññāṇaṁ
+khīṇa"nti na socati na vihaññati, "khayavayadhammaṁ me khīṇa"nti passati.
+
+*Sa ve*'ti so evarūpo vijjamānepi nāmarūpe mamāyitarahitopi asatāpi tena
+asocanto bhikkhūti vuccatī'ti attho.
+#+end_quote
+
+| *vasena 1*    | /(ind)/ due to; through; by means (of)  *[√vas + a + ena], [vasa + ena]*  /ind, adv, in comps, instr sg of vasa/        |
+| *pavatta 2*   | /(pp)/ occurred; happened; took place; went on  *[pa + √vatt + ta]*  /pp of pavattati/                                  |
+| *gāha 1.6*    | /(masc)/ obsession, assumption  *[√gah > gāh + &ast;a]*  /masc, from gaṇhāti/                                           |
+| *socanta*     | /(prp)/ sorrowing; grieving; mourning (over)  *[soca + nta]*  /prp of socati/                                           |
+| *khayavaya*   | /(masc)/ destruction and disintegration; exhaustion and dissolution  *[khaya + vaya]*  /masc, comp/                     |
+| *patta 3.1*   | /(pp)/ reached; attained; gained; accomplished; found  *[pa + √ap + ta]*  /pp of pāpuṇāti/                              |
+| *khīṇa 1*     | /(pp)/ consumed; spent; finished; exhausted; slowly destroyed  *[√khī + na]*  /pp of khīyati/                           |
+| *vihaññati 2* | /(pr)/ is troubled (by); is worried (about); is afflicted (by)  *[vi + hañña + ti]*  /pr, pass of vihanati/             |
+| *evarūpa*     | /(adj)/ such; similar kind of; of such quality  *[evaṁ + rūpa]*  /adj, comp/                                            |
+| *vijjamāna 1* | /(prp)/ existing  *[vijja + māna]*  /prp of vijjati/                                                                    |
+| *mamāyita 1*  | /(nt)/ (something) taken as mine; made mine; possessed; treasured; cherished  *[mama + āya + ita]*                      |
+| *asatā 2*     | /(prp)/ from nonexistence; because of the absence  *[asanta + tā]*  /prp, abl sg of na santa/   |
+| *asocanta*    | /(prp)/ not sorrowing; not grieving  *[na > a + soca + nta]*  /prp of na socati/                                        |
+| *attha 1.1*   | /(masc)/ meaning; sense; significance  *[√ar + tha]*  /masc/                                                            |
+
+#+begin_quote
+Desanāvasāne ubhopi jayampatikā anāgāmiphale patiṭṭhahiṁsu, sampattānampi
+sātthikā dhammadesanā ahosī'ti.
+#+end_quote
+
+| *desanāvasāna* | /(nt)/ end of the teaching; conclusion of the discourse  *[desanā + avasāna]*  /nt, comp/ |
+| *ubhopi* | /(sandhi)/ and both; as well as  *[ubho + api]*  /sandhi, pron + ind/ |
+| *jayampatikā* | /(masc)/ wife and husband  *[jāyaṁ + pati + ikā]*  /masc pl, comp, from jayampati/ |
+| *anāgāmiphala* | /(nt)/ fruit of non-returning  *[anāgāmi + phala]*  /nt, comp/ |
+| *patiṭṭhahi* | /(aor)/ was established; was grounded; was instilled (in)  *[pati + ṭhaha + i]*  |
+| *sampatta 1* | /(pp)/ reached; arrived; is here  *[saṁ + pa + √ap + ta]*  /pp of sampāpuṇāti/ |
+| *sātthaka 1* | /(adj)/ useful; beneficial; advantageous  *[sa + √ar + tha + ka]*  /adj, from attha/ |
+| *ahosi* | /(aor)/ was; existed; became  *[a + ho + si]*  /aor of hoti/ |
