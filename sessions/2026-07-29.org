@@ -1,0 +1,121 @@
+#+author: gavesako
+#+youtube_id: 
+
+* 2026-07-29
+** Mv.III.1.1 Vassūpanāyikānujānanā
+
+([[https://suttacentral.net/pli-tv-kd3/en/brahmali][SC]], [[https://www.dhammatalks.org/vinaya/Mv/MvIII.html#burmese107][dhammatalks.org]])
+
+The Allowance for Entering for the Rains
+
+#+begin_quote
+Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhagavatā bhikkhūnaṁ vassāvāso apaññatto hoti. Tedha bhikkhū hemantampi gimhampi vassampi cārikaṁ caranti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā hemantampi gimhampi vassampi cārikaṁ carissanti, haritāni tiṇāni sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā.
+#+end_quote
+
+| *samaya 1.1* | /(masc)/ time; occasion  *[saṁ + √i > ay + &ast;a]*  /masc, from sameti/ |
+| *veḷuvana* | /(nt)/ name of a park outside Rājagaha  *[veḷu + vana]*  /nt, comp/ |
+| *apaññatta 1* | /(pp)/ (of a rule) not formulated; not declared  *[na > a + pa + ñāpe + ta]*  /pp of na paññāpeti/ |
+| *tedha* | /(sandhi)/ they here; they this  *[te + idha]*  /sandhi, pron + ind/ |
+| *cārikā* | /(fem)/ walking tour; walking journey  *[√car > cār + &ast;ikā]*  /fem, from carati/ |
+| *carati 1.1* | /(pr)/ walks; wanders; goes around; travels; fares on  *[cara + ti]*  /pr/ |
+| *manussa* | /(masc)/ human being; man; person  *[manu + ssa]*  /masc, from manu/ |
+| *ujjhāyati* | /(pr)/ finds fault; looks down upon; thinks badly of  *[ava > o > u + jhāya + ti]*  /pr/ |
+| *khiyyati* | /(pr)/ criticizes; complains (about)  *[khiyya + ti]*  /pr, from khayati/ |
+| *vipāceti* | /(pr)/ spreads about; circulates; discusses widely  *[vi + pāce + ti]*  /pr, caus of vi √vac/ |
+| *kathañhi* | /(sandhi)/ how indeed!?; why indeed!?  *[kathaṁ + hi]*  /sandhi, adv + ind, interr/ |
+| *harita 1.1* | /(adj)/ green; fresh  *[hari + ta]*  /adj, from hari/ |
+| *tiṇa 1* | /(nt)/ grass; straw   /nt/ |
+| *sammaddanta* | /(prp)/ trampling; crushing; destroying  *[saṁ + madda + nta]*  /prp of sammaddati/ |
+| *ekindriya* | /(adj)/ with a single sense faculty; (comm) only with a sense of touch  *[eka + indriya]*  /adj, comp/ |
+| *jīva 1* | /(nt)/ soul; life force  *[√jīv + a]*  /nt, from jīvati/ |
+| *viheṭhenta* | /(prp)/ harming; troubling; disturbing  *[vi + heṭhe + nta]*  /prp of viheṭheti/ |
+| *bahu* | /(adj)/ many; much; lots; a lot (of); great; large  *[√bah + u]*  /adj/ |
+| *khuddaka 1* | /(adj)/ small; minute; tiny  *[khudda + ka]*  /adj, from khudda/ |
+| *pāṇa 3* | /(masc)/ being; living being  *[pa + √an + a]*  /masc/ |
+| *saṅghāta 1.2* | /(masc)/ slaughter; murder; killing; destruction  *[saṁ + √ghaṭ > ghāt + &ast;a]*  /masc/ |
+| *āpādenta* | /(prp)/ (of something bad) causing; effecting; producing  *[ā + pāde + nta]*  /prp of āpādeti/ |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Ime hi nāma aññatitthiyā durakkhātadhammā vassāvāsaṁ allīyissanti saṅkasāyissanti. Ime hi nāma sakuntakā rukkhaggesu kulāvakāni karitvā vassāvāsaṁ allīyissanti saṅkasāyissanti. Ime pana samaṇā sakyaputtiyā hemantampi gimhampi vassampi cārikaṁ caranti, haritāni tiṇāni sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā”ti.
+#+end_quote
+
+| *aññatitthiya* | /(adj)/ who belongs to another sect; who follows another religion  *[añña + titthiya]*  /adj, comp/ |
+| *durakkhātadhamma* | /(adj)/ with poorly explained doctrines; having flawed teachings  *[durakkhāta + dhamma]*  /adj, comp/ |
+| *allīyati* | /(pr)/ sticks; clings; adheres; attaches (to)  *[ā + līya + ti]*  /pr/ |
+| *saṅkasāyati* | /(pr)/ sits frozen  *[?? saṁ + kasāya + ti]*  /pr/ |
+| *sakuntaka* | /(masc)/ little bird; small bird  *[sakuṇa > sakunta + ka]*  /masc, dimin of sakunta/ |
+| *rukkhagga* | /(nt)/ top of a tree  *[rukkha + agga]*  /nt, comp/ |
+| *kulāvaka 2* | /(nt)/ nest  *[√kul + āva + ka], [kulāva + ka]*  /nt, dimin of kulāva/ |
+| *karitvā 3* | /(abs)/ having built; having constructed  *[√kar + itvā]*  /abs of karoti/ |
+
+#+begin_quote
+Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+#+end_quote
+
+| *assosuṁ* | /(aor)/ they heard  *[a + so + suṁ]*  /aor 3rd pl of assosi/ |
+| *tesaṁ 3* | /(pron)/ when they; when these  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ta, gen abs/ |
+| *ujjhāyanta* | /(prp)/ finding fault; thinking badly of  *[ava > o > u + jhāya + nta]*  /prp of ujjhāyati/ |
+| *khiyyanta* | /(prp)/ criticizing; complaining (about); bringing down  *[khiyya + nta]*  /prp of khiyyati/ |
+| *vipācenta* | /(prp)/ spreading about; circulating; discussing widely  *[vi + pāce + nta]*  /prp of vipāceti/ |
+| *bhagavato 1* | /(masc)/ to the Buddha; for the Buddha  *[bhagavant + to]*  /masc, dat sg of bhagavant/ |
+| *etamatthaṁ 2* | /(sandhi)/ this matter; this case; this affair  *[etaṁ + atthaṁ]*  /sandhi, pron + masc/ |
+| *ārocesi 1* | /(aor)/ told; informed; explained (to)  *[ā + roce + si]*  /aor of āroceti/ |
+| *etasmiṁ* | /(pron)/ in this; in this person  *[eta + asmiṁ]*  /pron, masc & nt loc sg of eta/ |
+| *nidāna 4* | /(nt)/ background story; narrative setting; introductory tale  *[ni + √dā + ana]*  /nt/ |
+| *pakaraṇa 1* | /(nt)/ affair; occasion; event  *[pa + √kar + aṇa]*  /nt, from pakubbati/ |
+| *dhammī 1* | /(adj)/ righteous; religious; moral; related to the Dhamma  *[dhamma + ī]*  /adj, from dhamma/ |
+| *kathā 1* | /(fem)/ talk; speech; conversation; discussion  *[√kath + ā]*  /fem, from katheti/ |
+| *katvā 1* | /(abs)/ having done  *[√kar + tvā]*  /abs of karoti/ |
+| *āmantesi* | /(aor)/ addressed; said (to); advised  *[ā + mante + si]*  /aor of āmanteti/ |
+
+#+begin_quote
+“anujānāmi, bhikkhave, vassaṁ upagantun”ti.
+#+end_quote
+
+| *anujānāti 1* | /(pr)/ allows; permits; grants permission (to)  *[anu + jānā + ti]*  /pr/ |
+| *vassa 1.5* | /(masc)/ rains retreat; three month retreat for monastics  *[√vass + a]*  /masc, from vassati/ |
+| *upagantuṁ 2* | /(inf)/ to enter  *[upa + √gam + tuṁ]*  /inf of upagacchati/ |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Atha kho bhikkhūnaṁ etadahosi— “kadā nu kho vassaṁ upagantabban”ti? Bhagavato etamatthaṁ ārocesuṁ.
+#+end_quote
+
+| *etadahosi* | /(sandhi)/ this (thought) occurred (to)  *[etad + ahosi]*  /sandhi, pron + aor/ |
+| *kadā* | /(ind)/ when?  *[ka + dā]*  /ind, adv, interr, from ka/ |
+| *nu* | /(ind)/ (adds a question mark) surely?; didn't?; wouldn't?; which?   /ind, interr/ |
+| *upagantabba 1* | /(ptp)/ (of the rains retreat) should be entered; should be undertaken  *[upa + √gam + tabba]*  /ptp of upagacchati/ |
+
+#+begin_quote
+“Anujānāmi, bhikkhave, vassāne vassaṁ upagantun”ti.
+#+end_quote
+
+| *vassāna* | /(masc)/ monsoon; rainy season  *[√vass + āna]*  /masc, from prp of vassati/ |
+
+#+begin_quote
+Atha kho bhikkhūnaṁ etadahosi— “kati nu kho vassūpanāyikā”ti? Bhagavato etamatthaṁ ārocesuṁ.
+#+end_quote
+
+| *kati* | /(pron)/ how many?  *[ka + ti]*  /pron, interr/ |
+| *vassūpanāyikā* | /(fem)/ (vinaya) rains retreat entry  *[vassa + upanāyika + ā], [vassūpanāyika + ā]*  /fem, comp/ |
+
+#+begin_quote
+“Dvemā, bhikkhave, vassūpanāyikā— purimikā, pacchimikā. Aparajjugatāya āsāḷhiyā purimikā upagantabbā, māsagatāya āsāḷhiyā pacchimikā upagantabbā— imā kho, bhikkhave, dve vassūpanāyikā”ti.
+#+end_quote
+
+| *dvemā* | /(sandhi)/ these two  *[dve + imā]*  /sandhi, card + pron/ |
+| *vassūpanāyikā* | /(fem)/ (vinaya) rains retreat entry  *[vassa + upanāyika + ā], [vassūpanāyika + ā]*  /fem, comp/ |
+| *purimaka* | /(adj)/ earlier; past; former; previous  *[pura + ima + ka], [purima + ka]*  /adj, compar of purima/ |
+| *pacchimaka 3* | /(adj)/ later  *[paccha + ima + ka], [pacchima + ka]*  /adj, comp/ |
+| *aparajjugata* | /(adj)/ which occurred on the previous day   /adj/ |
+| *āsāḷhi* | /(fem)/ full-moon day in the month āsāḷha; the month āsāḷha   /fem/ |
+| *māsagata* | /(adj)/ after one month  *[māsa + gata]*  /adj, comp/ |
+| *imā* | /(pron)/ these  *[ima + ā]*  /pron, fem nom pl of ima/ |
+
