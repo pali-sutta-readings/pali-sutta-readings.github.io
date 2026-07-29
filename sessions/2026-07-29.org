@@ -1,5 +1,6 @@
 #+author: gavesako
-#+youtube_id: 
+#+youtube_id: rlTLJp0RtLU
+#+tags: vinaya
 
 * 2026-07-29
 ** Mv.III.1.1 Vassūpanāyikānujānanā
@@ -119,3 +120,88 @@ Atha kho bhikkhūnaṁ etadahosi— “kati nu kho vassūpanāyikā”ti? Bhagav
 | *māsagata* | /(adj)/ after one month  *[māsa + gata]*  /adj, comp/ |
 | *imā* | /(pron)/ these  *[ima + ā]*  /pron, fem nom pl of ima/ |
 
+** Mv.III.3.1 Vassānecārikāpaṭikkhepādi
+
+The Prohibition against Going on Tour during the Rains
+
+#+begin_quote
+Tena kho pana samayena chabbaggiyā bhikkhū vassaṁ upagantvā antarāvassaṁ cārikaṁ caranti. Manussā tatheva ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā hemantampi gimhampi vassampi cārikaṁ carissanti, haritāni tiṇāni sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā. Ime hi nāma aññatitthiyā durakkhātadhammā vassāvāsaṁ allīyissanti saṅkasāyissanti. Ime hi nāma sakuntakā rukkhaggesu kulāvakāni karitvā vassāvāsaṁ allīyissanti saṅkasāyissanti. Ime pana samaṇā sakyaputtiyā hemantampi gimhampi vassampi cārikaṁ caranti, haritāni tiṇāni sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā”ti.
+#+end_quote
+
+| *samaya 1.1* | /(masc)/ time; occasion  *[saṁ + √i > ay + &ast;a]*  /masc, from sameti/ |
+| *chabbaggiya* | /(adj)/ belonging to the group of six  *[chaḷ + vagga + iya], [chabbagga + iya]*  /adj, comp/ |
+| *bhikkhu* | /(masc)/ monk; monastic; mendicant; fully ordained monk  *[√bhikkh + u]*  /masc, from bhikkhati/ |
+| *vassa 1.5* | /(masc)/ rains retreat; three month retreat for monastics  *[√vass + a]*  /masc, from vassati/ |
+| *upagantvā 3* | /(abs)/ having attained; having entered a state; having become  *[upa + √gam + tvā]*  /abs of upagacchati/ |
+| *antarāvassaṁ* | /(ind)/ during the rains residence; in the middle of the rainy season retreat  *[antarā + vassa + aṁ], [antarāvassa + aṁ]*  /ind, adv, comp/ |
+| *cārikā* | /(fem)/ walking tour; walking journey  *[√car > cār + &ast;ikā]*  /fem, from carati/ |
+| *carati 1.1* | /(pr)/ walks; wanders; goes around; travels; fares on  *[cara + ti]*  /pr/ |
+| *manussa* | /(masc)/ human being; man; person  *[manu + ssa]*  /masc, from manu/ |
+| *tatheva 1* | /(sandhi)/ likewise; in the same way; as it is; as they are; similarly  *[tathā + eva]*  /sandhi, adv + ind/ |
+| *ujjhāyati* | /(pr)/ finds fault; looks down upon; thinks badly of  *[ava > o > u + jhāya + ti]*  /pr/ |
+| *khiyyati* | /(pr)/ criticizes; complains (about)  *[khiyya + ti]*  /pr, from khayati/ |
+| *vipāceti* | /(pr)/ spreads about; circulates; discusses widely  *[vi + pāce + ti]*  /pr, caus of vi √vac/ |
+| *kathañhi* | /(sandhi)/ how indeed!?; why indeed!?  *[kathaṁ + hi]*  /sandhi, adv + ind, interr/ |
+| *nāma 1* | /(ind)/ certainly; truly; for sure   /ind, emph/ |
+| *samaṇa 1* | /(masc)/ ascetic; renunciant; holy man; monk; recluse  *[√sam + aṇa]*  /masc/ |
+| *sakyaputtiya* | /(adj)/ Buddhist; following the Sakyan  *[sakya + putta + iya], [sakyaputta + iya]*  /adj, comp, from sakyaputta/ |
+| *hemanta* | /(masc)/ winter; cold season  *[hima > hema + anta + &ast;a], [himanta + &ast;a]*  /masc, comp, from himanta/ |
+| *gimha* | /(masc)/ heat; warmth   /masc/ |
+| *harita 1.1* | /(adj)/ green; fresh  *[hari + ta]*  /adj, from hari/ |
+| *tiṇa 1* | /(nt)/ grass; straw   /nt/ |
+| *sammaddanta* | /(prp)/ trampling; crushing; destroying  *[saṁ + madda + nta]*  /prp of sammaddati/ |
+| *ekindriya* | /(adj)/ with a single sense faculty; having one sense; (comm) only with a sense of touch  *[eka + indriya]*  /adj, comp/ |
+| *jīva 1* | /(nt)/ soul; life force  *[√jīv + a]*  /nt, from jīvati/ |
+| *viheṭhenta* | /(prp)/ harming; troubling; disturbing  *[vi + heṭhe + nta]*  /prp of viheṭheti/ |
+| *bahu* | /(adj)/ many; much; lots; a lot (of); great; large  *[√bah + u]*  /adj/ |
+| *khuddaka 1* | /(adj)/ small; minute; tiny  *[khudda + ka]*  /adj, from khudda/ |
+| *pāṇa 3* | /(masc)/ being; living being  *[pa + √an + a]*  /masc/ |
+| *saṅghāta 1.2* | /(masc)/ slaughter; murder; killing; destruction  *[saṁ + √ghaṭ > ghāt + &ast;a]*  /masc/ |
+| *āpādenta* | /(prp)/ (of something bad) causing; effecting; producing  *[ā + pāde + nta]*  /prp of āpādeti/ |
+| *ime* | /(pron)/ these  *[ima + e]*  /pron, masc nom & acc pl of ima/ |
+| *aññatitthiya* | /(adj)/ who belongs to another sect; who follows another religion  *[añña + titthiya]*  /adj, comp/ |
+| *durakkhātadhamma* | /(adj)/ with poorly explained doctrines; having flawed teachings  *[durakkhāta + dhamma]*  /adj, comp/ |
+| *vassāvāsa* | /(masc)/ time of the rains retreat; residence for the rainy season  *[vassa + āvāsa]*  /masc, comp/ |
+| *allīyati* | /(pr)/ sticks; clings; adheres; attaches (to)  *[ā + līya + ti]*  /pr/ |
+| *saṅkasāyati* | /(pr)/ sits frozen  *[?? saṁ + kasāya + ti]*  /pr/ |
+| *sakuntaka* | /(masc)/ little bird; small bird  *[sakuṇa > sakunta + ka]*  /masc, dimin of sakunta/ |
+| *rukkhagga* | /(nt)/ top of a tree  *[rukkha + agga]*  /nt, comp/ |
+| *kulāvaka 2* | /(nt)/ nest  *[√kul + āva + ka], [kulāva + ka]*  /nt, dimin of kulāva/ |
+| *karitvā 3* | /(abs)/ having built; having constructed  *[√kar + itvā]*  /abs of karoti/ |
+
+#+begin_quote
+Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū vassaṁ upagantvā antarāvassaṁ cārikaṁ carissantī”ti? Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+#+end_quote
+
+| *assosuṁ* | /(aor)/ they heard  *[a + so + suṁ]*  /aor 3rd pl of assosi/ |
+| *tesaṁ 3* | /(pron)/ when they; when these  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ta, gen abs/ |
+| *ujjhāyanta* | /(prp)/ finding fault; thinking badly of  *[ava > o > u + jhāya + nta]*  /prp of ujjhāyati/ |
+| *khiyyanta* | /(prp)/ criticizing; complaining (about); bringing down  *[khiyya + nta]*  /prp of khiyyati/ |
+| *vipācenta* | /(prp)/ spreading about; circulating; discussing widely  *[vi + pāce + nta]*  /prp of vipāceti/ |
+| *ye 1* | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/ |
+| *appiccha* | /(adj)/ with few wishes; wanting little; having few needs; modest  *[appa + icchā + a], [appicchā + a]*  /adj, comp/ |
+| *pa 4.1* | /(letter)/ (gram) letter p; 29th letter of the alphabet; labial consonant   /letter, masc/ |
+| *bhagavato 1* | /(masc)/ to the Buddha; for the Buddha  *[√bhaj > bhag + a + vant + to], [bhagavant + to]*  /masc, dat sg of bhagavant/ |
+| *etamatthaṁ 2* | /(sandhi)/ this matter; this case; this affair  *[etaṁ + atthaṁ]*  /sandhi, pron + masc/ |
+| *ārocesi 1* | /(aor)/ told; informed; explained (to)  *[ā + roce + si]*  /aor of āroceti/ |
+| *etasmiṁ* | /(pron)/ in this; in this person  *[eta + asmiṁ]*  /pron, masc & nt loc sg of eta/ |
+| *nidāna 1* | /(nt)/ source; origin; foundation; cause; reason  *[ni + √dā + ana]*  /nt/ |
+| *pakaraṇa 1* | /(nt)/ affair; occasion; event  *[pa + √kar + aṇa]*  /nt, from pakubbati/ |
+| *dhammī 1* | /(adj)/ righteous; religious; moral; related to the Dhamma  *[√dhar + ma + ī], [dhamma + ī]*  /adj, from dhamma/ |
+| *kathā 1* | /(fem)/ talk; speech; conversation; discussion  *[√kath + ā]*  /fem, from katheti/ |
+| *katvā 1* | /(abs)/ having done  *[√kar + tvā]*  /abs of karoti/ |
+| *āmantesi* | /(aor)/ addressed; said (to); advised  *[ā + mante + si]*  /aor of āmanteti/ |
+
+#+begin_quote
+“na, bhikkhave, vassaṁ upagantvā purimaṁ vā temāsaṁ pacchimaṁ vā temāsaṁ avasitvā cārikā pakkamitabbā. Yo pakkameyya, āpatti dukkaṭassā”ti.
+#+end_quote
+
+| *purima 1* | /(adj)/ earlier; past; former; previous  *[pura + ima]*  /adj, compar of pura/ |
+| *temāsa* | /(nt)/ period of three months  *[ti > te + māsa + &ast;a], [timāsa + &ast;a]*  /nt, comp/ |
+| *pacchima 1* | /(adj)/ last; final  *[pacchā + ima]*  /adj, superl of pacchā/ |
+| *avasitvā* | /(abs)/ having not lived; having not stayed   /abs/ |
+| *cārikā* | /(fem)/ walking tour; walking journey  *[√car > cār + &ast;ikā]*  /fem, from carati/ |
+| *pakkamitabba 2* | /(ptp)/ should leave; should depart (from)  *[pa + √kam + itabba]*  /ptp of pakkamati/ |
+| *pakkamati 1* | /(pr)/ goes; goes away; leaves (from)  *[pa + kama + ti]*  /pr/ |
+| *āpatti 2* | /(fem)/ (vinaya) offence; wrongdoing; transgression  *[ā + √pad + ti]*  /fem, abstr, from āpajjati/ |
+| *dukkaṭa 3* | /(nt)/ class of vinaya offence; wrong-doing  *[dur + √kar + ta]*  /nt, from kaṭa/ |
