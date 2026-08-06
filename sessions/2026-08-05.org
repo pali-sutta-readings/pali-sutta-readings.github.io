@@ -1,17 +1,7 @@
 #+author: gambhiro
-#+youtube_id: 
+#+youtube_id: 0uSiymAJ5yY
 
 * 2026-08-05
-** Nissaya :noexport:
-
-Imasmiṁ āvāse imaṁ te-māsaṁ vassaṁ upemi.
-
-Ācariyo me bhante hohi, āyasmato nissāya vacchāmi.
-
-Sādhu, lahu, opāyikaṁ, paṭirūpaṁ, pāsādikena sampādehi.
-
-Ajjatagge dāni thero mayhaṁ bhāro, ahampi therassa bhāro.
-
 ** AN 9.11 Sīhanādasutta
 
 #+begin_quote
