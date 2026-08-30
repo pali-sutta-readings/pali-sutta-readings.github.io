@@ -1,0 +1,159 @@
+#+author: gambhiro
+#+youtube_id:
+#+tags: chanting
+
+* Notes :noexport:
+
+#+begin_quote
+Etaṁ santaṁ etaṁ paṇītaṁ,
+
+yadidaṁ sabba-saṅkhāra-samatho sabb'ūpadhi-paṭinissaggo
+
+taṇhākkhayo virāgo nirodho nibbānaṁ. (Many places, e.g. MN 64)
+#+end_quote
+
+* 2026-09-02
+** Nibbāna :noexport:
+
+निर्वाण nt. nirvāṇa
+
+นิพพาน
+
+nibbāna from nirvāna
+
+nibbāna nt. nī + √vā + ana
+from nibbāti
+
+nirvāna
+r from where?
+rv to bb how?
+
+nirvāṇa/mw
+
+nir + √vā
+
+p.557
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=557
+https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0557-niryAmaka.pdf
+
+√vā -- to blow (as the wind)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=934
+
+√vā/dpd to blow
+
+vāta [√vā + ta] masc. wind; breeze
+vāya [√vā + y + a] nt. wind; air
+
+vāyo masc. wind; air
+
+nī √vā -- nibbāti, nibbuta
+
+paranirvāṇa
+the highest Nirvāṇa
+
+karoti
+karma
+kamma
+
+** AN 4.34 Aggappasādasutta
+
+(Also in AN 5.32, Iti 90)
+
+#+begin_quote
+“Cattārome, bhikkhave, agga'ppasādā. Katame cattāro?
+
+Yāvatā, bhikkhave, sattā apadā vā dvipadā vā ... tathāgato tesaṁ aggam-akkhāyati arahaṁ sammāsambuddho.
+
+Ye, bhikkhave, buddhe pasannā, agge te pasannā. Agge kho pana pasannānaṁ aggo vipāko hoti.
+#+end_quote
+
+| *agga*           | /(adj)/ highest; topmost; foremost; supreme; ultimate   /adj/                             |
+| *pasāda*         | /(masc)/ inspiration; faith; trust; confidence (in)  *[pa + √sad > sād + &ast;a]*         |
+| *yāvatā*         | /(ind)/ as long as; as far as; of all  *[yāva + tā]*  /ind, adv, abl sg of yāva/          |
+| *satta*          | /(masc)/ being; living being; creature  *[sa + tta]*  /masc/                              |
+| *apada*          | /(adj)/ footless; legless  *[na > a + √pad + a]*  /adj, from na pajjati/                  |
+| *tesaṁ*          | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ > esaṁ]*                       |
+| *aggamakkhāyati* | /(pr)/ is considered the highest; is said to be the best (of)  *[aggaṁ + akkhāyati]*      |
+| *ye*             | /(pron)/ whoever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/        |
+| *pasanna*        | /(pp)/ who has faith; who has confidence (in)  *[pa + √sad + na]*  /pp of pasīdati/       |
+| *agga*           | /(adj)/ highest; topmost; foremost; supreme; ultimate   /adj/                             |
+| *vipāka*         | /(masc)/ (of an action) result; outcome; consequence; fruit  *[vi + √pac > pāk + &ast;a]* |
+
+#+begin_quote
+Yāvatā, bhikkhave, dhammā saṅkhatā, ariyo aṭṭhaṅgiko maggo tesaṁ aggam-akkhāyati.
+
+Ye, bhikkhave, ariye aṭṭhaṅgike magge pasannā, agge te pasannā. \\
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+
+Yāvatā, bhikkhave, dhammā saṅkhatā vā asaṅkhatā vā, virāgo tesaṁ aggam-akkhāyati, \\
+yadidaṁ madanimmadano pipāsavinayo ālayasamugghāto vaṭṭupacchedo taṇhākkhayo virāgo nirodho nibbānaṁ.
+
+Ye, bhikkhave, virāge dhamme pasannā, agge te pasannā. \\
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+#+end_quote
+
+| *saṅkhata*        | /(pp)/ created; constructed; conditioned; fabricated  *[saṁ + √kar > khar + ta]*          |
+| *virāga*       | /(masc)/ fading of desire (for); dispassion (towards); *[vi + √raj > rag > rāg + &ast;a]* |
+| *yadidaṁ*         | /(sandhi)/ namely; that is  *[yad + idaṁ]*  /sandhi, pron + pron/                         |
+| *madanimmadana 2* | /(masc)/ removing vanity; crushing conceit; subduing pride  *[mada + nimmadana]*          |
+| *pipāsavinaya*    | /(masc)/ removal of thirst; dispelling of desire  *[pipāsa + vinaya]*                     |
+| *ālayasamugghāta* | /(masc)/ eradication of attachment; destruction of clinging  *[ālaya + samugghāta]*       |
+| *vaṭṭupaccheda*   | /(masc)/ cutting the cycle of existence *[vaṭṭa + upaccheda]*                             |
+| *taṇhākkhaya*     | /(masc)/ wearing away of craving;  *[taṇhā + khaya]*                                      |
+| *nibbāna 1*       | /(nt)/ extinguishing; quenching; going out;  lit. blowing away   *[nī + √vā > bā + ana]*  |
+| *nibbāti 2*       | /(pr)/ (of fire) is extinguished; goes out;  lit. blows away   *[nī + √vā > bā + a + ti]* |
+
+#+begin_quote
+Yāvatā, bhikkhave, saṅghā vā gaṇā vā, tathāgata-sāvaka-saṅgho tesaṁ aggam-akkhāyati, \\
+yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo \\
+dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa.
+
+Ye, bhikkhave, saṅghe pasannā, agge te pasannā. Agge kho pana pasannānaṁ aggo vipāko hoti. \\
+Ime kho, bhikkhave, cattāro agga'ppasādā'ti.
+#+end_quote
+
+| *gaṇa*          | /(masc)/ group; crowd  *[√gaṇ + a]*  /masc, from gaṇeti/                   |
+| *purisayuga*    | /(nt)/ pair of people; pair of individuals  *[purisa + yuga]*  /nt, comp/  |
+| *purisapuggala* | /(masc)/ individual; individual person  *[purisa + puggala]*  /masc, comp/ |
+
+#+begin_quote
+Aggato ve pasannānaṁ, / aggaṁ dhammaṁ vijānataṁ; \\
+Agge buddhe pasannānaṁ, / dakkhiṇeyye anuttare.
+
+Agge dhamme pasannānaṁ, / virāgūpasame sukhe; \\
+Agge saṅghe pasannānaṁ, / puññakkhette anuttare.
+#+end_quote
+
+| *ve*            | /(ind)/ indeed; truly; really   /ind, emph/                                             |
+| *pasanna 2*     | /(pp)/ who has faith; who has confidence (in)  *[pa + √sad + na]*                       |
+| *vijānataṁ*     | /(prp)/ for those knowing; for those who understand  *[vi + jānā + nta + ataṁ]*         |
+| *dakkhiṇeyya*   | /(adj)/ worthy of gifts; worthy of offerings  *[√dakkh + iṇā + eyya]*                   |
+| *anuttara*      | /(adj)/ highest (of); unsurpassed (by); incomparable (to);                              |
+| *virāgūpasama*  | /(masc)/ fading of desire and calming; dispassion and tranquility  *[virāga + upasama]* |
+| *sukha 2*       | /(nt)/ ease; comfort; happiness; pleasure; contentment  *[√sukh + a]*                   |
+| *puññakkhetta*  | /(nt)/ field of merit  *[puñña + khetta]*                                               |
+
+#+begin_quote
+Aggasmiṁ dānaṁ dadataṁ, / aggaṁ puññaṁ pavaḍḍhati; \\
+Aggaṁ āyu ca vaṇṇo ca, / yaso kitti sukhaṁ balaṁ.
+
+Aggassa dātā medhāvī, / aggadhammasamāhito; \\
+Devabhūto manusso vā, / aggappatto pamodatī'ti.
+#+end_quote
+
+| *dadanta*            | /(prp)/ giving; offering; *[dadā + nta]*  /prp of dadāti/                 |
+| *pavaḍḍhati*         | /(pr)/ increases; develops; grows  *[pa + vaḍḍha + ti]*                   |
+| *āyu 3*              | /(nt)/ long life; longevity  *[ā + √i > ay + &ast;u]*  /nt/               |
+| *vaṇṇa*              | /(masc)/ beauty; good looks  *[√var + na]*  /pp of √var/                  |
+| *yasas*              | /(masc)/ fame; reputation; renown; honour; glory; prestige                |
+| *kitti*              | /(fem)/ fame; renown; celebrity  *[√kitt + i]*                            |
+| *bala*               | /(nt)/ strength; power; might  *[√bal + a]*  /nt/                         |
+| *dātar*              | /(masc)/ giver; donor (of)  *[√dā + tar]*  /from dadāti/                  |
+| *medhāvī*            | /(masc)/ intelligent man; wise man  *[√medh + ā + vī]*                    |
+| *aggadhammasamāhita* | /(adj)/ possessing the top teaching  *[aggadhamma + samāhita]*            |
+| *devabhūta*          | /(adj)/ become a deity; being a god  *[deva + bhūta]*                     |
+| *manussa*            | /(masc)/ human being; man; person  *[manu + ssa]*                         |
+| *aggappatta*         | /(adj)/ attained the highest; accomplished the ultimate; *[agga + patta]* |
+| *pamodati*           | /(pr)/ is delighted (with); is very happy (with);  *[pa + moda + ti]*     |
+
+
