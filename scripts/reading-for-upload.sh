@@ -76,7 +76,7 @@ ffmpeg -y \
 # https://stackoverflow.com/a/61801943
 ffmpeg -y -sseof -3 \
     -i "$READING_VIDEO" \
-    -vsync "passthrough" \
+    -fps_mode "passthrough" \
     -q:v 31 \
     -update true \
     last.png
