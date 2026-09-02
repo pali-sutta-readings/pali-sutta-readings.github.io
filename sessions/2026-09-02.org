@@ -1,40 +1,32 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: eflBPM4ZumY
 #+tags: chanting
 
 * Notes :noexport:
 
-#+begin_quote
-Etaṁ santaṁ etaṁ paṇītaṁ,
-
-yadidaṁ sabba-saṅkhāra-samatho sabb'ūpadhi-paṭinissaggo
-
-taṇhākkhayo virāgo nirodho nibbānaṁ. (Many places, e.g. MN 64)
-#+end_quote
+English case examples
 
 * 2026-09-02
 ** Nibbāna :noexport:
 
-निर्वाण nt. nirvāṇa
+निर्वाण nt. nirvāṇa: nir + √vā + na
 
-นิพพาน
-
-nibbāna from nirvāna
-
-nibbāna nt. nī + √vā + ana
-from nibbāti
-
-nirvāna
-r from where?
-rv to bb how?
-
-nirvāṇa/mw
-
-nir + √vā
-
-p.557
+nirvāṇa/mw, p.557
 https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=557
 https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0557-niryAmaka.pdf
+
+นิพพาน níp-paan
+
+nibbāna nt. nī + √vā + ana from nibbāti
+
+- unbinding (Thanissaro)
+- extinguishment (Sujāto)
+
+nibbuto sītībhūto
+- extinguished, cooled (Ñāṇamoli)
+- unbound, cooled (Thanissaro)
+- quenched, become cool (Horner)
+- quenched, cooled (Sujāto)
 
 √vā -- to blow (as the wind)
 https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=934
@@ -46,14 +38,22 @@ vāya [√vā + y + a] nt. wind; air
 
 vāyo masc. wind; air
 
-nī √vā -- nibbāti, nibbuta
+nī + √vā -- nibbāti, nibbuta
 
-paranirvāṇa
-the highest Nirvāṇa
+√nī - away from; out of 
+nīharati
+
+tato nīharitvā... (Pc 34)
+
+-ana forms neuter action nouns
+maraṇa √mar + aṇa
+dassana √dis + a + ana
 
 karoti
 karma
 kamma
+
+sutra vs karma
 
 ** AN 4.34 Aggappasādasutta
 
