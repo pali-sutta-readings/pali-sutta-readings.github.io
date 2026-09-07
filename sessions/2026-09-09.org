@@ -1,0 +1,323 @@
+#+author: gambhiro
+#+youtube_id:
+
+* Notes :noexport:
+
+mūla
+
+- dhutanga, tudong, one-bowl eating, 
+Nānāsanabhojanam paṭikkhipāmi Ekasanikangang samādiyāmi
+
+https://en.wikipedia.org/wiki/Dhutanga
+[[https://th.wikipedia.org/wiki/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C][ธุดงค์ - วิกิพีเดีย]]
+
+https://thai2english.com/thai/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C
+
+From The Princeton Dictionary of Buddhism
+https://shantidevanyc.org/wp-content/uploads/2023/04/Dhutaguna.pdf
+
+pli-tv-pvr7, dhutanga, pattapiṇḍika,
+learned and not learned in the vinaya
+
+dhutanga:
+... nesajjiko. Ayamettha saṅkhepo. Vitthārato pana dhutaṅgakathā visuddhimagge (visuddhi. 1.22 ādayo) vuttanayeneva gahetabbā.
+
+Vism: Dhutaṅganiddeso
+
+Dutiyabhājanassa paṭikkhittattā kevalaṁ ekasmiṁyeva patte piṇḍo pattapiṇḍo. Idāni pattapiṇḍagahaṇe pattapiṇḍasaññaṁ katvā pattapiṇḍo sīlamassāti pattapiṇḍiko. Tassa aṅgaṁ pattapiṇḍikaṅgaṁ.
+
+SN 22.81 (Pārileyya Sutta)
+
+The same "not mine" formula is applied to the four great elements. Later commentators note that this reflection extends to anything constituted by the elements—including one's bowl and food—but the sutta itself does not single them out.
+- not actually included in the sutta or commentaries
+
+#+begin_quote
+And yet, even though I have analyzed & taught you the Dhamma, still there appears this train of thought in the awareness of one of the monks: ‘Now I wonder—knowing in what way, seeing in what way, does one without delay put an end to effluents?’
+#+end_quote
+
+food in the bowl is mine
+
+SN 35.138 Paṭhamanatumhākasutta
+people carrying off grass from Jetavana is not mine
+
+#+begin_quote
+Seyyathāpi, bhikkhave, yaṁ imasmiṁ jetavane tiṇakaṭṭhasākhāpalāsaṁ taṁ jano
+hareyya vā ḍaheyya vā yathāpaccayaṁ vā kareyya, api nu tumhākaṁ evamassa: ‘amhe
+jano harati vā ḍahati vā yathāpaccayaṁ vā karotī’”ti?
+
+“Suppose, bhikkhus, people were to carry off the grass, sticks, branches, and
+foliage in this Jeta’s Grove, or to burn them, or to do with them as they wish.
+Would you think: ‘People are carrying us off, or burning us, or doing with us as
+they wish’?”
+#+end_quote
+
+possesiveness: even the food in your bowl is not yours
+
+* 2026-09-09
+** Thirteen Dhutaṅga Practices
+
+#+begin_export typst
+(Thai) #thai[ธุดงค์] _tú-dong_: pilgrimage, (Skr.) #skr[धूतगुण] _dhūtaguṇa_: qualities of the purified ascetic
+#+end_export
+
+| *dhutaṅga* | /(nt)/ ascetic practice  *[dhuta + aṅga]*  /nt, comp/                        |
+| *dhuta 2*  | /(pp)/ (1) shaken off; removed (2) purified *[√dhū + ta]*  /pp of dhunāti/   |
+| *aṅga 3*   | /(nt)/ (3) factor; component; (6) vow; practice *[√añj > aṅg + a]*  /nt/ |
+| *guṇa 1.2* | /(nt)/ quality; virtue; characteristic   /nt/                                |
+
+Vism.: Sabbāneva panetāni tena tena samādānena dhutakilesattā dhutassa bhikkhuno aṅgāni.
+
+All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because his defilements have been shaken off by this or that undertaking.
+
+#+begin_export typst
+#grid(columns: (0.9fr, 1.1fr), block[
+
+1. #strong[āraññika] forest monk; forest dwelling ascetic
++ #strong[piṇḍapātika] lives on alms-food; beggar
++ #strong[paṁsukūlika] wears rag robes; rag robe wearer
++ #strong[rukkhamūlika] lives at the foot of tree
++ #strong[sosānika] lives in a cemetery
++ #strong[abbhokāsika] lives in the open air
++ #strong[tecīvarika] only possess or wears three robes
+
+], block[
+
+8. #strong[sapadānacārika] goes on alms-begging not leaving a single house in his course
++ #strong[nesajjika] remains in a sitting position; upright sitter
++ #strong[yathāsanthatika] sleeps on any bed; accepts any dwelling
++ #strong[ekāsanika] eats once a day; who eats in one sitting
++ #strong[khalupacchābhattika] who does not eat after the meal
++ #strong[pattapiṇḍika] eats only from alms-bowl
+
+])
+#+end_export
+
+** AN 5.190 Pattapiṇḍikasutta
+
+#+begin_export typst
+#v(-1em)
+#+end_export
+
+#+begin_quote
+“Pañcime, bhikkhave, pattapiṇḍikā. Katame pañca? \\
+(1) Mandattā momūhattā pattapiṇḍiko hoti, (2) pāpiccho icchāpakato pattapiṇḍiko hoti, \\
+(3) ummādā cittakkhepā pattapiṇḍiko hoti, (4) ‘vaṇṇitaṁ buddhehi buddhasāvakehī’ti pattapiṇḍiko hoti,
+#+end_quote
+
+#+begin_export typst
+#v(-0.5em)
+#+end_export
+
+| *mandatta*    | /(nt)/ ignorance; stupidity; confusion;  *[√mad + na + tta]*       |
+| *momūhatta*   | /(nt)/ total confusion; complete bewilderment *[momūha + a + tta]* |
+| *pāpiccha*    | /(masc)/ who has evil wishes;  *[pāpa + icchā + a]*                |
+| *icchāpakata* | /(masc)/ who is afflicted with desire  *[icchā + apakata]*         |
+| *ummāda*      | /(masc)/ madness; insanity; lunacy  *[ud + √mad > mād + &ast;a]*   |
+| *cittakkhepa* | /(masc)/ mental derangement; insanity; madness  *[citta + khepa]*  |
+| *vaṇṇita*     | /(pp)/ praised; commended; spoke highly of (by)  *[√vaṇṇ + ita]*   |
+
+#+begin_quote
+(5) appicchataṁyeva nissāya santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya \\
+pavivekaṁyeva nissāya idamatthitaṁyeva nissāya pattapiṇḍiko hoti. \\
+Ime kho, bhikkhave, pañca pattapiṇḍikā.
+#+end_quote
+
+#+begin_export typst
+#v(-0.5em)
+#+end_export
+
+| *appicchatā*  | /(fem)/ fact of having few wishes; contentment  *[appa + icchā + tā]*  |
+| *nissāya*     | /(ger)/ leaning (on); depending (on);  *[ni + √si > sāy + &ast;ya]*    |
+| *santuṭṭhi*   | /(fem)/ satisfaction; contentment (with)  *[saṁ + √tus + ti]*          |
+| *sallekha*    | /(masc)/ effacing; expunging; erasing; *[saṁ + √likh > lekh + &ast;a]* |
+| *paviveka 1*  | /(masc)/ solitude; seclusion  *[pa + vi + √vic > vec > vek + &ast;a]*  |
+| *idamatthitā* | /(fem)/ needing (only) this; requiring the minimum                     |
+
+#+begin_quote
+Imesaṁ kho, bhikkhave, pañcannaṁ pattapiṇḍikānaṁ yvāyaṁ pattapiṇḍiko appicchataṁyeva nissāya \\
+santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya pavivekaṁyeva nissāya \\
+idamatthitaṁyeva nissāya pattapiṇḍiko hoti, ayaṁ imesaṁ pañcannaṁ \\
+pattapiṇḍikānaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.
+#+end_quote
+
+| *imesaṁ 2*   | /(pron)/ of these; their  *[ima + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ima/   |
+| *yvāyaṁ*     | /(sandhi)/ whichever; such and such  *[yo > yv + ayaṁ]*                              |
+| *ayaṁ*       | /(pron)/ this; this person; this thing   /pron, masc & fem nom sg of ima/            |
+| *agga*       | /(adj)/ highest; topmost; foremost; supreme; ultimate                                |
+| *seṭṭha*     | /(adj)/ foremost (among); best (of); primary;                                        |
+| *mokkha 2.1* | /(adj)/ head-most; foremost; leading  *[mukha > mokha + &ast;ya]*  /adj, from mukha/ |
+| *uttama*     | /(adj)/ best; highest; ultimate; supreme; top  *[ud + tama]*                         |
+| *pavara 3*   | /(adj)/ most excellent; best (of)  *[pa + √var + a]*  /adj, from vara/               |
+
+#+begin_quote
+Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, \\
+navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati;
+
+evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ pattapiṇḍikānaṁ yvāyaṁ pattapiṇḍiko \\
+appicchataṁyeva nissāya santuṭṭhiṁyeva nissāya sallekhaṁyeva nissāya pavivekaṁyeva nissāya \\
+idamatthitaṁyeva nissāya pattapiṇḍiko hoti,
+
+ayaṁ imesaṁ pañcannaṁ pattapiṇḍikānaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
+#+end_quote
+
+| *gavā*           | /(masc)/ from cow  *[go > gav + &ast;a + ā]*  /masc, abl sg of go, irreg/            |
+| *khīra 1*        | /(nt)/ milk   /nt/                                                                   |
+| *dadhi*          | /(nt)/ curd; sour milk  *[√dhe + dhe > dadhe + i]*  /nt/                             |
+| *navanīta*       | /(nt)/ fresh butter  *[nava + nīta]*  /nt, comp/                                     |
+| *sappi 1.1*      | /(nt)/ ghee; clarified butter   /nt/                                                 |
+| *sappimaṇḍa*     | /(masc)/ cream of ghee  *[sappi + maṇḍa]*  /masc, comp/                              |
+| *tattha 2*       | /(ind)/ in that regard; in that case;   *[ta + ttha]*  /ind, adv, from ta/           |
+| *aggamakkhāyati* | /(pr)/ is considered the highest; is said to be the best (of)  *[aggaṁ + akkhāyati]* |
+
+** Visuddhimagga, 6. Pattapiṇḍikaṅgakathā
+
+# e0101n.mul.xml/pli/cst
+
+#+begin_quote
+Pattapiṇḍikaṅgampi "dutiyakabhājanaṁ paṭikkhipāmi, pattapiṇḍikaṅgaṁ samādiyāmī"ti \\
+imesaṁ aññataravacanena samādinnaṁ hoti.
+#+end_quote
+
+# The bowl-food-eater’s practice is undertaken with one of the following
+# statements: “I refuse a second vessel” or “I undertake the bowl-food-eater’s practice.”
+
+| *dutiyaka 2* | /(adj)/ second; another  *[dutiya + ka]*  /adj, from dutiya/ |
+| *bhājana 1.1* | /(nt)/ bowl; cup; vessel  *[√bhaj > bhāj + &ast;ana]*  /nt, from bhajati/ |
+| *paṭikkhipati* | /(pr)/ objects; rejects; refuses; opposes  *[pati + khipa + ti]*  /pr/ |
+| *pattapiṇḍikaṅga* | /(nt)/ practice of eating only from alms-bowl *[pattapiṇḍika + aṅga]*     |
+| *samādiyati* | /(pr)/ accepts; undertakes; takes upon oneself  *[saṁ + ādiya + ti]*  /pr/ |
+| *aññatara 2* | /(pron)/ one; either one (of)  *[añña + tara]*  /pron, from añña/ |
+| *vacana 1* | /(nt)/ word; utterance; talk; statement  *[√vac + ana]*  /nt, from vacati/ |
+| *samādinna* | /(pp)/ adopted; accepted; undertaken  /pp of samādiyati/  |
+
+
+(Ñāṇamoli) [...] Now when this one-bowl eater is drinking congee and receives curry that has been
+placed in a separate vessel, he should either eat the curry first or drink the
+congee first. But if he puts the curry into the congee, then when a curry of
+rotten fish and the like has been put in, the congee becomes repulsive; and it
+is proper to eat only after making it unrepulsive. So this was said with
+reference to curry of that sort.
+
+But what is not repulsive, such as honey, sugar and so on, may be put in. And in
+taking it, he should take only a suitable amount.
+
+It is allowable to take green vegetables with the hand and eat them. But unless
+he does that they should be put into the bowl. Because a second vessel has been
+refused it is not allowable [to use] anything else, not even the leaf of a tree.
+These are its directions. [...]
+
+#+begin_quote
+Imesaṁ pana tiṇṇampi dutiyakabhājanaṁ sāditakkhaṇe dhutaṅgaṁ bhijjati. Ayamettha bhedo.
+
+Ayaṁ panānisaṁso, nānārasataṇhāvinodanaṁ. Atricchatāya pahānaṁ, āhāre payojanamattadassitā,
+#+end_quote
+
+# The benefits are these. Craving for variety of tastes is eliminated;
+# excessiveness of wishes is abandoned; he sees the purpose and the [right] amount
+# in nutriment; he is not bothered with carrying saucers, etc., about; his life
+# conforms to [the principles of] fewness of wishes and so on.
+
+| *sādita*       | /(pp)/ accepted, enjoyed, agreed to, permitted   /pp of sādeti/                             |
+| *khaṇa*        | /(masc)/ moment; instant; point in time; opportunity   /masc/                               |
+| *bhijjati*     | /(pr)/ is broken; is destroyed  *[bhijja + ti]*  /pr, pass of bhindati/                     |
+| *ayamettha*    | /(sandhi)/ this here is; in this case this  *[ayaṁ + ettha]*  /sandhi, pron + adv/          |
+| *bheda 1*      | /(masc)/ breakup; dissolution;   *[√bhid > bhed + &ast;a]*  /masc, from bhindati/           |
+| *ānisaṁsa 1*   | /(masc)/ profit (in); benefit (in); advantage (of); good result (of)   /masc/               |
+| *nānā 1*       | /(ind)/ various; different; distinct; diverse   /ind, adv/                                  |
+| *rasataṇhā*    | /(fem)/ craving for tastes; desire for flavours  *[rasa + taṇhā]*  /fem, abstr, comp/       |
+| *vinodana*     | /(nt)/ driving out; dispelling; removing  *[vi + node + ana]*  /nt, act, from vinodeti/     |
+| *atricchatā 1* | /(fem)/ excessive greed   /fem, abstr/                                                      |
+| *pahāna*       | /(nt)/ giving up; letting go; abandoning (of)  *[pa + √hā + ana]*  /nt, act, from pajahati/ |
+| *āhāra 1*      | /(masc)/ food (for); nutriment (for);  *[ā + √har > hār + &ast;a]*  /masc, from āharati/    |
+| *payojana 2*   | /(nt)/ purpose  *[pa + yoje + ana]*  /nt/                                                   |
+| *matta 1.3*    | /(pp)/ mere; simple; the fact of; by virtue of  *[√mā + ta]*  /pp of mināti, in comps/      |
+| *dassita 2*    | /(pp)/ seen; shown (in)  *[dasse + ita]*  /pp of dasseti/                                   |
+
+#+begin_quote
+thālakādipariharaṇakhedābhāvo, avikkhittabhojitā, appicchatādīnaṁ anulomavuttitā'ti.
+#+end_quote
+
+# the absence of the bother of carrying dishes and so on around;
+# undistracted eating;
+# and conduct in conformity with fewness of wishes and the rest.
+
+| *thālaka*           | /(masc)/ small bowl; cup; *[thāla + ka]*  /masc, dimin of thāla/                |
+| *ādi 3*             | /(nt)/ etc.; and so on; and so forth   /nt, in comps/                           |
+| *pariharaṇa*        | /(nt)/ taking care (of); looking after; nurturing  *[pari + √har + aṇa]*        |
+| *kheda*             | /(masc)/ regret, distress, affliction, despair   /masc/                         |
+| *abhāva 1*          | /(masc)/ absence; lack; not-doing;  *[na > a + √bhū > bhāv + &ast;a]*           |
+| *avikkhittabhojitā* | /(fem)/ fact of eating without distraction  *[na > a + vikkhitta + bhojin]*     |
+| *appicchatā*        | /(fem)/ fact of having few wishes; contentment  *[appa + icchā + tā]*           |
+| *anuloma 1*         | /(adj)/ in conformity (with); conforming (to); *[anu + loma]*  /adj, from loma/ |
+| *vuttitā*           | /(fem)/ state; condition;  *[√vatt > vutt + i + tā]*                            |
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Nānābhājanavikkhepaṁ, hitvā okkhittalocano; / Khaṇanto viya mūlāni, rasataṇhāya subbato. \\
+Sarūpaṁ viya santuṭṭhiṁ, dhārayanto sumānaso; / Paribhuñjeyya āhāraṁ, ko añño pattapiṇḍikoti.
+#+end_quote
+
+# He baffles doubts that might arise
+# With extra dishes; downcast eyes
+# The true devotedness imply
+# Of one uprooting gluttony.
+# Wearing content as if 'twere part
+# Of his own nature, glad at heart;
+# None but a bowl-food eater may
+# Consume his food in such a way.
+
+# Forsaking the distraction of many vessels, with downcast eyes,
+# as though digging up the very roots of craving for tastes, of good vows;
+# Bearing contentment as though it had taken visible form,
+# glad at heart — who but the one-bowl eater could so consume his food?
+
+| *nānā 1*         | /(ind)/ various; different; distinct; diverse   /ind, adv/                                            |
+| *bhājana 1.1*    | /(nt)/ bowl; cup; vessel  *[√bhaj > bhāj + &ast;ana]*  /nt, from bhajati/                             |
+| *vikkhepa 3*     | /(masc)/ disturbance; confusion; derangement  *[vi + √khip > khep + &ast;a]*                          |
+| *hitvā*          | /(abs)/ having left; having left behind; having abandoned  *[√hā + itvā]*                             |
+| *okkhitta*       | /(pp)/ down-cast; lowered  *[ava + √khip + ta]*  /pp of okkhipati/                                    |
+| *locana 1.2*     | /(adj)/ with eyes (like)  *[√loc + ana]*  /adj, from loketi/                                          |
+| *khaṇanta 2*     | /(prp)/ digging up; uprooting  *[khaṇa + nta]*  /prp of khaṇati/                                      |
+| *viya*           | /(ind)/ like; as  *[iva > via > viya]*  /ind/                                                         |
+| *mūla 1*         | /(nt)/ (of a tree) root; base; foot  *[√mūl + a]*  /nt/                                               |
+| *rasataṇhā*      | /(fem)/ craving for tastes; desire for flavours  *[rasa + taṇhā]*                                     |
+| *subbata 2*      | /(masc)/ virtuous person; one of good conduct; religious person  *[su + √vat > bat + a]*  /from vata/ |
+| *sarūpa*         | /(adj)/ of the same form, colour or quality; resembling; similar to  *[sa + √rūp + a]*                |
+| *santuṭṭhi*      | /(fem)/ satisfaction; contentment (with)  *[saṁ + √tus + ti]*  /fem, abstr, from santussati/          |
+| *dhārayanta 1*   | /(prp)/ wearing; using  *[dhāraya + nta]*  /prp of dhārayati/                                         |
+| *sumānasa*       | /(adj)/ joyful  *[su + √man > mān + as + &ast;a], [sumanas + &ast;a]*  /adj/                          |
+| *paribhuñjati 2* | /(pr)/ eats; consumes  *[pari + bhuñja + ti]*  /pr/                                                   |
+| *āhāra 1*        | /(masc)/ food (for); fuel (for); sustenance (for); *[ā + √har > hār + &ast;a]*                        |
+| *ko*             | /(pron)/ who?; what?; which?  *[ka + o]*  /pron, interr, masc nom sg of ka/                           |
+| *añña 1.1*       | /(pron)/ another; other; different; someone else; not oneself   /pron/                                |
+
+#+begin_quote
+*(Vism. 11.)* Kathaṁ paribhogato? ... Atha tasmiṁ parimaddanamattenāpi sambhinnasobhe ālopaṁ katvā \\
+mukhe ṭhapite heṭṭhimadantā udukkhalakiccaṁ sādhenti,
+uparimā musalakiccaṁ, jivhā hatthakiccaṁ. ...
+#+end_quote
+
+How as to using? ... And when its good appearance has been spoilt by his
+squeezing it up, and it has been made into a ball and put into his mouth, then
+the lower teeth function as a mortar, the upper teeth as a pestle, and the
+tongue as a hand. It gets pounded there with the pestle of the teeth like a
+dog’s dinner in a dog’s trough, while he turns it over and over with his tongue ... (Ñāṇamoli)
+
+** MN 91 Brahmāyusutta
+
+/The student Uttara is talking to his teacher, the brahman Brahmāyu after having observed the behaviour of the Buddha:/
+
+“When receiving rice, he doesn’t raise or lower the bowl, tip it forward or back. \\
+He receives neither too little nor too much rice. \\
+He also receives curry, taking curry in the proper proportion. \\
+He doesn’t put too much curry in his mouthful. \\
+Having turned the mouthful over two or three times in his mouth, he swallows it. \\
+No unchewed rice grain enters his body; no rice grain remains in his mouth. \\
+Then he takes another mouthful. \\
+He takes his food experiencing the taste but not experiencing passion for the taste.
+
+“Master Gotama eats food endowed with eight factors: not playfully, nor for intoxication, ..."
+
