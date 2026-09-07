@@ -40,6 +40,10 @@
 
 #let horizontalrule = line(start: (25%, 0%), end: (75%, 0%))
 
+#let thai(body) = text(font: "Kinnari")[#body]
+#let skr(body) = text(font: "Siddhanta")[#body]
+#let skrOld(body) = text(font: "Sahadeva")[#body]
+
 // --- Headings -------------------------------------------------------------
 
 #show heading.where(level: 1): it => {
