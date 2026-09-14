@@ -100,12 +100,12 @@ All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because 
 - dhūta-kalmaṣa धूत कल्मष cleansed of taint
 
 #+begin_quote
-“Upasanto uparato, / mantabhāṇī anuddhato;
+“Upasanto uparato, / mantabhāṇī anuddhato; \\
 Dhunāti pāpake dhamme, / dumapattaṁva māluto. (Thag 17.2)
-#+end_quote
 
 Calmed, restrained, / giving counsel unruffled, \\
 he shakes off evil qualities -- / as the breeze, a leaf from a tree. (Thanissaro)
+#+end_quote
 
 #+begin_export typst
 #grid(columns: (0.9fr, 1.1fr), block[
