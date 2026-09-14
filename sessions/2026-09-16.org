@@ -53,26 +53,6 @@ they wish’?”
 
 possesiveness: even the food in your bowl is not yours
 
-dhūta as 'purified'
-
-dust or leaves shaken off. There is a Dhammapada verse in the Bhikkhu-vagga: yo dhunāti pāpake dhamme, dumapattaṁva māluto: "who shakes off evil states as the wind shakes leaves from a tree."
-
-The bridge to "purified" is the winnowing metaphor, which is already Vedic.
-√dhū is the verb used for shaking or fanning grain so the chaff separates, and for fanning a fire.
-
-From "shake so that the impurity falls away" you get "cleanse" without changing roots at all —
-the difference is only whether you name what was removed or what remains.
-
-Compounds make this explicit:
-
-nirdhūta-kleśa निर्धूत क्लेश purged off defilements
-vidhūta-pāpa विधूत पाप washed clean of sin
-dhūta-kalmaṣa धूत कल्मष cleansed of taint
-
-all of which any translator would render "purified of defilements / of evil."
-
-Sanskrit pūta from √pū behaves the same way and is likewise originally a winnowing word.
-
 * 2026-09-16
 ** Thirteen Dhutaṅga Practices
 
@@ -92,6 +72,9 @@ Sanskrit pūta from √pū behaves the same way and is likewise originally a win
 Vism.: Sabbāneva panetāni tena tena samādānena dhutakilesattā dhutassa bhikkhuno aṅgāni.
 
 All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because his defilements have been shaken off by this or that undertaking.
+
+*dhūta* [√dhū + ta] 'shaken off' not to be confused with \\
+*dhota* [√dhov + ta] 'washed, cleaned' also used in the sense of 'purified'
 
 *dhūta 'shaken off' as 'purified'*
 
@@ -163,10 +146,8 @@ he shakes off evil qualities -- / as the breeze, a leaf from a tree. (Thanissaro
 #+end_export
 
 | *mandatta*    | /(nt)/ ignorance; stupidity; confusion;  *[√mad + na + tta]*       |
-| *momūhatta*   | /(nt)/ total confusion; complete bewilderment *[momūha + a + tta]* |
 | *pāpiccha*    | /(masc)/ who has evil wishes;  *[pāpa + icchā + a]*                |
 | *icchāpakata* | /(masc)/ who is afflicted with desire  *[icchā + apakata]*         |
-| *ummāda*      | /(masc)/ madness; insanity; lunacy  *[ud + √mad > mād + &ast;a]*   |
 | *cittakkhepa* | /(masc)/ mental derangement; insanity; madness  *[citta + khepa]*  |
 | *vaṇṇita*     | /(pp)/ praised; commended; spoke highly of (by)  *[√vaṇṇ + ita]*   |
 
@@ -304,10 +285,6 @@ thālakādipariharaṇakhedābhāvo, avikkhittabhojitā, appicchatādīnaṁ anu
 | *appicchatā*        | /(fem)/ fact of having few wishes; contentment  *[appa + icchā + tā]*           |
 | *anuloma 1*         | /(adj)/ in conformity (with); conforming (to); *[anu + loma]*  /adj, from loma/ |
 | *vuttitā*           | /(fem)/ state; condition;  *[√vatt > vutt + i + tā]*                            |
-
-#+begin_export typst
-#pagebreak()
-#+end_export
 
 #+begin_quote
 Nānābhājanavikkhepaṁ, hitvā okkhittalocano; / Khaṇanto viya mūlāni, rasataṇhāya subbato. \\
