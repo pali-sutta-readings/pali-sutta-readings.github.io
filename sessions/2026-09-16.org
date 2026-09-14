@@ -53,11 +53,35 @@ they wish’?”
 
 possesiveness: even the food in your bowl is not yours
 
-* 2026-09-09
+dhūta as 'purified'
+
+dust or leaves shaken off. There is a Dhammapada verse in the Bhikkhu-vagga: yo dhunāti pāpake dhamme, dumapattaṁva māluto: "who shakes off evil states as the wind shakes leaves from a tree."
+
+The bridge to "purified" is the winnowing metaphor, which is already Vedic.
+√dhū is the verb used for shaking or fanning grain so the chaff separates, and for fanning a fire.
+
+From "shake so that the impurity falls away" you get "cleanse" without changing roots at all —
+the difference is only whether you name what was removed or what remains.
+
+Compounds make this explicit:
+
+nirdhūta-kleśa निर्धूत क्लेश purged off defilements
+vidhūta-pāpa विधूत पाप washed clean of sin
+dhūta-kalmaṣa धूत कल्मष cleansed of taint
+
+all of which any translator would render "purified of defilements / of evil."
+
+Sanskrit pūta from √pū behaves the same way and is likewise originally a winnowing word.
+
+* 2026-09-16
 ** Thirteen Dhutaṅga Practices
 
 #+begin_export typst
 (Thai) #thai[ธุดงค์] _tú-dong_: pilgrimage, (Skr.) #skr[धूतगुण] _dhūtaguṇa_: qualities of the purified ascetic
+#+end_export
+
+#+begin_export markdown
+(Thai) ธุดงค์ *tú-dong*: pilgrimage, (Skr.) धूतगुण *dhūtaguṇa*: qualities of the purified ascetic
 #+end_export
 
 | *dhutaṅga* | /(nt)/ ascetic practice  *[dhuta + aṅga]*  /nt, comp/                        |
@@ -68,6 +92,20 @@ possesiveness: even the food in your bowl is not yours
 Vism.: Sabbāneva panetāni tena tena samādānena dhutakilesattā dhutassa bhikkhuno aṅgāni.
 
 All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because his defilements have been shaken off by this or that undertaking.
+
+*dhūta 'shaken off' as 'purified'*
+
+- nirdhūta-kleśa निर्धूत क्लेश purged off defilements
+- vidhūta-pāpa विधूत पाप washed clean of sin
+- dhūta-kalmaṣa धूत कल्मष cleansed of taint
+
+#+begin_quote
+“Upasanto uparato, / mantabhāṇī anuddhato;
+Dhunāti pāpake dhamme, / dumapattaṁva māluto. (Thag 17.2)
+#+end_quote
+
+Calmed, restrained, / giving counsel unruffled, \\
+he shakes off evil qualities -- / as the breeze, a leaf from a tree. (Thanissaro)
 
 #+begin_export typst
 #grid(columns: (0.9fr, 1.1fr), block[
@@ -90,6 +128,22 @@ All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because 
 + #strong[pattapiṇḍika] eats only from alms-bowl
 
 ])
+#+end_export
+
+#+begin_export markdown
+1.  **āraññika** forest monk; forest dwelling ascetic
+2.  **piṇḍapātika** lives on alms-food; beggar
+3.  **paṁsukūlika** wears rag robes; rag robe wearer
+4.  **rukkhamūlika** lives at the foot of tree
+5.  **sosānika** lives in a cemetery
+6.  **abbhokāsika** lives in the open air
+7.  **tecīvarika** only possess or wears three robes
+8.  **sapadānacārika** goes on alms-begging not leaving a single house in his course
+9.  **nesajjika** remains in a sitting position; upright sitter
+10. **yathāsanthatika** sleeps on any bed; accepts any dwelling
+11. **ekāsanika** eats once a day; who eats in one sitting
+12. **khalupacchābhattika** who does not eat after the meal
+13. **pattapiṇḍika** eats only from alms-bowl
 #+end_export
 
 ** AN 5.190 Pattapiṇḍikasutta
