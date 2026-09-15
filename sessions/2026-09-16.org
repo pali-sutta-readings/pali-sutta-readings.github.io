@@ -14,6 +14,7 @@ https://en.wikipedia.org/wiki/Dhutanga
 https://thai2english.com/thai/%E0%B8%98%E0%B8%B8%E0%B8%94%E0%B8%87%E0%B8%84%E0%B9%8C
 
 From The Princeton Dictionary of Buddhism
+- dhūtaguṇa: qualities of the purified/ascetic person
 https://shantidevanyc.org/wp-content/uploads/2023/04/Dhutaguna.pdf
 
 pli-tv-pvr7, dhutanga, pattapiṇḍika,
@@ -76,7 +77,7 @@ All of these are factors (aṅga) of a bhikkhu who is "shaken" (dhuta), because 
 *dhūta* [√dhū + ta] 'shaken off' not to be confused with \\
 *dhota* [√dhov + ta] 'washed, cleaned' also used in the sense of 'purified'
 
-*dhūta 'shaken off' as 'purified'*
+*dhūta 'shaken off' as 'purified' has Vedic origins*
 
 - nirdhūta-kleśa निर्धूत क्लेश purged off defilements
 - vidhūta-pāpa विधूत पाप washed clean of sin
@@ -88,6 +89,18 @@ Dhunāti pāpake dhamme, / dumapattaṁva māluto. (Thag 17.2)
 
 Calmed, restrained, / giving counsel unruffled, \\
 he shakes off evil qualities -- / as the breeze, a leaf from a tree. (Thanissaro)
+#+end_quote
+
+[[https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239485.html][Chāndogya Upaniṣad]], Verse 8.13.1
+
+#+begin_quote
+... अश्व इव रोमाणि विधूय पापं \\
+... aśva iva romāṇi vidhūya pāpaṁ 
+
+as a horse [shakes] its fur; I will shake off evil [any shortcomings]
+
+Like a horse shaking its fur [to remove the dirt], \\
+I will shake off whatever spot I may have on my character. 
 #+end_quote
 
 #+begin_export typst
