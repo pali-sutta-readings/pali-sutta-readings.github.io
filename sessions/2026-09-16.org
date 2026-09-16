@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: Fmoll84qMNY
 
 * Notes :noexport:
 
@@ -91,7 +91,7 @@ Calmed, restrained, / giving counsel unruffled, \\
 he shakes off evil qualities -- / as the breeze, a leaf from a tree. (Thanissaro)
 #+end_quote
 
-[[https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239485.html][Chāndogya Upaniṣad]], Verse 8.13.1
+[[https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239485.html][Chāndogya Upaniṣad]] (8-6th century BCE) Verse 8.13.1
 
 #+begin_quote
 ... अश्व इव रोमाणि विधूय पापं \\
@@ -101,6 +101,21 @@ as a horse [shakes] its fur; I will shake off evil [any shortcomings]
 
 Like a horse shaking its fur [to remove the dirt], \\
 I will shake off whatever spot I may have on my character. 
+
+चन्द्र इव राहोर्मुखात्प्रमुच्य \\
+candra iva rāhor-mukhāt-pramucya
+
+as the moon gets free from the mouth of Rāhu
+
+धूत्वा शरीरमकृतं कृतात्मा \\
+dhūtvā śarīram-akṛtaṃ kṛtātmā
+
+laying down the body; having accomplished everything;
+
+ब्रह्मलोकमभिसंभवामीत्यभिसंभवामीति \\
+brahmalokam-abhisaṃbhavāmīty-abhisaṃbhavāmīti 
+
+I will attain, I will attain, the eternal Brahmaloka.
 #+end_quote
 
 #+begin_export typst
