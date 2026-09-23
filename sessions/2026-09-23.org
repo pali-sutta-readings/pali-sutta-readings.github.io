@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: XW2KXpGID_s
 
 * Notes :noexport:
 
@@ -8,12 +8,43 @@ vitakketi
 
 root, stem, termination
 pacati
+
+disati
+√dis･1 a (point out, explain)
+
 deseti
+√dis･1 *e (point out, explain)
+
+desanā (f.) √dis + *e + anā
 
 upa + ādiya + āna
 
-formation of nouns:
-papañceti to papañca
+jānāti = √ñā + nā + ti
+√ñā･5 nā (know)
+
+√ñā + nā > ñānā > jānā (irreg)
+
+ñāṇa = √ñā + aṇa
+
+nibbāti = nī + √vā + a + ti
+√vā･1 a
+
+īv > ivv > ibb
+
+nibbāna = nī + √vā + ana
+
+- pacana [√pac + ana] "the cooking" with action-noun forming -ana
+- pācaka [√pac + aka] "the one who cooks" with agentive suffix ṇvu to -aka
+  - i is confined to certain old words, paci is aorist of pacati
+  - the ṇ in ṇvu triggers vuddhi: a to ā
+  - (e.g. kāraka, dāyaka)
+- pāka [√pac + a] "process of cooking/ripening" with abstract-noun forming -a
+  - ṇ strengthens a to ā
+  - root-final palatal becomes velar: c to k
+  - (e.g. √suc to soka)
+
+munāti = √mun + nā + ti
+√mun･5 nā (think, know)
 
 muni
 munāti
@@ -26,6 +57,10 @@ The ablative /-to/ is the standard commentarial /nirutti/ formula:
 So: a /muni/ is a /muni/ because he /munāti/.
 
 mona - silence
+√mun > mon + *a
+
+formation of nouns:
+papañceti to papañca
 
 bhavati
 bhāveti
@@ -43,6 +78,10 @@ prapañca/mw, [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/serve
 pañc/mw, to spead out, [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=575][MW p.575]]
 
 * 2026-09-23
+** Forming verbs and nouns from roots
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/2026-09-23-verbs-and-nouns-from-roots.png"></p>
+
 ** Papañca
 
 #+begin_quote
@@ -115,235 +154,9 @@ Yā kāci taṇhā ajjhattaṁ, / Tāsaṁ vinayā sadā sato sikkhe.
 | *sata 1.1*      | /(pp)/ mindful; present; attentive  *[√sar + ta]*  /pp of sarati/                                  |
 | *sikkhe*        | /(opt)/ could train (for); should practice  *[√sikkh + e]*  /opt of sikkhati/                      |
 
-** Ud 7.7 Papañcakhayasutta
+** Dhp 268-269 The silent sage
 
 #+begin_quote
-Atha kho bhagavā attano papañca-saññā-saṅkhā-pahānaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
-
-“Yassa papañcā ṭhiti ca natthi, / Sandānaṁ palighañca vītivatto;
-
-Taṁ nittaṇhaṁ muniṁ carantaṁ, / Nāvajānāti sadevakopi loko”ti.
-#+end_quote
-
-| *attano 2*                 | /(masc)/ of self; of oneself; one's own; my own  *[atta + no]*                          |
-| *papañcasaññāsaṅkhāpahāna* | /(nt)/ abandoning the proliferation of opinions/perceptions                             |
-| *viditvā 2.1*              | /(abs)/ having known; having perceived; having understood  *[√vid + itvā]*              |
-| *tāyaṁ*                    | /(pron)/ in that; on that; at that  *[ta + āyaṁ]*  /pron, fem loc sg of ta/             |
-| *velā 1*                   | /(fem)/ time; point in time   /fem/                                                     |
-| *yassa 2*                  | /(pron)/ of whoever; of whichever; whose  *[ya + ssa]*  /masc & nt gen sg of ya/        |
-| *ṭhiti 2*                  | /(fem)/ state; station; support  *[√ṭhā + ti]*  /fem, abstr, from tiṭṭhati/             |
-| *sandāna*                  | /(nt)/ halter; tether  *[saṁ + √dā + ana]*  /nt/                                        |
-| *paligha 1*                | /(masc)/ cross-bar; bolt; bar; obstacle  *[pari > pali + √ghaṭ + a > gha]*  /masc/      |
-| *vītivatta 2*              | /(pp)/ passed; left behind; transcended  *[vi + ati + √vatt + ta]*                      |
-| *nittaṇha*                 | /(adj)/ without desire; free from craving  *[nir + taṇhā + a]*  /adj, from taṇhā/       |
-| *muni 1*                   | /(masc)/ monk; sage; seer; hermit; silent sage  *[√mun + i]*  /masc, from munāti/       |
-| *caranta 1*                | /(prp)/ walking; wandering; roaming about  *[cara + nta]*  /prp of carati/              |
-| *nāvajānāti*               | /(pr)/ does not disrespect (on); does not despise; *[na + avajānāti]*                   |
-| *sadevaka*                 | /(adj)/ with devas; having gods  *[sa + deva + ka]*                                     |
-| *loka 3*                   | /(masc)/ people (of the world); population  *[√lok + a]*  /masc/                        |
-
-**** Papañca-khaya-sutta-vaṇṇanā
-
-#+begin_quote
-Papañcasaññāsaṅkhāpahānanti
-
-papañcenti yattha sayaṁ uppannā, taṁ santānaṁ vitthārenti ciraṁ ṭhapentīti papañcā, kilesā.
-
-Visesato rāgadosamohataṇhādiṭṭhimānā. Tathā hi vuttaṁ – \\
-‘‘Rāgo papañco, doso papañco, moho papañco, taṇhā papañco, diṭṭhi papañco, māno papañco’’ti. –
-
-Apica saṁkilesaṭṭho papañcaṭṭho, kacavaraṭṭho papañcaṭṭho.
-#+end_quote
-
-# "The abandoning of the reckonings of proliferative perception"
-
-# They proliferate — that is, wherever they themselves have arisen they expand
-# that continuum and make it persist for a long time — hence "proliferations"
-# (papañcā), namely, the defilements. Specifically: lust, hatred, delusion,
-# craving, view, and conceit. For it is said accordingly:
-
-# "Lust is proliferation, hatred is proliferation, delusion is proliferation,
-# craving is proliferation, view is proliferation, conceit is proliferation."
-
-# Moreover, the sense of "defilement" is the sense of papañca, and the sense of
-# "refuse" is the sense of papañca.
-
-| *yattha*      | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/             |
-| *sayaṁ*       | /(ind)/ by one's own; oneself; one's own  *[saya + aṁ]*  /ind, adv, from sa/            |
-| *uppanna 1*   | /(pp)/ arisen; appeared; come into being (in)  *[ud + √pad + na]*  /pp of uppajjati/    |
-| *santāna 1*   | /(masc)/ continuity; continuance; continuum  *[saṁ + √tan > tān + &ast;a]*  /masc/      |
-| *vitthāreti*  | /(pr)/ spreads out, explains, expands  *[vi + thāre +]*  /pr, caus of/                  |
-| *ciraṁ*       | /(ind)/ for a long time  *[cira + aṁ]*  /ind, adv, acc sg of cira/                      |
-| *ṭhapeti 1*   | /(pr)/ helps to last; causes to remain  *[ṭhape + ti]*  /pr, caus of tiṭṭhati/          |
-| *visesato*    | /(ind)/ distinctly; clearly  *[visesa + to]*  /ind, adv, abl sg of visesa/              |
-| *tathā*       | /(ind)/ so; thus; in such a way; likewise; similarly  *[ta + thā]*  /ind, adv, from ta/ |
-| *vutta 2.1*   | /(pp)/ said; told; spoken; mentioned  *[√vac > vuc + ta]*  /pp of vacati/               |
-| *apica 2*     | /(sandhi)/ or; but also  *[api + ca]*  /sandhi, ind + ind/                              |
-| *saṁkilesa 1* | /(masc)/ dirt; defilement; impurity; corruption (of)  *[saṁ + √kilis > kiles + &ast;a]* |
-| *aṭṭha 2.2*   | /(masc)/ meaning; sense  *[√ar + tha]*  /masc, from attha/                              |
-| *kacavara*    | /(masc)/ rubbish; refuse; waste   /masc/                                                |
-
-#+begin_quote
-Tattha rāgapapañcassa subhasaññā nimittaṁ, dosapapañcassa āghātavatthu,
-mohapapañcassa āsavā, taṇhāpapañcassa vedanā, diṭṭhipapañcassa saññā,
-mānapapañcassa vitakko nimittaṁ.
-#+end_quote
-
-Herein, the sign (occasioning cause) of the proliferation of lust is the
-perception of beauty; of the proliferation of hatred, a ground for resentment;
-of the proliferation of delusion, the taints; of the proliferation of craving,
-feeling; of the proliferation of view, perception; and of the proliferation of
-conceit, discursive thought.
-
-#+begin_quote
-Tehi papañcehi sahagatā saññā papañcasaññā. Papañcasaññānaṁ saṅkhā bhāgā
-koṭṭhāsā papañcasaññāsaṅkhā. Atthato saddhiṁ nimittehi taṁtaṁpapañcassa pakkhiyo
-kilesagaṇo.
-#+end_quote
-
-Perceptions conjoined with those proliferations are "proliferative perceptions"
-(papañcasaññā). The reckonings, parts, or divisions of those proliferative
-perceptions are the "reckonings of proliferative perception." In meaning, it is
-the whole class of defilements belonging to this or that proliferation, together
-with their signs.
-
-#+begin_quote
-Saññāgahaṇañcettha tassa nesaṁ sādhāraṇahetubhāvena. Vuttañhetaṁ – ‘‘saññānidānā
-hi papañcasaṅkhā’’ti (su. ni. 880). Tesaṁ pahānaṁ, tena tena maggena
-rāgādikilesānaṁ samucchedananti attho.
-#+end_quote
-
-And perception is mentioned here because it is the cause common to them all.
-# For this has been said: "The reckonings of proliferation have perception as their
-# source" (Sn 880). "Their abandoning": the meaning is the extirpation of the
-# defilements beginning with lust by this or that path.
-
-#+begin_quote
-(Snp 4.11) Evaṁ sametassa vibhoti rūpaṁ, / Saññānidānā hi papañcasaṅkhā”.
-#+end_quote
-
-# #+begin_quote
-# Tadā hi bhagavā atītāsu anekakoṭisatasahassasaṅkhāsu attano jātīsu anatthassa
-# nimittabhūte kilese imasmiṁ carimabhave ariyamaggena bodhimaṇḍe savāsane pahīne
-# paccavekkhitvā sattasantānañca kilesacaritaṁ rāgādikilesasaṁkiliṭṭhaṁ
-# kañjiyapuṇṇalābuṁ viya takkabharitacāṭiṁ viya vasāpītapilotikaṁ viya ca
-# dubbinimociyaṁ disvā ‘‘evaṁ gahanaṁ nāmidaṁ kilesavaṭṭaṁ anādikālabhāvitaṁ
-# mayhaṁ anavasesaṁ pahīnaṁ, aho suppahīna’’nti uppannapītipāmojjo udānaṁ udānesi.
-# Tena vuttaṁ – ‘‘atha kho bhagavā attano papañcasaññāsaṅkhāpahānaṁ viditvā tāyaṁ
-# velāyaṁ imaṁ udānaṁ udānesī’’ti.
-# #+end_quote
-
-# For at that time the Blessed One reviewed how, at the seat of enlightenment in
-# this final existence, by the noble path he had abandoned — together with their
-# residual impressions — those defilements which had been the occasion of harm to
-# him throughout his own past births numbering many hundreds of thousands of
-# koṭis. And he saw the continuum of beings, given over to defilement, soiled by
-# lust and the rest, as hard to extricate — like a gourd filled with sour gruel,
-# like a jar brimming with buttermilk, like a rag soaked in grease. Then, with joy
-# and gladness arisen in him, thinking, "So dense a thicket is this round of
-# defilements, cultivated from beginningless time, yet for me it is abandoned
-# without remainder — ah, how well abandoned!" he uttered an inspired utterance.
-# Hence it is said: "Then the Blessed One, understanding his own abandoning of the
-# reckonings of proliferative perception, on that occasion uttered this inspired
-# utterance."
-
-#+begin_quote
-... Tattha yassa papañcā ṭhiti ca natthī'ti:
-yasmā bhagavā attānameva paraṁ viya katvā niddisati tasmā yassa aggapuggalassa \\
-vuttalakkhaṇā papañcā, tehi katā saṁsāre ṭhiti ca natthi.
-#+end_quote
-
-"In whom there are no proliferations and no standing."
-
-Since the Blessed One refers to himself as though to another, the sense is: in
-whom — in that foremost of persons — there are no proliferations of the
-character described, and no standing in saṁsāra produced by them.
-
-#+begin_quote
-Nettiyaṁ pana ‘‘ṭhiti nāma anusayo’’ti (netti. 27) vuttaṁ. Anusayo hi bhavapavattiyā mūlanti. \\
-Satte saṁsāre papañcentīti papañcā.
-#+end_quote
-
-In the Netti, however, it is said, "'Standing' is the underlying tendency"
-(Netti 27) — for the underlying tendency is the root of the continuance of
-becoming. They cause beings to be protracted in saṁsāra: hence "proliferations."
-
-# ne9/pli/ms
-# Papañcā nāma taṇhādiṭṭhimānā, tadabhisaṅkhatā ca saṅkhārā. Ṭhiti nāma anusayā. 
-
-# #+begin_quote
-# ‘‘Papañcaṭṭhitī’’ti ca pāṭho. Tassattho – papañcānaṁ ṭhiti vijjamānatā maggena
-# asamucchedo papañcaṭṭhiti, papañcā eva vā avasiṭṭhakusalākusalavipākānaṁ
-# pavattiyā hetubhāvato vaṭṭassa ṭhiti papañcaṭṭhiti, sā yassa aggapuggalassa
-# natthi.
-# #+end_quote
-
-# There is also the reading papañcaṭṭhiti. Its meaning is this: the standing of
-# the proliferations — their being present, their not being cut off by the path —
-# is "the standing of proliferation"; or else, since the proliferations themselves
-# are the cause for the occurrence of the remaining wholesome and unwholesome
-# results, they are the standing of the round, and thus "the standing of
-# proliferation." That is not found in this foremost of persons.
-
-#+begin_quote
-(Aj Thanissaro, The Paradox of Becoming, [[https://www.dhammatalks.org/books/ParadoxOfBecoming/Section0013.html][Chapter 7: No Location, No Limitation]]) \\
-(SN 22.87) "... it is through unestablished consciousness that Vakkali the clansman has become totally unbound."
-Because the arahant’s consciousness has no location, it is totally undefined.
-#+end_quote
-
-# #+begin_quote
-# (SN 22.87) “Eso kho, bhikkhave, māro pāpimā vakkalissa kulaputtassa viññāṇaṁ samanvesati: \\
-# ‘kattha vakkalissa kulaputtassa viññāṇaṁ patiṭṭhitan’ti? \\
-# Appatiṭṭhitena ca, bhikkhave, viññāṇena vakkali kulaputto parinibbuto”ti.
-# 
-# “That is Mara, the Evil One. He is searching for the consciousness of Vakkali the clansman: \\
-# “Where is the consciousness of Vakkali the clansman established?” \\
-# But, monks, it is through unestablished consciousness that Vakkali the clansman has become totally unbound.”
-# #+end_quote
-
-#+begin_quote
-... Sandānaṁ palighañca vītivatto'ti: \\
-yo bandhanaṭṭhena santānasadisattā ‘‘sandāna’’nti laddhanāmā taṇhādiṭṭhiyo,
-#+end_quote
-
-"Having passed beyond the tether and the bar." Craving and views, which by
-reason of binding resemble a cord and so receive the name "tether" (sandāna);
-
-#+begin_quote
-nibbāna-nagara-pavesa-nisedhanato palighasadisattā palighasaṅkhātaṁ avijjañca ...
-#+end_quote
-
-and ignorance, which is called a "bar" because, like a crossbar, it blocks entry
-into the city of nibbāna ...
-
-#+begin_quote
-... Taṁ nittaṇhaṁ muniṁ carantan'ti: \\
-taṁ sabbathāpi taṇhābhāvena nittaṇhaṁ, ubhaya-loka-munanato
-atta-hita-para-hita-munanato ca muniṁ, ...
-#+end_quote
-
-"That sage, free of craving, as he fares." Him who is free of craving through
-the absence of craving in every respect; a sage (muni) because he comprehends (munanato)
-both worlds and because he comprehends his own welfare and the welfare of
-others; ...
-
-# ekanteneva sabbasattahitatthaṁ catūhi iriyāpathehi nānāsamāpatticārehi
-# anaññasādhāraṇena ñāṇacārena ca carantaṁ. Nāvajānāti sadevakopi lokoti sabbo
-# sapaññajātiko sattaloko sadevakopi sabrahmakopi na kadācipi avajānāti na
-# paribhoti, atha kho ayameva loke aggo seṭṭho uttamo pavaroti garuṁ karonto
-# sakkaccaṁ pūjāsakkāranirato hotīti.
-
-# faring — solely for the welfare of all beings — by the four postures, by the
-# various courses of the attainments, and by that course of knowledge which is
-# shared with no one else. "Not even the world with its devas despises him." The
-# whole world of beings endowed with intelligence, even with its devas, even with
-# its brahmās, never despises or disparages him; rather, paying him honor with the
-# thought, "This one is the chief, the best, the highest, the most excellent in
-# the world," it devotes itself reverently to worship and homage.
-
-#+begin_quote
-(Dhp 268-269)
-
 Na monena munī hoti, / mūḷharūpo aviddasu; \\
 Yo ca tulaṁva paggayha, / varamādāya paṇḍito.
 
