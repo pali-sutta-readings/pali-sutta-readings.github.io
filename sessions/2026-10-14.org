@@ -1,0 +1,225 @@
+#+author: gambhiro
+#+youtube_id:
+
+* 2026-10-14
+** Ud 1.10 Bāhiyasutta
+
+#+begin_quote
+Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+
+Tena kho pana samayena bāhiyo dārucīriyo suppārake paṭivasati samuddatīre sakkato garukato \\
+mānito pūjito apacito lābhī cīvara-piṇḍapāta-senāsana-gilānapaccaya-bhesajja-parikkhārānaṁ.
+
+Atha kho bāhiyassa dārucīriyassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: \\
+“ye kho keci loke arahanto vā arahattamaggaṁ vā samāpannā, ahaṁ tesaṁ aññataro”ti.
+#+end_quote
+
+| *bahi 1*      | /(ind)/ externally; outwardly; outside (of)  *[√bah + i]*  /ind, prep/                                                          |
+| *dāru*        | /(nt)/ wood; plank; timber  *[√dar > dār + &ast;u]*  /nt, from darati/                                                          |
+| *cīra*        | /(nt)/ bark fibre; bark cloth   /nt/                                                                                            |
+| *suppāraka*   | /(nt)/ name of western seaport; modern day Nala Sopara   /nt, comp/                                                             |
+| *paṭivasati*  | /(pr)/ lives (in); resides (at); stays (at)  *[pati + vasa + ti]*  /pr/                                                         |
+| *samuddatīra* | /(nt)/ sea shore; beach; coast; ocean shore  *[samudda + tīra]*  /nt, comp/                                                     |
+| *sakkata 1*   | /(pp)/ honoured; esteemed; respected (by)  *[sat + kata]*  /pp of sakkaroti, comp vb/                                           |
+| *lābhī*       | /(adj)/ who gains; who gets; who has  *[√labh > lābh + &ast;ī]*  /adj, from labhati/                                            |
+| *rahogata*    | /(adj)/ in private; alone; gone into seclusion  *[raho + gata]*  /adj, comp/                                                    |
+| *paṭisallīna* | /(pp)/ secluded; retired; withdrawn into seclusion; *[pati + saṁ + √lī + na]*  /pp of paṭisallīyati/   |
+| *ye 1*        | /(pron)/ whoever; whatever; whichever; those who  *[ya + e]*  /pron, masc & nt nom pl of ya/                                    |
+| *keci 1*      | /(pron)/ whoever; whatever; whichever; some; any  *[ka + e + ci], [ke + ci]*  /pron, masc nom pl of kaci/                       |
+| *samāpanna 1* | /(pp)/ entered; reached; attained; achieved  *[saṁ + ā + √pad + na]*  /pp of samāpajjati/                                       |
+| *tesaṁ 2*     | /(pron)/ their; of these; of them; of those  *[ta + esānaṁ > esaṁ]*  /pron, masc & nt gen pl of ta/                             |
+| *aññatara 2*  | /(pron)/ one; either one (of)  *[añña + tara]*  /pron, from añña/                                                               |
+
+#+begin_quote
+Atha kho bāhiyassa dārucīriyassa purāṇasālohitā devatā anukampikā atthakāmā bāhiyassa dārucīriyassa \\
+cetasā cetoparivitakkamaññāya yena bāhiyo dārucīriyo tenupasaṅkami;
+
+upasaṅkamitvā bāhiyaṁ dārucīriyaṁ etadavoca: \\
+“neva kho tvaṁ, bāhiya, arahā, nāpi arahattamaggaṁ vā samāpanno. \\
+Sāpi te paṭipadā natthi yāya tvaṁ arahā vā assa arahattamaggaṁ vā samāpanno”ti.
+
+“Atha ke carahi sadevake loke arahanto vā arahattamaggaṁ vā samāpannā”ti?
+
+“Atthi, bāhiya, uttaresu janapadesu sāvatthī nāma nagaraṁ. \\
+Tattha so bhagavā etarahi viharati arahaṁ sammāsambuddho. \\
+So hi, bāhiya, bhagavā arahā ceva arahattāya ca dhammaṁ desetī”ti.
+#+end_quote
+
+| *purāṇasālohita* | /(adj)/ who was a former blood-relative; *[purāṇa + sālohita]*  /adj, comp/   |
+| *atthakāma* | /(adj)/ wishing well (to); desiring good (for)  *[attha + kāma]*  /adj, comp/ |
+| *cetoparivitakkamaññāya* | /(ger)/ knowing, understanding train of thought *[ceto + parivitakkaṁ + aññāya]* |
+| *uttara 2.02* | /(adj)/ northern; north  *[ud + tara]*  /adj, compar of ud/ |
+| *janapada* | /(masc)/ country; province; land; area; location  *[jana + pada]*  /masc, comp/ |
+| *etarahi* | /(ind)/ now; at present  *[eta + [r] + ahi]*  /ind, adv, comp/ |
+
+#+begin_quote
+Atha kho bāhiyo dārucīriyo tāya devatāya saṁvejito tāvadeva suppārakamhā pakkāmi. \\
+Sabbattha ekarattiparivāsena yena sāvatthī jetavanaṁ anāthapiṇḍikassa ārāmo tenupasaṅkami. \\
+Tena kho pana samayena sambahulā bhikkhū abbhokāse caṅkamanti.
+
+Atha kho bāhiyo dārucīriyo yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca: \\
+“kahaṁ nu kho, bhante, etarahi bhagavā viharati arahaṁ sammāsambuddho? \\
+Dassanakāmamhā mayaṁ taṁ bhagavantaṁ arahantaṁ sammāsambuddhan”ti. \\
+“Antaragharaṁ paviṭṭho kho, bāhiya, bhagavā piṇḍāyā”ti.
+#+end_quote
+
+| *tāya 1*             | /(pron)/ by her; with her; with that  *[ta + āya]*  /pron, fem instr sg of ta/                                     |
+| *saṁvejita*          | /(pp)/ stirred; alarmed; frightened; agitated; awestricken  *[saṁ + veje + ita]*  /pp of saṁvejeti/                |
+| *tāvadeva 1*         | /(sandhi)/ right then; that very instant; instantly; immediately  *[tāva + [d] + eva]*         |
+| *pakkāmi 1*          | /(aor)/ left; set off; went away (from)  *[pa + a + √kam > kām + i]*  /aor of pakkamati/                           |
+| *ekarattiparivāsa 1* | /(adj)/ (of a journey) staying / completing in one night  *[ekaratti + parivāsa]*  /adj, comp/ |
+| *abbhokāsa*          | /(masc)/ open space; open air; wide open space   /masc, from okāsa/         |
+| *caṅkamati 1*        | /(pr)/ walks up and down; walks in meditation  *[caṅkama + ti]*  /pr, intens of kamati/                            |
+| *kahaṁ*              | /(ind)/ where?  *[ka + haṁ]*  /ind, adv, interr, from ka/                                                          |
+| *dassanakāmamhā*     | /(sandhi)/ we wish to see; we want to meet  *[dassana + kāma + amhā]*                     |
+| *paviṭṭha 1*         | /(pp)/ entered; gone (into)  *[pa + √vis + ta]*  /pp of pavisati/                                                  |
+
+#+begin_quote
+Atha kho bāhiyo dārucīriyo taramānarūpo jetavanā nikkhamitvā sāvatthiṁ pavisitvā \\
+addasa bhagavantaṁ sāvatthiyaṁ piṇḍāya carantaṁ pāsādikaṁ pasādanīyaṁ \\
+santindriyaṁ santamānasaṁ uttamadamathasamathamanuppattaṁ dantaṁ guttaṁ yatindriyaṁ nāgaṁ.
+
+Disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato pāde sirasā nipatitvā bhagavantaṁ etadavoca:
+
+“desetu me, bhante, bhagavā dhammaṁ; desetu sugato dhammaṁ,
+yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti.
+
+Evaṁ vutte, bhagavā bāhiyaṁ dārucīriyaṁ etadavoca:
+“akālo kho tāva, bāhiya, antaragharaṁ paviṭṭhamhā piṇḍāyā”ti.
+
+Dutiyampi kho bāhiyo dārucīriyo bhagavantaṁ etadavoca:
+“dujjānaṁ kho panetaṁ, bhante, bhagavato vā jīvitantarāyānaṁ, mayhaṁ vā jīvitantarāyānaṁ.
+Desetu me, bhante, bhagavā dhammaṁ; desetu sugato dhammaṁ, yaṁ mamassa dīgharattaṁ hitāya sukhāyā”ti.
+
+Dutiyampi kho bhagavā bāhiyaṁ dārucīriyaṁ etadavoca: “akālo kho tāva, bāhiya, antaragharaṁ paviṭṭhamhā piṇḍāyā”ti.
+
+Tatiyampi kho bāhiyo ... mamassa dīgharattaṁ hitāya sukhāyā”ti.
+#+end_quote
+
+| *taramānarūpa* | /(adj)/ in a great hurry; hurrying quickly *[taramāna + rūpa]*   |
+| *addasa 1* | /(aor)/ saw  *[a + dasa + a]*  /aor of √dis/ |
+| *danta 2.1* | /(pp)/ tamed; trained; mastered; (comm) meek  *[√dam + ta]*  /pp of dammati/ |
+| *gutta* | /(pp)/ guarded; protected; kept watch (over)  *[√gup + ta]*  /pp of gopeti/ |
+| *yatindriya* | /(adj)/ mentally controlled; with restrained senses  *[yata + indriya]*  /adj, comp/ |
+| *sirasā* | /(masc)/ with the head  *[siras + ā]*  /masc, instr sg of siras, mano group/ |
+| *nipatitvā* | /(abs)/ having fallen down; having gone down (at)  *[ni + √pat + itvā]*  /abs of nipatati/ |
+| *mamassa* | /(sandhi)/ it could be my; it would be for me  *[mama + assa]*  /pron + opt/  |
+| *dujjāna* | /(adj)/ hard to know; not easy to know *[dur + jānā + a]*  /adj, from jāna/ |
+| *jīvitantarāya* | /(masc)/ danger to the life (of); fatal accident (for)  *[jīvita + antarāya]*  /masc, comp/ |
+
+#+begin_quote
+“Tasmātiha te, bāhiya, evaṁ sikkhitabbaṁ:
+
+‘diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati,
+mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissatī’ti.
+Evañhi te, bāhiya, sikkhitabbaṁ.
+
+Yato kho te, bāhiya, diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati,
+mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati,
+
+tato tvaṁ, bāhiya, na tena.
+Yato tvaṁ, bāhiya, na tena;
+tato tvaṁ, bāhiya, na tattha.
+
+Yato tvaṁ, bāhiya, na tattha,
+tato tvaṁ, bāhiya, nevidha na huraṁ na ubhayamantarena.
+Esevanto dukkhassā”ti.
+
+Atha kho bāhiyassa dārucīriyassa bhagavato imāya saṅkhittāya dhammadesanāya 
+tāvadeva anupādāya āsavehi cittaṁ vimucci.
+#+end_quote
+
+| *diṭṭha 1.2*      | /(nt)/ what is seen  *[√dis + ta]*  /nt, pp of √dis/                                                        |
+| *diṭṭhamatta*     | /(nt)/ merely the seen; only what is seen; sight itself  *[diṭṭha + matta]*  /nt, comp/                     |
+| *bhavissati 3*    | /(fut)/ will happen; will occur  *[bhavissa + ti]*  /fut of bhavati/                                        |
+| *muta 2*          | /(nt)/ what is sensed; what is perceived; (or) what is thought  *[√mun + ta]*  /nt, pp of munāti/           |
+| *viññāta 2*       | /(nt)/ what is known; what is perceived  *[vi + √ñā + ta]*  /nt, pp of vijānāti/ |
+| *yato 3*          | /(ind)/ when; from when; since  *[ya + to]*  /ind, adv, abl sg of ya/                                       |
+| *tato 5*          | /(ind)/ after that; then; next  *[ta + to]*  /ind, abl sg of ta/                                            |
+| *tvaṁ 1*          | /(pron)/ you (subject)  *[tumha + aṁ > tuvaṁ > tvaṁ]*  /pron, 2nd nom sg of tumha/                          |
+| *tattha 1*        | /(ind)/ there; in that place  *[ta + ttha]*  /ind, adv, from ta/                                            |
+| *nevidha*         | /(sandhi)/ neither here  *[na + eva + idha]*  /sandhi, ind + ind + adv/                                     |
+| *huraṁ 1*         | /(ind)/ there; in another world   /ind, adv/                                                                |
+| *ubhayamantarena* | /(ind)/ in-between the two  *[ubhayaṁ + antara + ena]*                                                      |
+| *esevanto*        | /(sandhi)/ just this is the end (of)  *[eso + eva + anto]*                                                  |
+| *saṅkhitta 1*     | /(pp)/ concise; brief; short; abbreviated; contracted  *[saṁ + √khip + ta]*  /pp of saṅkhipati/             |
+| *tāvadeva 1*      | /(sandhi)/ right then; that very instant; instantly; immediately  *[tāva + [d] + eva]*                      |
+
+#+begin_quote
+Atha kho bhagavā bāhiyaṁ dārucīriyaṁ iminā saṅkhittena ovādena ovaditvā pakkāmi.
+Atha kho acirapakkantassa bhagavato bāhiyaṁ dārucīriyaṁ 
+gāvī taruṇavacchā adhipatitvā jīvitā voropesi.
+
+Atha kho bhagavā sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto 
+sambahulehi bhikkhūhi saddhiṁ nagaramhā nikkhamitvā addasa bāhiyaṁ dārucīriyaṁ kālaṅkataṁ;
+disvāna bhikkhū āmantesi:
+
+“gaṇhatha, bhikkhave, bāhiyassa dārucīriyassa sarīrakaṁ;
+mañcakaṁ āropetvā nīharitvā jhāpetha; thūpañcassa karotha.
+Sabrahmacārī vo, bhikkhave, kālaṅkato”ti.
+#+end_quote
+
+| *acirapakkanta* | /(adj)/ recently departed; soon after (someone) left  *[acira + pakkanta]*  /adj, comp/ |
+| *gāvī*          | /(fem)/ cow  *[go + āvī]*  /fem, from go/                                               |
+| *taruṇavaccha*  | /(adj)/ with a young calf  *[taruṇa + vaccha + a]*  /adj, comp/                         |
+| *adhipatitvā*   | /(abs)/ having attacked; having charged *[adhi + √pat + itvā]*  /abs of adhipatati/     |
+| *jīvita 1*      | /(nt)/ life; existence  *[√jīv + ita]*  /nt, pp of jīvati/                              |
+| *voropesi*      | /(aor)/ deprived (of); cut off (from)  *[vi + ava + rope + si]*  /aor of voropeti/      |
+| *gaṇhāti 1*     | /(pr)/ grabs hold (of); seizes; takes  *[gaṇhā + ti]*  /pr/                             |
+| *sarīraka*      | /(nt)/ corpse; dead body  *[sarīra + ka]*  /nt, from sarīra/                            |
+| *mañcaka 1*     | /(masc)/ small bed; cot  *[√mañc + a + ka], [mañca + ka]*  /masc, dimin of mañca/       |
+| *āropetvā 1*    | /(abs)/ having put on top; having placed on top (of) *[ā + rope + tvā]*                 |
+| *nīharitvā 1*   | /(abs)/ having removed; having taken out  *[nī + √har + itvā]*  /abs of nīharati/       |
+| *jhāpeti*       | /(pr)/ burns; cremates; sets fire (to)  *[jhāpe + ti]*  /pr, caus of jhāyati/           |
+| *assa 4.1*      | /(pron)/ to him; for him  *[ima + ssa]*  /pron, masc & nt dat sg of ima/                |
+| *vo 1.5*        | /(pron)/ of you all; your   /pron, 2nd gen pl of tvaṁ/                                  |
+
+#+begin_quote
+“Evaṁ, bhante”ti kho te bhikkhū bhagavato paṭissutvā bāhiyassa dārucīriyassa 
+sarīrakaṁ mañcakaṁ āropetvā nīharitvā jhāpetvā thūpañcassa katvā yena bhagavā tenupasaṅkamiṁsu;
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
+Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ:
+
+“daḍḍhaṁ, bhante, bāhiyassa dārucīriyassa sarīraṁ, thūpo cassa kato.
+Tassa kā gati, ko abhisamparāyo”ti?
+
+“Paṇḍito, bhikkhave, bāhiyo dārucīriyo paccapādi dhammassānudhammaṁ;
+na ca maṁ dhammādhikaraṇaṁ vihesesi. Parinibbuto, bhikkhave, bāhiyo dārucīriyo”ti.
+#+end_quote
+
+| *paṭissutvā*        | /(abs)/ having agreed (with); having responded in agreement (to); *[pati + √su + tvā]*   |
+| *daḍḍha*            | /(pp)/ burnt; burnt down; consumed by fire  *[√ḍah + ta]*  /pp of ḍahati/                |
+| *tassa 2*           | /(pron)/ of that; his; its  *[ta + ssa]*  /pron, masc & nt gen sg of ta/                 |
+| *kā 2.1*            | /(pron)/ what?; which?; which woman?  *[ka + ā]*  /pron, interr, fem nom sg of ka/       |
+| *gati 4*            | /(fem)/ future destination; future existence  *[√gam + ti]*  /fem, abstr, from gacchati/ |
+| *ko*                | /(pron)/ who?; what?; which?  *[ka + o]*  /pron, interr, masc nom sg of ka/              |
+| *abhisamparāya*     | /(masc)/ future state; ultimate destination  *[abhi + saṁ + parā + √i > ay + &ast;a]*    |
+| *paccapādi 1*       | /(aor)/ practised; followed  *[pati > paty > pacc + a + √pad + i]*  /aor of paṭipajjati/ |
+| *dhammassānudhamma* | /(adj)/ in accordance with the teaching  *[dhammassa + anudhamma]*  /adj, comp/          |
+| *maṁ 1*             | /(pron)/ me (object)  *[amha + aṁ]*  /pron, 1st acc sg of ahaṁ/                          |
+| *dhammādhikaraṇa*   | /(nt)/ technical points about the teaching  *[dhamma + adhikaraṇa]*  /nt, comp/          |
+| *vihesesi*          | /(aor)/ harassed; annoyed; pestered; troubled  *[vi + hese + si]*  /aor of viheseti/     |
+
+#+begin_quote
+Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
+
+“Yattha āpo ca pathavī, / tejo vāyo na gādhati;
+
+Na tattha sukkā jotanti, / ādicco nappakāsati;
+Na tattha candimā bhāti, / tamo tattha na vijjati.
+
+Yadā ca attanāvedi, / muni monena brāhmaṇo;
+Atha rūpā arūpā ca, / sukhadukkhā pamuccatī”ti.
+#+end_quote
+
+| *velā 1*        | /(fem)/ time; point in time   /fem/                                                                                                                           |
+| *yattha*        | /(ind)/ wherever; where; when; in which  *[ya + ttha]*  /ind, adv, from ya/                                                                                   |
+| *gādhati*       | /(pr)/ finds a footing; stands firmly; is well grounded; finds a support  *[gādha + ti]*  /pr/                                                                |
+| *sukka 3*       | /(masc)/ star; planet Venus  *[√suc > suk + ra]*  /masc/                                                                                                      |
+| *ādicca*        | /(masc)/ sun  *[aditi > āditi + &ast;ya]*  /masc, from aditi/                                                                                                 |
+| *candima 1*     | /(masc)/ moon  *[√cand + ima]*  /masc, atta group/                                                                                                            |
+| *bhāti 1.1*     | /(pr)/ illuminates; lights up  *[bhā + ti]*  /pr/                                                                                                             |
+| *tamas 1*       | /(masc)/ darkness; gloom   /masc, mano group/                                                                                                                 |
+| *muni 1*        | /(masc)/ monk; sage; seer; hermit; silent sage  *[√mun + i]*  /masc, from munāti/                                                                             |
+| *mona 3*        | /(nt)/ wisdom; knowledge; sagacity; sapience  *[√mun > mon + &ast;a]*  /nt, from munāti/                                                                      |
+| *pamuccati*     | /(pr)/ is freed; is liberated (from)  *[pa + mucca + ti]*  /pr, pass of pamuñcati/                                                                            |
