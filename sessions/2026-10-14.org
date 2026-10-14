@@ -2,6 +2,10 @@
 #+youtube_id: j9g6prQzQ58
 
 * 2026-10-14
+** Etymology of cīvara
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/2026-10-14-civara.png"></p>
+
 ** Ud 1.10 Bāhiyasutta
 
 #+begin_quote
