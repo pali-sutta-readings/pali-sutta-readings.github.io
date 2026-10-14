@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: j9g6prQzQ58
 
 * 2026-10-14
 ** Ud 1.10 Bāhiyasutta
@@ -223,3 +223,92 @@ Atha rūpā arūpā ca, / sukhadukkhā pamuccatī”ti.
 | *muni 1*        | /(masc)/ monk; sage; seer; hermit; silent sage  *[√mun + i]*  /masc, from munāti/                                                                             |
 | *mona 3*        | /(nt)/ wisdom; knowledge; sagacity; sapience  *[√mun > mon + &ast;a]*  /nt, from munāti/                                                                      |
 | *pamuccati*     | /(pr)/ is freed; is liberated (from)  *[pa + mucca + ti]*  /pr, pass of pamuñcati/                                                                            |
+
+*** Related
+
+*SN 35.95 Mālukyaputtasutta*
+
+#+begin_quote
+... When there is no you there, you are neither here nor yonder nor between the two. This, just this, is the end of stress.”
+
+“I understand in detail, lord, the meaning of what the Blessed One has said in brief:
+
+Seeing a form — mindfulness lapsed — \\
+attending to the theme of ‘endearing,’ \\
+impassioned in mind, one feels \\
+and remains fastened on it. \\
+One’s feelings, born of the form, grow numerous, \\
+Greed & annoyance injure one’s mind. \\
+Thus amassing stress, \\
+one is said to be far from unbinding.
+
+(Aj Thanissaro)
+#+end_quote
+
+*DN 11 Kevaṭṭhasutta*
+
+#+begin_quote
+“‘Where do water, earth, fire, & wind / have no footing? \\
+Where are long & short, / coarse & fine, fair & foul, \\
+name & form brought to an end?
+
+“‘And the answer to that is:
+
+“‘Consciousness without surface, without end, luminous all around:
+
+Here water, earth, fire, & wind have no footing…
+#+end_quote
+
+*MN 9 Sammādiṭṭhisutta*
+
+#+begin_quote
+Viññāṇasamudayā nāmarūpasamudayo, viññāṇanirodhā nāmarūpanirodho, \\
+ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā …
+
+Saḷāyatanasamudayā phassasamudayo, saḷāyatananirodhā phassanirodho, \\
+ayameva ariyo aṭṭhaṅgiko maggo phassanirodhagāminī paṭipadā …
+#+end_quote
+  
+*SN 12.44 Lokasutta*
+
+#+begin_quote
+Katamo ca, bhikkhave, lokassa atthaṅgamo? \\
+Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. \\
+Tiṇṇaṁ saṅgati phasso.
+
+Phassapaccayā vedanā; vedanāpaccayā taṇhā. \\
+Tassāyeva taṇhāya asesavirāganirodhā upādānanirodho; \\
+upādānanirodhā bhavanirodho …pe… evametassa kevalassa dukkhakkhandhassa nirodho hoti. \\
+Ayaṁ kho, bhikkhave, lokassa atthaṅgamo.
+#+end_quote
+
+*Snp 4.11 Kalahavivādasutta*
+
+#+begin_quote
+  
+“Phasso nu lokasmi kutonidāno, / Pariggahā cāpi kutopahūtā; \\
+Kismiṁ asante na mamattamatthi, / Kismiṁ vibhūte na phusanti phassā”.
+  
+“Nāmañca rūpañca paṭicca phasso, / Icchānidānāni pariggahāni; \\
+Icchāyasantyā na mamattamatthi, / Rūpe vibhūte na phusanti phassā”.
+  
+... Saññānidānā hi papañcasaṅkhā”.
+#+end_quote
+
+#+begin_quote
+“Now where is the cause / of contact in the world, \\
+and from where have graspings, possessions, arisen? \\
+When what isn’t does there not exist mine-ness? \\
+When what has disappeared do contacts not touch?”
+  
+“Conditioned by name-&-form is contact. \\
+In longing do graspings, possessions have their cause. \\
+When longing isn’t, mine-ness doesn’t exist.
+  
+When forms have disappeared contacts don’t touch.”
+  
+“For one how-arriving does form disappear?
+  
+... for objectification-classifications \\
+have their cause in perception.”
+#+end_quote
