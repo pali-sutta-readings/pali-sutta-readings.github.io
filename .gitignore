@@ -1,6 +1,7 @@
 # Project output
 site/
 tmp/
+*-typst-export.pdf
 # Generated Markdown files
 docs/readings/sessions/*.md
 docs/readings-print/

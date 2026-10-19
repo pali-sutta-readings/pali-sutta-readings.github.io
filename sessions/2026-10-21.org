@@ -1,0 +1,179 @@
+#+author: gambhiro
+#+youtube_id:
+
+* Notes :noexport:
+* 2026-10-21
+** Forms of 'going'
+
+√gam･1 a (go) gacchati *[√gam + a + ti]* (+acc) goes; walks; moves; wanders around; travels 
+
+√kam･1 a (go) kamati *[√kam + a + ti]* (+instr) goes; travels; flies (by)  
+
+√yā･1 a (go) yāti *[√yā + a + ti]* (+acc) goes; goes to; goes forward; proceeds; travels  
+
+** Examples
+*** gacchati [√gam + a + ti] goes; walks; moves 
+
+*Translate:* The man who is faithful goes to the village with an all-white chariot.
+
+# Saddho puriso sabbasetena rathena gāmaṁ gacchati.
+
+#+begin_quote
+Sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṁ gacchanti. (AN 10.107)
+#+end_quote
+
+| *aneka*      | /(adj)/ many; various; countless  *[na > an + eka]*  /adj, from na eka/ |
+| *pāripūri 1* | /(fem)/ fulfilment; completion; maturity (of)  *[pari + √pūr + i]*      |
+
+#+begin_quote
+Āyudo balado dhīro, / vaṇṇado paṭibhānado; \\
+Sukhassa dātā medhāvī, / sukhaṁ so adhigacchati. (AN 5.37)
+#+end_quote
+
+| *paṭibhānada*    | /(adj)/ giving eloquence; providing wit  *[paṭibhāna + da]*  /adj, comp/ |
+| *dātar 1*        | /(masc)/ giver; donor (of)  *[√dā + tar]*  /masc, agent, from dadāti/    |
+| *medhāvī*        | /(masc)/ intelligent man; wise man  *[√medh + ā + vī], [medhā + vī]*     |
+| *adhigacchati 1* | /(pr)/ gets; finds; acquires; obtains  *[adhi + gaccha + ti]*            |
+
+#+begin_quote
+Andhabhūto ayaṁ loko, / tanuk'ettha vipassati; \\
+Sakuṇo jālamuttova, / appo saggāya gacchati. (Dhp 174)
+#+end_quote
+
+| *andhabhūta* | /(adj)/ blind; ignorant  *[andha + bhūta]*  /adj, comp/              |
+| *tanuka 1*   | /(adj)/ small; few  *[√tan + u + ka], [tanu + ka]*  /adj, from tanu/ |
+| *sakuṇa*     | /(masc)/ bird   /masc/                                               |
+| *jāla 1.1*   | /(nt)/ net; snare; entanglement  *[√jal > jāl + &ast;a]*  /nt/       |
+| *mutta 2.1*  | /(pp)/ released; freed; liberated  *[√muc + ta]*  /pp of muñcati/    |
+| *appa 1*     | /(adj)/ few; not many; not much   /adj/                              |
+| *sagga 1.2*  | /(masc)/ heaven; paradise  *[√sar + ga]*  /masc, abstr/              |
+
+- gaccheyya (opt) could go; would move; would walk
+- gacchissati (fut) he will go
+- agacchi  (aor) he went
+- agamāsi (aor) he went
+- gantvā (abs) having gone
+- gantuṁ (inf) to go (for a purpose)
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+āgacchati *[ā + √gam + a + ti]* (+acc) comes (to); arrives (at); reaches
+
+gata *[√gam + ta]* (pp.) (+acc) gone (to); went (for) 
+
+sugata *[su + √gam + ta]* adj. faring well; going well; fortunate; who has reached the destination; lit. well gone
+
+samannāgata *[saṁ + anu + ā + √gam + ta]* (pp.) (+instr) possessing; endowed (with); having; lit. going together 
+
+#+begin_quote
+ariyasāvako buddhe aveccappasādena samannāgato hoti
+#+end_quote
+
+| *avecca 1* | /(ind)/ perfectly; absolutely;  *[ava + e + tya]*  /ind, adv, ger of aveti/       |
+| *pasāda 1* | /(masc)/ inspiration; faith; trust; confidence (in)  *[pa + √sad > sād + &ast;a]* |
+
+#+begin_quote
+“Anujānāmi, bhikkhave, vassaṁ upagantun”ti. \\
+Atha kho bhikkhūnaṁ etadahosi — “kadā nu kho vassaṁ upagantabban”ti? \\
+Bhagavato etamatthaṁ ārocesuṁ. \\
+“Anujānāmi, bhikkhave, vassāne vassaṁ upagantun”ti. (Vassūpanāyikānujānanā)
+#+end_quote
+
+| *anujānāti 1*   | /(pr)/ allows; permits; grants permission (to)  *[anu + jānā + ti]*  /pr/                      |
+| *vassa 1.5*     | /(masc)/ rains retreat; three month retreat for monastics  *[√vass + a]*  /masc, from vassati/ |
+| *upagantuṁ 2*   | /(inf)/ to enter  *[upa + √gam + tuṁ]*  /inf of upagacchati/                                   |
+| *etadahosi*     | /(sandhi)/ this (thought) occurred (to)  *[etad + ahosi]*  /sandhi, pron + aor/                |
+| *kadā*          | /(ind)/ when?  *[ka + dā]*  /ind, adv, interr, from ka/                                        |
+| *nu*            | /(ind)/ (adds a question mark) surely?; didn't?; wouldn't?; which?   /ind, interr/             |
+| *upagantabba 1* | /(ptp)/ (of the rains retreat) should be entered; should be undertaken  *[upa + √gam + tabba]* |
+| *vassāna*       | /(masc)/ monsoon; rainy season  *[√vass + āna]*  /masc, from prp of vassati/                   |
+
+*** kamati [√kam + a + ti] steps; goes; travels; flies (by)  
+
+caṅkamati *[√kam + a + ti]* walks up and down; walks in meditation (intens of kamati, intransitive)
+
+upasaṅkamati *[upa + saṁ + √kam + a + ti]* (+acc) approaches; goes (to); visits; lit. goes near 
+
+#+begin_quote
+Atha kho caṅkī brāhmaṇo mahatā brāhmaṇagaṇena saddhiṁ yena bhagavā tenupasaṅkami; \\
+upasaṅkamitvā bhagavatā saddhiṁ sammodi. (MN 95)
+#+end_quote
+
+| *saddhiṁ* | /(ind)/ together (with); with   /ind, prep/                                     |
+| *sammodi* | /(aor)/ greeted; exchanged pleasantries; *[saṁ + moda + i]*  /aor of sammodati/ |
+
+abhikkamati *[abhi + √kam + a + ti]* \\
+(1) goes forward; proceeds \\
+(2) (of illness) is increasing; is getting worse
+
+paṭikkamati *[pati + √kam + a + ti]* (+abl) \\
+(1) returns; comes back (from); lit. goes back \\
+(2) (of illness) is receding; is retreating
+
+#+begin_export typst
+#pagebreak()
+#+end_export
+
+#+begin_quote
+Appamāṇo buddho appamāṇo dhammo appamāṇo saṅgho \\
+Pamāṇavantāni siriṁsapāni ahi-vicchikā sata-padī Uṇṇā-nābhī sarabhū mūsikā
+
+Katā me rakkhā katā me parittā / paṭikkamantu bhūtāni!
+#+end_quote
+
+| *appamāṇa 1*  | /(adj)/ immeasurable; unlimited; limitless; boundless  *[na > a + pa + √mā + aṇa]*  /from na pamiṇāti/ |
+| *pamāṇavant*  | /(adj)/ finite; measurable; limited  *[pa + √mā + aṇa + vant]*  /from pamāṇa/                          |
+| *siriṁsapa 2* | /(nt)/ snake; reptile; creepy crawly   /nt/                                                            |
+| *kata 1*      | /(pp)/ done; did; completed  *[√kar + ta]*  /pp of karoti/                                             |
+| *rakkhā 1*    | /(fem)/ protection; defence; security  *[√rakkh + ā]*  /fem, abstr, from rakkhati/                     |
+| *bhūta 03*    | /(nt)/ being; living being; entity  *[√bhū + ta]*  /nt, pp of bhavati/                                 |
+
+#+begin_quote
+... aññataro bhikkhu theranāmako ekavihārī ceva hoti ekavihārassa ca vaṇṇavādī. \\
+So eko gāmaṁ piṇḍāya pavisati eko paṭikkamati eko raho nisīdati eko caṅkamaṁ adhiṭṭhāti. (SN 21.10)
+#+end_quote
+
+| *pavisati*      | /(pr)/ enters; goes (into)  *[pa + visa + ti]*                          |
+| *adhiṭṭhāti 2*  | /(pr)/ concentrates; focuses; fixes attention (on)  *[adhi + ṭhā + ti]* |
+
+#+begin_quote
+Nisajja kho bhagavā āyasmantaṁ vakkaliṁ etadavoca: \\
+“kacci te, vakkali, khamanīyaṁ, kacci yāpanīyaṁ, kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; \\
+paṭikkamosānaṁ paññāyati, no abhikkamo”ti? (SN 22.87)
+#+end_quote
+
+pakkamati *[pa + √kam + a + ti]* (+abl) goes; goes away; leaves (from)
+
+#+begin_quote
+Yo pana bhikkhu saṅghike vihāre jānaṁ pubbupagataṁ bhikkhuṁ anupakhajja \\
+seyyaṁ kappeyya “yassa sambādho bhavissati, so pakkamissatī”ti \\
+etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ. (Pc 16)
+#+end_quote
+
+#+begin_quote
+Atha kho āyasmā sāriputto uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. (AN 9.11)
+#+end_quote
+
+nikkhamati *[nī + √kam + a + ti]* (+abl) goes out; comes out (from); leaves; exits 
+
+#+begin_quote
+Atha kho bhagavā sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto \\
+sambahulehi bhikkhūhi saddhiṁ nagaramhā nikkhamitvā addasa bāhiyaṁ dārucīriyaṁ kālaṅkataṁ; \\
+disvāna bhikkhū āmantesi ... (Ud 1.10)
+#+end_quote
+
+*** yāti [√yā + a + ti] goes to; goes forward; travels  
+
+#+begin_quote
+Bahuṁ ve saraṇaṁ yanti, / pabbatāni vanāni ca; \\
+Ārāmarukkhacetyāni, / manussā bhayatajjitā.
+
+Netaṁ kho saraṇaṁ khemaṁ, / netaṁ saraṇamuttamaṁ; \\
+Netaṁ saraṇamāgamma, / sabbadukkhā pamuccati.
+
+Yo ca buddhañca dhammañca, / saṅghañca saraṇaṁ gato; \\
+Cattāri ariyasaccāni, / sammappaññāya passati. (Dhp 188-190)
+#+end_quote
+
