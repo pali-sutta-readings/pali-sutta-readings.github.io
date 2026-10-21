@@ -1,9 +1,9 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: -Tfsg6yILxo
 
 * Notes :noexport:
 * 2026-10-21
-** Forms of 'going'
+** Verbal forms of 'going'
 
 √gam･1 a (go) gacchati *[√gam + a + ti]* (+acc) goes; walks; moves; wanders around; travels 
 
@@ -11,10 +11,10 @@
 
 √yā･1 a (go) yāti *[√yā + a + ti]* (+acc) goes; goes to; goes forward; proceeds; travels  
 
-** Examples
+** Example quotes
 *** gacchati [√gam + a + ti] goes; walks; moves 
 
-*Translate:* The man who is faithful goes to the village with an all-white chariot.
+*Translate:* The faithful man goes to the village with an all-white chariot.
 
 # Saddho puriso sabbasetena rathena gāmaṁ gacchati.
 
@@ -90,7 +90,7 @@ Bhagavato etamatthaṁ ārocesuṁ. \\
 | *upagantabba 1* | /(ptp)/ (of the rains retreat) should be entered; should be undertaken  *[upa + √gam + tabba]* |
 | *vassāna*       | /(masc)/ monsoon; rainy season  *[√vass + āna]*  /masc, from prp of vassati/                   |
 
-*** kamati [√kam + a + ti] steps; goes; travels; flies (by)  
+*** kamati [√kam + a + ti] steps; goes; travels; flies (by)
 
 caṅkamati *[√kam + a + ti]* walks up and down; walks in meditation (intens of kamati, intransitive)
 
@@ -120,7 +120,7 @@ paṭikkamati *[pati + √kam + a + ti]* (+abl) \\
 Appamāṇo buddho appamāṇo dhammo appamāṇo saṅgho \\
 Pamāṇavantāni siriṁsapāni ahi-vicchikā sata-padī Uṇṇā-nābhī sarabhū mūsikā
 
-Katā me rakkhā katā me parittā / paṭikkamantu bhūtāni!
+Katā me rakkhā katā me parittā / paṭikkamantu bhūtāni! (AN 4.67, Ja 203)
 #+end_quote
 
 | *appamāṇa 1*  | /(adj)/ immeasurable; unlimited; limitless; boundless  *[na > a + pa + √mā + aṇa]*  /from na pamiṇāti/ |
