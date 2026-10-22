@@ -7,9 +7,17 @@
 
 √gam･1 a (go) gacchati *[√gam + a + ti]* (+acc) goes; walks; moves; wanders around; travels 
 
+(European sibling cognates: EN 'come', IT 'venire', PT 'vir')
+
 √kam･1 a (go) kamati *[√kam + a + ti]* (+instr) goes; travels; flies (by)  
 
+(not a variant of Pāli √gam: from Sanskrit √kram 'to step')
+
 √yā･1 a (go) yāti *[√yā + a + ti]* (+acc) goes; goes to; goes forward; proceeds; travels  
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/2026-10-21-fig-gwem-tree.png"></p>
+
+#+html: <p style="text-align: center;"><img src="/assets/docs/2026-10-21-fig-gwem-come.png"></p>
 
 ** Example quotes
 *** gacchati [√gam + a + ti] goes; walks; moves 
