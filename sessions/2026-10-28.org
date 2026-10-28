@@ -1,5 +1,5 @@
 #+author: gambhiro
-#+youtube_id:
+#+youtube_id: IaFPWRWRGyw
 #+tags: chanting, history
 
 * 2026-10-28
@@ -244,23 +244,3 @@ Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
 | *evametaṁ*     | /(sandhi)/ so it is; just like that;  *[evaṁ + etaṁ]*                         |
 | *dhārayati 2*  | /(pr)/ takes; considers; believes; keeps in mind  *[dhāraya + ti]*            |
 
-** AN 7.52 Dānamahapphalasutta :noexport:
-
-(Aj Thanissaro numbers it as AN 7.49)
-
-#+begin_quote
-Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre. \\
-[Ven. Sāriputta and lay followers go the Blessed One] \\
-Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:
-#+end_quote
-
-#+begin_quote
-“Siyā nu kho, bhante, idhekaccassa tādisaṁyeva dānaṁ dinnaṁ na mahapphalaṁ hoti na mahānisaṁsaṁ; \\
-siyā pana, bhante, idhekaccassa tādisaṁyeva dānaṁ dinnaṁ mahapphalaṁ hoti mahānisaṁsan”ti?
-
-"Siyā, sāriputta, ..." \\
-"Ko nu kho, bhante, hetu ko paccayo ... ?"
-
-“Idha, sāriputta, ekacco sāpekho dānaṁ deti, patibaddhacitto dānaṁ deti, sannidhipekho dānaṁ deti, \\
-‘imaṁ pecca paribhuñjissāmī’ti dānaṁ deti.
-#+end_quote
