@@ -8,7 +8,7 @@ The following is a word-by-word explanation of the common Pāli chants to aid in
 
 - Learning the Word-by-Word Meaning of the Chanting: [EPUB][11_learning_the_word_by_word_meaning_epub], [PDF][11_learning_the_word_by_word_meaning_pdf]
 
-Download PDFs and EPUBs below, or the [All-in-one ZIP archive][suttas_and_chanting_word_by_word_zip]. These links download [from Github](https://github.com/pali-sutta-readings/suttas-and-chanting-word-by-word/releases/).
+Download PDFs and EPUBs below, or the [all-in-one ZIP archive][suttas_and_chanting_word_by_word_zip]. These links download [from Github](https://github.com/pali-sutta-readings/suttas-and-chanting-word-by-word/releases/).
 
 <p style="text-align: center; width: 350px;"><a href="https://github.com/pali-sutta-readings/suttas-and-chanting-word-by-word/releases/download/v1.0.0/04a_parittas.pdf" target="_blank"><img src="/assets/docs/04a_parittas_thumb.jpg"></a></p>
 

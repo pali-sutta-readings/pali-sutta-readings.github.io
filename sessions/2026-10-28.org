@@ -1,5 +1,6 @@
 #+author: gambhiro
 #+youtube_id:
+#+tags: chanting, history
 
 * 2026-10-28
 ** What is Pāli?
@@ -9,10 +10,13 @@
 
 #+html: <p style="text-align: center;"><a href="https://pali-sutta-readings.github.io/assets/docs/2026-10-28-development-of-pali-and-sanskrit.pdf" target="_blank"><img src="/assets/docs/2026-10-28-development-of-pali-and-sanskrit.png"></a></p>
 
-- [[https://en.wikipedia.org/wiki/Magadha][Magadha]]
-- [[https://en.wikipedia.org/wiki/File:Mahajanapadas_(c._500_BCE).png][Mahājanapadas (c. 500 BCE)]]
+*** Related
 
-*** Common teatime quips :noexport:
+- [[https://en.wikipedia.org/wiki/Magadha][Magadha (wikipedia.org)]]
+- [[https://en.wikipedia.org/wiki/File:Mahajanapadas_(c._500_BCE).png][Mahājanapadas c. 500 BCE, (wikipedia.org)]]
+- Aśoka and the Use of Writing in Ancient India ([[https://www.researchgate.net/publication/378337105_Asoka_and_the_Use_of_Writing_in_Ancient_India][researchgate.net]], [[https://buddhistuniversity.net/content/papers/asoka-and-use-of-writing-in-ancient_strauch-ingo][buddhistuniversity.net]])
+
+*** Common teatime quips
 
 #+begin_quote
 "The language in which the texts of the Theravāda school are preserved."
@@ -44,13 +48,30 @@
 "Pāli is a Buddhist Hybrid Sanskrit."
 #+end_quote
 
-*No:* BHS is the language of northern-school texts re-spelt from a Prakrit toward Sanskrit (/Mahāvastu/, /Lalitavistara/); Pāli never went through that Sanskritisation and remains a Middle Indic language in its own right.
+*No:* BHS is the language of northern-school texts re-spelt from a Prakrit
+toward Sanskrit (/Mahāvastu/, /Lalitavistara/); Pāli was Sanskritised only
+lightly and on the surface, with a few clusters restored as in =brāhmaṇa= (see
+the next answer), and remains a Middle Indic language in its own right.
 
 #+begin_quote
-"Pāli was created from Sanskrit just to write down the suttas."
+"Pāli was created from Sanskrit for the purpose of recording and memorizing the suttas."
 #+end_quote
 
-*No:* Pāli is not derived from Sanskrit, and the texts were recited orally for centuries before being written down at Aluvihāra (c. 29--17 BCE, on the chronicles' testimony); writing recorded a language already in use.
+*Not entirely wrong:* Pāli did take shape in the transmission of the texts, but
+it grew out of Middle Indic, not out of Sanskrit, and nobody designed it. As the
+teachings spread, monks recast them from dialect to dialect, and over
+generations communal recitations evened the result out into an “ecclesiastical”
+language that matched no single spoken dialect (Norman 1983), i.e. it is not an
+invented language. The eastern relics like =bhikkhave= are leftovers of that
+recasting.
+
+Sanskrit came in later, from about the end of Aśoka's reign until the canon was
+written down, and only as a surface layer. Redactors put back some consonant
+clusters piecemeal, not by any system, as in =brāhmaṇa= for Middle Indic
+=bamhaṇa=, and some of these clusters are false: =disvā= cannot come from
+=dṛṣṭvā=, nor =atraja= from =ātmaja=. That shows they were restored rather than
+inherited. The grammar underneath is still Middle Indic (=-assa=, =-ehi=,
+assimilated clusters), and in places it is older than Classical Sanskrit.
 
 #+begin_quote
 "Pāli was spoken by the Buddha and the suttas record what he said."
