@@ -153,7 +153,7 @@ To my non-linguist ear it still sounds pretty similar, so the distance
 to the language at the First Council could be something like that between strong
 regional dialects of one language, like eastern and central German.
 
-#+html: <p style="text-align: center;"><a href="https://pali-sutta-readings.github.io/assets/docs/2026-10-28-development-of-pali-and-sanskrit.pdf" target="_blank"><img src="/assets/docs/map-of-distribution-of-edicts-of-ashoka.png"></a></p>
+#+html: <p style="text-align: center;"><img src="/assets/docs/map-of-distribution-of-edicts-of-ashoka.png"></p>
 
 -----
 
