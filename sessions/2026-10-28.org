@@ -132,6 +132,25 @@ What language could have been used at the First Council?
 
 *TL;DR:*
 
+We should bear in mind:
+
+- the distinction between *literary* and *vernacular* languages
+  + Pāli has always been literary, a language for teachings, verses, etc., not a
+    conversational language. Only the literary forms survive. The vernacular,
+    conversational form could have been as close as European Portugese to
+    Brazilian, or could have been more distant, like Latin and Italian. (An
+    example of literary language today could be the legal language of laws,
+    which is not a conversational form, or the Hebrew of the Bible, which is
+    distinct from "everyday" Hebrew).
+- the eastern (Magadha) dialect VS western (both literary)
+  + the Buddha taught in the eastern region, and the teachings were later
+    carried on in western India in their own dialect
+- the *content* of a text and its *pronounced form* (accent, dialect)
+  + Pāli itself was changing over time, and even if the content of a text is
+    resistant to change (e.g. repeated formulas, Pāṭimokkha, etc), and is
+    carried on word-for-word, the dialect/accent the speakers pronounce it with
+    changes, as evidenced by the different syllables on Aśoka's edicts, Gandhāri scrolls, etc.
+
 Aśoka's eastern language reached Buddhist sites far from Magadha at Delhi
 (Bahapur edict) so its language was common enough that administration
 instructions were meant to be understood there. But the Kandahar edict is in
