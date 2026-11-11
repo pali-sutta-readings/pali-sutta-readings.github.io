@@ -6,9 +6,9 @@
 ** What is Pāli?
 *** Development of Pāli and Sanskrit
 
-([[https://pali-sutta-readings.github.io/assets/docs/2026-10-28-development-of-pali-and-sanskrit.pdf][PDF link]])
+([[https://pali-sutta-readings.github.io/assets/docs/development-of-pali-and-sanskrit.pdf][PDF link]])
 
-#+html: <p style="text-align: center;"><a href="https://pali-sutta-readings.github.io/assets/docs/2026-10-28-development-of-pali-and-sanskrit.pdf" target="_blank"><img src="/assets/docs/2026-10-28-development-of-pali-and-sanskrit.png"></a></p>
+#+html: <p style="text-align: center;"><a href="https://pali-sutta-readings.github.io/assets/docs/development-of-pali-and-sanskrit.pdf" target="_blank"><img src="/assets/docs/development-of-pali-and-sanskrit.png"></a></p>
 
 *** Related
 
